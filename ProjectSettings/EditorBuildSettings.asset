@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Palm.unity
+    guid: 64352d50cd302ab4c98c4c46ad159bc5
   m_configObjects: {}
