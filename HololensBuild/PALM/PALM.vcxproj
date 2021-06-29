@@ -108,6 +108,13 @@
     <OutDir>$(SolutionDir)build\bin\$(Platform)\$(Configuration)\</OutDir>
     <IntDir>$(SolutionDir)build\obj\$(MSBuildProjectName)\$(Platform)\$(Configuration)\</IntDir>
     <AppxBundle>Auto</AppxBundle>
+    <GenerateAppInstallerFile>False</GenerateAppInstallerFile>
+    <AppxPackageSigningTimestampDigestAlgorithm>SHA256</AppxPackageSigningTimestampDigestAlgorithm>
+    <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
+    <AppxSymbolPackageEnabled>False</AppxSymbolPackageEnabled>
+    <GenerateTestArtifacts>True</GenerateTestArtifacts>
+    <AppxBundlePlatforms>arm64</AppxBundlePlatforms>
+    <HoursBetweenUpdateChecks>0</HoursBetweenUpdateChecks>
   </PropertyGroup>
   <ItemDefinitionGroup>
     <ClCompile>

@@ -49,6 +49,10 @@
 		<type fullname="UnityEngine.AudioClip" preserve="nothing"/>
 		<type fullname="UnityEngine.RenderSettings" preserve="nothing"/>
 	</assembly>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="AnimationScript" preserve="nothing"/>
+		<type fullname="HandTracking" preserve="nothing"/>
+	</assembly>
 	<assembly fullname="Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Shared">
 		<type fullname="Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityCameraSettingsProfile" preserve="nothing"/>
 	</assembly>

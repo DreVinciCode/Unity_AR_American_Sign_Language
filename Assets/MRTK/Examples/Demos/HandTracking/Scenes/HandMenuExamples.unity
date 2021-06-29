@@ -2290,7 +2290,7 @@ PrefabInstance:
     - target: {fileID: 4650336336052702775, guid: 184450d7fd18e3742b0612f6901efe5e,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 184450d7fd18e3742b0612f6901efe5e, type: 3}
@@ -5310,7 +5310,7 @@ PrefabInstance:
     - target: {fileID: 683731866780316539, guid: 2b76ccb8a4504484e939444d20d98d95,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1053862263645450672, guid: 2b76ccb8a4504484e939444d20d98d95,
         type: 3}
@@ -5410,7 +5410,7 @@ PrefabInstance:
     - target: {fileID: 4958790455664890529, guid: 2b76ccb8a4504484e939444d20d98d95,
         type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4958790455664890529, guid: 2b76ccb8a4504484e939444d20d98d95,
         type: 3}
@@ -5445,7 +5445,7 @@ PrefabInstance:
     - target: {fileID: 4958790456314194571, guid: 2b76ccb8a4504484e939444d20d98d95,
         type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4958790456314194571, guid: 2b76ccb8a4504484e939444d20d98d95,
         type: 3}
@@ -5480,7 +5480,7 @@ PrefabInstance:
     - target: {fileID: 4958790456594726731, guid: 2b76ccb8a4504484e939444d20d98d95,
         type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4958790456594726731, guid: 2b76ccb8a4504484e939444d20d98d95,
         type: 3}
@@ -5725,7 +5725,7 @@ PrefabInstance:
     - target: {fileID: 4958790457541281633, guid: 2b76ccb8a4504484e939444d20d98d95,
         type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4958790457541281633, guid: 2b76ccb8a4504484e939444d20d98d95,
         type: 3}

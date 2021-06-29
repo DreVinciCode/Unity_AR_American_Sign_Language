@@ -6,6 +6,7 @@ using Microsoft;
 using Microsoft.MixedReality.Toolkit.Utilities;
 using Microsoft.MixedReality.Toolkit.Input;
 
+[RequireComponent(typeof(MeshRenderer))]
 public class HandTracking : MonoBehaviour
 {
     public GameObject visualMarker;

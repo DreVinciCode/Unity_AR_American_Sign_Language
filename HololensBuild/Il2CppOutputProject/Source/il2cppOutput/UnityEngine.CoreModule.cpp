@@ -27311,6 +27311,15 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool GameObject_get_activeInHierarchy_mDEE60F
 	bool retVal = _il2cpp_icall_func(__this);
 	return retVal;
 }
+// System.Void UnityEngine.GameObject::set_isStatic(System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GameObject_set_isStatic_m945C32F2AB4D7AA35AD0E68820475EDEC2A56BBE (GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * __this, bool ___value0, const RuntimeMethod* method)
+{
+	typedef void (*GameObject_set_isStatic_m945C32F2AB4D7AA35AD0E68820475EDEC2A56BBE_ftn) (GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F *, bool);
+	static GameObject_set_isStatic_m945C32F2AB4D7AA35AD0E68820475EDEC2A56BBE_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (GameObject_set_isStatic_m945C32F2AB4D7AA35AD0E68820475EDEC2A56BBE_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.GameObject::set_isStatic(System.Boolean)");
+	_il2cpp_icall_func(__this, ___value0);
+}
 // System.Void UnityEngine.GameObject::set_tag(System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GameObject_set_tag_mEF09E323917FAA2CECA527F821111A92031C1138 (GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F * __this, String_t* ___value0, const RuntimeMethod* method)
 {
