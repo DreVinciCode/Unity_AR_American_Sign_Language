@@ -52,7 +52,7 @@ public class HandTracking : MonoBehaviour
     [Range(0.0f, 1.0f)]
     public float ThumbCurlThreshold = 0.7f;
 
-    public float threshold = 0.1f;
+    public float threshold;
     public float scale = 0.1f;
 
     MixedRealityPose pose;
@@ -150,8 +150,8 @@ public class HandTracking : MonoBehaviour
 
     public void OnSliderUpdateThreshold(SliderEventData eventData)
     {
-        threshold = eventData.NewValue * scale;
-    }
+        threshold = 0.4f * eventData.NewValue + 0.1f;
+    } 
 
     Gesture RecognizeGesture()
     {
@@ -184,122 +184,7 @@ public class HandTracking : MonoBehaviour
             }     
         }
 
-        return gestures[gestures.Count -1]; 
-    
-
-
-        /*
-        foreach (var gesture in gestures)
-        {
-       
-            //Check each Gesture
-            if (thumbCurl <= transform.Find(gesture.name).GetComponent<HandGestureCurlValues>().thumbCurlIndex + threshold && thumbCurl >= transform.Find(gesture.name).GetComponent<HandGestureCurlValues>().thumbCurlIndex - threshold &&
-            indexCurl <= transform.Find(gesture.name).GetComponent<HandGestureCurlValues>().indexCurlIndex + threshold && indexCurl >= transform.Find(gesture.name).GetComponent<HandGestureCurlValues>().indexCurlIndex - threshold &&
-            middleCurl <= transform.Find(gesture.name).GetComponent<HandGestureCurlValues>().middleCurlIndex + threshold && middleCurl >= transform.Find(gesture.name).GetComponent<HandGestureCurlValues>().middleCurlIndex - threshold &&
-            ringCurl <= transform.Find(gesture.name).GetComponent<HandGestureCurlValues>().ringCurlIndex + threshold && ringCurl >= transform.Find(gesture.name).GetComponent<HandGestureCurlValues>().ringCurlIndex - threshold &&
-            pinkyCurl <= transform.Find(gesture.name).GetComponent<HandGestureCurlValues>().pinkyCurlIndex + threshold && pinkyCurl >= transform.Find(gesture.name).GetComponent<HandGestureCurlValues>().pinkyCurlIndex - threshold)
-            {
-                return gesture;
-            }
-            else { return gestures[gestures.Count - 1]; }
-        }
-
-        return gestures[gestures.Count - 1];
-
-        /*
-        //Fist Gesture
-        if (thumbCurl <= transform.Find("Fist_Gesture").GetComponent<HandGestureCurlValues>().thumbCurlIndex + threshold && thumbCurl >= transform.Find("Fist_Gesture").GetComponent<HandGestureCurlValues>().thumbCurlIndex - threshold &&
-            indexCurl <= transform.Find("Fist_Gesture").GetComponent<HandGestureCurlValues>().indexCurlIndex + threshold && indexCurl >= transform.Find("Fist_Gesture").GetComponent<HandGestureCurlValues>().indexCurlIndex - threshold &&
-            middleCurl <= transform.Find("Fist_Gesture").GetComponent<HandGestureCurlValues>().middleCurlIndex + threshold && middleCurl >= transform.Find("Fist_Gesture").GetComponent<HandGestureCurlValues>().middleCurlIndex - threshold &&
-            ringCurl <= transform.Find("Fist_Gesture").GetComponent<HandGestureCurlValues>().ringCurlIndex + threshold && ringCurl >= transform.Find("Fist_Gesture").GetComponent<HandGestureCurlValues>().ringCurlIndex - threshold &&
-            pinkyCurl <= transform.Find("Fist_Gesture").GetComponent<HandGestureCurlValues>().pinkyCurlIndex + threshold && pinkyCurl >= transform.Find("Fist_Gesture").GetComponent<HandGestureCurlValues>().pinkyCurlIndex - threshold)
-        {
-            return gestures[0];
-        }
-
-        //Flat Palm Gesture
-        if (thumbCurl <= transform.Find("Flat_Palm").GetComponent<HandGestureCurlValues>().thumbCurlIndex + threshold && thumbCurl >= transform.Find("Flat_Palm").GetComponent<HandGestureCurlValues>().thumbCurlIndex - threshold &&
-            indexCurl <= transform.Find("Flat_Palm").GetComponent<HandGestureCurlValues>().indexCurlIndex + threshold && indexCurl >= transform.Find("Flat_Palm").GetComponent<HandGestureCurlValues>().indexCurlIndex - threshold &&
-            middleCurl <= transform.Find("Flat_Palm").GetComponent<HandGestureCurlValues>().middleCurlIndex + threshold && middleCurl >= transform.Find("Flat_Palm").GetComponent<HandGestureCurlValues>().middleCurlIndex - threshold &&
-            ringCurl <= transform.Find("Flat_Palm").GetComponent<HandGestureCurlValues>().ringCurlIndex + threshold && ringCurl >= transform.Find("Flat_Palm").GetComponent<HandGestureCurlValues>().ringCurlIndex - threshold &&
-            pinkyCurl <= transform.Find("Flat_Palm").GetComponent<HandGestureCurlValues>().pinkyCurlIndex + threshold && pinkyCurl >= transform.Find("Flat_Palm").GetComponent<HandGestureCurlValues>().pinkyCurlIndex - threshold)
-        {
-            return gestures[1];
-        }
-
-        //Thumbs Up
-        else if (thumbCurl <= transform.Find("Thumbs_Up").GetComponent<HandGestureCurlValues>().thumbCurlIndex + threshold && thumbCurl >= transform.Find("Thumbs_Up").GetComponent<HandGestureCurlValues>().thumbCurlIndex - threshold &&
-            indexCurl <= transform.Find("Thumbs_Up").GetComponent<HandGestureCurlValues>().indexCurlIndex + threshold && indexCurl >= transform.Find("Thumbs_Up").GetComponent<HandGestureCurlValues>().indexCurlIndex - threshold &&
-            middleCurl <= transform.Find("Thumbs_Up").GetComponent<HandGestureCurlValues>().middleCurlIndex + threshold && middleCurl >= transform.Find("Thumbs_Up").GetComponent<HandGestureCurlValues>().middleCurlIndex - threshold &&
-            ringCurl <= transform.Find("Thumbs_Up").GetComponent<HandGestureCurlValues>().ringCurlIndex + threshold && ringCurl >= transform.Find("Thumbs_Up").GetComponent<HandGestureCurlValues>().ringCurlIndex - threshold &&
-            pinkyCurl <= transform.Find("Thumbs_Up").GetComponent<HandGestureCurlValues>().pinkyCurlIndex + threshold && pinkyCurl >= transform.Find("Thumbs_Up").GetComponent<HandGestureCurlValues>().pinkyCurlIndex - threshold)
-        {
-            return gestures[2];
-        }
-
-        //Pointer 
-        else if (thumbCurl <= transform.Find("Pointer").GetComponent<HandGestureCurlValues>().thumbCurlIndex + threshold && thumbCurl >= transform.Find("Pointer").GetComponent<HandGestureCurlValues>().thumbCurlIndex - threshold &&
-            indexCurl <= transform.Find("Pointer").GetComponent<HandGestureCurlValues>().indexCurlIndex + threshold && indexCurl >= transform.Find("Pointer").GetComponent<HandGestureCurlValues>().indexCurlIndex - threshold &&
-            middleCurl <= transform.Find("Pointer").GetComponent<HandGestureCurlValues>().middleCurlIndex + threshold && middleCurl >= transform.Find("Pointer").GetComponent<HandGestureCurlValues>().middleCurlIndex - threshold &&
-            ringCurl <= transform.Find("Pointer").GetComponent<HandGestureCurlValues>().ringCurlIndex + threshold && ringCurl >= transform.Find("Pointer").GetComponent<HandGestureCurlValues>().ringCurlIndex - threshold &&
-            pinkyCurl <= transform.Find("Pointer").GetComponent<HandGestureCurlValues>().pinkyCurlIndex + threshold && pinkyCurl >= transform.Find("Pointer").GetComponent<HandGestureCurlValues>().pinkyCurlIndex - threshold)
-        {
-            return gestures[3];
-        }
-
-        //Two Pointer  
-        else if (thumbCurl <= transform.Find("TwoFinger_Pointer").GetComponent<HandGestureCurlValues>().thumbCurlIndex + threshold && thumbCurl >= transform.Find("TwoFinger_Pointer").GetComponent<HandGestureCurlValues>().thumbCurlIndex - threshold &&
-            indexCurl <= transform.Find("TwoFinger_Pointer").GetComponent<HandGestureCurlValues>().indexCurlIndex + threshold && indexCurl >= transform.Find("TwoFinger_Pointer").GetComponent<HandGestureCurlValues>().indexCurlIndex - threshold &&
-            middleCurl <= transform.Find("TwoFinger_Pointer").GetComponent<HandGestureCurlValues>().middleCurlIndex + threshold && middleCurl >= transform.Find("TwoFinger_Pointer").GetComponent<HandGestureCurlValues>().middleCurlIndex - threshold &&
-            ringCurl <= transform.Find("TwoFinger_Pointer").GetComponent<HandGestureCurlValues>().ringCurlIndex + threshold && ringCurl >= transform.Find("TwoFinger_Pointer").GetComponent<HandGestureCurlValues>().ringCurlIndex - threshold &&
-            pinkyCurl <= transform.Find("TwoFinger_Pointer").GetComponent<HandGestureCurlValues>().pinkyCurlIndex + threshold && pinkyCurl >= transform.Find("TwoFinger_Pointer").GetComponent<HandGestureCurlValues>().pinkyCurlIndex - threshold)
-        {
-            return gestures[4];
-        }
-
-        //Hang Loose Gesture
-        else if (thumbCurl <= transform.Find("HangLoose").GetComponent<HandGestureCurlValues>().thumbCurlIndex + threshold && thumbCurl >= transform.Find("HangLoose").GetComponent<HandGestureCurlValues>().thumbCurlIndex - threshold &&
-            indexCurl <= transform.Find("HangLoose").GetComponent<HandGestureCurlValues>().indexCurlIndex + threshold && indexCurl >= transform.Find("HangLoose").GetComponent<HandGestureCurlValues>().indexCurlIndex - threshold &&
-            middleCurl <= transform.Find("HangLoose").GetComponent<HandGestureCurlValues>().middleCurlIndex + threshold && middleCurl >= transform.Find("HangLoose").GetComponent<HandGestureCurlValues>().middleCurlIndex - threshold &&
-            ringCurl <= transform.Find("HangLoose").GetComponent<HandGestureCurlValues>().ringCurlIndex + threshold && ringCurl >= transform.Find("HangLoose").GetComponent<HandGestureCurlValues>().ringCurlIndex - threshold &&
-            pinkyCurl <= transform.Find("HangLoose").GetComponent<HandGestureCurlValues>().pinkyCurlIndex + threshold && pinkyCurl >= transform.Find("HangLoose").GetComponent<HandGestureCurlValues>().pinkyCurlIndex - threshold)
-        {
-            return gestures[5];
-        }
-
-        //SpiderMan Gesture
-        else if (thumbCurl <= transform.Find("SpiderMan").GetComponent<HandGestureCurlValues>().thumbCurlIndex + threshold && thumbCurl >= transform.Find("SpiderMan").GetComponent<HandGestureCurlValues>().thumbCurlIndex - threshold &&
-            indexCurl <= transform.Find("SpiderMan").GetComponent<HandGestureCurlValues>().indexCurlIndex + threshold && indexCurl >= transform.Find("SpiderMan").GetComponent<HandGestureCurlValues>().indexCurlIndex - threshold &&
-            middleCurl <= transform.Find("SpiderMan").GetComponent<HandGestureCurlValues>().middleCurlIndex + threshold && middleCurl >= transform.Find("SpiderMan").GetComponent<HandGestureCurlValues>().middleCurlIndex - threshold &&
-            ringCurl <= transform.Find("SpiderMan").GetComponent<HandGestureCurlValues>().ringCurlIndex + threshold && ringCurl >= transform.Find("SpiderMan").GetComponent<HandGestureCurlValues>().ringCurlIndex - threshold &&
-            pinkyCurl <= transform.Find("SpiderMan").GetComponent<HandGestureCurlValues>().pinkyCurlIndex + threshold && pinkyCurl >= transform.Find("SpiderMan").GetComponent<HandGestureCurlValues>().pinkyCurlIndex - threshold)
-        {
-            return gestures[5];
-        }
-
-        //Unity Open Hands Gesture
-        else if (thumbCurl <= transform.Find("Unity_Open_Hands").GetComponent<HandGestureCurlValues>().thumbCurlIndex + threshold && thumbCurl >= transform.Find("Unity_Open_Hands").GetComponent<HandGestureCurlValues>().thumbCurlIndex - threshold &&
-            indexCurl <= transform.Find("Unity_Open_Hands").GetComponent<HandGestureCurlValues>().indexCurlIndex + threshold && indexCurl >= transform.Find("Unity_Open_Hands").GetComponent<HandGestureCurlValues>().indexCurlIndex - threshold &&
-            middleCurl <= transform.Find("Unity_Open_Hands").GetComponent<HandGestureCurlValues>().middleCurlIndex + threshold && middleCurl >= transform.Find("Unity_Open_Hands").GetComponent<HandGestureCurlValues>().middleCurlIndex - threshold &&
-            ringCurl <= transform.Find("Unity_Open_Hands").GetComponent<HandGestureCurlValues>().ringCurlIndex + threshold && ringCurl >= transform.Find("Unity_Open_Hands").GetComponent<HandGestureCurlValues>().ringCurlIndex - threshold &&
-            pinkyCurl <= transform.Find("Unity_Open_Hands").GetComponent<HandGestureCurlValues>().pinkyCurlIndex + threshold && pinkyCurl >= transform.Find("Unity_Open_Hands").GetComponent<HandGestureCurlValues>().pinkyCurlIndex - threshold)
-        {
-            return gestures[8];
-        }
-
-        //Unity Airtap Gesture
-        else if (thumbCurl <= transform.Find("Unity_Airtap").GetComponent<HandGestureCurlValues>().thumbCurlIndex + threshold && thumbCurl >= transform.Find("Unity_Airtap").GetComponent<HandGestureCurlValues>().thumbCurlIndex - threshold &&
-            indexCurl <= transform.Find("Unity_Airtap").GetComponent<HandGestureCurlValues>().indexCurlIndex + threshold && indexCurl >= transform.Find("Unity_Airtap").GetComponent<HandGestureCurlValues>().indexCurlIndex - threshold &&
-            middleCurl <= transform.Find("Unity_Airtap").GetComponent<HandGestureCurlValues>().middleCurlIndex + threshold && middleCurl >= transform.Find("Unity_Airtap").GetComponent<HandGestureCurlValues>().middleCurlIndex - threshold &&
-            ringCurl <= transform.Find("Unity_Airtap").GetComponent<HandGestureCurlValues>().ringCurlIndex + threshold && ringCurl >= transform.Find("Unity_Airtap").GetComponent<HandGestureCurlValues>().ringCurlIndex - threshold &&
-            pinkyCurl <= transform.Find("Unity_Airtap").GetComponent<HandGestureCurlValues>().pinkyCurlIndex + threshold && pinkyCurl >= transform.Find("Unity_Airtap").GetComponent<HandGestureCurlValues>().pinkyCurlIndex - threshold)
-        {
-            return gestures[9];
-        }
-
-        else { return gestures[gestures.Count - 1]; }
-        */
-        
+        return gestures[gestures.Count -1];    
     }
 
     /*

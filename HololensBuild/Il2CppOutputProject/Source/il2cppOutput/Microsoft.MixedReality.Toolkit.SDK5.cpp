@@ -40364,8 +40364,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void PinchSlider__ctor_m102CEFBE8A345832BF3E8
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		// private float sliderValue = 0.5f;
-		__this->set_sliderValue_5((0.5f));
+		// private float sliderValue = 0.25f;
+		__this->set_sliderValue_5((0.25f));
 		// private float sliderStartDistance = -.5f;
 		__this->set_sliderStartDistance_11((-0.5f));
 		// private float sliderEndDistance = .5f;

@@ -28,7 +28,7 @@ namespace Microsoft.MixedReality.Toolkit.Examples.Demos
             if (textMesh != null)
             {
                 
-                float inputValue = eventData.NewValue * scale;
+                float inputValue = 0.4f * eventData.NewValue + 0.1f;
                 //textMesh.text = $"{eventData.NewValue:F4}";
                 textMesh.text = inputValue.ToString();
 

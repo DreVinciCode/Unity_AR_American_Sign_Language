@@ -43892,24 +43892,23 @@ IL_001a:
 		bool L_4 = Object_op_Inequality_m31EF58E217E8F4BDD3E409DEF79E1AEE95874FC1(L_3, (Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0 *)NULL, /*hidden argument*/NULL);
 		if (!L_4)
 		{
-			goto IL_0048;
+			goto IL_004d;
 		}
 	}
 	{
-		// float inputValue = eventData.NewValue * scale;
+		// float inputValue = 0.4f * eventData.NewValue + 0.1f;
 		SliderEventData_t90D1A804C47EDE2BFA920C4EED964BB038B63141 * L_5 = ___eventData0;
 		NullCheck(L_5);
 		float L_6 = SliderEventData_get_NewValue_mCDB21FD258DEF6B929C11B8EE40948A8A9F11833_inline(L_5, /*hidden argument*/NULL);
-		float L_7 = __this->get_scale_4();
-		V_0 = ((float)il2cpp_codegen_multiply((float)L_6, (float)L_7));
+		V_0 = ((float)il2cpp_codegen_add((float)((float)il2cpp_codegen_multiply((float)(0.4f), (float)L_6)), (float)(0.1f)));
 		// textMesh.text = inputValue.ToString();
-		TextMeshPro_t6FF60D9DCAF295045FE47C014CC855C5784752E2 * L_8 = __this->get_textMesh_5();
-		String_t* L_9 = Single_ToString_m2B1556CFBBD088D285A0B0EA280F82D3A4344DC3((float*)(&V_0), /*hidden argument*/NULL);
-		NullCheck(L_8);
-		VirtActionInvoker1< String_t* >::Invoke(66 /* System.Void TMPro.TMP_Text::set_text(System.String) */, L_8, L_9);
+		TextMeshPro_t6FF60D9DCAF295045FE47C014CC855C5784752E2 * L_7 = __this->get_textMesh_5();
+		String_t* L_8 = Single_ToString_m2B1556CFBBD088D285A0B0EA280F82D3A4344DC3((float*)(&V_0), /*hidden argument*/NULL);
+		NullCheck(L_7);
+		VirtActionInvoker1< String_t* >::Invoke(66 /* System.Void TMPro.TMP_Text::set_text(System.String) */, L_7, L_8);
 	}
 
-IL_0048:
+IL_004d:
 	{
 		// }
 		return;

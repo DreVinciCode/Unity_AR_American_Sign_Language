@@ -23202,12 +23202,11 @@ IL_02fd:
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HandTracking_OnSliderUpdateThreshold_m771D68BC77C6592B7C7AE576D00850A910E94D35 (HandTracking_t467661541E99EDAD657A53FBACE592CF3F2FB0A9 * __this, SliderEventData_t90D1A804C47EDE2BFA920C4EED964BB038B63141 * ___eventData0, const RuntimeMethod* method)
 {
 	{
-		// threshold = eventData.NewValue * scale;
+		// threshold = 0.4f * eventData.NewValue + 0.1f;
 		SliderEventData_t90D1A804C47EDE2BFA920C4EED964BB038B63141 * L_0 = ___eventData0;
 		NullCheck(L_0);
 		float L_1 = SliderEventData_get_NewValue_mCDB21FD258DEF6B929C11B8EE40948A8A9F11833_inline(L_0, /*hidden argument*/NULL);
-		float L_2 = __this->get_scale_27();
-		__this->set_threshold_26(((float)il2cpp_codegen_multiply((float)L_1, (float)L_2)));
+		__this->set_threshold_26(((float)il2cpp_codegen_add((float)((float)il2cpp_codegen_multiply((float)(0.4f), (float)L_1)), (float)(0.1f))));
 		// }
 		return;
 	}
@@ -23421,8 +23420,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HandTracking__ctor_m5556E0E34A539ADCBC95
 		__this->set_PinkyCurlThreshold_24((0.7f));
 		// public float ThumbCurlThreshold = 0.7f;
 		__this->set_ThumbCurlThreshold_25((0.7f));
-		// public float threshold = 0.1f;
-		__this->set_threshold_26((0.1f));
 		// public float scale = 0.1f;
 		__this->set_scale_27((0.1f));
 		MonoBehaviour__ctor_mEAEC84B222C60319D593E456D769B3311DFCEF97(__this, /*hidden argument*/NULL);

@@ -35,7 +35,7 @@ namespace Microsoft.MixedReality.Toolkit.UI
 
         [Range(0.0f, 1.0f)]
         [SerializeField]
-        private float sliderValue = 0.5f;
+        private float sliderValue = 0.25f;
         public float SliderValue
         {
             get { return sliderValue; }
