@@ -43,7 +43,7 @@ static const int32_t s_InvokerIndices[5] =
 	26,
 	10,
 	34,
-	992,
+	993,
 	14,
 };
 extern const Il2CppCodeGenModule g_System_Runtime_WindowsRuntime_UI_XamlCodeGenModule;

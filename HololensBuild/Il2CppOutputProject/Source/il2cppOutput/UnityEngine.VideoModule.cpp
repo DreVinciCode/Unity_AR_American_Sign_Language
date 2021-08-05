@@ -203,7 +203,7 @@ IL2CPP_EXTERN_C_END
 #endif
 
 // <Module>
-struct  U3CModuleU3E_t064756C4EE8D64CEFE107E600CEBCB3F77894990 
+struct U3CModuleU3E_t064756C4EE8D64CEFE107E600CEBCB3F77894990 
 {
 public:
 
@@ -219,7 +219,7 @@ struct Il2CppArrayBounds;
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -264,7 +264,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
+struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
 {
 public:
 
@@ -281,7 +281,7 @@ struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF_marshaled_com
 };
 
 // System.Boolean
-struct  Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
+struct Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -327,7 +327,7 @@ public:
 
 
 // System.Double
-struct  Double_t358B8F23BDC52A5DD700E727E204F9F7CDE12409 
+struct Double_t358B8F23BDC52A5DD700E727E204F9F7CDE12409 
 {
 public:
 	// System.Double System.Double::m_value
@@ -361,7 +361,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
+struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
 {
 public:
 
@@ -395,7 +395,7 @@ struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521_marshaled_com
 };
 
 // System.Int64
-struct  Int64_t7A386C2FF7B0280A0F516992401DDFCF0FF7B436 
+struct Int64_t7A386C2FF7B0280A0F516992401DDFCF0FF7B436 
 {
 public:
 	// System.Int64 System.Int64::m_value
@@ -413,7 +413,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -447,7 +447,7 @@ public:
 
 
 // System.Void
-struct  Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
+struct Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
 {
 public:
 	union
@@ -463,7 +463,7 @@ public:
 
 
 // System.Delegate
-struct  Delegate_t  : public RuntimeObject
+struct Delegate_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Delegate::method_ptr
@@ -615,7 +615,7 @@ struct Delegate_t_marshaled_com
 };
 
 // UnityEngine.Object
-struct  Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0  : public RuntimeObject
+struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Object::m_CachedPtr
@@ -659,7 +659,7 @@ struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0_marshaled_com
 };
 
 // UnityEngine.Playables.PlayableHandle
-struct  PlayableHandle_t9D3B4E540D4413CED81DDD6A24C5373BEFA1D182 
+struct PlayableHandle_t9D3B4E540D4413CED81DDD6A24C5373BEFA1D182 
 {
 public:
 	// System.IntPtr UnityEngine.Playables.PlayableHandle::m_Handle
@@ -703,7 +703,7 @@ public:
 
 
 // UnityEngine.Video.Video3DLayout
-struct  Video3DLayout_t5F64D0CE5E9B37C2FCE67F397FA5CFE9C047E4A1 
+struct Video3DLayout_t5F64D0CE5E9B37C2FCE67F397FA5CFE9C047E4A1 
 {
 public:
 	// System.Int32 UnityEngine.Video.Video3DLayout::value__
@@ -721,7 +721,7 @@ public:
 
 
 // UnityEngine.Video.VideoAspectRatio
-struct  VideoAspectRatio_t5739968D28C4F8F802B085E293F22110205B8379 
+struct VideoAspectRatio_t5739968D28C4F8F802B085E293F22110205B8379 
 {
 public:
 	// System.Int32 UnityEngine.Video.VideoAspectRatio::value__
@@ -739,7 +739,7 @@ public:
 
 
 // UnityEngine.Video.VideoAudioOutputMode
-struct  VideoAudioOutputMode_t8CDE10B382F3C321345EC57C9164A9177139DC6F 
+struct VideoAudioOutputMode_t8CDE10B382F3C321345EC57C9164A9177139DC6F 
 {
 public:
 	// System.Int32 UnityEngine.Video.VideoAudioOutputMode::value__
@@ -757,7 +757,7 @@ public:
 
 
 // UnityEngine.Video.VideoRenderMode
-struct  VideoRenderMode_t0DBAABB576FDA890C49C6AD3EE641623F93E9161 
+struct VideoRenderMode_t0DBAABB576FDA890C49C6AD3EE641623F93E9161 
 {
 public:
 	// System.Int32 UnityEngine.Video.VideoRenderMode::value__
@@ -775,7 +775,7 @@ public:
 
 
 // UnityEngine.Video.VideoSource
-struct  VideoSource_t32501B57EA7F9CF835FBA8184C9AF427CBBEFD0A 
+struct VideoSource_t32501B57EA7F9CF835FBA8184C9AF427CBBEFD0A 
 {
 public:
 	// System.Int32 UnityEngine.Video.VideoSource::value__
@@ -793,7 +793,7 @@ public:
 
 
 // UnityEngine.Video.VideoTimeReference
-struct  VideoTimeReference_t9EAEBD354AE5E56F0D0F36E73A428BB2A0B8B31B 
+struct VideoTimeReference_t9EAEBD354AE5E56F0D0F36E73A428BB2A0B8B31B 
 {
 public:
 	// System.Int32 UnityEngine.Video.VideoTimeReference::value__
@@ -811,7 +811,7 @@ public:
 
 
 // UnityEngine.Video.VideoTimeSource
-struct  VideoTimeSource_t15F04FD6B3D75A8D98480E8B77117C0FF691BB77 
+struct VideoTimeSource_t15F04FD6B3D75A8D98480E8B77117C0FF691BB77 
 {
 public:
 	// System.Int32 UnityEngine.Video.VideoTimeSource::value__
@@ -829,7 +829,7 @@ public:
 
 
 // System.MulticastDelegate
-struct  MulticastDelegate_t  : public Delegate_t
+struct MulticastDelegate_t  : public Delegate_t
 {
 public:
 	// System.Delegate[] System.MulticastDelegate::delegates
@@ -858,7 +858,7 @@ struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
 };
 
 // UnityEngine.Component
-struct  Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -867,7 +867,7 @@ public:
 
 
 // UnityEngine.Experimental.Video.VideoClipPlayable
-struct  VideoClipPlayable_t4B7997FDB02C74F9E88F37574F0F4F9DE08CCC12 
+struct VideoClipPlayable_t4B7997FDB02C74F9E88F37574F0F4F9DE08CCC12 
 {
 public:
 	// UnityEngine.Playables.PlayableHandle UnityEngine.Experimental.Video.VideoClipPlayable::m_Handle
@@ -885,7 +885,7 @@ public:
 
 
 // UnityEngine.Video.VideoClip
-struct  VideoClip_tA4039CBBC6F9C3AD62B067964A6C20C6FB7376D5  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct VideoClip_tA4039CBBC6F9C3AD62B067964A6C20C6FB7376D5  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -894,7 +894,7 @@ public:
 
 
 // System.AsyncCallback
-struct  AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4  : public MulticastDelegate_t
+struct AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4  : public MulticastDelegate_t
 {
 public:
 
@@ -903,7 +903,7 @@ public:
 
 
 // UnityEngine.Behaviour
-struct  Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
+struct Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
 {
 public:
 
@@ -912,7 +912,7 @@ public:
 
 
 // UnityEngine.Video.VideoPlayer/ErrorEventHandler
-struct  ErrorEventHandler_tF5863946928B48BE13146ED5FF70AC92678FE222  : public MulticastDelegate_t
+struct ErrorEventHandler_tF5863946928B48BE13146ED5FF70AC92678FE222  : public MulticastDelegate_t
 {
 public:
 
@@ -921,7 +921,7 @@ public:
 
 
 // UnityEngine.Video.VideoPlayer/EventHandler
-struct  EventHandler_t5069D72E1ED46BD04F19D8D4534811B95A8E2308  : public MulticastDelegate_t
+struct EventHandler_t5069D72E1ED46BD04F19D8D4534811B95A8E2308  : public MulticastDelegate_t
 {
 public:
 
@@ -930,7 +930,7 @@ public:
 
 
 // UnityEngine.Video.VideoPlayer/FrameReadyEventHandler
-struct  FrameReadyEventHandler_t518B277D916AB292680CAA186BCDB3D3EF130422  : public MulticastDelegate_t
+struct FrameReadyEventHandler_t518B277D916AB292680CAA186BCDB3D3EF130422  : public MulticastDelegate_t
 {
 public:
 
@@ -939,7 +939,7 @@ public:
 
 
 // UnityEngine.Video.VideoPlayer/TimeEventHandler
-struct  TimeEventHandler_tDD815DAABFADDD98C8993B2A97A2FCE858266BC1  : public MulticastDelegate_t
+struct TimeEventHandler_tDD815DAABFADDD98C8993B2A97A2FCE858266BC1  : public MulticastDelegate_t
 {
 public:
 
@@ -948,7 +948,7 @@ public:
 
 
 // UnityEngine.Video.VideoPlayer
-struct  VideoPlayer_tFC1C27AF83D59A5213B2AC561B43FD7E19FE02F2  : public Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8
+struct VideoPlayer_tFC1C27AF83D59A5213B2AC561B43FD7E19FE02F2  : public Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8
 {
 public:
 	// UnityEngine.Video.VideoPlayer/EventHandler UnityEngine.Video.VideoPlayer::prepareCompleted

@@ -123,7 +123,7 @@ IL2CPP_EXTERN_C_END
 #endif
 
 // <Module>
-struct  U3CModuleU3E_t256052731F6AF04064254ED502AB58F751060075 
+struct U3CModuleU3E_t256052731F6AF04064254ED502AB58F751060075 
 {
 public:
 
@@ -139,7 +139,7 @@ struct Il2CppArrayBounds;
 
 
 // System.Attribute
-struct  Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74  : public RuntimeObject
+struct Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74  : public RuntimeObject
 {
 public:
 
@@ -148,7 +148,7 @@ public:
 
 
 // System.Globalization.CultureInfo
-struct  CultureInfo_t345AC6924134F039ED9A11F3E03F8E91B6A3225F  : public RuntimeObject
+struct CultureInfo_t345AC6924134F039ED9A11F3E03F8E91B6A3225F  : public RuntimeObject
 {
 public:
 	// System.Boolean System.Globalization.CultureInfo::m_isReadOnly
@@ -597,7 +597,7 @@ struct CultureInfo_t345AC6924134F039ED9A11F3E03F8E91B6A3225F_marshaled_com
 };
 
 // System.MathF
-struct  MathF_t55551202D01BD1B9AEB5B4704FB95929C1CB5A7E  : public RuntimeObject
+struct MathF_t55551202D01BD1B9AEB5B4704FB95929C1CB5A7E  : public RuntimeObject
 {
 public:
 
@@ -606,7 +606,7 @@ public:
 
 
 // System.Numerics.Hashing.HashHelpers
-struct  HashHelpers_t863C67D6C3A3808FD4FD1717F0308D4DE0CAD24D  : public RuntimeObject
+struct HashHelpers_t863C67D6C3A3808FD4FD1717F0308D4DE0CAD24D  : public RuntimeObject
 {
 public:
 
@@ -631,7 +631,7 @@ public:
 
 
 // System.Numerics.Vector
-struct  Vector_t9749E670FBC69316E597DCD7A538E0EF752AF010  : public RuntimeObject
+struct Vector_t9749E670FBC69316E597DCD7A538E0EF752AF010  : public RuntimeObject
 {
 public:
 
@@ -640,7 +640,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -685,7 +685,7 @@ public:
 
 
 // System.Text.StringBuilder
-struct  StringBuilder_t  : public RuntimeObject
+struct StringBuilder_t  : public RuntimeObject
 {
 public:
 	// System.Char[] System.Text.StringBuilder::m_ChunkChars
@@ -745,7 +745,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
+struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
 {
 public:
 
@@ -762,7 +762,7 @@ struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF_marshaled_com
 };
 
 // System.Boolean
-struct  Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
+struct Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -808,7 +808,7 @@ public:
 
 
 // System.Char
-struct  Char_tBF22D9FC341BE970735250BB6FF1A4A92BBA58B9 
+struct Char_tBF22D9FC341BE970735250BB6FF1A4A92BBA58B9 
 {
 public:
 	// System.Char System.Char::m_value
@@ -843,7 +843,7 @@ public:
 
 
 // System.Double
-struct  Double_t358B8F23BDC52A5DD700E727E204F9F7CDE12409 
+struct Double_t358B8F23BDC52A5DD700E727E204F9F7CDE12409 
 {
 public:
 	// System.Double System.Double::m_value
@@ -877,7 +877,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
+struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
 {
 public:
 
@@ -911,7 +911,7 @@ struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521_marshaled_com
 };
 
 // System.Guid
-struct  Guid_t 
+struct Guid_t 
 {
 public:
 	// System.Int32 System.Guid::_a
@@ -1078,7 +1078,7 @@ public:
 
 
 // System.Int32
-struct  Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
+struct Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -1096,7 +1096,7 @@ public:
 
 
 // System.Numerics.JitIntrinsicAttribute
-struct  JitIntrinsicAttribute_t1FF8DAE28A12EA3D87544191C936680898A28FA8  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
+struct JitIntrinsicAttribute_t1FF8DAE28A12EA3D87544191C936680898A28FA8  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
 {
 public:
 
@@ -1105,7 +1105,7 @@ public:
 
 
 // System.Numerics.Matrix4x4
-struct  Matrix4x4_t962F654FB75C9A7E336E7DB54DBFCEC2B7B8B4B0 
+struct Matrix4x4_t962F654FB75C9A7E336E7DB54DBFCEC2B7B8B4B0 
 {
 public:
 	// System.Single System.Numerics.Matrix4x4::M11
@@ -1289,7 +1289,7 @@ public:
 
 
 // System.Numerics.Matrix4x4/VectorBasis
-struct  VectorBasis_t7634A29D4600B20CB6F3451B5DFDF54787310AEF 
+struct VectorBasis_t7634A29D4600B20CB6F3451B5DFDF54787310AEF 
 {
 public:
 	// System.Numerics.Vector3* System.Numerics.Matrix4x4/VectorBasis::Element0
@@ -1327,7 +1327,7 @@ public:
 
 
 // System.Numerics.Quaternion
-struct  Quaternion_t67580554B28ABC8A5384F3B4FF4E679FC6D38D4A 
+struct Quaternion_t67580554B28ABC8A5384F3B4FF4E679FC6D38D4A 
 {
 public:
 	// System.Single System.Numerics.Quaternion::X
@@ -1375,7 +1375,7 @@ public:
 
 
 // System.Numerics.Vector3
-struct  Vector3_tA1B8517EED04F753987922C4361B51A4F3AE8C65 
+struct Vector3_tA1B8517EED04F753987922C4361B51A4F3AE8C65 
 {
 public:
 	// System.Single System.Numerics.Vector3::X
@@ -1413,7 +1413,7 @@ public:
 
 
 // System.Single
-struct  Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
+struct Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
 {
 public:
 	// System.Single System.Single::m_value
@@ -1431,7 +1431,7 @@ public:
 
 
 // System.UInt32
-struct  UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
+struct UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
 {
 public:
 	// System.UInt32 System.UInt32::m_value
@@ -1449,7 +1449,7 @@ public:
 
 
 // System.Void
-struct  Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
+struct Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
 {
 public:
 	union
@@ -1465,7 +1465,7 @@ public:
 
 
 // System.Globalization.NumberStyles
-struct  NumberStyles_tB0ADA2D9CCAA236331AED14C42BE5832B2351592 
+struct NumberStyles_tB0ADA2D9CCAA236331AED14C42BE5832B2351592 
 {
 public:
 	// System.Int32 System.Globalization.NumberStyles::value__
@@ -1483,7 +1483,7 @@ public:
 
 
 // System.Numerics.Matrix4x4/CanonicalBasis
-struct  CanonicalBasis_tE26FFE3D5596BD4F68C64236C91B2A03261F3ABF 
+struct CanonicalBasis_tE26FFE3D5596BD4F68C64236C91B2A03261F3ABF 
 {
 public:
 	// System.Numerics.Vector3 System.Numerics.Matrix4x4/CanonicalBasis::Row0
@@ -1521,7 +1521,7 @@ public:
 
 
 // System.Globalization.NumberFormatInfo
-struct  NumberFormatInfo_tFDF57037EBC5BC833D0A53EF0327B805994860A8  : public RuntimeObject
+struct NumberFormatInfo_tFDF57037EBC5BC833D0A53EF0327B805994860A8  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Globalization.NumberFormatInfo::numberGroupSizes

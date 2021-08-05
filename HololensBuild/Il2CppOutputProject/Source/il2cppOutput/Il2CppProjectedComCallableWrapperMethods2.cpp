@@ -1375,7 +1375,7 @@ struct NOVTABLE IVector_1_t144570271588DE9CAE7195C3D5FF62B82525F659 : Il2CppIIns
 };
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IEnumerable`1<System.Byte>>
-struct  ReadOnlyCollection_1_t33F316AF04D275E419C316DD2FF4212B4A344A20  : public RuntimeObject
+struct ReadOnlyCollection_1_t33F316AF04D275E419C316DD2FF4212B4A344A20  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1405,7 +1405,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IList`1<System.Byte>>
-struct  ReadOnlyCollection_1_t6149E434B52B1E31316BCA67C48600D713FD22FA  : public RuntimeObject
+struct ReadOnlyCollection_1_t6149E434B52B1E31316BCA67C48600D713FD22FA  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1435,7 +1435,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IReadOnlyList`1<System.Byte>>
-struct  ReadOnlyCollection_1_tCA0C9C38243A454CE44707D3027A013C938BE169  : public RuntimeObject
+struct ReadOnlyCollection_1_tCA0C9C38243A454CE44707D3027A013C938BE169  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1465,7 +1465,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Type>>
-struct  ReadOnlyCollection_1_t17F7555A3D73AB4D58ECCD3194BA110B7FE4F172  : public RuntimeObject
+struct ReadOnlyCollection_1_t17F7555A3D73AB4D58ECCD3194BA110B7FE4F172  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1495,7 +1495,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.KeyValuePair`2<System.UInt64,System.String>>
-struct  ReadOnlyCollection_1_t2958750E9A12F0D9A24D1E677245DAF2F326BE28  : public RuntimeObject
+struct ReadOnlyCollection_1_t2958750E9A12F0D9A24D1E677245DAF2F326BE28  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1525,7 +1525,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Numerics.Matrix4x4>
-struct  ReadOnlyCollection_1_t9C91FF11C96295280592A7F349940BD8351EFB76  : public RuntimeObject
+struct ReadOnlyCollection_1_t9C91FF11C96295280592A7F349940BD8351EFB76  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1555,7 +1555,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Numerics.Quaternion>
-struct  ReadOnlyCollection_1_t3C27CA543F2FF7FDCF43175C1525C505AEADD074  : public RuntimeObject
+struct ReadOnlyCollection_1_t3C27CA543F2FF7FDCF43175C1525C505AEADD074  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1585,7 +1585,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Numerics.Vector3>
-struct  ReadOnlyCollection_1_tB52BF09376ACD4468F736271C3694CDE4F4212BF  : public RuntimeObject
+struct ReadOnlyCollection_1_tB52BF09376ACD4468F736271C3694CDE4F4212BF  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1615,7 +1615,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Foundation.AsyncStatus>
-struct  ReadOnlyCollection_1_t8A3CADC5201B6DA8E457392461AFDBE98E94D341  : public RuntimeObject
+struct ReadOnlyCollection_1_t8A3CADC5201B6DA8E457392461AFDBE98E94D341  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1645,7 +1645,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Foundation.DateTime>
-struct  ReadOnlyCollection_1_t3ED05072B7AA8CB98568B0DC7AE970575E4CF1CF  : public RuntimeObject
+struct ReadOnlyCollection_1_t3ED05072B7AA8CB98568B0DC7AE970575E4CF1CF  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1675,7 +1675,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Foundation.EventRegistrationToken>
-struct  ReadOnlyCollection_1_t07EE60A536002B02DACA7E5CE9291C268793734E  : public RuntimeObject
+struct ReadOnlyCollection_1_t07EE60A536002B02DACA7E5CE9291C268793734E  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1705,7 +1705,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Foundation.FoundationContract>
-struct  ReadOnlyCollection_1_tB5DA0C91C15B6581F489249F0735B9A8F626158E  : public RuntimeObject
+struct ReadOnlyCollection_1_tB5DA0C91C15B6581F489249F0735B9A8F626158E  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1735,7 +1735,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Foundation.HResult>
-struct  ReadOnlyCollection_1_tD61224FAA6B4D94DB3A745E9C3915687D6171436  : public RuntimeObject
+struct ReadOnlyCollection_1_tD61224FAA6B4D94DB3A745E9C3915687D6171436  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1765,7 +1765,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Foundation.Metadata.AttributeTargets>
-struct  ReadOnlyCollection_1_t3CADF8AF30508B0F244C0A1D7650D7328659C8F5  : public RuntimeObject
+struct ReadOnlyCollection_1_t3CADF8AF30508B0F244C0A1D7650D7328659C8F5  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1795,7 +1795,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Foundation.Metadata.MarshalingType>
-struct  ReadOnlyCollection_1_tDAA273D147BA334FFDEFD9408FE523703C435134  : public RuntimeObject
+struct ReadOnlyCollection_1_tDAA273D147BA334FFDEFD9408FE523703C435134  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1825,7 +1825,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Foundation.Metadata.ThreadingModel>
-struct  ReadOnlyCollection_1_t632F56D802CCD2AFB1AA8066D3E98BAEA9A9ED95  : public RuntimeObject
+struct ReadOnlyCollection_1_t632F56D802CCD2AFB1AA8066D3E98BAEA9A9ED95  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1855,7 +1855,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Foundation.Point>
-struct  ReadOnlyCollection_1_t62A97F310A6E05144C666BF9193F6FB73D92CC9C  : public RuntimeObject
+struct ReadOnlyCollection_1_t62A97F310A6E05144C666BF9193F6FB73D92CC9C  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1885,7 +1885,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Foundation.Point>
-struct  ReadOnlyCollection_1_t470C47A562888C46A4AF21710AD1FB935863917A  : public RuntimeObject
+struct ReadOnlyCollection_1_t470C47A562888C46A4AF21710AD1FB935863917A  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1915,7 +1915,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Foundation.PropertyType>
-struct  ReadOnlyCollection_1_tF8907F340357FEC5520CB44A06F7A4AD40B4F13A  : public RuntimeObject
+struct ReadOnlyCollection_1_tF8907F340357FEC5520CB44A06F7A4AD40B4F13A  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1945,7 +1945,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Foundation.Rect>
-struct  ReadOnlyCollection_1_t18DF608729C53A54C79C18CCD6A2FFC2CD4D3F3E  : public RuntimeObject
+struct ReadOnlyCollection_1_t18DF608729C53A54C79C18CCD6A2FFC2CD4D3F3E  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1975,7 +1975,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Foundation.Rect>
-struct  ReadOnlyCollection_1_tE1C93F50321A76316789B92F25F5A4875F0CF1AC  : public RuntimeObject
+struct ReadOnlyCollection_1_tE1C93F50321A76316789B92F25F5A4875F0CF1AC  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2005,7 +2005,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Foundation.Size>
-struct  ReadOnlyCollection_1_t9FACA05D834E39CE3D91E133F1210270504A4F2A  : public RuntimeObject
+struct ReadOnlyCollection_1_t9FACA05D834E39CE3D91E133F1210270504A4F2A  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2035,7 +2035,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Foundation.Size>
-struct  ReadOnlyCollection_1_tC214A8B6502C3F925CEEBCDB12B4681FAA91DAB2  : public RuntimeObject
+struct ReadOnlyCollection_1_tC214A8B6502C3F925CEEBCDB12B4681FAA91DAB2  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2065,7 +2065,7 @@ public:
 
 
 // System.Reflection.MemberInfo
-struct  MemberInfo_t  : public RuntimeObject
+struct MemberInfo_t  : public RuntimeObject
 {
 public:
 
@@ -2074,7 +2074,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -2119,7 +2119,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
+struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
 {
 public:
 
@@ -2136,7 +2136,7 @@ struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF_marshaled_com
 };
 
 // System.Boolean
-struct  Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
+struct Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -2182,7 +2182,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.String,System.Type>
-struct  KeyValuePair_2_t43CC618DDB1EEF4DBAD7DD0E770F155B528EDA3A 
+struct KeyValuePair_2_t43CC618DDB1EEF4DBAD7DD0E770F155B528EDA3A 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -2212,7 +2212,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.UInt64,System.Object>
-struct  KeyValuePair_2_tBCE16D0D06F9AF10E3F89C064C5CCA69892173D4 
+struct KeyValuePair_2_tBCE16D0D06F9AF10E3F89C064C5CCA69892173D4 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -2241,7 +2241,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.UInt64,System.String>
-struct  KeyValuePair_2_t1B0B8773CCAF35F538F084F376A37AE5779ADBBD 
+struct KeyValuePair_2_t1B0B8773CCAF35F538F084F376A37AE5779ADBBD 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -2270,7 +2270,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
+struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
 {
 public:
 
@@ -2304,7 +2304,7 @@ struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521_marshaled_com
 };
 
 // System.Int32
-struct  Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
+struct Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -2322,7 +2322,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -2356,7 +2356,7 @@ public:
 
 
 // System.Numerics.Matrix4x4
-struct  Matrix4x4_t962F654FB75C9A7E336E7DB54DBFCEC2B7B8B4B0 
+struct Matrix4x4_t962F654FB75C9A7E336E7DB54DBFCEC2B7B8B4B0 
 {
 public:
 	// System.Single System.Numerics.Matrix4x4::M11
@@ -2540,7 +2540,7 @@ public:
 
 
 // System.Numerics.Quaternion
-struct  Quaternion_t67580554B28ABC8A5384F3B4FF4E679FC6D38D4A 
+struct Quaternion_t67580554B28ABC8A5384F3B4FF4E679FC6D38D4A 
 {
 public:
 	// System.Single System.Numerics.Quaternion::X
@@ -2588,7 +2588,7 @@ public:
 
 
 // System.Numerics.Vector3
-struct  Vector3_tA1B8517EED04F753987922C4361B51A4F3AE8C65 
+struct Vector3_tA1B8517EED04F753987922C4361B51A4F3AE8C65 
 {
 public:
 	// System.Single System.Numerics.Vector3::X
@@ -2626,7 +2626,7 @@ public:
 
 
 // System.UInt32
-struct  UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
+struct UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
 {
 public:
 	// System.UInt32 System.UInt32::m_value
@@ -2644,7 +2644,7 @@ public:
 
 
 // System.Void
-struct  Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
+struct Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
 {
 public:
 	union
@@ -2660,7 +2660,7 @@ public:
 
 
 // Windows.Foundation.DateTime
-struct  DateTime_t9D0F9E236B6200FF6413DD837230D25E285E7795 
+struct DateTime_t9D0F9E236B6200FF6413DD837230D25E285E7795 
 {
 public:
 	// System.Int64 Windows.Foundation.DateTime::UniversalTime
@@ -2678,7 +2678,7 @@ public:
 
 
 // Windows.Foundation.EventRegistrationToken
-struct  EventRegistrationToken_tB7331C6A2CA7A6A9AD497264E9E787B3B71126D4 
+struct EventRegistrationToken_tB7331C6A2CA7A6A9AD497264E9E787B3B71126D4 
 {
 public:
 	// System.Int64 Windows.Foundation.EventRegistrationToken::Value
@@ -2696,7 +2696,7 @@ public:
 
 
 // Windows.Foundation.FoundationContract
-struct  FoundationContract_tA5129870FD2EAAE9518C2EA28B32757D4FD977E9 
+struct FoundationContract_tA5129870FD2EAAE9518C2EA28B32757D4FD977E9 
 {
 public:
 
@@ -2705,7 +2705,7 @@ public:
 
 
 // Windows.Foundation.HResult
-struct  HResult_tD2916D1ECD3A4E474B4A639B8D27E510FF8421DB 
+struct HResult_tD2916D1ECD3A4E474B4A639B8D27E510FF8421DB 
 {
 public:
 	// System.Int32 Windows.Foundation.HResult::Value
@@ -2723,7 +2723,7 @@ public:
 
 
 // Windows.Foundation.Point
-struct  Point_tEC1815EC53B414E5281C817051DA4F985DB9C8C1 
+struct Point_tEC1815EC53B414E5281C817051DA4F985DB9C8C1 
 {
 public:
 	// System.Single Windows.Foundation.Point::X
@@ -2751,7 +2751,7 @@ public:
 
 
 // Windows.Foundation.Point
-struct  Point_t7C3010F37F6E9DB2B792BBDAFF58C3232A3356AC 
+struct Point_t7C3010F37F6E9DB2B792BBDAFF58C3232A3356AC 
 {
 public:
 	// System.Single Windows.Foundation.Point::_x
@@ -2779,7 +2779,7 @@ public:
 
 
 // Windows.Foundation.Rect
-struct  Rect_tD277A11EF3F3CC633796B8FF0BC4822826E72BB0 
+struct Rect_tD277A11EF3F3CC633796B8FF0BC4822826E72BB0 
 {
 public:
 	// System.Single Windows.Foundation.Rect::_x
@@ -2827,7 +2827,7 @@ public:
 
 
 // Windows.Foundation.Rect
-struct  Rect_tC430FB498F3B42BBCD93E88C03BA3CBB77B60ACA 
+struct Rect_tC430FB498F3B42BBCD93E88C03BA3CBB77B60ACA 
 {
 public:
 	// System.Single Windows.Foundation.Rect::X
@@ -2875,7 +2875,7 @@ public:
 
 
 // Windows.Foundation.Size
-struct  Size_t4766FF009097CE547F699B69250246058DA664D9 
+struct Size_t4766FF009097CE547F699B69250246058DA664D9 
 {
 public:
 	// System.Single Windows.Foundation.Size::Width
@@ -2903,7 +2903,7 @@ public:
 
 
 // Windows.Foundation.Size
-struct  Size_tBE9F75FCA10276DC3998237A8906733B64FB75A2 
+struct Size_tBE9F75FCA10276DC3998237A8906733B64FB75A2 
 {
 public:
 	// System.Single Windows.Foundation.Size::_width
@@ -2931,7 +2931,7 @@ public:
 
 
 // System.AttributeTargets
-struct  AttributeTargets_t7CC0DE6D2B11C951E525EE69AD02313792932741 
+struct AttributeTargets_t7CC0DE6D2B11C951E525EE69AD02313792932741 
 {
 public:
 	// System.Int32 System.AttributeTargets::value__
@@ -2949,7 +2949,7 @@ public:
 
 
 // System.Exception
-struct  Exception_t  : public RuntimeObject
+struct Exception_t  : public RuntimeObject
 {
 public:
 	// System.String System.Exception::_className
@@ -3175,7 +3175,7 @@ struct Exception_t_marshaled_com
 };
 
 // System.Reflection.BindingFlags
-struct  BindingFlags_tE35C91D046E63A1B92BB9AB909FCF9DA84379ED0 
+struct BindingFlags_tE35C91D046E63A1B92BB9AB909FCF9DA84379ED0 
 {
 public:
 	// System.Int32 System.Reflection.BindingFlags::value__
@@ -3193,7 +3193,7 @@ public:
 
 
 // System.RuntimeTypeHandle
-struct  RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D 
+struct RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D 
 {
 public:
 	// System.IntPtr System.RuntimeTypeHandle::value
@@ -3211,7 +3211,7 @@ public:
 
 
 // Windows.Foundation.AsyncStatus
-struct  AsyncStatus_tBDA7F4CE333BAE130A8BB6DF88FBC68E6A54340E 
+struct AsyncStatus_tBDA7F4CE333BAE130A8BB6DF88FBC68E6A54340E 
 {
 public:
 	// System.Int32 Windows.Foundation.AsyncStatus::value__
@@ -3675,7 +3675,7 @@ struct NOVTABLE IVector_1_tFF499B0D2C4CFA234C8341A0E67F1C5B0558E080 : Il2CppIIns
 };
 
 // Windows.Foundation.Metadata.MarshalingType
-struct  MarshalingType_t62213E81B261451C72A0B7669A24499DDCF22E06 
+struct MarshalingType_t62213E81B261451C72A0B7669A24499DDCF22E06 
 {
 public:
 	// System.Int32 Windows.Foundation.Metadata.MarshalingType::value__
@@ -3693,7 +3693,7 @@ public:
 
 
 // Windows.Foundation.Metadata.ThreadingModel
-struct  ThreadingModel_t3A0A62EE2003BD4A2E53BE7370BC1E159A3A8434 
+struct ThreadingModel_t3A0A62EE2003BD4A2E53BE7370BC1E159A3A8434 
 {
 public:
 	// System.Int32 Windows.Foundation.Metadata.ThreadingModel::value__
@@ -3711,7 +3711,7 @@ public:
 
 
 // Windows.Foundation.PropertyType
-struct  PropertyType_tBEECA3F046BD9A1A358890A42B7DA9A031FFC1BD 
+struct PropertyType_tBEECA3F046BD9A1A358890A42B7DA9A031FFC1BD 
 {
 public:
 	// System.Int32 Windows.Foundation.PropertyType::value__
@@ -3729,7 +3729,7 @@ public:
 
 
 // System.SystemException
-struct  SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
+struct SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
 {
 public:
 
@@ -3738,7 +3738,7 @@ public:
 
 
 // System.Type
-struct  Type_t  : public MemberInfo_t
+struct Type_t  : public MemberInfo_t
 {
 public:
 	// System.RuntimeTypeHandle System.Type::_impl
@@ -3978,7 +3978,7 @@ struct NOVTABLE IVector_1_tADB4B40636FA353AB1359B670E043DC59D182CD4 : Il2CppIIns
 };
 
 // Windows.Foundation.Metadata.AttributeTargets
-struct  AttributeTargets_tA7256AD263010BF992D3949CE57A314716980FA7 
+struct AttributeTargets_tA7256AD263010BF992D3949CE57A314716980FA7 
 {
 public:
 	// System.UInt32 Windows.Foundation.Metadata.AttributeTargets::value__
@@ -3996,7 +3996,7 @@ public:
 
 
 // System.ArgumentException
-struct  ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 	// System.String System.ArgumentException::m_paramName
@@ -4015,7 +4015,7 @@ public:
 
 
 // System.InvalidOperationException
-struct  InvalidOperationException_t0530E734D823F78310CAFAFA424CA5164D93A1F1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct InvalidOperationException_t0530E734D823F78310CAFAFA424CA5164D93A1F1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -4066,7 +4066,7 @@ struct NOVTABLE IVector_1_t0F3F730569F4971A7376E8E800297DD991643991 : Il2CppIIns
 };
 
 // System.ArgumentOutOfRangeException
-struct  ArgumentOutOfRangeException_t94D19DF918A54511AEDF4784C9A08741BAD1DEDA  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
+struct ArgumentOutOfRangeException_t94D19DF918A54511AEDF4784C9A08741BAD1DEDA  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
 {
 public:
 	// System.Object System.ArgumentOutOfRangeException::m_actualValue

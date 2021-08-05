@@ -65,4 +65,8 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/MRTK/Examples/Demos/Solvers/Scenes/SurfaceMagnetismSpatialAwarenessExample.unity
     guid: 8feae87497f549c4e8dc08a6e4b7b15c
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 49fa509c26466e54e8254a90523c5933,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f072458ac74077440b99e4b028ecd238,
+      type: 2}

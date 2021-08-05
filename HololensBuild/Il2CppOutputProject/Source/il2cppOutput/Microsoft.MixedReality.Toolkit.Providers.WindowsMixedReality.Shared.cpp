@@ -601,7 +601,7 @@ IL2CPP_EXTERN_C_END
 #endif
 
 // <Module>
-struct  U3CModuleU3E_tD8271C42506EF0B0F5F137226CE6EF4BA952EE07 
+struct U3CModuleU3E_tD8271C42506EF0B0F5F137226CE6EF4BA952EE07 
 {
 public:
 
@@ -680,7 +680,7 @@ struct NOVTABLE ISpatialInteractionManagerStatics_t26E12E181FCAA3FBFEEB07325CD60
 };
 
 // Microsoft.MixedReality.Toolkit.CameraSystem.ProjectionOverride/<ResetViewMatricesOnFrameEnd>d__4
-struct  U3CResetViewMatricesOnFrameEndU3Ed__4_t9D013F7096072623219B6DB246127B4F48B9D92E  : public RuntimeObject
+struct U3CResetViewMatricesOnFrameEndU3Ed__4_t9D013F7096072623219B6DB246127B4F48B9D92E  : public RuntimeObject
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.CameraSystem.ProjectionOverride/<ResetViewMatricesOnFrameEnd>d__4::<>1__state
@@ -709,7 +709,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.ArticulatedHandPose
-struct  ArticulatedHandPose_t029435E5AEA3ECFF88F3179D6A055AAED4E30667  : public RuntimeObject
+struct ArticulatedHandPose_t029435E5AEA3ECFF88F3179D6A055AAED4E30667  : public RuntimeObject
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Utilities.MixedRealityPose[] Microsoft.MixedReality.Toolkit.Utilities.ArticulatedHandPose::localJointPoses
@@ -766,7 +766,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfProperty
-struct  GltfProperty_tF93558A1A6E697BE5FDE57D03D264F62BDE70BE0  : public RuntimeObject
+struct GltfProperty_tF93558A1A6E697BE5FDE57D03D264F62BDE70BE0  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.Dictionary`2<System.String,System.String> Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfProperty::Extensions
@@ -796,7 +796,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsExtensions
-struct  WindowsExtensions_t9D7C34D73F00176C8F819BE1F13F80C81B9C25C2  : public RuntimeObject
+struct WindowsExtensions_t9D7C34D73F00176C8F819BE1F13F80C81B9C25C2  : public RuntimeObject
 {
 public:
 
@@ -805,7 +805,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityArticulatedHandDefinition/<>c__DisplayClass12_0
-struct  U3CU3Ec__DisplayClass12_0_t23D8DC6134383D4193DCD8FDC9BAAA667F3C59E6  : public RuntimeObject
+struct U3CU3Ec__DisplayClass12_0_t23D8DC6134383D4193DCD8FDC9BAAA667F3C59E6  : public RuntimeObject
 {
 public:
 	// Windows.Perception.People.HandMeshVertex[] Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityArticulatedHandDefinition/<>c__DisplayClass12_0::neutralVertexAndNormals
@@ -835,7 +835,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityControllerModelProvider
-struct  WindowsMixedRealityControllerModelProvider_t835CBA052E8AF7A89014993B9DE2DE28D8A630AF  : public RuntimeObject
+struct WindowsMixedRealityControllerModelProvider_t835CBA052E8AF7A89014993B9DE2DE28D8A630AF  : public RuntimeObject
 {
 public:
 	// Windows.UI.Input.Spatial.SpatialInteractionSource Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityControllerModelProvider::spatialInteractionSource
@@ -871,7 +871,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityUtilities/<>c
-struct  U3CU3Ec_t9A83781F44500191A28D381B0CFCD35AABB7CB6F  : public RuntimeObject
+struct U3CU3Ec_t9A83781F44500191A28D381B0CFCD35AABB7CB6F  : public RuntimeObject
 {
 public:
 
@@ -912,7 +912,7 @@ struct Il2CppArrayBounds;
 
 
 // System.Collections.Generic.Dictionary`2<System.String,UnityEngine.GameObject>
-struct  Dictionary_2_tB917211DA126597937FC7D5AF12A9E1B7A763F6A  : public RuntimeObject
+struct Dictionary_2_tB917211DA126597937FC7D5AF12A9E1B7A763F6A  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -1026,7 +1026,7 @@ public:
 
 
 // System.MarshalByRefObject
-struct  MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF  : public RuntimeObject
+struct MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF  : public RuntimeObject
 {
 public:
 	// System.Object System.MarshalByRefObject::_identity
@@ -1055,7 +1055,7 @@ struct MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF_marshaled_co
 };
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -1100,7 +1100,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
+struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
 {
 public:
 
@@ -1120,7 +1120,7 @@ struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF_marshaled_com
 
 
 // UnityEngine.YieldInstruction
-struct  YieldInstruction_t836035AC7BD07A3C7909F7AD2A5B42DE99D91C44  : public RuntimeObject
+struct YieldInstruction_t836035AC7BD07A3C7909F7AD2A5B42DE99D91C44  : public RuntimeObject
 {
 public:
 
@@ -1137,7 +1137,7 @@ struct YieldInstruction_t836035AC7BD07A3C7909F7AD2A5B42DE99D91C44_marshaled_com
 };
 
 // Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject
-struct  GltfObject_t270BFEEBEE1AD91E1B91B53CD489C4B97B2A5AB2  : public GltfProperty_tF93558A1A6E697BE5FDE57D03D264F62BDE70BE0
+struct GltfObject_t270BFEEBEE1AD91E1B91B53CD489C4B97B2A5AB2  : public GltfProperty_tF93558A1A6E697BE5FDE57D03D264F62BDE70BE0
 {
 public:
 	// System.String[] Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject::extensionsUsed
@@ -1385,7 +1385,7 @@ public:
 
 
 // System.Boolean
-struct  Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
+struct Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -1431,7 +1431,7 @@ public:
 
 
 // System.Byte
-struct  Byte_tF87C579059BD4633E6840EBBBEEF899C6E33EF07 
+struct Byte_tF87C579059BD4633E6840EBBBEEF899C6E33EF07 
 {
 public:
 	// System.Byte System.Byte::m_value
@@ -1449,7 +1449,7 @@ public:
 
 
 // System.DateTime
-struct  DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 
+struct DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 
 {
 public:
 	// System.UInt64 System.DateTime::dateData
@@ -1515,7 +1515,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
+struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
 {
 public:
 
@@ -1549,7 +1549,7 @@ struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521_marshaled_com
 };
 
 // System.IO.TextWriter
-struct  TextWriter_t92451D929322093838C41489883D5B2D7ABAF3F0  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
+struct TextWriter_t92451D929322093838C41489883D5B2D7ABAF3F0  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
 {
 public:
 	// System.Char[] System.IO.TextWriter::CoreNewLine
@@ -1673,7 +1673,7 @@ public:
 
 
 // System.Int32
-struct  Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
+struct Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -1691,7 +1691,7 @@ public:
 
 
 // System.Int64
-struct  Int64_t7A386C2FF7B0280A0F516992401DDFCF0FF7B436 
+struct Int64_t7A386C2FF7B0280A0F516992401DDFCF0FF7B436 
 {
 public:
 	// System.Int64 System.Int64::m_value
@@ -1709,7 +1709,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -1743,7 +1743,7 @@ public:
 
 
 // System.Nullable`1<System.Boolean>
-struct  Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793 
+struct Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793 
 {
 public:
 	// T System.Nullable`1::value
@@ -1771,7 +1771,7 @@ public:
 
 
 // System.Nullable`1<System.Int64>
-struct  Nullable_1_t802480A692F4F0D29F2185320296572054FB8C0B 
+struct Nullable_1_t802480A692F4F0D29F2185320296572054FB8C0B 
 {
 public:
 	// T System.Nullable`1::value
@@ -1799,7 +1799,7 @@ public:
 
 
 // System.Numerics.Matrix4x4
-struct  Matrix4x4_t962F654FB75C9A7E336E7DB54DBFCEC2B7B8B4B0 
+struct Matrix4x4_t962F654FB75C9A7E336E7DB54DBFCEC2B7B8B4B0 
 {
 public:
 	// System.Single System.Numerics.Matrix4x4::M11
@@ -1983,7 +1983,7 @@ public:
 
 
 // System.Numerics.Quaternion
-struct  Quaternion_t67580554B28ABC8A5384F3B4FF4E679FC6D38D4A 
+struct Quaternion_t67580554B28ABC8A5384F3B4FF4E679FC6D38D4A 
 {
 public:
 	// System.Single System.Numerics.Quaternion::X
@@ -2031,7 +2031,7 @@ public:
 
 
 // System.Numerics.Vector3
-struct  Vector3_tA1B8517EED04F753987922C4361B51A4F3AE8C65 
+struct Vector3_tA1B8517EED04F753987922C4361B51A4F3AE8C65 
 {
 public:
 	// System.Single System.Numerics.Vector3::X
@@ -2069,7 +2069,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncMethodBuilderCore
-struct  AsyncMethodBuilderCore_t4CE6C1E4B0621A6EC45CF6E0E8F1F633FFF9FF01 
+struct AsyncMethodBuilderCore_t4CE6C1E4B0621A6EC45CF6E0E8F1F633FFF9FF01 
 {
 public:
 	// System.Runtime.CompilerServices.IAsyncStateMachine System.Runtime.CompilerServices.AsyncMethodBuilderCore::m_stateMachine
@@ -2111,7 +2111,7 @@ struct AsyncMethodBuilderCore_t4CE6C1E4B0621A6EC45CF6E0E8F1F633FFF9FF01_marshale
 };
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<System.Object>
-struct  TaskAwaiter_1_t8CDB78D2A4D48E80C35A8FF6FC04A82B9FC35977 
+struct TaskAwaiter_1_t8CDB78D2A4D48E80C35A8FF6FC04A82B9FC35977 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -2130,7 +2130,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<System.UInt32>
-struct  TaskAwaiter_1_t4775EBEDF8907030D3D4E4F035D7BC9DD18E8830 
+struct TaskAwaiter_1_t4775EBEDF8907030D3D4E4F035D7BC9DD18E8830 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -2149,7 +2149,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<UnityEngine.GameObject>
-struct  TaskAwaiter_1_tAE6B8B90DDB2F4605D3C8F53F1F449F35790A468 
+struct TaskAwaiter_1_tAE6B8B90DDB2F4605D3C8F53F1F449F35790A468 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -2168,7 +2168,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<Windows.Perception.People.HandMeshObserver>
-struct  TaskAwaiter_1_t096813A32910697159944CCF69A0579741EAA6D3 
+struct TaskAwaiter_1_t096813A32910697159944CCF69A0579741EAA6D3 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -2187,7 +2187,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<Windows.Storage.Streams.IRandomAccessStreamWithContentType>
-struct  TaskAwaiter_1_t16A7304D0609E7C1FDB399935895328EE7D5B1C4 
+struct TaskAwaiter_1_t16A7304D0609E7C1FDB399935895328EE7D5B1C4 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -2206,7 +2206,7 @@ public:
 
 
 // System.Single
-struct  Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
+struct Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
 {
 public:
 	// System.Single System.Single::m_value
@@ -2224,7 +2224,7 @@ public:
 
 
 // System.UInt16
-struct  UInt16_tAE45CEF73BF720100519F6867F32145D075F928E 
+struct UInt16_tAE45CEF73BF720100519F6867F32145D075F928E 
 {
 public:
 	// System.UInt16 System.UInt16::m_value
@@ -2242,7 +2242,7 @@ public:
 
 
 // System.UInt32
-struct  UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
+struct UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
 {
 public:
 	// System.UInt32 System.UInt32::m_value
@@ -2260,7 +2260,7 @@ public:
 
 
 // System.UInt64
-struct  UInt64_tA02DF3B59C8FC4A849BD207DA11038CC64E4CB4E 
+struct UInt64_tA02DF3B59C8FC4A849BD207DA11038CC64E4CB4E 
 {
 public:
 	// System.UInt64 System.UInt64::m_value
@@ -2278,7 +2278,7 @@ public:
 
 
 // System.Void
-struct  Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
+struct Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
 {
 public:
 	union
@@ -2294,7 +2294,7 @@ public:
 
 
 // UnityEngine.Matrix4x4
-struct  Matrix4x4_t6BF60F70C9169DF14C9D2577672A44224B236ECA 
+struct Matrix4x4_t6BF60F70C9169DF14C9D2577672A44224B236ECA 
 {
 public:
 	// System.Single UnityEngine.Matrix4x4::m00
@@ -2488,7 +2488,7 @@ public:
 
 
 // UnityEngine.Quaternion
-struct  Quaternion_t319F3319A7D43FFA5D819AD6C0A98851F0095357 
+struct Quaternion_t319F3319A7D43FFA5D819AD6C0A98851F0095357 
 {
 public:
 	// System.Single UnityEngine.Quaternion::x
@@ -2552,7 +2552,7 @@ public:
 
 
 // UnityEngine.Vector2
-struct  Vector2_tA85D2DD88578276CA8A8796756458277E72D073D 
+struct Vector2_tA85D2DD88578276CA8A8796756458277E72D073D 
 {
 public:
 	// System.Single UnityEngine.Vector2::x
@@ -2666,7 +2666,7 @@ public:
 
 
 // UnityEngine.Vector3
-struct  Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720 
+struct Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720 
 {
 public:
 	// System.Single UnityEngine.Vector3::x
@@ -2810,7 +2810,7 @@ public:
 
 
 // UnityEngine.WaitForEndOfFrame
-struct  WaitForEndOfFrame_t75980FB3F246D6AD36A85CA2BFDF8474E5EEBCCA  : public YieldInstruction_t836035AC7BD07A3C7909F7AD2A5B42DE99D91C44
+struct WaitForEndOfFrame_t75980FB3F246D6AD36A85CA2BFDF8474E5EEBCCA  : public YieldInstruction_t836035AC7BD07A3C7909F7AD2A5B42DE99D91C44
 {
 public:
 
@@ -2819,7 +2819,7 @@ public:
 
 
 // Windows.Graphics.Holographic.HolographicCamera
-struct  HolographicCamera_tBB097CD7B2EB44AAE247DA4C978B96FE73546EB9  : public Il2CppComObject
+struct HolographicCamera_tBB097CD7B2EB44AAE247DA4C978B96FE73546EB9  : public Il2CppComObject
 {
 public:
 
@@ -2828,7 +2828,7 @@ public:
 
 
 // Windows.Graphics.Holographic.HolographicCameraPose
-struct  HolographicCameraPose_t74B355FAB0C9D5E15A8787310D0D31147EE0F177  : public Il2CppComObject
+struct HolographicCameraPose_t74B355FAB0C9D5E15A8787310D0D31147EE0F177  : public Il2CppComObject
 {
 public:
 
@@ -2837,7 +2837,7 @@ public:
 
 
 // Windows.Graphics.Holographic.HolographicDisplay
-struct  HolographicDisplay_t30C54F0F28925FABF9E9C0DC2E84AA075423D17C  : public Il2CppComObject
+struct HolographicDisplay_t30C54F0F28925FABF9E9C0DC2E84AA075423D17C  : public Il2CppComObject
 {
 public:
 
@@ -2890,7 +2890,7 @@ public:
 
 
 // Windows.Graphics.Holographic.HolographicFrame
-struct  HolographicFrame_t79D5E1E3B66F6DBB2CC7BA49F7CEFA7C3F3CE543  : public Il2CppComObject
+struct HolographicFrame_t79D5E1E3B66F6DBB2CC7BA49F7CEFA7C3F3CE543  : public Il2CppComObject
 {
 public:
 
@@ -2899,7 +2899,7 @@ public:
 
 
 // Windows.Graphics.Holographic.HolographicFramePrediction
-struct  HolographicFramePrediction_tF1A43CAC6F7C949FE02D6FBEF8D97DAE6964EB1E  : public Il2CppComObject
+struct HolographicFramePrediction_tF1A43CAC6F7C949FE02D6FBEF8D97DAE6964EB1E  : public Il2CppComObject
 {
 public:
 
@@ -2908,7 +2908,7 @@ public:
 
 
 // Windows.Graphics.Holographic.HolographicViewConfiguration
-struct  HolographicViewConfiguration_t21C511C29262ED636D7832385563FFC5FD117B90  : public Il2CppComObject
+struct HolographicViewConfiguration_t21C511C29262ED636D7832385563FFC5FD117B90  : public Il2CppComObject
 {
 public:
 
@@ -2917,7 +2917,7 @@ public:
 
 
 // Windows.Perception.People.HandMeshObserver
-struct  HandMeshObserver_t709681ED43D6E9586D3C63A3FCCC327CA1DA7622  : public Il2CppComObject
+struct HandMeshObserver_t709681ED43D6E9586D3C63A3FCCC327CA1DA7622  : public Il2CppComObject
 {
 public:
 
@@ -2926,7 +2926,7 @@ public:
 
 
 // Windows.Perception.People.HandMeshVertexState
-struct  HandMeshVertexState_t98608C8F5C0BF239759E4520057BA24105B6F463  : public Il2CppComObject
+struct HandMeshVertexState_t98608C8F5C0BF239759E4520057BA24105B6F463  : public Il2CppComObject
 {
 public:
 
@@ -2935,7 +2935,7 @@ public:
 
 
 // Windows.Perception.People.HandPose
-struct  HandPose_t51A7E835EA330CC8F84938C90A4E616ADF2DC83C  : public Il2CppComObject
+struct HandPose_t51A7E835EA330CC8F84938C90A4E616ADF2DC83C  : public Il2CppComObject
 {
 public:
 
@@ -2944,7 +2944,7 @@ public:
 
 
 // Windows.Perception.PerceptionTimestamp
-struct  PerceptionTimestamp_t75E8C20771DDC64BC2F99644A8252C4DED8F7C01  : public Il2CppComObject
+struct PerceptionTimestamp_t75E8C20771DDC64BC2F99644A8252C4DED8F7C01  : public Il2CppComObject
 {
 public:
 
@@ -2953,7 +2953,7 @@ public:
 
 
 // Windows.Perception.Spatial.SpatialCoordinateSystem
-struct  SpatialCoordinateSystem_t463C6F7766AF0ABD1822EF5FF8B7D70DE54B1658  : public Il2CppComObject
+struct SpatialCoordinateSystem_t463C6F7766AF0ABD1822EF5FF8B7D70DE54B1658  : public Il2CppComObject
 {
 public:
 
@@ -2962,7 +2962,7 @@ public:
 
 
 // Windows.Storage.Streams.DataReader
-struct  DataReader_t92CE269217524DDA728FF4095997CC6D57EC7E4F  : public Il2CppComObject
+struct DataReader_t92CE269217524DDA728FF4095997CC6D57EC7E4F  : public Il2CppComObject
 {
 public:
 
@@ -3034,7 +3034,7 @@ public:
 
 
 // Windows.Storage.Streams.DataReaderLoadOperation
-struct  DataReaderLoadOperation_tEB0FD918B78DD42ADBE2D952CD479ACE10BADE52  : public Il2CppComObject
+struct DataReaderLoadOperation_tEB0FD918B78DD42ADBE2D952CD479ACE10BADE52  : public Il2CppComObject
 {
 public:
 
@@ -3043,7 +3043,7 @@ public:
 
 
 // Windows.UI.Input.Spatial.SpatialInteractionController
-struct  SpatialInteractionController_tD8ACCDB9F17D456A3AF7A96A1AE2EAE19C84BC2A  : public Il2CppComObject
+struct SpatialInteractionController_tD8ACCDB9F17D456A3AF7A96A1AE2EAE19C84BC2A  : public Il2CppComObject
 {
 public:
 
@@ -3052,7 +3052,7 @@ public:
 
 
 // Windows.UI.Input.Spatial.SpatialInteractionSource
-struct  SpatialInteractionSource_tEF85A5FCAF63AF21DEADC6A46CA8F919861745BA  : public Il2CppComObject
+struct SpatialInteractionSource_tEF85A5FCAF63AF21DEADC6A46CA8F919861745BA  : public Il2CppComObject
 {
 public:
 
@@ -3061,7 +3061,7 @@ public:
 
 
 // Windows.UI.Input.Spatial.SpatialInteractionSourceState
-struct  SpatialInteractionSourceState_tCDB5A5BBF75A0CBCAAB79AFB468FF51B77921384  : public Il2CppComObject
+struct SpatialInteractionSourceState_tCDB5A5BBF75A0CBCAAB79AFB468FF51B77921384  : public Il2CppComObject
 {
 public:
 
@@ -3070,7 +3070,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.BaseService
-struct  BaseService_t04BD3B909CB87D0CCC7B5C236A124AE2898EE07D  : public RuntimeObject
+struct BaseService_t04BD3B909CB87D0CCC7B5C236A124AE2898EE07D  : public RuntimeObject
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.BaseService::<Name>k__BackingField
@@ -3150,7 +3150,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.HandMeshInfo
-struct  HandMeshInfo_t1F71E961A47CE92DA46956DB3BD79DEF4C685B08  : public RuntimeObject
+struct HandMeshInfo_t1F71E961A47CE92DA46956DB3BD79DEF4C685B08  : public RuntimeObject
 {
 public:
 	// UnityEngine.Vector3[] Microsoft.MixedReality.Toolkit.Input.HandMeshInfo::vertices
@@ -3222,7 +3222,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.InputSourceType
-struct  InputSourceType_tC80C0DAA2FE6E1D108B57DAD19D042E157183CC6 
+struct InputSourceType_tC80C0DAA2FE6E1D108B57DAD19D042E157183CC6 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Input.InputSourceType::value__
@@ -3240,7 +3240,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.Handedness
-struct  Handedness_t301E8BC803842961C6D57055922A242B17CC242D 
+struct Handedness_t301E8BC803842961C6D57055922A242B17CC242D 
 {
 public:
 	// System.Byte Microsoft.MixedReality.Toolkit.Utilities.Handedness::value__
@@ -3258,7 +3258,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.MixedRealityPose
-struct  MixedRealityPose_tD0EA25752DB09A7E1D8D25321C32360088D2DA3F 
+struct MixedRealityPose_tD0EA25752DB09A7E1D8D25321C32360088D2DA3F 
 {
 public:
 	// UnityEngine.Vector3 Microsoft.MixedReality.Toolkit.Utilities.MixedRealityPose::position
@@ -3302,7 +3302,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.SupportedApplicationModes
-struct  SupportedApplicationModes_t44B8208F214D5A831C06028AEB7F8BFD833024C1 
+struct SupportedApplicationModes_t44B8208F214D5A831C06028AEB7F8BFD833024C1 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.SupportedApplicationModes::value__
@@ -3320,7 +3320,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.TrackedHandJoint
-struct  TrackedHandJoint_tC369FA2A7A327BDD9AB9D899A8D82F1976C15FDB 
+struct TrackedHandJoint_tC369FA2A7A327BDD9AB9D899A8D82F1976C15FDB 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.TrackedHandJoint::value__
@@ -3338,7 +3338,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsMixedReality.HolographicDepthReprojectionMethod
-struct  HolographicDepthReprojectionMethod_t0952A89ADF84EBD229A3B32D3FC2FF4352392A45 
+struct HolographicDepthReprojectionMethod_t0952A89ADF84EBD229A3B32D3FC2FF4352392A45 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsMixedReality.HolographicDepthReprojectionMethod::value__
@@ -3356,7 +3356,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityUtilities
-struct  WindowsMixedRealityUtilities_t333C26CA98C0AB23FDAF93C5475CE6DB8A04D469  : public RuntimeObject
+struct WindowsMixedRealityUtilities_t333C26CA98C0AB23FDAF93C5475CE6DB8A04D469  : public RuntimeObject
 {
 public:
 
@@ -3414,7 +3414,7 @@ public:
 
 
 // System.DateTimeOffset
-struct  DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 
+struct DateTimeOffset_t6C333873402CAD576160B4F8E159EB6834F06B85 
 {
 public:
 	// System.DateTime System.DateTimeOffset::m_dateTime
@@ -3468,7 +3468,7 @@ public:
 
 
 // System.Delegate
-struct  Delegate_t  : public RuntimeObject
+struct Delegate_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Delegate::method_ptr
@@ -3620,7 +3620,7 @@ struct Delegate_t_marshaled_com
 };
 
 // System.Exception
-struct  Exception_t  : public RuntimeObject
+struct Exception_t  : public RuntimeObject
 {
 public:
 	// System.String System.Exception::_className
@@ -3846,7 +3846,7 @@ struct Exception_t_marshaled_com
 };
 
 // System.IO.StreamWriter
-struct  StreamWriter_t989B894EF3BFCDF6FF5F5F068402A4F835FC8E8E  : public TextWriter_t92451D929322093838C41489883D5B2D7ABAF3F0
+struct StreamWriter_t989B894EF3BFCDF6FF5F5F068402A4F835FC8E8E  : public TextWriter_t92451D929322093838C41489883D5B2D7ABAF3F0
 {
 public:
 	// System.IO.Stream System.IO.StreamWriter::stream
@@ -3998,7 +3998,7 @@ public:
 
 
 // System.Nullable`1<System.Numerics.Matrix4x4>
-struct  Nullable_1_tF2F30F0F16261389A8666E9E3F474CA572C751CC 
+struct Nullable_1_tF2F30F0F16261389A8666E9E3F474CA572C751CC 
 {
 public:
 	// T System.Nullable`1::value
@@ -4026,7 +4026,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Object>
-struct  AsyncTaskMethodBuilder_1_t2A9513A084F4B19851B91EF1F22BB57776D35663 
+struct AsyncTaskMethodBuilder_1_t2A9513A084F4B19851B91EF1F22BB57776D35663 
 {
 public:
 	// System.Runtime.CompilerServices.AsyncMethodBuilderCore System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::m_coreState
@@ -4076,7 +4076,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<UnityEngine.GameObject>
-struct  AsyncTaskMethodBuilder_1_t132B5D0498F503A66D3B1AF3DD9AB3C303FD3786 
+struct AsyncTaskMethodBuilder_1_t132B5D0498F503A66D3B1AF3DD9AB3C303FD3786 
 {
 public:
 	// System.Runtime.CompilerServices.AsyncMethodBuilderCore System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::m_coreState
@@ -4126,7 +4126,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncVoidMethodBuilder
-struct  AsyncVoidMethodBuilder_t44E3C9B52B019BB5BDCC0E1BB83188B536161CFF 
+struct AsyncVoidMethodBuilder_t44E3C9B52B019BB5BDCC0E1BB83188B536161CFF 
 {
 public:
 	// System.Threading.SynchronizationContext System.Runtime.CompilerServices.AsyncVoidMethodBuilder::m_synchronizationContext
@@ -4184,7 +4184,7 @@ struct AsyncVoidMethodBuilder_t44E3C9B52B019BB5BDCC0E1BB83188B536161CFF_marshale
 };
 
 // System.Threading.Tasks.ParallelLoopResult
-struct  ParallelLoopResult_tA91C524FD393FB385C3C16AD96D6FC4107BAA7F8 
+struct ParallelLoopResult_tA91C524FD393FB385C3C16AD96D6FC4107BAA7F8 
 {
 public:
 	// System.Boolean System.Threading.Tasks.ParallelLoopResult::m_completed
@@ -4224,7 +4224,7 @@ struct ParallelLoopResult_tA91C524FD393FB385C3C16AD96D6FC4107BAA7F8_marshaled_co
 };
 
 // System.Threading.Tasks.Task
-struct  Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2  : public RuntimeObject
+struct Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2  : public RuntimeObject
 {
 public:
 	// System.Int32 modreq(System.Runtime.CompilerServices.IsVolatile) System.Threading.Tasks.Task::m_taskId
@@ -4482,7 +4482,7 @@ public:
 
 
 // Unity.Profiling.ProfilerMarker
-struct  ProfilerMarker_t41096870004E8A2081E31E01BC0552F2F01F2B86 
+struct ProfilerMarker_t41096870004E8A2081E31E01BC0552F2F01F2B86 
 {
 public:
 	// System.IntPtr Unity.Profiling.ProfilerMarker::m_Ptr
@@ -4500,7 +4500,7 @@ public:
 
 
 // Unity.Profiling.ProfilerMarker/AutoScope
-struct  AutoScope_tFCF9F27FF85DCD3A3880FAADCB520F29B1543A7F 
+struct AutoScope_tFCF9F27FF85DCD3A3880FAADCB520F29B1543A7F 
 {
 public:
 	// System.IntPtr Unity.Profiling.ProfilerMarker/AutoScope::m_Ptr
@@ -4518,7 +4518,7 @@ public:
 
 
 // UnityEngine.Camera/StereoscopicEye
-struct  StereoscopicEye_tAA17FAA1DDDE2B446B3C8E75243C45A00D97592C 
+struct StereoscopicEye_tAA17FAA1DDDE2B446B3C8E75243C45A00D97592C 
 {
 public:
 	// System.Int32 UnityEngine.Camera/StereoscopicEye::value__
@@ -4536,7 +4536,7 @@ public:
 
 
 // UnityEngine.Coroutine
-struct  Coroutine_tAE7DB2FC70A0AE6477F896F852057CB0754F06EC  : public YieldInstruction_t836035AC7BD07A3C7909F7AD2A5B42DE99D91C44
+struct Coroutine_tAE7DB2FC70A0AE6477F896F852057CB0754F06EC  : public YieldInstruction_t836035AC7BD07A3C7909F7AD2A5B42DE99D91C44
 {
 public:
 	// System.IntPtr UnityEngine.Coroutine::m_Ptr
@@ -4564,7 +4564,7 @@ struct Coroutine_tAE7DB2FC70A0AE6477F896F852057CB0754F06EC_marshaled_com : publi
 };
 
 // UnityEngine.Object
-struct  Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0  : public RuntimeObject
+struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Object::m_CachedPtr
@@ -4608,7 +4608,7 @@ struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0_marshaled_com
 };
 
 // Windows.Graphics.Holographic.HolographicStereoTransform
-struct  HolographicStereoTransform_t473ED88570152901E23CF1519A0836AEEC89DD48 
+struct HolographicStereoTransform_t473ED88570152901E23CF1519A0836AEEC89DD48 
 {
 public:
 	// System.Numerics.Matrix4x4 Windows.Graphics.Holographic.HolographicStereoTransform::Left
@@ -4636,7 +4636,7 @@ public:
 
 
 // Windows.Graphics.Holographic.HolographicViewConfigurationKind
-struct  HolographicViewConfigurationKind_t5A173BC5CD4FD620674AE736BB7D9784A19EBAEC 
+struct HolographicViewConfigurationKind_t5A173BC5CD4FD620674AE736BB7D9784A19EBAEC 
 {
 public:
 	// System.Int32 Windows.Graphics.Holographic.HolographicViewConfigurationKind::value__
@@ -4654,7 +4654,7 @@ public:
 
 
 // Windows.Perception.People.HandMeshVertex
-struct  HandMeshVertex_t97CBC783B105CAF080C98A2E7D750023040B41C3 
+struct HandMeshVertex_t97CBC783B105CAF080C98A2E7D750023040B41C3 
 {
 public:
 	// System.Numerics.Vector3 Windows.Perception.People.HandMeshVertex::Position
@@ -4682,7 +4682,7 @@ public:
 
 
 // Windows.Storage.Streams.InputStreamOptions
-struct  InputStreamOptions_t84A663CC3616A0D05994D54C1DA6B2E877F7FF82 
+struct InputStreamOptions_t84A663CC3616A0D05994D54C1DA6B2E877F7FF82 
 {
 public:
 	// System.UInt32 Windows.Storage.Streams.InputStreamOptions::value__
@@ -4700,7 +4700,7 @@ public:
 
 
 // Windows.UI.Input.Spatial.SpatialInteractionSourceHandedness
-struct  SpatialInteractionSourceHandedness_t930A9F027DB348D4E843479A1F836F425A45FB25 
+struct SpatialInteractionSourceHandedness_t930A9F027DB348D4E843479A1F836F425A45FB25 
 {
 public:
 	// System.Int32 Windows.UI.Input.Spatial.SpatialInteractionSourceHandedness::value__
@@ -4718,7 +4718,7 @@ public:
 
 
 // Windows.UI.Input.Spatial.SpatialInteractionSourceKind
-struct  SpatialInteractionSourceKind_t121787D88938AD2A5EB266A9C10FAD348762817B 
+struct SpatialInteractionSourceKind_t121787D88938AD2A5EB266A9C10FAD348762817B 
 {
 public:
 	// System.Int32 Windows.UI.Input.Spatial.SpatialInteractionSourceKind::value__
@@ -4736,7 +4736,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.BaseDataProvider`1<Microsoft.MixedReality.Toolkit.CameraSystem.IMixedRealityCameraSystem>
-struct  BaseDataProvider_1_tEE08441EA05F1233204E1CB6F6516E6AEB340444  : public BaseService_t04BD3B909CB87D0CCC7B5C236A124AE2898EE07D
+struct BaseDataProvider_1_tEE08441EA05F1233204E1CB6F6516E6AEB340444  : public BaseService_t04BD3B909CB87D0CCC7B5C236A124AE2898EE07D
 {
 public:
 	// Microsoft.MixedReality.Toolkit.IMixedRealityServiceRegistrar Microsoft.MixedReality.Toolkit.BaseDataProvider`1::<Registrar>k__BackingField
@@ -4766,7 +4766,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.BaseInputSourceDefinition
-struct  BaseInputSourceDefinition_tDFB60353D97B32938D58AE9766C1E31C638C5384  : public RuntimeObject
+struct BaseInputSourceDefinition_tDFB60353D97B32938D58AE9766C1E31C638C5384  : public RuntimeObject
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Utilities.Handedness Microsoft.MixedReality.Toolkit.Input.BaseInputSourceDefinition::<Handedness>k__BackingField
@@ -4784,7 +4784,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityArticulatedHandDefinition/<SetHandMeshObserver>d__9
-struct  U3CSetHandMeshObserverU3Ed__9_tF5F894D82E132B0723A4AF60E48570459ADAB760 
+struct U3CSetHandMeshObserverU3Ed__9_tF5F894D82E132B0723A4AF60E48570459ADAB760 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityArticulatedHandDefinition/<SetHandMeshObserver>d__9::<>1__state
@@ -4855,7 +4855,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityControllerModelProvider/<TryGenerateControllerModelFromPlatformSDK>d__3
-struct  U3CTryGenerateControllerModelFromPlatformSDKU3Ed__3_t79082CF0540C9549C3E86FE63D8736250CCBB1AF 
+struct U3CTryGenerateControllerModelFromPlatformSDKU3Ed__3_t79082CF0540C9549C3E86FE63D8736250CCBB1AF 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityControllerModelProvider/<TryGenerateControllerModelFromPlatformSDK>d__3::<>1__state
@@ -4978,7 +4978,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityHandMeshProvider
-struct  WindowsMixedRealityHandMeshProvider_tCAB93D976D3ED240EB58E740F5306505D239BFE2  : public RuntimeObject
+struct WindowsMixedRealityHandMeshProvider_tCAB93D976D3ED240EB58E740F5306505D239BFE2  : public RuntimeObject
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Utilities.Handedness Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityHandMeshProvider::handedness
@@ -5185,7 +5185,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityHandMeshProvider/<SetHandMeshObserver>d__21
-struct  U3CSetHandMeshObserverU3Ed__21_tFBB5616E4CEC4EA6BB8E1717451DBC535041D96C 
+struct U3CSetHandMeshObserverU3Ed__21_tFBB5616E4CEC4EA6BB8E1717451DBC535041D96C 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityHandMeshProvider/<SetHandMeshObserver>d__21::<>1__state
@@ -5256,7 +5256,7 @@ public:
 
 
 // System.MulticastDelegate
-struct  MulticastDelegate_t  : public Delegate_t
+struct MulticastDelegate_t  : public Delegate_t
 {
 public:
 	// System.Delegate[] System.MulticastDelegate::delegates
@@ -5285,7 +5285,7 @@ struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
 };
 
 // System.SystemException
-struct  SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
+struct SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
 {
 public:
 
@@ -5294,7 +5294,7 @@ public:
 
 
 // System.Threading.Tasks.Task`1<UnityEngine.GameObject>
-struct  Task_1_t5029FFD61E4B10A1E614C1D97F1F0FA5B04557EC  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
+struct Task_1_t5029FFD61E4B10A1E614C1D97F1F0FA5B04557EC  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
 {
 public:
 	// TResult System.Threading.Tasks.Task`1::m_result
@@ -5341,7 +5341,7 @@ public:
 
 
 // UnityEngine.Component
-struct  Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -5350,7 +5350,7 @@ public:
 
 
 // UnityEngine.GameObject
-struct  GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -5359,7 +5359,7 @@ public:
 
 
 // UnityEngine.ScriptableObject
-struct  ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -5388,7 +5388,7 @@ struct NOVTABLE ISpatialInteractionManagerStatics2_t96BFC05F38D85660B066F863703F
 };
 
 // Microsoft.MixedReality.Toolkit.BaseMixedRealityProfile
-struct  BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709  : public ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734
+struct BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709  : public ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734
 {
 public:
 	// System.Boolean Microsoft.MixedReality.Toolkit.BaseMixedRealityProfile::isCustomProfile
@@ -5406,7 +5406,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.CameraSystem.BaseCameraSettingsProvider
-struct  BaseCameraSettingsProvider_t5CFB1A836BE6FDA86270C643CAEFB8479D30D094  : public BaseDataProvider_1_tEE08441EA05F1233204E1CB6F6516E6AEB340444
+struct BaseCameraSettingsProvider_t5CFB1A836BE6FDA86270C643CAEFB8479D30D094  : public BaseDataProvider_1_tEE08441EA05F1233204E1CB6F6516E6AEB340444
 {
 public:
 	// System.Boolean Microsoft.MixedReality.Toolkit.CameraSystem.BaseCameraSettingsProvider::<IsOpaque>k__BackingField
@@ -5424,7 +5424,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.ArticulatedHandDefinition
-struct  ArticulatedHandDefinition_tB3F65D93FBBD41920CA314012BA2284889489510  : public BaseInputSourceDefinition_tDFB60353D97B32938D58AE9766C1E31C638C5384
+struct ArticulatedHandDefinition_tB3F65D93FBBD41920CA314012BA2284889489510  : public BaseInputSourceDefinition_tDFB60353D97B32938D58AE9766C1E31C638C5384
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Input.IMixedRealityInputSource Microsoft.MixedReality.Toolkit.Input.ArticulatedHandDefinition::<InputSource>k__BackingField
@@ -5621,7 +5621,7 @@ public:
 
 
 // System.Action`1<System.Int64>
-struct  Action_1_t3F91D2593C80181986F6D400B3944EA3C78AA703  : public MulticastDelegate_t
+struct Action_1_t3F91D2593C80181986F6D400B3944EA3C78AA703  : public MulticastDelegate_t
 {
 public:
 
@@ -5630,7 +5630,7 @@ public:
 
 
 // System.ArgumentException
-struct  ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 	// System.String System.ArgumentException::m_paramName
@@ -5649,7 +5649,7 @@ public:
 
 
 // System.NotSupportedException
-struct  NotSupportedException_tE75B318D6590A02A5D9B29FD97409B1750FA0010  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct NotSupportedException_tE75B318D6590A02A5D9B29FD97409B1750FA0010  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -5658,7 +5658,7 @@ public:
 
 
 // UnityEngine.Behaviour
-struct  Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
+struct Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
 {
 public:
 
@@ -5667,7 +5667,7 @@ public:
 
 
 // UnityEngine.WSA.AppCallbackItem
-struct  AppCallbackItem_tC11DC3EB621654A77E58E02B69E0CDAF342EF11F  : public MulticastDelegate_t
+struct AppCallbackItem_tC11DC3EB621654A77E58E02B69E0CDAF342EF11F  : public MulticastDelegate_t
 {
 public:
 
@@ -5676,7 +5676,7 @@ public:
 
 
 // Windows.UI.Input.Spatial.SpatialInteractionManager
-struct  SpatialInteractionManager_t5887B5CBAB5D33035034BFEC7869313C9A02BD53  : public Il2CppComObject
+struct SpatialInteractionManager_t5887B5CBAB5D33035034BFEC7869313C9A02BD53  : public Il2CppComObject
 {
 public:
 
@@ -5748,7 +5748,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.CameraSystem.BaseCameraSettingsProfile
-struct  BaseCameraSettingsProfile_t33A04EDD44157AD2636E80798C7E787BF2DEA9AE  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
+struct BaseCameraSettingsProfile_t33A04EDD44157AD2636E80798C7E787BF2DEA9AE  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
 {
 public:
 
@@ -5757,7 +5757,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.MixedRealityHandTrackingProfile
-struct  MixedRealityHandTrackingProfile_t5C885178342A9C4D2F03AD41904F269293212C6C  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
+struct MixedRealityHandTrackingProfile_t5C885178342A9C4D2F03AD41904F269293212C6C  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
 {
 public:
 	// UnityEngine.GameObject Microsoft.MixedReality.Toolkit.Input.MixedRealityHandTrackingProfile::jointPrefab
@@ -5829,7 +5829,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.MixedRealityInputSystemProfile
-struct  MixedRealityInputSystemProfile_t9262E848642ADE3AC06DF2B286E7D530B7969C16  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
+struct MixedRealityInputSystemProfile_t9262E848642ADE3AC06DF2B286E7D530B7969C16  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Input.MixedRealityInputDataProviderConfiguration[] Microsoft.MixedReality.Toolkit.Input.MixedRealityInputSystemProfile::dataProviderConfigurations
@@ -6009,7 +6009,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsMixedReality.BaseWindowsMixedRealityCameraSettings
-struct  BaseWindowsMixedRealityCameraSettings_tB8686BD4E94DBB56AF047FE0AB5637877A4926AC  : public BaseCameraSettingsProvider_t5CFB1A836BE6FDA86270C643CAEFB8479D30D094
+struct BaseWindowsMixedRealityCameraSettings_tB8686BD4E94DBB56AF047FE0AB5637877A4926AC  : public BaseCameraSettingsProvider_t5CFB1A836BE6FDA86270C643CAEFB8479D30D094
 {
 public:
 	// Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityReprojectionUpdater Microsoft.MixedReality.Toolkit.WindowsMixedReality.BaseWindowsMixedRealityCameraSettings::reprojectionUpdater
@@ -6055,7 +6055,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityArticulatedHandDefinition
-struct  WindowsMixedRealityArticulatedHandDefinition_t23C5A6505448C49D59D165BBACD3CA187CBCACB9  : public ArticulatedHandDefinition_tB3F65D93FBBD41920CA314012BA2284889489510
+struct WindowsMixedRealityArticulatedHandDefinition_t23C5A6505448C49D59D165BBACD3CA187CBCACB9  : public ArticulatedHandDefinition_tB3F65D93FBBD41920CA314012BA2284889489510
 {
 public:
 	// Windows.Perception.People.HandMeshObserver Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityArticulatedHandDefinition::handMeshObserver
@@ -6166,7 +6166,7 @@ public:
 
 
 // UnityEngine.Camera
-struct  Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34  : public Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8
+struct Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34  : public Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8
 {
 public:
 
@@ -6214,7 +6214,7 @@ public:
 
 
 // UnityEngine.MonoBehaviour
-struct  MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429  : public Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8
+struct MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429  : public Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8
 {
 public:
 
@@ -6223,7 +6223,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.CameraSystem.ProjectionOverride
-struct  ProjectionOverride_t191EF3C063D068EF148A64BC2DA617A37C9561EC  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
+struct ProjectionOverride_t191EF3C063D068EF148A64BC2DA617A37C9561EC  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
 {
 public:
 	// System.Boolean Microsoft.MixedReality.Toolkit.CameraSystem.ProjectionOverride::<ReadingModeEnabled>k__BackingField
@@ -6241,7 +6241,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.WindowsMixedRealityHandRecorder
-struct  WindowsMixedRealityHandRecorder_t06244B122CE683DFD6FCA66ED6D778AE1A400073  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
+struct WindowsMixedRealityHandRecorder_t06244B122CE683DFD6FCA66ED6D778AE1A400073  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Utilities.TrackedHandJoint Microsoft.MixedReality.Toolkit.Input.WindowsMixedRealityHandRecorder::<ReferenceJoint>k__BackingField
@@ -6290,7 +6290,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityCameraSettingsProfile
-struct  WindowsMixedRealityCameraSettingsProfile_t489F1770FB645D33213B53956156B55DE8E22825  : public BaseCameraSettingsProfile_t33A04EDD44157AD2636E80798C7E787BF2DEA9AE
+struct WindowsMixedRealityCameraSettingsProfile_t489F1770FB645D33213B53956156B55DE8E22825  : public BaseCameraSettingsProfile_t33A04EDD44157AD2636E80798C7E787BF2DEA9AE
 {
 public:
 	// System.Boolean Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityCameraSettingsProfile::renderFromPVCameraForMixedRealityCapture
@@ -6328,7 +6328,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityReprojectionUpdater
-struct  WindowsMixedRealityReprojectionUpdater_tA4DA5BD87CA2C3AAA638B6900E572E20904AD7F1  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
+struct WindowsMixedRealityReprojectionUpdater_tA4DA5BD87CA2C3AAA638B6900E572E20904AD7F1  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
 {
 public:
 	// Microsoft.MixedReality.Toolkit.WindowsMixedReality.HolographicDepthReprojectionMethod Microsoft.MixedReality.Toolkit.WindowsMixedReality.WindowsMixedRealityReprojectionUpdater::<ReprojectionMethod>k__BackingField

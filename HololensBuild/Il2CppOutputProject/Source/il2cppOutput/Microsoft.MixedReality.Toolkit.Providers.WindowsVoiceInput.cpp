@@ -395,7 +395,7 @@ IL2CPP_EXTERN_C_END
 #endif
 
 // <Module>
-struct  U3CModuleU3E_tC6D183FFBD4D2C47F993DE15A073462E62CD1A3F 
+struct U3CModuleU3E_tC6D183FFBD4D2C47F993DE15A073462E62CD1A3F 
 {
 public:
 
@@ -407,7 +407,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.AwaiterExtensions/SimpleCoroutineAwaiter
-struct  SimpleCoroutineAwaiter_tD618779644EDFB055367936A2241B08420F800F0  : public RuntimeObject
+struct SimpleCoroutineAwaiter_tD618779644EDFB055367936A2241B08420F800F0  : public RuntimeObject
 {
 public:
 	// System.Exception Microsoft.MixedReality.Toolkit.Utilities.AwaiterExtensions/SimpleCoroutineAwaiter::exception
@@ -447,7 +447,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Windows.Input.WindowsDictationInputProvider/<>c
-struct  U3CU3Ec_t1907280F032A77F54BECAA6137DE56D41DAF1A57  : public RuntimeObject
+struct U3CU3Ec_t1907280F032A77F54BECAA6137DE56D41DAF1A57  : public RuntimeObject
 {
 public:
 
@@ -521,7 +521,7 @@ struct Il2CppArrayBounds;
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -566,7 +566,7 @@ public:
 
 
 // System.Text.StringBuilder
-struct  StringBuilder_t  : public RuntimeObject
+struct StringBuilder_t  : public RuntimeObject
 {
 public:
 	// System.Char[] System.Text.StringBuilder::m_ChunkChars
@@ -626,7 +626,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
+struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
 {
 public:
 
@@ -643,7 +643,7 @@ struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF_marshaled_com
 };
 
 // UnityEngine.CustomYieldInstruction
-struct  CustomYieldInstruction_t819BB0973AFF22766749FF087B8AEFEAF3C2CB7D  : public RuntimeObject
+struct CustomYieldInstruction_t819BB0973AFF22766749FF087B8AEFEAF3C2CB7D  : public RuntimeObject
 {
 public:
 
@@ -652,7 +652,7 @@ public:
 
 
 // System.Boolean
-struct  Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
+struct Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -698,7 +698,7 @@ public:
 
 
 // System.DateTime
-struct  DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 
+struct DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 
 {
 public:
 	// System.UInt64 System.DateTime::dateData
@@ -764,7 +764,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
+struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
 {
 public:
 
@@ -798,7 +798,7 @@ struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521_marshaled_com
 };
 
 // System.Int32
-struct  Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
+struct Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -816,7 +816,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -850,7 +850,7 @@ public:
 
 
 // System.Nullable`1<System.Boolean>
-struct  Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793 
+struct Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793 
 {
 public:
 	// T System.Nullable`1::value
@@ -878,7 +878,7 @@ public:
 
 
 // System.Nullable`1<System.Int32>
-struct  Nullable_1_t0D03270832B3FFDDC0E7C2D89D4A0EA25376A1EB 
+struct Nullable_1_t0D03270832B3FFDDC0E7C2D89D4A0EA25376A1EB 
 {
 public:
 	// T System.Nullable`1::value
@@ -906,7 +906,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncMethodBuilderCore
-struct  AsyncMethodBuilderCore_t4CE6C1E4B0621A6EC45CF6E0E8F1F633FFF9FF01 
+struct AsyncMethodBuilderCore_t4CE6C1E4B0621A6EC45CF6E0E8F1F633FFF9FF01 
 {
 public:
 	// System.Runtime.CompilerServices.IAsyncStateMachine System.Runtime.CompilerServices.AsyncMethodBuilderCore::m_stateMachine
@@ -948,7 +948,7 @@ struct AsyncMethodBuilderCore_t4CE6C1E4B0621A6EC45CF6E0E8F1F633FFF9FF01_marshale
 };
 
 // System.Runtime.CompilerServices.TaskAwaiter
-struct  TaskAwaiter_t0CDE8DBB564F0A0EA55FA6B3D43EEF96BC26252F 
+struct TaskAwaiter_t0CDE8DBB564F0A0EA55FA6B3D43EEF96BC26252F 
 {
 public:
 	// System.Threading.Tasks.Task System.Runtime.CompilerServices.TaskAwaiter::m_task
@@ -977,7 +977,7 @@ struct TaskAwaiter_t0CDE8DBB564F0A0EA55FA6B3D43EEF96BC26252F_marshaled_com
 };
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<System.Object>
-struct  TaskAwaiter_1_t8CDB78D2A4D48E80C35A8FF6FC04A82B9FC35977 
+struct TaskAwaiter_1_t8CDB78D2A4D48E80C35A8FF6FC04A82B9FC35977 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -996,7 +996,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<UnityEngine.AudioClip>
-struct  TaskAwaiter_1_t1CBDF733362C45EC91B0E9317C766E5A2FA02B99 
+struct TaskAwaiter_1_t1CBDF733362C45EC91B0E9317C766E5A2FA02B99 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -1015,7 +1015,7 @@ public:
 
 
 // System.Single
-struct  Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
+struct Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
 {
 public:
 	// System.Single System.Single::m_value
@@ -1033,7 +1033,7 @@ public:
 
 
 // System.UInt16
-struct  UInt16_tAE45CEF73BF720100519F6867F32145D075F928E 
+struct UInt16_tAE45CEF73BF720100519F6867F32145D075F928E 
 {
 public:
 	// System.UInt16 System.UInt16::m_value
@@ -1051,7 +1051,7 @@ public:
 
 
 // System.UInt32
-struct  UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
+struct UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
 {
 public:
 	// System.UInt32 System.UInt32::m_value
@@ -1069,7 +1069,7 @@ public:
 
 
 // System.Void
-struct  Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
+struct Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
 {
 public:
 	union
@@ -1085,7 +1085,7 @@ public:
 
 
 // UnityEngine.WaitUntil
-struct  WaitUntil_t012561515C0E1D3DEA19DB3A05444B020C68E13F  : public CustomYieldInstruction_t819BB0973AFF22766749FF087B8AEFEAF3C2CB7D
+struct WaitUntil_t012561515C0E1D3DEA19DB3A05444B020C68E13F  : public CustomYieldInstruction_t819BB0973AFF22766749FF087B8AEFEAF3C2CB7D
 {
 public:
 	// System.Func`1<System.Boolean> UnityEngine.WaitUntil::m_Predicate
@@ -1104,7 +1104,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.BaseService
-struct  BaseService_t04BD3B909CB87D0CCC7B5C236A124AE2898EE07D  : public RuntimeObject
+struct BaseService_t04BD3B909CB87D0CCC7B5C236A124AE2898EE07D  : public RuntimeObject
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.BaseService::<Name>k__BackingField
@@ -1184,7 +1184,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.InputSourceType
-struct  InputSourceType_tC80C0DAA2FE6E1D108B57DAD19D042E157183CC6 
+struct InputSourceType_tC80C0DAA2FE6E1D108B57DAD19D042E157183CC6 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Input.InputSourceType::value__
@@ -1202,7 +1202,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.MixedRealityCapability
-struct  MixedRealityCapability_t7B7AEE6BFBE1123E5B65993ABF761CE5E494DD1F 
+struct MixedRealityCapability_t7B7AEE6BFBE1123E5B65993ABF761CE5E494DD1F 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.MixedRealityCapability::value__
@@ -1220,7 +1220,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.AutoStartBehavior
-struct  AutoStartBehavior_t10B2527F70978B5CB36186CAF8E41D5BF1A8CC8B 
+struct AutoStartBehavior_t10B2527F70978B5CB36186CAF8E41D5BF1A8CC8B 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.AutoStartBehavior::value__
@@ -1238,7 +1238,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.AxisType
-struct  AxisType_tB1349A32D492597F2BE1244EDFC343C295DE7E0C 
+struct AxisType_tB1349A32D492597F2BE1244EDFC343C295DE7E0C 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.AxisType::value__
@@ -1256,7 +1256,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.RecognitionConfidenceLevel
-struct  RecognitionConfidenceLevel_t0782D3909BC885C693940366710EB5935B28E76A 
+struct RecognitionConfidenceLevel_t0782D3909BC885C693940366710EB5935B28E76A 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.RecognitionConfidenceLevel::value__
@@ -1274,7 +1274,7 @@ public:
 
 
 // System.Delegate
-struct  Delegate_t  : public RuntimeObject
+struct Delegate_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Delegate::method_ptr
@@ -1426,7 +1426,7 @@ struct Delegate_t_marshaled_com
 };
 
 // System.Exception
-struct  Exception_t  : public RuntimeObject
+struct Exception_t  : public RuntimeObject
 {
 public:
 	// System.String System.Exception::_className
@@ -1652,7 +1652,7 @@ struct Exception_t_marshaled_com
 };
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Object>
-struct  AsyncTaskMethodBuilder_1_t2A9513A084F4B19851B91EF1F22BB57776D35663 
+struct AsyncTaskMethodBuilder_1_t2A9513A084F4B19851B91EF1F22BB57776D35663 
 {
 public:
 	// System.Runtime.CompilerServices.AsyncMethodBuilderCore System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::m_coreState
@@ -1702,7 +1702,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Threading.Tasks.VoidTaskResult>
-struct  AsyncTaskMethodBuilder_1_t66ED1808B26B8081A2804D6A750D13386E360BD9 
+struct AsyncTaskMethodBuilder_1_t66ED1808B26B8081A2804D6A750D13386E360BD9 
 {
 public:
 	// System.Runtime.CompilerServices.AsyncMethodBuilderCore System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::m_coreState
@@ -1752,7 +1752,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<UnityEngine.AudioClip>
-struct  AsyncTaskMethodBuilder_1_tD2F8773433ABAC7266323C8FBDFE204289FE17B6 
+struct AsyncTaskMethodBuilder_1_tD2F8773433ABAC7266323C8FBDFE204289FE17B6 
 {
 public:
 	// System.Runtime.CompilerServices.AsyncMethodBuilderCore System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::m_coreState
@@ -1802,7 +1802,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncVoidMethodBuilder
-struct  AsyncVoidMethodBuilder_t44E3C9B52B019BB5BDCC0E1BB83188B536161CFF 
+struct AsyncVoidMethodBuilder_t44E3C9B52B019BB5BDCC0E1BB83188B536161CFF 
 {
 public:
 	// System.Threading.SynchronizationContext System.Runtime.CompilerServices.AsyncVoidMethodBuilder::m_synchronizationContext
@@ -1860,7 +1860,7 @@ struct AsyncVoidMethodBuilder_t44E3C9B52B019BB5BDCC0E1BB83188B536161CFF_marshale
 };
 
 // System.Threading.Tasks.Task
-struct  Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2  : public RuntimeObject
+struct Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2  : public RuntimeObject
 {
 public:
 	// System.Int32 modreq(System.Runtime.CompilerServices.IsVolatile) System.Threading.Tasks.Task::m_taskId
@@ -2118,7 +2118,7 @@ public:
 
 
 // System.TimeSpan
-struct  TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 
+struct TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 
 {
 public:
 	// System.Int64 System.TimeSpan::_ticks
@@ -2192,7 +2192,7 @@ public:
 
 
 // Unity.Profiling.ProfilerMarker
-struct  ProfilerMarker_t41096870004E8A2081E31E01BC0552F2F01F2B86 
+struct ProfilerMarker_t41096870004E8A2081E31E01BC0552F2F01F2B86 
 {
 public:
 	// System.IntPtr Unity.Profiling.ProfilerMarker::m_Ptr
@@ -2210,7 +2210,7 @@ public:
 
 
 // Unity.Profiling.ProfilerMarker/AutoScope
-struct  AutoScope_tFCF9F27FF85DCD3A3880FAADCB520F29B1543A7F 
+struct AutoScope_tFCF9F27FF85DCD3A3880FAADCB520F29B1543A7F 
 {
 public:
 	// System.IntPtr Unity.Profiling.ProfilerMarker/AutoScope::m_Ptr
@@ -2228,7 +2228,7 @@ public:
 
 
 // UnityEngine.KeyCode
-struct  KeyCode_tC93EA87C5A6901160B583ADFCD3EF6726570DC3C 
+struct KeyCode_tC93EA87C5A6901160B583ADFCD3EF6726570DC3C 
 {
 public:
 	// System.Int32 UnityEngine.KeyCode::value__
@@ -2246,7 +2246,7 @@ public:
 
 
 // UnityEngine.Object
-struct  Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0  : public RuntimeObject
+struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Object::m_CachedPtr
@@ -2290,7 +2290,7 @@ struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0_marshaled_com
 };
 
 // UnityEngine.Windows.Speech.ConfidenceLevel
-struct  ConfidenceLevel_t56554EC6B602F1294B9E933704E2EC961906AA36 
+struct ConfidenceLevel_t56554EC6B602F1294B9E933704E2EC961906AA36 
 {
 public:
 	// System.Int32 UnityEngine.Windows.Speech.ConfidenceLevel::value__
@@ -2308,7 +2308,7 @@ public:
 
 
 // UnityEngine.Windows.Speech.DictationCompletionCause
-struct  DictationCompletionCause_tAF978578CFACB799A3DB54BA549C780C5E181FC1 
+struct DictationCompletionCause_tAF978578CFACB799A3DB54BA549C780C5E181FC1 
 {
 public:
 	// System.Int32 UnityEngine.Windows.Speech.DictationCompletionCause::value__
@@ -2326,7 +2326,7 @@ public:
 
 
 // UnityEngine.Windows.Speech.DictationRecognizer
-struct  DictationRecognizer_tAABC39C7583FCB17ADB78BCE15E2E1AEFA85F355  : public RuntimeObject
+struct DictationRecognizer_tAABC39C7583FCB17ADB78BCE15E2E1AEFA85F355  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Windows.Speech.DictationRecognizer::m_Recognizer
@@ -2388,7 +2388,7 @@ public:
 
 
 // UnityEngine.Windows.Speech.PhraseRecognizer
-struct  PhraseRecognizer_t3D0602E6C70DD7177C28FBA60BE17CF2D8D5701F  : public RuntimeObject
+struct PhraseRecognizer_t3D0602E6C70DD7177C28FBA60BE17CF2D8D5701F  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Windows.Speech.PhraseRecognizer::m_Recognizer
@@ -2417,7 +2417,7 @@ public:
 
 
 // UnityEngine.Windows.Speech.SpeechSystemStatus
-struct  SpeechSystemStatus_t2CCB4587008A89270736621140A65C1B5BB22317 
+struct SpeechSystemStatus_t2CCB4587008A89270736621140A65C1B5BB22317 
 {
 public:
 	// System.Int32 UnityEngine.Windows.Speech.SpeechSystemStatus::value__
@@ -2435,7 +2435,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.BaseDataProvider`1<Microsoft.MixedReality.Toolkit.Input.IMixedRealityInputSystem>
-struct  BaseDataProvider_1_t375B765F0EDEABF5447143D32EE5349B4E77E1CC  : public BaseService_t04BD3B909CB87D0CCC7B5C236A124AE2898EE07D
+struct BaseDataProvider_1_t375B765F0EDEABF5447143D32EE5349B4E77E1CC  : public BaseService_t04BD3B909CB87D0CCC7B5C236A124AE2898EE07D
 {
 public:
 	// Microsoft.MixedReality.Toolkit.IMixedRealityServiceRegistrar Microsoft.MixedReality.Toolkit.BaseDataProvider`1::<Registrar>k__BackingField
@@ -2465,7 +2465,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.BaseDataProvider`1<System.Object>
-struct  BaseDataProvider_1_t91C293BC735B7FE9890829B0A7BF63C844FDA201  : public BaseService_t04BD3B909CB87D0CCC7B5C236A124AE2898EE07D
+struct BaseDataProvider_1_t91C293BC735B7FE9890829B0A7BF63C844FDA201  : public BaseService_t04BD3B909CB87D0CCC7B5C236A124AE2898EE07D
 {
 public:
 	// Microsoft.MixedReality.Toolkit.IMixedRealityServiceRegistrar Microsoft.MixedReality.Toolkit.BaseDataProvider`1::<Registrar>k__BackingField
@@ -2495,7 +2495,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.BaseGlobalInputSource
-struct  BaseGlobalInputSource_t358B623FBE36AB6499DC13E61FCF247475325899  : public RuntimeObject
+struct BaseGlobalInputSource_t358B623FBE36AB6499DC13E61FCF247475325899  : public RuntimeObject
 {
 public:
 	// System.UInt32 Microsoft.MixedReality.Toolkit.Input.BaseGlobalInputSource::<SourceId>k__BackingField
@@ -2556,7 +2556,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.MixedRealityInputAction
-struct  MixedRealityInputAction_t5B61307291187B5DFD1199E73E785381223173FC 
+struct MixedRealityInputAction_t5B61307291187B5DFD1199E73E785381223173FC 
 {
 public:
 	// System.UInt32 Microsoft.MixedReality.Toolkit.Input.MixedRealityInputAction::id
@@ -2626,7 +2626,7 @@ struct MixedRealityInputAction_t5B61307291187B5DFD1199E73E785381223173FC_marshal
 };
 
 // Microsoft.MixedReality.Toolkit.Windows.Input.WindowsDictationInputProvider/<Disable>d__31
-struct  U3CDisableU3Ed__31_tFCA399B9D431BD94C7242E147F1695D94DBC2CF9 
+struct U3CDisableU3Ed__31_tFCA399B9D431BD94C7242E147F1695D94DBC2CF9 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Windows.Input.WindowsDictationInputProvider/<Disable>d__31::<>1__state
@@ -2686,7 +2686,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Windows.Input.WindowsDictationInputProvider/<StartRecording>d__7
-struct  U3CStartRecordingU3Ed__7_tCC10D7E02975FF0642D9D43885C9FA8F9258E735 
+struct U3CStartRecordingU3Ed__7_tCC10D7E02975FF0642D9D43885C9FA8F9258E735 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Windows.Input.WindowsDictationInputProvider/<StartRecording>d__7::<>1__state
@@ -2798,7 +2798,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Windows.Input.WindowsDictationInputProvider/<StopRecording>d__8
-struct  U3CStopRecordingU3Ed__8_t08991192206D60B5C07D57A56602863295737133 
+struct U3CStopRecordingU3Ed__8_t08991192206D60B5C07D57A56602863295737133 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Windows.Input.WindowsDictationInputProvider/<StopRecording>d__8::<>1__state
@@ -2858,7 +2858,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Windows.Input.WindowsDictationInputProvider/<StopRecordingAsync>d__12
-struct  U3CStopRecordingAsyncU3Ed__12_tB12C4E2E3D8724C033358CC78E07249E025E9975 
+struct U3CStopRecordingAsyncU3Ed__12_tB12C4E2E3D8724C033358CC78E07249E025E9975 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Windows.Input.WindowsDictationInputProvider/<StopRecordingAsync>d__12::<>1__state
@@ -2925,7 +2925,7 @@ public:
 
 
 // System.MulticastDelegate
-struct  MulticastDelegate_t  : public Delegate_t
+struct MulticastDelegate_t  : public Delegate_t
 {
 public:
 	// System.Delegate[] System.MulticastDelegate::delegates
@@ -2954,7 +2954,7 @@ struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
 };
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder
-struct  AsyncTaskMethodBuilder_t0CD1893D670405BED201BE8CA6F2E811F2C0F487 
+struct AsyncTaskMethodBuilder_t0CD1893D670405BED201BE8CA6F2E811F2C0F487 
 {
 public:
 	// System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Threading.Tasks.VoidTaskResult> System.Runtime.CompilerServices.AsyncTaskMethodBuilder::m_builder
@@ -3006,7 +3006,7 @@ struct AsyncTaskMethodBuilder_t0CD1893D670405BED201BE8CA6F2E811F2C0F487_marshale
 };
 
 // System.Threading.Tasks.Task`1<UnityEngine.AudioClip>
-struct  Task_1_t1FD9AF71747895AEE56DD875875ED8409EFAD2CC  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
+struct Task_1_t1FD9AF71747895AEE56DD875875ED8409EFAD2CC  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
 {
 public:
 	// TResult System.Threading.Tasks.Task`1::m_result
@@ -3053,7 +3053,7 @@ public:
 
 
 // UnityEngine.AudioClip
-struct  AudioClip_tCC3C35F579203CE2601243585AB3D6953C3BA051  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct AudioClip_tCC3C35F579203CE2601243585AB3D6953C3BA051  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 	// UnityEngine.AudioClip/PCMReaderCallback UnityEngine.AudioClip::m_PCMReaderCallback
@@ -3083,7 +3083,7 @@ public:
 
 
 // UnityEngine.GameObject
-struct  GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -3092,7 +3092,7 @@ public:
 
 
 // UnityEngine.ScriptableObject
-struct  ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -3109,7 +3109,7 @@ struct ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734_marshaled_com 
 };
 
 // UnityEngine.Windows.Speech.KeywordRecognizer
-struct  KeywordRecognizer_t8F0A26BBF11FE0307328C06B4A9EB4268386578C  : public PhraseRecognizer_t3D0602E6C70DD7177C28FBA60BE17CF2D8D5701F
+struct KeywordRecognizer_t8F0A26BBF11FE0307328C06B4A9EB4268386578C  : public PhraseRecognizer_t3D0602E6C70DD7177C28FBA60BE17CF2D8D5701F
 {
 public:
 	// System.Collections.Generic.IEnumerable`1<System.String> UnityEngine.Windows.Speech.KeywordRecognizer::<Keywords>k__BackingField
@@ -3128,7 +3128,7 @@ public:
 
 
 // UnityEngine.Windows.Speech.PhraseRecognizedEventArgs
-struct  PhraseRecognizedEventArgs_t5045E5956BF185A7C661A2B56466E9C6101BAFAD 
+struct PhraseRecognizedEventArgs_t5045E5956BF185A7C661A2B56466E9C6101BAFAD 
 {
 public:
 	// UnityEngine.Windows.Speech.ConfidenceLevel UnityEngine.Windows.Speech.PhraseRecognizedEventArgs::confidence
@@ -3206,7 +3206,7 @@ struct PhraseRecognizedEventArgs_t5045E5956BF185A7C661A2B56466E9C6101BAFAD_marsh
 };
 
 // Microsoft.MixedReality.Toolkit.BaseMixedRealityProfile
-struct  BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709  : public ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734
+struct BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709  : public ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734
 {
 public:
 	// System.Boolean Microsoft.MixedReality.Toolkit.BaseMixedRealityProfile::isCustomProfile
@@ -3224,7 +3224,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.BaseInputDeviceManager
-struct  BaseInputDeviceManager_t4EB9FFA37404B8BEFEA46653A18A70459872FDA2  : public BaseDataProvider_1_t375B765F0EDEABF5447143D32EE5349B4E77E1CC
+struct BaseInputDeviceManager_t4EB9FFA37404B8BEFEA46653A18A70459872FDA2  : public BaseDataProvider_1_t375B765F0EDEABF5447143D32EE5349B4E77E1CC
 {
 public:
 	// System.Boolean Microsoft.MixedReality.Toolkit.Input.BaseInputDeviceManager::enablePointerCache
@@ -3310,7 +3310,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.SpeechCommands
-struct  SpeechCommands_t4E7B7E9CF0CD5E300B33C305CE9D08A9F58DED00 
+struct SpeechCommands_t4E7B7E9CF0CD5E300B33C305CE9D08A9F58DED00 
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.Input.SpeechCommands::localizationKey
@@ -3390,7 +3390,7 @@ struct SpeechCommands_t4E7B7E9CF0CD5E300B33C305CE9D08A9F58DED00_marshaled_com
 };
 
 // Microsoft.MixedReality.Toolkit.Windows.Input.WindowsDictationInputProvider/<StartRecordingAsync>d__10
-struct  U3CStartRecordingAsyncU3Ed__10_tBAD52D94221A0DF6DA746ADA8EB79A6A9CC8AF1B 
+struct U3CStartRecordingAsyncU3Ed__10_tBAD52D94221A0DF6DA746ADA8EB79A6A9CC8AF1B 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Windows.Input.WindowsDictationInputProvider/<StartRecordingAsync>d__10::<>1__state
@@ -3509,7 +3509,7 @@ public:
 
 
 // System.Func`1<System.Boolean>
-struct  Func_1_t4ABD6DAD480574F152452DD6B9C9A55F4F6655F1  : public MulticastDelegate_t
+struct Func_1_t4ABD6DAD480574F152452DD6B9C9A55F4F6655F1  : public MulticastDelegate_t
 {
 public:
 
@@ -3518,7 +3518,7 @@ public:
 
 
 // UnityEngine.Windows.Speech.DictationRecognizer/DictationCompletedDelegate
-struct  DictationCompletedDelegate_tA2164679CEDD4101C6D628AFE6F38988D4D1D0DC  : public MulticastDelegate_t
+struct DictationCompletedDelegate_tA2164679CEDD4101C6D628AFE6F38988D4D1D0DC  : public MulticastDelegate_t
 {
 public:
 
@@ -3527,7 +3527,7 @@ public:
 
 
 // UnityEngine.Windows.Speech.DictationRecognizer/DictationErrorHandler
-struct  DictationErrorHandler_t2FD4C7DAA73E5B75D13591C4D45523577C66FF13  : public MulticastDelegate_t
+struct DictationErrorHandler_t2FD4C7DAA73E5B75D13591C4D45523577C66FF13  : public MulticastDelegate_t
 {
 public:
 
@@ -3536,7 +3536,7 @@ public:
 
 
 // UnityEngine.Windows.Speech.DictationRecognizer/DictationHypothesisDelegate
-struct  DictationHypothesisDelegate_tC4A57853B520FE11F0C48C80E2C8009B7A1691FF  : public MulticastDelegate_t
+struct DictationHypothesisDelegate_tC4A57853B520FE11F0C48C80E2C8009B7A1691FF  : public MulticastDelegate_t
 {
 public:
 
@@ -3545,7 +3545,7 @@ public:
 
 
 // UnityEngine.Windows.Speech.DictationRecognizer/DictationResultDelegate
-struct  DictationResultDelegate_t7827401C3739DC46ED8973A260871DC62D84DB87  : public MulticastDelegate_t
+struct DictationResultDelegate_t7827401C3739DC46ED8973A260871DC62D84DB87  : public MulticastDelegate_t
 {
 public:
 
@@ -3554,7 +3554,7 @@ public:
 
 
 // UnityEngine.Windows.Speech.PhraseRecognizer/PhraseRecognizedDelegate
-struct  PhraseRecognizedDelegate_tC74E35BB76ACD314D7112D01626D41BEDC01B0D0  : public MulticastDelegate_t
+struct PhraseRecognizedDelegate_tC74E35BB76ACD314D7112D01626D41BEDC01B0D0  : public MulticastDelegate_t
 {
 public:
 
@@ -3563,7 +3563,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.MixedRealityInputSystemProfile
-struct  MixedRealityInputSystemProfile_t9262E848642ADE3AC06DF2B286E7D530B7969C16  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
+struct MixedRealityInputSystemProfile_t9262E848642ADE3AC06DF2B286E7D530B7969C16  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Input.MixedRealityInputDataProviderConfiguration[] Microsoft.MixedReality.Toolkit.Input.MixedRealityInputSystemProfile::dataProviderConfigurations
@@ -3743,7 +3743,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.MixedRealitySpeechCommandsProfile
-struct  MixedRealitySpeechCommandsProfile_t8B2033DEE6FEA3E9467CC96FC75B7AFE8DB7F7F4  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
+struct MixedRealitySpeechCommandsProfile_t8B2033DEE6FEA3E9467CC96FC75B7AFE8DB7F7F4  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Utilities.AutoStartBehavior Microsoft.MixedReality.Toolkit.Input.MixedRealitySpeechCommandsProfile::startBehavior
@@ -3782,7 +3782,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Windows.Input.WindowsDictationInputProvider
-struct  WindowsDictationInputProvider_tD01FA4BDFE9CB28CE9332FA2D3AB1D69231117CE  : public BaseInputDeviceManager_t4EB9FFA37404B8BEFEA46653A18A70459872FDA2
+struct WindowsDictationInputProvider_tD01FA4BDFE9CB28CE9332FA2D3AB1D69231117CE  : public BaseInputDeviceManager_t4EB9FFA37404B8BEFEA46653A18A70459872FDA2
 {
 public:
 	// System.Boolean Microsoft.MixedReality.Toolkit.Windows.Input.WindowsDictationInputProvider::<IsListening>k__BackingField
@@ -4026,7 +4026,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Windows.Input.WindowsSpeechInputProvider
-struct  WindowsSpeechInputProvider_tA42E75BEC9276388BCCA61725F41D94C85909ACA  : public BaseInputDeviceManager_t4EB9FFA37404B8BEFEA46653A18A70459872FDA2
+struct WindowsSpeechInputProvider_tA42E75BEC9276388BCCA61725F41D94C85909ACA  : public BaseInputDeviceManager_t4EB9FFA37404B8BEFEA46653A18A70459872FDA2
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Utilities.RecognitionConfidenceLevel Microsoft.MixedReality.Toolkit.Windows.Input.WindowsSpeechInputProvider::<RecognitionConfidenceLevel>k__BackingField

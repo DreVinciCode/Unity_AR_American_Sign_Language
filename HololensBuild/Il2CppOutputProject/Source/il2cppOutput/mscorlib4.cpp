@@ -1894,7 +1894,7 @@ IL2CPP_EXTERN_C_END
 
 
 // Mono.Globalization.Unicode.MSCompatUnicodeTable
-struct  MSCompatUnicodeTable_tF7317B16A2F3BD7B319A929F839E7E23ECCE860B  : public RuntimeObject
+struct MSCompatUnicodeTable_tF7317B16A2F3BD7B319A929F839E7E23ECCE860B  : public RuntimeObject
 {
 public:
 
@@ -2102,7 +2102,7 @@ public:
 
 
 // Mono.Globalization.Unicode.SimpleCollator
-struct  SimpleCollator_tC3A1720B7D3D850D5C23BE8E366D821EBA923D89  : public RuntimeObject
+struct SimpleCollator_tC3A1720B7D3D850D5C23BE8E366D821EBA923D89  : public RuntimeObject
 {
 public:
 	// System.Globalization.TextInfo Mono.Globalization.Unicode.SimpleCollator::textInfo
@@ -2257,7 +2257,7 @@ struct Il2CppArrayBounds;
 
 
 // System.Attribute
-struct  Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74  : public RuntimeObject
+struct Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74  : public RuntimeObject
 {
 public:
 
@@ -2266,7 +2266,7 @@ public:
 
 
 // System.Collections.CaseInsensitiveComparer
-struct  CaseInsensitiveComparer_tF9935EB25E69CEF5A3B17CE8D22E2797F23B17BE  : public RuntimeObject
+struct CaseInsensitiveComparer_tF9935EB25E69CEF5A3B17CE8D22E2797F23B17BE  : public RuntimeObject
 {
 public:
 	// System.Globalization.CompareInfo System.Collections.CaseInsensitiveComparer::m_compareInfo
@@ -2285,7 +2285,7 @@ public:
 
 
 // System.Collections.CaseInsensitiveHashCodeProvider
-struct  CaseInsensitiveHashCodeProvider_tC6D5564219051252BBC7B49F78CC8173105F0C34  : public RuntimeObject
+struct CaseInsensitiveHashCodeProvider_tC6D5564219051252BBC7B49F78CC8173105F0C34  : public RuntimeObject
 {
 public:
 	// System.Globalization.TextInfo System.Collections.CaseInsensitiveHashCodeProvider::m_text
@@ -2304,7 +2304,7 @@ public:
 
 
 // System.Collections.EmptyReadOnlyDictionaryInternal
-struct  EmptyReadOnlyDictionaryInternal_tC4D5DAD1699735AB2EB2E6E39C3133D6DE02C3BA  : public RuntimeObject
+struct EmptyReadOnlyDictionaryInternal_tC4D5DAD1699735AB2EB2E6E39C3133D6DE02C3BA  : public RuntimeObject
 {
 public:
 
@@ -2313,7 +2313,7 @@ public:
 
 
 // System.Collections.Generic.Comparer`1<System.String>
-struct  Comparer_1_tC8913CC0230510AB5B82485EAEF003DA0F4B9903  : public RuntimeObject
+struct Comparer_1_tC8913CC0230510AB5B82485EAEF003DA0F4B9903  : public RuntimeObject
 {
 public:
 
@@ -2339,7 +2339,7 @@ public:
 
 
 // System.Collections.Generic.Comparer`1<System.UInt64>
-struct  Comparer_1_tCF5E5EB8AA2F69440B59855EF7E666F064E3D1CC  : public RuntimeObject
+struct Comparer_1_tCF5E5EB8AA2F69440B59855EF7E666F064E3D1CC  : public RuntimeObject
 {
 public:
 
@@ -2365,7 +2365,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/KeyCollection<System.Int32,System.String>
-struct  KeyCollection_t2F25BAF319A40DA5241F076B74BB90B72F16822F  : public RuntimeObject
+struct KeyCollection_t2F25BAF319A40DA5241F076B74BB90B72F16822F  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/KeyCollection::dictionary
@@ -2384,7 +2384,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/KeyCollection<System.String,System.String>
-struct  KeyCollection_tC73654392B284B89334464107B696C9BD89776D9  : public RuntimeObject
+struct KeyCollection_tC73654392B284B89334464107B696C9BD89776D9  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/KeyCollection::dictionary
@@ -2403,7 +2403,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/KeyCollection<System.UInt64,System.String>
-struct  KeyCollection_t03F00DD1AC4F92F5138CAB2CC1235582FD0B8B1D  : public RuntimeObject
+struct KeyCollection_t03F00DD1AC4F92F5138CAB2CC1235582FD0B8B1D  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/KeyCollection::dictionary
@@ -2422,7 +2422,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/ValueCollection<System.String,System.Type>
-struct  ValueCollection_t7916CDE541FFBF8945E39B059894001AE50AD9CC  : public RuntimeObject
+struct ValueCollection_t7916CDE541FFBF8945E39B059894001AE50AD9CC  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/ValueCollection::dictionary
@@ -2441,7 +2441,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<System.Int32,System.String>
-struct  Dictionary_2_t4EFE6A1D6502662B911688316C6920444A18CF0C  : public RuntimeObject
+struct Dictionary_2_t4EFE6A1D6502662B911688316C6920444A18CF0C  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -2555,7 +2555,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<System.String,Mono.Globalization.Unicode.SimpleCollator>
-struct  Dictionary_2_t61B96E9258C1E296057BCD8C4D2015846D2BB8F3  : public RuntimeObject
+struct Dictionary_2_t61B96E9258C1E296057BCD8C4D2015846D2BB8F3  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -2669,7 +2669,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<System.String,System.Collections.Generic.List`1<System.Int32>>
-struct  Dictionary_2_t946D91DD7ED0F46C8AAC4DF282D8C9A48EA5FE28  : public RuntimeObject
+struct Dictionary_2_t946D91DD7ED0F46C8AAC4DF282D8C9A48EA5FE28  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -2783,7 +2783,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<System.String,System.String>
-struct  Dictionary_2_t931BF283048C4E74FC063C3036E5F3FE328861FC  : public RuntimeObject
+struct Dictionary_2_t931BF283048C4E74FC063C3036E5F3FE328861FC  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -2897,7 +2897,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<System.String,System.Type>
-struct  Dictionary_2_t2DB4209C32F7303EA559E23BF9E6AEAE8F21001A  : public RuntimeObject
+struct Dictionary_2_t2DB4209C32F7303EA559E23BF9E6AEAE8F21001A  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -3011,7 +3011,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<System.UInt64,System.String>
-struct  Dictionary_2_tA0E200FAB662D54E654E440E09CBBCC17D831833  : public RuntimeObject
+struct Dictionary_2_tA0E200FAB662D54E654E440E09CBBCC17D831833  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -3125,7 +3125,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.Diagnostics.Tracing.FieldMetadata>
-struct  List_1_tD02062E952E6D59EA49722BDF8A3DEB4BF0ECC4A  : public RuntimeObject
+struct List_1_tD02062E952E6D59EA49722BDF8A3DEB4BF0ECC4A  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -3192,7 +3192,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.Diagnostics.Tracing.PropertyAnalysis>
-struct  List_1_t759B86C3AE2A2F5A5B70559ABC92F3CDAEB4DBEC  : public RuntimeObject
+struct List_1_t759B86C3AE2A2F5A5B70559ABC92F3CDAEB4DBEC  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -3259,7 +3259,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.Globalization.CultureInfo>
-struct  List_1_t74F59DD36FAE0CFB087612565C42CAD359647832  : public RuntimeObject
+struct List_1_t74F59DD36FAE0CFB087612565C42CAD359647832  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -3326,7 +3326,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.Int32>
-struct  List_1_tE1526161A558A17A39A8B69D8EEF3801393B6226  : public RuntimeObject
+struct List_1_tE1526161A558A17A39A8B69D8EEF3801393B6226  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -3393,7 +3393,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.String>
-struct  List_1_tE8032E48C661C350FF9550E9063D595C0AB25CD3  : public RuntimeObject
+struct List_1_tE8032E48C661C350FF9550E9063D595C0AB25CD3  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -3460,7 +3460,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.Type>
-struct  List_1_tE9D3AD6B1DEE5D980D8D2F6C31987453E6E1C1E0  : public RuntimeObject
+struct List_1_tE9D3AD6B1DEE5D980D8D2F6C31987453E6E1C1E0  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -3527,7 +3527,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.UInt64>
-struct  List_1_t48CD17D5BA5410E17340B1CF898DAF8467E082E8  : public RuntimeObject
+struct List_1_t48CD17D5BA5410E17340B1CF898DAF8467E082E8  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -3594,7 +3594,7 @@ public:
 
 
 // System.Collections.ListDictionaryInternal
-struct  ListDictionaryInternal_tCA32A08A78BFAF09127BC18DE7CBB3596C1CDFBC  : public RuntimeObject
+struct ListDictionaryInternal_tCA32A08A78BFAF09127BC18DE7CBB3596C1CDFBC  : public RuntimeObject
 {
 public:
 	// System.Collections.ListDictionaryInternal/DictionaryNode System.Collections.ListDictionaryInternal::head
@@ -3644,7 +3644,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Object>
-struct  ReadOnlyCollection_1_t5D996E967221C71E4EC5CC11210C3076432D5A50  : public RuntimeObject
+struct ReadOnlyCollection_1_t5D996E967221C71E4EC5CC11210C3076432D5A50  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -3674,7 +3674,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.String>
-struct  ReadOnlyCollection_1_tB9E469CEA1A95F21BDF5C8594323E208E5454BE0  : public RuntimeObject
+struct ReadOnlyCollection_1_tB9E469CEA1A95F21BDF5C8594323E208E5454BE0  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -3704,7 +3704,7 @@ public:
 
 
 // System.CompatibilitySwitches
-struct  CompatibilitySwitches_tC541F9F5404925C97741A0628E9B6D26C40CFA91  : public RuntimeObject
+struct CompatibilitySwitches_tC541F9F5404925C97741A0628E9B6D26C40CFA91  : public RuntimeObject
 {
 public:
 
@@ -3739,7 +3739,7 @@ public:
 
 
 // System.Diagnostics.StackFrame
-struct  StackFrame_tD06959DD2B585E9BEB73C60AB5C110DE69F23A00  : public RuntimeObject
+struct StackFrame_tD06959DD2B585E9BEB73C60AB5C110DE69F23A00  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Diagnostics.StackFrame::ilOffset
@@ -3866,7 +3866,7 @@ struct StackFrame_tD06959DD2B585E9BEB73C60AB5C110DE69F23A00_marshaled_com
 };
 
 // System.Diagnostics.StackTrace
-struct  StackTrace_tD5D45826A379D8DF0CFB2CA206D992EE718C7E99  : public RuntimeObject
+struct StackTrace_tD5D45826A379D8DF0CFB2CA206D992EE718C7E99  : public RuntimeObject
 {
 public:
 	// System.Diagnostics.StackFrame[] System.Diagnostics.StackTrace::frames
@@ -3933,7 +3933,7 @@ public:
 
 
 // System.Diagnostics.Tracing.ConcurrentSetItem`2<System.Collections.Generic.KeyValuePair`2<System.String,System.Diagnostics.Tracing.EventTags>,System.Diagnostics.Tracing.NameInfo>
-struct  ConcurrentSetItem_2_tF75C8666AA6AE859719571013C6765518785D0DA  : public RuntimeObject
+struct ConcurrentSetItem_2_tF75C8666AA6AE859719571013C6765518785D0DA  : public RuntimeObject
 {
 public:
 
@@ -3942,7 +3942,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventListener
-struct  EventListener_t9B86F76EF72340DCFA9AD7715776E2C3988144A6  : public RuntimeObject
+struct EventListener_t9B86F76EF72340DCFA9AD7715776E2C3988144A6  : public RuntimeObject
 {
 public:
 	// System.EventHandler`1<System.Diagnostics.Tracing.EventSourceCreatedEventArgs> System.Diagnostics.Tracing.EventListener::_EventSourceCreated
@@ -4053,7 +4053,7 @@ public:
 
 
 // System.Diagnostics.Tracing.ManifestBuilder/<>c__DisplayClass22_0
-struct  U3CU3Ec__DisplayClass22_0_tA2045B4BE2E2BB2CEEE4E98A8A727A0B0BBB474F  : public RuntimeObject
+struct U3CU3Ec__DisplayClass22_0_tA2045B4BE2E2BB2CEEE4E98A8A727A0B0BBB474F  : public RuntimeObject
 {
 public:
 	// System.Text.StringBuilder System.Diagnostics.Tracing.ManifestBuilder/<>c__DisplayClass22_0::stringBuilder
@@ -4093,7 +4093,7 @@ public:
 
 
 // System.Diagnostics.Tracing.ManifestBuilder/<>c__DisplayClass22_1
-struct  U3CU3Ec__DisplayClass22_1_t9EFC4E12CB6A5AFCFAA8DF97DAF677DABCFD822A  : public RuntimeObject
+struct U3CU3Ec__DisplayClass22_1_t9EFC4E12CB6A5AFCFAA8DF97DAF677DABCFD822A  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Diagnostics.Tracing.ManifestBuilder/<>c__DisplayClass22_1::i
@@ -4122,7 +4122,7 @@ public:
 
 
 // System.Diagnostics.Tracing.PropertyAnalysis
-struct  PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A  : public RuntimeObject
+struct PropertyAnalysis_t3DC0F773245CD968BED647345E53535D422CF46A  : public RuntimeObject
 {
 public:
 	// System.String System.Diagnostics.Tracing.PropertyAnalysis::name
@@ -4174,7 +4174,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingDataCollector
-struct  TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA  : public RuntimeObject
+struct TraceLoggingDataCollector_t2954EFEA739CA99BBC0554A317D7BDFE7E1402DA  : public RuntimeObject
 {
 public:
 
@@ -4200,7 +4200,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingMetadataCollector/Impl
-struct  Impl_tA1F83DA5BE2B28675D369B4585A71C5C1D0E669F  : public RuntimeObject
+struct Impl_tA1F83DA5BE2B28675D369B4585A71C5C1D0E669F  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.List`1<System.Diagnostics.Tracing.FieldMetadata> System.Diagnostics.Tracing.TraceLoggingMetadataCollector/Impl::fields
@@ -4269,7 +4269,7 @@ public:
 
 
 // System.Empty
-struct  Empty_t31C7ECDF7D102AFFCE029D8AB11D8595F0316ED2  : public RuntimeObject
+struct Empty_t31C7ECDF7D102AFFCE029D8AB11D8595F0316ED2  : public RuntimeObject
 {
 public:
 
@@ -4295,7 +4295,7 @@ public:
 
 
 // System.Enum/ValuesAndNames
-struct  ValuesAndNames_t48A099BB10887A683F62017FAD199FB2088CBDD2  : public RuntimeObject
+struct ValuesAndNames_t48A099BB10887A683F62017FAD199FB2088CBDD2  : public RuntimeObject
 {
 public:
 	// System.UInt64[] System.Enum/ValuesAndNames::Values
@@ -4325,7 +4325,7 @@ public:
 
 
 // System.Environment
-struct  Environment_tC93BF7477A1AEA39D05EDFEBAFF62EE5353FF806  : public RuntimeObject
+struct Environment_tC93BF7477A1AEA39D05EDFEBAFF62EE5353FF806  : public RuntimeObject
 {
 public:
 
@@ -4362,7 +4362,7 @@ public:
 
 
 // System.EventArgs
-struct  EventArgs_t8E6CA180BE0E56674C6407011A94BAF7C757352E  : public RuntimeObject
+struct EventArgs_t8E6CA180BE0E56674C6407011A94BAF7C757352E  : public RuntimeObject
 {
 public:
 
@@ -4388,7 +4388,7 @@ public:
 
 
 // System.GC
-struct  GC_tC1D7BD74E8F44ECCEF5CD2B5D84BFF9AAE02D01D  : public RuntimeObject
+struct GC_tC1D7BD74E8F44ECCEF5CD2B5D84BFF9AAE02D01D  : public RuntimeObject
 {
 public:
 
@@ -4414,7 +4414,7 @@ public:
 
 
 // System.Globalization.Bootstring
-struct  Bootstring_t9E3CD00FBB61B43CDF0873C571322A4387693F41  : public RuntimeObject
+struct Bootstring_t9E3CD00FBB61B43CDF0873C571322A4387693F41  : public RuntimeObject
 {
 public:
 	// System.Char System.Globalization.Bootstring::delimiter
@@ -4502,7 +4502,7 @@ public:
 
 
 // System.Globalization.Calendar
-struct  Calendar_tF55A785ACD277504CF0D2F2C6AD56F76C6E91BD5  : public RuntimeObject
+struct Calendar_tF55A785ACD277504CF0D2F2C6AD56F76C6E91BD5  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Globalization.Calendar::m_currentEraValue
@@ -4540,7 +4540,7 @@ public:
 
 
 // System.Globalization.CalendarData
-struct  CalendarData_t1D4C55E2ECDDE4EB7B69C75D0E28AA0AF9952B3E  : public RuntimeObject
+struct CalendarData_t1D4C55E2ECDDE4EB7B69C75D0E28AA0AF9952B3E  : public RuntimeObject
 {
 public:
 	// System.String System.Globalization.CalendarData::sNativeName
@@ -4817,7 +4817,7 @@ struct CalendarData_t1D4C55E2ECDDE4EB7B69C75D0E28AA0AF9952B3E_marshaled_com
 };
 
 // System.Globalization.CharUnicodeInfo
-struct  CharUnicodeInfo_t753A11F0CF6C79D3C262266DAA5FD2A8FD40085F  : public RuntimeObject
+struct CharUnicodeInfo_t753A11F0CF6C79D3C262266DAA5FD2A8FD40085F  : public RuntimeObject
 {
 public:
 
@@ -4887,7 +4887,7 @@ public:
 
 
 // System.Globalization.CharUnicodeInfo/Debug
-struct  Debug_tDC29095ECA525AF90EC7761505C859A0A14E79DC  : public RuntimeObject
+struct Debug_tDC29095ECA525AF90EC7761505C859A0A14E79DC  : public RuntimeObject
 {
 public:
 
@@ -4896,7 +4896,7 @@ public:
 
 
 // System.Globalization.CodePageDataItem
-struct  CodePageDataItem_t6E34BEE9CCCBB35C88D714664633AF6E5F5671FB  : public RuntimeObject
+struct CodePageDataItem_t6E34BEE9CCCBB35C88D714664633AF6E5F5671FB  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Globalization.CodePageDataItem::m_dataIndex
@@ -4984,7 +4984,7 @@ public:
 
 
 // System.Globalization.CultureData
-struct  CultureData_tF43B080FFA6EB278F4F289BCDA3FB74B6C208ECD  : public RuntimeObject
+struct CultureData_tF43B080FFA6EB278F4F289BCDA3FB74B6C208ECD  : public RuntimeObject
 {
 public:
 	// System.String System.Globalization.CultureData::sAM1159
@@ -5267,7 +5267,7 @@ struct CultureData_tF43B080FFA6EB278F4F289BCDA3FB74B6C208ECD_marshaled_com
 };
 
 // System.Globalization.CultureInfo
-struct  CultureInfo_t345AC6924134F039ED9A11F3E03F8E91B6A3225F  : public RuntimeObject
+struct CultureInfo_t345AC6924134F039ED9A11F3E03F8E91B6A3225F  : public RuntimeObject
 {
 public:
 	// System.Boolean System.Globalization.CultureInfo::m_isReadOnly
@@ -5716,7 +5716,7 @@ struct CultureInfo_t345AC6924134F039ED9A11F3E03F8E91B6A3225F_marshaled_com
 };
 
 // System.Globalization.EncodingTable
-struct  EncodingTable_t22A8552898CDE776E92D442768930CF463B8032D  : public RuntimeObject
+struct EncodingTable_t22A8552898CDE776E92D442768930CF463B8032D  : public RuntimeObject
 {
 public:
 
@@ -5785,7 +5785,7 @@ public:
 
 
 // System.MarshalByRefObject
-struct  MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF  : public RuntimeObject
+struct MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF  : public RuntimeObject
 {
 public:
 	// System.Object System.MarshalByRefObject::_identity
@@ -5814,7 +5814,7 @@ struct MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF_marshaled_co
 };
 
 // System.Reflection.MemberInfo
-struct  MemberInfo_t  : public RuntimeObject
+struct MemberInfo_t  : public RuntimeObject
 {
 public:
 
@@ -5823,7 +5823,7 @@ public:
 
 
 // System.Resources.ResourceSet
-struct  ResourceSet_t10641C682C1DFE03D88203324E6C4846273AF3EE  : public RuntimeObject
+struct ResourceSet_t10641C682C1DFE03D88203324E6C4846273AF3EE  : public RuntimeObject
 {
 public:
 	// System.Resources.IResourceReader System.Resources.ResourceSet::Reader
@@ -5864,7 +5864,7 @@ public:
 
 
 // System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-struct  CriticalFinalizerObject_t8B006E1DEE084E781F5C0F3283E9226E28894DD9  : public RuntimeObject
+struct CriticalFinalizerObject_t8B006E1DEE084E781F5C0F3283E9226E28894DD9  : public RuntimeObject
 {
 public:
 
@@ -5873,7 +5873,7 @@ public:
 
 
 // System.Runtime.ExceptionServices.ExceptionDispatchInfo
-struct  ExceptionDispatchInfo_t0C54083F3909DAF986A4DEAA7C047559531E0E2A  : public RuntimeObject
+struct ExceptionDispatchInfo_t0C54083F3909DAF986A4DEAA7C047559531E0E2A  : public RuntimeObject
 {
 public:
 	// System.Exception System.Runtime.ExceptionServices.ExceptionDispatchInfo::m_Exception
@@ -5903,7 +5903,7 @@ public:
 
 
 // System.Runtime.Serialization.SafeSerializationManager
-struct  SafeSerializationManager_t4A754D86B0F784B18CBC36C073BA564BED109770  : public RuntimeObject
+struct SafeSerializationManager_t4A754D86B0F784B18CBC36C073BA564BED109770  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<System.Object> System.Runtime.Serialization.SafeSerializationManager::m_serializedStates
@@ -5966,7 +5966,7 @@ public:
 
 
 // System.Runtime.Serialization.SerializationInfo
-struct  SerializationInfo_t1BB80E9C9DEA52DBF464487234B045E2930ADA26  : public RuntimeObject
+struct SerializationInfo_t1BB80E9C9DEA52DBF464487234B045E2930ADA26  : public RuntimeObject
 {
 public:
 	// System.String[] System.Runtime.Serialization.SerializationInfo::m_members
@@ -6102,7 +6102,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -6147,7 +6147,7 @@ public:
 
 
 // System.StringComparer
-struct  StringComparer_t588BC7FEF85D6E7425E0A8147A3D5A334F1F82DE  : public RuntimeObject
+struct StringComparer_t588BC7FEF85D6E7425E0A8147A3D5A334F1F82DE  : public RuntimeObject
 {
 public:
 
@@ -6206,7 +6206,7 @@ public:
 
 
 // System.Text.Encoding
-struct  Encoding_t7837A3C0F55EAE0E3959A53C6D6E88B113ED78A4  : public RuntimeObject
+struct Encoding_t7837A3C0F55EAE0E3959A53C6D6E88B113ED78A4  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Text.Encoding::m_codePage
@@ -6393,7 +6393,7 @@ public:
 
 
 // System.Text.StringBuilder
-struct  StringBuilder_t  : public RuntimeObject
+struct StringBuilder_t  : public RuntimeObject
 {
 public:
 	// System.Char[] System.Text.StringBuilder::m_ChunkChars
@@ -6453,7 +6453,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
+struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
 {
 public:
 
@@ -6470,7 +6470,7 @@ struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF_marshaled_com
 };
 
 // System.Version
-struct  Version_tDBE6876C59B6F56D4F8CAA03851177ABC6FE0DFD  : public RuntimeObject
+struct Version_tDBE6876C59B6F56D4F8CAA03851177ABC6FE0DFD  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Version::_Major
@@ -6535,7 +6535,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=10
-struct  __StaticArrayInitTypeSizeU3D10_t39E3D966A21885323F15EB866ABDE668EA1ED52C 
+struct __StaticArrayInitTypeSizeU3D10_t39E3D966A21885323F15EB866ABDE668EA1ED52C 
 {
 public:
 	union
@@ -6554,7 +6554,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=1018
-struct  __StaticArrayInitTypeSizeU3D1018_t7825BE1556EFF874DAFDC230EB69C85A48DBCBC4 
+struct __StaticArrayInitTypeSizeU3D1018_t7825BE1556EFF874DAFDC230EB69C85A48DBCBC4 
 {
 public:
 	union
@@ -6573,7 +6573,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=1080
-struct  __StaticArrayInitTypeSizeU3D1080_tCE36DA14009C45CFDEA7F63618BE90F8DF89AC84 
+struct __StaticArrayInitTypeSizeU3D1080_tCE36DA14009C45CFDEA7F63618BE90F8DF89AC84 
 {
 public:
 	union
@@ -6592,7 +6592,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=11614
-struct  __StaticArrayInitTypeSizeU3D11614_tDF34959BE752359A89A4A577B8798D2D66A5E7F5 
+struct __StaticArrayInitTypeSizeU3D11614_tDF34959BE752359A89A4A577B8798D2D66A5E7F5 
 {
 public:
 	union
@@ -6611,7 +6611,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=12
-struct  __StaticArrayInitTypeSizeU3D12_tB4B4C95019D88097B57DE7B50445942256BF2879 
+struct __StaticArrayInitTypeSizeU3D12_tB4B4C95019D88097B57DE7B50445942256BF2879 
 {
 public:
 	union
@@ -6630,7 +6630,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=120
-struct  __StaticArrayInitTypeSizeU3D120_tBA46FD2E9DA153FD8457EE7F425E8ECC517EA252 
+struct __StaticArrayInitTypeSizeU3D120_tBA46FD2E9DA153FD8457EE7F425E8ECC517EA252 
 {
 public:
 	union
@@ -6649,7 +6649,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=1208
-struct  __StaticArrayInitTypeSizeU3D1208_tC58894ECFE2C4FFD2B8FCDF958800099A737C1DD 
+struct __StaticArrayInitTypeSizeU3D1208_tC58894ECFE2C4FFD2B8FCDF958800099A737C1DD 
 {
 public:
 	union
@@ -6668,7 +6668,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=128
-struct  __StaticArrayInitTypeSizeU3D128_t1B13688BD6EA82B964734FF8C3181161EF5624B1 
+struct __StaticArrayInitTypeSizeU3D128_t1B13688BD6EA82B964734FF8C3181161EF5624B1 
 {
 public:
 	union
@@ -6687,7 +6687,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=130
-struct  __StaticArrayInitTypeSizeU3D130_t732A6F42953325ADC5746FF1A652A2974473AF4F 
+struct __StaticArrayInitTypeSizeU3D130_t732A6F42953325ADC5746FF1A652A2974473AF4F 
 {
 public:
 	union
@@ -6706,7 +6706,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=1450
-struct  __StaticArrayInitTypeSizeU3D1450_t58DE69DB537BA7DFBFF2C7084FFC6970FB3BAEA4 
+struct __StaticArrayInitTypeSizeU3D1450_t58DE69DB537BA7DFBFF2C7084FFC6970FB3BAEA4 
 {
 public:
 	union
@@ -6725,7 +6725,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=16
-struct  __StaticArrayInitTypeSizeU3D16_t35B2E1DB11C9D3150BF800DC30A2808C4F1A1341 
+struct __StaticArrayInitTypeSizeU3D16_t35B2E1DB11C9D3150BF800DC30A2808C4F1A1341 
 {
 public:
 	union
@@ -6744,7 +6744,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=162
-struct  __StaticArrayInitTypeSizeU3D162_tFFF125F871C6A7DE42BE37AC907E2E2149A861AA 
+struct __StaticArrayInitTypeSizeU3D162_tFFF125F871C6A7DE42BE37AC907E2E2149A861AA 
 {
 public:
 	union
@@ -6763,7 +6763,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=1665
-struct  __StaticArrayInitTypeSizeU3D1665_tCD7752863825B82B07752CCE72A581C169E19C20 
+struct __StaticArrayInitTypeSizeU3D1665_tCD7752863825B82B07752CCE72A581C169E19C20 
 {
 public:
 	union
@@ -6782,7 +6782,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=174
-struct  __StaticArrayInitTypeSizeU3D174_t58EBFEBC3E6F34CF7C54ED51E8113E34B876351F 
+struct __StaticArrayInitTypeSizeU3D174_t58EBFEBC3E6F34CF7C54ED51E8113E34B876351F 
 {
 public:
 	union
@@ -6801,7 +6801,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=2100
-struct  __StaticArrayInitTypeSizeU3D2100_t75CE52CDAFC7C95EDAB5CF1AF8B2621D502F1FAA 
+struct __StaticArrayInitTypeSizeU3D2100_t75CE52CDAFC7C95EDAB5CF1AF8B2621D502F1FAA 
 {
 public:
 	union
@@ -6820,7 +6820,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=212
-struct  __StaticArrayInitTypeSizeU3D212_tDFB9BEA11D871D109F9E6502B2F50F7115451AAF 
+struct __StaticArrayInitTypeSizeU3D212_tDFB9BEA11D871D109F9E6502B2F50F7115451AAF 
 {
 public:
 	union
@@ -6839,7 +6839,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=21252
-struct  __StaticArrayInitTypeSizeU3D21252_tCA2B51BDF30FDECEBFCB55CC7530A0A7D6BC4462 
+struct __StaticArrayInitTypeSizeU3D21252_tCA2B51BDF30FDECEBFCB55CC7530A0A7D6BC4462 
 {
 public:
 	union
@@ -6858,7 +6858,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=2350
-struct  __StaticArrayInitTypeSizeU3D2350_t96984AEF232104302694B7EFDA3F92BC42BF207D 
+struct __StaticArrayInitTypeSizeU3D2350_t96984AEF232104302694B7EFDA3F92BC42BF207D 
 {
 public:
 	union
@@ -6877,7 +6877,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=2382
-struct  __StaticArrayInitTypeSizeU3D2382_tB4AF2C49C5120B6EB285BA4D247340D8E243A1BA 
+struct __StaticArrayInitTypeSizeU3D2382_tB4AF2C49C5120B6EB285BA4D247340D8E243A1BA 
 {
 public:
 	union
@@ -6896,7 +6896,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=24
-struct  __StaticArrayInitTypeSizeU3D24_tAB08761D1BC4313A0535E193F4E1A1AFA8B3F123 
+struct __StaticArrayInitTypeSizeU3D24_tAB08761D1BC4313A0535E193F4E1A1AFA8B3F123 
 {
 public:
 	union
@@ -6915,7 +6915,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=240
-struct  __StaticArrayInitTypeSizeU3D240_t5643A77865294845ACC505FE42EA1067CAC04FD8 
+struct __StaticArrayInitTypeSizeU3D240_t5643A77865294845ACC505FE42EA1067CAC04FD8 
 {
 public:
 	union
@@ -6934,7 +6934,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=256
-struct  __StaticArrayInitTypeSizeU3D256_t9003B1E1E8C82BC25ADE7407C58A314C292B326F 
+struct __StaticArrayInitTypeSizeU3D256_t9003B1E1E8C82BC25ADE7407C58A314C292B326F 
 {
 public:
 	union
@@ -6953,7 +6953,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=262
-struct  __StaticArrayInitTypeSizeU3D262_t93124A1A3E9EDF7F1F305BD2FC57372646F3CFD7 
+struct __StaticArrayInitTypeSizeU3D262_t93124A1A3E9EDF7F1F305BD2FC57372646F3CFD7 
 {
 public:
 	union
@@ -6972,7 +6972,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=288
-struct  __StaticArrayInitTypeSizeU3D288_t7B40D7F3A8D262F90A76460FF94E92CE08AFCF55 
+struct __StaticArrayInitTypeSizeU3D288_t7B40D7F3A8D262F90A76460FF94E92CE08AFCF55 
 {
 public:
 	union
@@ -6991,7 +6991,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=3
-struct  __StaticArrayInitTypeSizeU3D3_t651350E6AC00D0836A5D0539D0D68852BE81E08E 
+struct __StaticArrayInitTypeSizeU3D3_t651350E6AC00D0836A5D0539D0D68852BE81E08E 
 {
 public:
 	union
@@ -7010,7 +7010,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=32
-struct  __StaticArrayInitTypeSizeU3D32_t06FF35439BDF1A6AAB50820787FA5D7A4FA09472 
+struct __StaticArrayInitTypeSizeU3D32_t06FF35439BDF1A6AAB50820787FA5D7A4FA09472 
 {
 public:
 	union
@@ -7029,7 +7029,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=320
-struct  __StaticArrayInitTypeSizeU3D320_t48B9242FB90DB2A21A723BBAB141500A9641EB49 
+struct __StaticArrayInitTypeSizeU3D320_t48B9242FB90DB2A21A723BBAB141500A9641EB49 
 {
 public:
 	union
@@ -7048,7 +7048,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=36
-struct  __StaticArrayInitTypeSizeU3D36_t553C250FA8609975E44273C4AD8F28E487272E17 
+struct __StaticArrayInitTypeSizeU3D36_t553C250FA8609975E44273C4AD8F28E487272E17 
 {
 public:
 	union
@@ -7067,7 +7067,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=360
-struct  __StaticArrayInitTypeSizeU3D360_tFF8371303424DEBAE608051BAA970E5AFB409DF7 
+struct __StaticArrayInitTypeSizeU3D360_tFF8371303424DEBAE608051BAA970E5AFB409DF7 
 {
 public:
 	union
@@ -7086,7 +7086,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=38
-struct  __StaticArrayInitTypeSizeU3D38_tA52D24A5F9970582D6B55437967C9BD32E03F05D 
+struct __StaticArrayInitTypeSizeU3D38_tA52D24A5F9970582D6B55437967C9BD32E03F05D 
 {
 public:
 	union
@@ -7105,7 +7105,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=40
-struct  __StaticArrayInitTypeSizeU3D40_t0453B23B081EF301CB1E3167001650AD0C490F04 
+struct __StaticArrayInitTypeSizeU3D40_t0453B23B081EF301CB1E3167001650AD0C490F04 
 {
 public:
 	union
@@ -7124,7 +7124,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=42
-struct  __StaticArrayInitTypeSizeU3D42_t3D9F6218E615F20CE7E1AE0EF6657DE732EDBFD4 
+struct __StaticArrayInitTypeSizeU3D42_t3D9F6218E615F20CE7E1AE0EF6657DE732EDBFD4 
 {
 public:
 	union
@@ -7143,7 +7143,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=44
-struct  __StaticArrayInitTypeSizeU3D44_t1383A9A990CD22E4246B656157D17C8051BFAD7F 
+struct __StaticArrayInitTypeSizeU3D44_t1383A9A990CD22E4246B656157D17C8051BFAD7F 
 {
 public:
 	union
@@ -7162,7 +7162,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=52
-struct  __StaticArrayInitTypeSizeU3D52_tF7B918A088A367994FBAEB73123296D8929B543A 
+struct __StaticArrayInitTypeSizeU3D52_tF7B918A088A367994FBAEB73123296D8929B543A 
 {
 public:
 	union
@@ -7181,7 +7181,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=6
-struct  __StaticArrayInitTypeSizeU3D6_tC937DCE458F6AE4186120B4DDF95463176C75C78 
+struct __StaticArrayInitTypeSizeU3D6_tC937DCE458F6AE4186120B4DDF95463176C75C78 
 {
 public:
 	union
@@ -7200,7 +7200,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=64
-struct  __StaticArrayInitTypeSizeU3D64_tC44517F575DC9AEC7589A864FEA072030961DAF6 
+struct __StaticArrayInitTypeSizeU3D64_tC44517F575DC9AEC7589A864FEA072030961DAF6 
 {
 public:
 	union
@@ -7219,7 +7219,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=72
-struct  __StaticArrayInitTypeSizeU3D72_tF9B2DE61B68289FA0233B6E305B08B2FCD612FA1 
+struct __StaticArrayInitTypeSizeU3D72_tF9B2DE61B68289FA0233B6E305B08B2FCD612FA1 
 {
 public:
 	union
@@ -7238,7 +7238,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=76
-struct  __StaticArrayInitTypeSizeU3D76_t83BE44A74AC13CD15474DA7726C9C92BD317CFFB 
+struct __StaticArrayInitTypeSizeU3D76_t83BE44A74AC13CD15474DA7726C9C92BD317CFFB 
 {
 public:
 	union
@@ -7257,7 +7257,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=84
-struct  __StaticArrayInitTypeSizeU3D84_tF52293EFB26AA1D2C169389BB83253C5BAE8076A 
+struct __StaticArrayInitTypeSizeU3D84_tF52293EFB26AA1D2C169389BB83253C5BAE8076A 
 {
 public:
 	union
@@ -7276,7 +7276,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=94
-struct  __StaticArrayInitTypeSizeU3D94_t23554D8B96399688002A3BE81C7C15EFB011DEC6 
+struct __StaticArrayInitTypeSizeU3D94_t23554D8B96399688002A3BE81C7C15EFB011DEC6 
 {
 public:
 	union
@@ -7295,7 +7295,7 @@ public:
 
 
 // <PrivateImplementationDetails>/__StaticArrayInitTypeSize=998
-struct  __StaticArrayInitTypeSizeU3D998_t8A5C9782706B510180A1B9C9F7E96F8F48421B8C 
+struct __StaticArrayInitTypeSizeU3D998_t8A5C9782706B510180A1B9C9F7E96F8F48421B8C 
 {
 public:
 	union
@@ -7314,7 +7314,7 @@ public:
 
 
 // System.Boolean
-struct  Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
+struct Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -7360,7 +7360,7 @@ public:
 
 
 // System.Byte
-struct  Byte_tF87C579059BD4633E6840EBBBEEF899C6E33EF07 
+struct Byte_tF87C579059BD4633E6840EBBBEEF899C6E33EF07 
 {
 public:
 	// System.Byte System.Byte::m_value
@@ -7378,7 +7378,7 @@ public:
 
 
 // System.Char
-struct  Char_tBF22D9FC341BE970735250BB6FF1A4A92BBA58B9 
+struct Char_tBF22D9FC341BE970735250BB6FF1A4A92BBA58B9 
 {
 public:
 	// System.Char System.Char::m_value
@@ -7413,7 +7413,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/ValueCollection/Enumerator<System.Object,System.Object>
-struct  Enumerator_tB5076FB1730C18188DBB208FD1B6870FC5A660E6 
+struct Enumerator_tB5076FB1730C18188DBB208FD1B6870FC5A660E6 
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/ValueCollection/Enumerator::dictionary
@@ -7463,7 +7463,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/ValueCollection/Enumerator<System.String,System.Type>
-struct  Enumerator_tABA216358668DD188BBA6A59F0C67AE9AF312CD4 
+struct Enumerator_tABA216358668DD188BBA6A59F0C67AE9AF312CD4 
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/ValueCollection/Enumerator::dictionary
@@ -7513,7 +7513,7 @@ public:
 
 
 // System.Collections.Generic.List`1/Enumerator<System.Diagnostics.Tracing.FieldMetadata>
-struct  Enumerator_t1702FC15AAB92C75120937BC12A636955F7ED3BE 
+struct Enumerator_t1702FC15AAB92C75120937BC12A636955F7ED3BE 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::list
@@ -7563,7 +7563,7 @@ public:
 
 
 // System.Collections.Generic.List`1/Enumerator<System.Globalization.CultureInfo>
-struct  Enumerator_tFAF40259E587A0C56311F14FEBDCF69C3916B5A9 
+struct Enumerator_tFAF40259E587A0C56311F14FEBDCF69C3916B5A9 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::list
@@ -7613,7 +7613,7 @@ public:
 
 
 // System.Collections.Generic.List`1/Enumerator<System.Int32>
-struct  Enumerator_t52B74DE77FB2834C7A6E4DEFC01F9E5818235AB2 
+struct Enumerator_t52B74DE77FB2834C7A6E4DEFC01F9E5818235AB2 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::list
@@ -7662,7 +7662,7 @@ public:
 
 
 // System.Collections.Generic.List`1/Enumerator<System.Object>
-struct  Enumerator_tE0C99528D3DCE5863566CE37BD94162A4C0431CD 
+struct Enumerator_tE0C99528D3DCE5863566CE37BD94162A4C0431CD 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::list
@@ -7712,7 +7712,7 @@ public:
 
 
 // System.Collections.Generic.List`1/Enumerator<System.UInt64>
-struct  Enumerator_t46B8FA0EA6058B0B5871CE816B84FA8AAF77208B 
+struct Enumerator_t46B8FA0EA6058B0B5871CE816B84FA8AAF77208B 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::list
@@ -7761,7 +7761,7 @@ public:
 
 
 // System.DateTime
-struct  DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 
+struct DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 
 {
 public:
 	// System.UInt64 System.DateTime::dateData
@@ -7827,7 +7827,7 @@ public:
 
 
 // System.Decimal
-struct  Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 
+struct Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 
 {
 public:
 	// System.Int32 System.Decimal::flags
@@ -7962,7 +7962,7 @@ public:
 
 
 // System.Diagnostics.Tracing.ConcurrentSet`2<System.Collections.Generic.KeyValuePair`2<System.Object,System.Int32Enum>,System.Object>
-struct  ConcurrentSet_2_t9516DF2A374BF5F2AFB74F8D934FD6A442A8AACA 
+struct ConcurrentSet_2_t9516DF2A374BF5F2AFB74F8D934FD6A442A8AACA 
 {
 public:
 	// ItemType[] System.Diagnostics.Tracing.ConcurrentSet`2::items
@@ -7981,7 +7981,7 @@ public:
 
 
 // System.Diagnostics.Tracing.ConcurrentSet`2<System.Collections.Generic.KeyValuePair`2<System.String,System.Diagnostics.Tracing.EventTags>,System.Diagnostics.Tracing.NameInfo>
-struct  ConcurrentSet_2_t9B37AE19508B10669906106353C62B3C877BFA95 
+struct ConcurrentSet_2_t9B37AE19508B10669906106353C62B3C877BFA95 
 {
 public:
 	// ItemType[] System.Diagnostics.Tracing.ConcurrentSet`2::items
@@ -8000,7 +8000,7 @@ public:
 
 
 // System.Diagnostics.Tracing.DataCollector
-struct  DataCollector_t9621325BA9AAB82824DE3F54E894A817443B1660 
+struct DataCollector_t9621325BA9AAB82824DE3F54E894A817443B1660 
 {
 public:
 	// System.Byte* System.Diagnostics.Tracing.DataCollector::scratchEnd
@@ -8166,7 +8166,7 @@ struct DataCollector_t9621325BA9AAB82824DE3F54E894A817443B1660_marshaled_com
 };
 
 // System.Diagnostics.Tracing.EventDescriptor
-struct  EventDescriptor_t0DB21DFB13157AE81D79A01C853DF3729072B38E 
+struct EventDescriptor_t0DB21DFB13157AE81D79A01C853DF3729072B38E 
 {
 public:
 	union
@@ -8348,7 +8348,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventSource/EventData
-struct  EventData_tA4F2B7D36DF2FDCB4074D2088BF766EBEC2A9B04 
+struct EventData_tA4F2B7D36DF2FDCB4074D2088BF766EBEC2A9B04 
 {
 public:
 	// System.Int64 System.Diagnostics.Tracing.EventSource/EventData::m_Ptr
@@ -8386,7 +8386,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventSource/Sha1ForNonSecretPurposes
-struct  Sha1ForNonSecretPurposes_t5BC53EA67CBDDA90838254263C37A8AA7F401C17 
+struct Sha1ForNonSecretPurposes_t5BC53EA67CBDDA90838254263C37A8AA7F401C17 
 {
 public:
 	// System.Int64 System.Diagnostics.Tracing.EventSource/Sha1ForNonSecretPurposes::length
@@ -8439,7 +8439,7 @@ struct Sha1ForNonSecretPurposes_t5BC53EA67CBDDA90838254263C37A8AA7F401C17_marsha
 };
 
 // System.Diagnostics.Tracing.EventSourceAttribute
-struct  EventSourceAttribute_t7E8C5240E08345D1B46ADE585550D34D9B16D286  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
+struct EventSourceAttribute_t7E8C5240E08345D1B46ADE585550D34D9B16D286  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
 {
 public:
 	// System.String System.Diagnostics.Tracing.EventSourceAttribute::<Name>k__BackingField
@@ -8480,7 +8480,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventSourceCreatedEventArgs
-struct  EventSourceCreatedEventArgs_t12E0F6BDFDF8F46E6C583AB8408C30358EC85863  : public EventArgs_t8E6CA180BE0E56674C6407011A94BAF7C757352E
+struct EventSourceCreatedEventArgs_t12E0F6BDFDF8F46E6C583AB8408C30358EC85863  : public EventArgs_t8E6CA180BE0E56674C6407011A94BAF7C757352E
 {
 public:
 	// System.Diagnostics.Tracing.EventSource System.Diagnostics.Tracing.EventSourceCreatedEventArgs::<EventSource>k__BackingField
@@ -8499,7 +8499,7 @@ public:
 
 
 // System.Diagnostics.Tracing.NonEventAttribute
-struct  NonEventAttribute_tEFC3FBCB594E618AF8214093944F2AC045497726  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
+struct NonEventAttribute_tEFC3FBCB594E618AF8214093944F2AC045497726  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
 {
 public:
 
@@ -8508,7 +8508,7 @@ public:
 
 
 // System.Diagnostics.Tracing.SessionMask
-struct  SessionMask_tB8958F498570ACD71F69E13A7334D3ECD6837BDE 
+struct SessionMask_tB8958F498570ACD71F69E13A7334D3ECD6837BDE 
 {
 public:
 	// System.UInt32 System.Diagnostics.Tracing.SessionMask::m_mask
@@ -8526,7 +8526,7 @@ public:
 
 
 // System.Double
-struct  Double_t358B8F23BDC52A5DD700E727E204F9F7CDE12409 
+struct Double_t358B8F23BDC52A5DD700E727E204F9F7CDE12409 
 {
 public:
 	// System.Double System.Double::m_value
@@ -8560,7 +8560,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
+struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
 {
 public:
 
@@ -8594,7 +8594,7 @@ struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521_marshaled_com
 };
 
 // System.FlagsAttribute
-struct  FlagsAttribute_t7FB7BEFA2E1F2C6E3362A5996E82697475FFE867  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
+struct FlagsAttribute_t7FB7BEFA2E1F2C6E3362A5996E82697475FFE867  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
 {
 public:
 
@@ -8603,7 +8603,7 @@ public:
 
 
 // System.Globalization.InternalCodePageDataItem
-struct  InternalCodePageDataItem_t34EE39DE4A481B875348BB9BC6751E2A109AD0D4 
+struct InternalCodePageDataItem_t34EE39DE4A481B875348BB9BC6751E2A109AD0D4 
 {
 public:
 	// System.UInt16 System.Globalization.InternalCodePageDataItem::codePage
@@ -8668,7 +8668,7 @@ struct InternalCodePageDataItem_t34EE39DE4A481B875348BB9BC6751E2A109AD0D4_marsha
 };
 
 // System.Guid
-struct  Guid_t 
+struct Guid_t 
 {
 public:
 	// System.Int32 System.Guid::_a
@@ -8835,7 +8835,7 @@ public:
 
 
 // System.IO.TextReader
-struct  TextReader_t7DF8314B601D202ECFEDF623093A87BFDAB58D0A  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
+struct TextReader_t7DF8314B601D202ECFEDF623093A87BFDAB58D0A  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
 {
 public:
 
@@ -8883,7 +8883,7 @@ public:
 
 
 // System.Int16
-struct  Int16_t823A20635DAF5A3D93A1E01CFBF3CBA27CF00B4D 
+struct Int16_t823A20635DAF5A3D93A1E01CFBF3CBA27CF00B4D 
 {
 public:
 	// System.Int16 System.Int16::m_value
@@ -8901,7 +8901,7 @@ public:
 
 
 // System.Int32
-struct  Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
+struct Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -8919,7 +8919,7 @@ public:
 
 
 // System.Int64
-struct  Int64_t7A386C2FF7B0280A0F516992401DDFCF0FF7B436 
+struct Int64_t7A386C2FF7B0280A0F516992401DDFCF0FF7B436 
 {
 public:
 	// System.Int64 System.Int64::m_value
@@ -8937,7 +8937,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -8971,7 +8971,7 @@ public:
 
 
 // System.Reflection.FieldInfo
-struct  FieldInfo_t  : public MemberInfo_t
+struct FieldInfo_t  : public MemberInfo_t
 {
 public:
 
@@ -8980,7 +8980,7 @@ public:
 
 
 // System.Reflection.MethodBase
-struct  MethodBase_t  : public MemberInfo_t
+struct MethodBase_t  : public MemberInfo_t
 {
 public:
 
@@ -8989,7 +8989,7 @@ public:
 
 
 // System.Reflection.PropertyInfo
-struct  PropertyInfo_t  : public MemberInfo_t
+struct PropertyInfo_t  : public MemberInfo_t
 {
 public:
 
@@ -8998,7 +8998,7 @@ public:
 
 
 // System.Runtime.CompilerServices.Ephemeron
-struct  Ephemeron_t6F0B12401657FF132AB44052E5BCD06D358FF1BA 
+struct Ephemeron_t6F0B12401657FF132AB44052E5BCD06D358FF1BA 
 {
 public:
 	// System.Object System.Runtime.CompilerServices.Ephemeron::key
@@ -9040,7 +9040,7 @@ struct Ephemeron_t6F0B12401657FF132AB44052E5BCD06D358FF1BA_marshaled_com
 };
 
 // System.Runtime.InteropServices.GCHandle
-struct  GCHandle_t39FAEE3EA592432C93B574A31DD83B87F1847DE3 
+struct GCHandle_t39FAEE3EA592432C93B574A31DD83B87F1847DE3 
 {
 public:
 	// System.Int32 System.Runtime.InteropServices.GCHandle::handle
@@ -9058,7 +9058,7 @@ public:
 
 
 // System.SByte
-struct  SByte_t9070AEA2966184235653CB9B4D33B149CDA831DF 
+struct SByte_t9070AEA2966184235653CB9B4D33B149CDA831DF 
 {
 public:
 	// System.SByte System.SByte::m_value
@@ -9076,7 +9076,7 @@ public:
 
 
 // System.Single
-struct  Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
+struct Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
 {
 public:
 	// System.Single System.Single::m_value
@@ -9094,7 +9094,7 @@ public:
 
 
 // System.Threading.Thread
-struct  Thread_tF60E0A146CD3B5480CB65FF9B6016E84C5460CC7  : public CriticalFinalizerObject_t8B006E1DEE084E781F5C0F3283E9226E28894DD9
+struct Thread_tF60E0A146CD3B5480CB65FF9B6016E84C5460CC7  : public CriticalFinalizerObject_t8B006E1DEE084E781F5C0F3283E9226E28894DD9
 {
 public:
 	// System.Threading.InternalThread System.Threading.Thread::internal_thread
@@ -9277,7 +9277,7 @@ public:
 
 
 // System.UInt16
-struct  UInt16_tAE45CEF73BF720100519F6867F32145D075F928E 
+struct UInt16_tAE45CEF73BF720100519F6867F32145D075F928E 
 {
 public:
 	// System.UInt16 System.UInt16::m_value
@@ -9295,7 +9295,7 @@ public:
 
 
 // System.UInt32
-struct  UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
+struct UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
 {
 public:
 	// System.UInt32 System.UInt32::m_value
@@ -9313,7 +9313,7 @@ public:
 
 
 // System.UInt64
-struct  UInt64_tA02DF3B59C8FC4A849BD207DA11038CC64E4CB4E 
+struct UInt64_tA02DF3B59C8FC4A849BD207DA11038CC64E4CB4E 
 {
 public:
 	// System.UInt64 System.UInt64::m_value
@@ -9331,7 +9331,7 @@ public:
 
 
 // System.UIntPtr
-struct  UIntPtr_t 
+struct UIntPtr_t 
 {
 public:
 	// System.Void* System.UIntPtr::_pointer
@@ -9365,7 +9365,7 @@ public:
 
 
 // System.Void
-struct  Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
+struct Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
 {
 public:
 	union
@@ -9381,7 +9381,7 @@ public:
 
 
 // <PrivateImplementationDetails>
-struct  U3CPrivateImplementationDetailsU3E_t5BA0C21499B7A4F7CBCB87805E61EF52DF22771A  : public RuntimeObject
+struct U3CPrivateImplementationDetailsU3E_t5BA0C21499B7A4F7CBCB87805E61EF52DF22771A  : public RuntimeObject
 {
 public:
 
@@ -10416,7 +10416,7 @@ public:
 
 
 // Mono.SafeStringMarshal
-struct  SafeStringMarshal_tD41B530333F2C9F500BD6FEC91735D16F06C9A6F 
+struct SafeStringMarshal_tD41B530333F2C9F500BD6FEC91735D16F06C9A6F 
 {
 public:
 	// System.String Mono.SafeStringMarshal::str
@@ -10457,7 +10457,7 @@ struct SafeStringMarshal_tD41B530333F2C9F500BD6FEC91735D16F06C9A6F_marshaled_com
 };
 
 // System.Collections.Hashtable
-struct  Hashtable_t978F65B8006C8F5504B286526AEC6608FF983FC9  : public RuntimeObject
+struct Hashtable_t978F65B8006C8F5504B286526AEC6608FF983FC9  : public RuntimeObject
 {
 public:
 	// System.Collections.Hashtable/bucket[] System.Collections.Hashtable::buckets
@@ -10580,7 +10580,7 @@ public:
 
 
 // System.Configuration.Assemblies.AssemblyHashAlgorithm
-struct  AssemblyHashAlgorithm_t31E4F1BC642CF668706C9D0FBD9DFDF5EE01CEB9 
+struct AssemblyHashAlgorithm_t31E4F1BC642CF668706C9D0FBD9DFDF5EE01CEB9 
 {
 public:
 	// System.Int32 System.Configuration.Assemblies.AssemblyHashAlgorithm::value__
@@ -10598,7 +10598,7 @@ public:
 
 
 // System.Configuration.Assemblies.AssemblyVersionCompatibility
-struct  AssemblyVersionCompatibility_tEA062AB37A9A750B33F6CA2898EEF03A4EEA496C 
+struct AssemblyVersionCompatibility_tEA062AB37A9A750B33F6CA2898EEF03A4EEA496C 
 {
 public:
 	// System.Int32 System.Configuration.Assemblies.AssemblyVersionCompatibility::value__
@@ -10616,7 +10616,7 @@ public:
 
 
 // System.Delegate
-struct  Delegate_t  : public RuntimeObject
+struct Delegate_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Delegate::method_ptr
@@ -10768,7 +10768,7 @@ struct Delegate_t_marshaled_com
 };
 
 // System.Diagnostics.StackTrace/TraceFormat
-struct  TraceFormat_t0B4115A5EC115A575F04DFA04F4510C20AF83617 
+struct TraceFormat_t0B4115A5EC115A575F04DFA04F4510C20AF83617 
 {
 public:
 	// System.Int32 System.Diagnostics.StackTrace/TraceFormat::value__
@@ -10786,7 +10786,7 @@ public:
 
 
 // System.Diagnostics.Tracing.ControllerCommand
-struct  ControllerCommand_t4153272266B77F0CC30FFC224F238B4358B36A53 
+struct ControllerCommand_t4153272266B77F0CC30FFC224F238B4358B36A53 
 {
 public:
 	// System.Int32 System.Diagnostics.Tracing.ControllerCommand::value__
@@ -10804,7 +10804,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventActivityOptions
-struct  EventActivityOptions_t929DC56692200C1AE8FD9194A2510B6149D69168 
+struct EventActivityOptions_t929DC56692200C1AE8FD9194A2510B6149D69168 
 {
 public:
 	// System.Int32 System.Diagnostics.Tracing.EventActivityOptions::value__
@@ -10822,7 +10822,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventCommand
-struct  EventCommand_tF27BD5E5E008A8CC5F0434590C486EBD37867550 
+struct EventCommand_tF27BD5E5E008A8CC5F0434590C486EBD37867550 
 {
 public:
 	// System.Int32 System.Diagnostics.Tracing.EventCommand::value__
@@ -10840,7 +10840,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventFieldFormat
-struct  EventFieldFormat_t41B223711875BE8417E9C3D48E7A03D21CB71538 
+struct EventFieldFormat_t41B223711875BE8417E9C3D48E7A03D21CB71538 
 {
 public:
 	// System.Int32 System.Diagnostics.Tracing.EventFieldFormat::value__
@@ -10858,7 +10858,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventFieldTags
-struct  EventFieldTags_t88BE34A8AA9B64F6E37F7E372E6318C4EFB8FE40 
+struct EventFieldTags_t88BE34A8AA9B64F6E37F7E372E6318C4EFB8FE40 
 {
 public:
 	// System.Int32 System.Diagnostics.Tracing.EventFieldTags::value__
@@ -10876,7 +10876,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventKeywords
-struct  EventKeywords_t23A3504C8689DEED4A3545494C8C52C55214B942 
+struct EventKeywords_t23A3504C8689DEED4A3545494C8C52C55214B942 
 {
 public:
 	// System.Int64 System.Diagnostics.Tracing.EventKeywords::value__
@@ -10894,7 +10894,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventLevel
-struct  EventLevel_t647BA4EA78B2B108075D614A19C8C2204644790E 
+struct EventLevel_t647BA4EA78B2B108075D614A19C8C2204644790E 
 {
 public:
 	// System.Int32 System.Diagnostics.Tracing.EventLevel::value__
@@ -10912,7 +10912,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventManifestOptions
-struct  EventManifestOptions_tE60966636485328AC4D00850C1FCB9B8E25190DF 
+struct EventManifestOptions_tE60966636485328AC4D00850C1FCB9B8E25190DF 
 {
 public:
 	// System.Int32 System.Diagnostics.Tracing.EventManifestOptions::value__
@@ -10930,7 +10930,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventOpcode
-struct  EventOpcode_t52B1CBEC2A4C6FDDC00A61ECF12BF584A5146C44 
+struct EventOpcode_t52B1CBEC2A4C6FDDC00A61ECF12BF584A5146C44 
 {
 public:
 	// System.Int32 System.Diagnostics.Tracing.EventOpcode::value__
@@ -10948,7 +10948,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventProvider/WriteEventErrorCode
-struct  WriteEventErrorCode_t2985FE5E3CE913815E6F506873798D31C6DD347F 
+struct WriteEventErrorCode_t2985FE5E3CE913815E6F506873798D31C6DD347F 
 {
 public:
 	// System.Int32 System.Diagnostics.Tracing.EventProvider/WriteEventErrorCode::value__
@@ -10966,7 +10966,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventSourceSettings
-struct  EventSourceSettings_t56A3A2CF82262192C3FB6935B694C9A7405D38FB 
+struct EventSourceSettings_t56A3A2CF82262192C3FB6935B694C9A7405D38FB 
 {
 public:
 	// System.Int32 System.Diagnostics.Tracing.EventSourceSettings::value__
@@ -10984,7 +10984,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventTags
-struct  EventTags_t886E6B89C75F05A5BA40FBC96790AA6C5F24A712 
+struct EventTags_t886E6B89C75F05A5BA40FBC96790AA6C5F24A712 
 {
 public:
 	// System.Int32 System.Diagnostics.Tracing.EventTags::value__
@@ -11002,7 +11002,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventTask
-struct  EventTask_tBEC61529FD6426C4863B30C6BDD3CC5E4201E8C9 
+struct EventTask_tBEC61529FD6426C4863B30C6BDD3CC5E4201E8C9 
 {
 public:
 	// System.Int32 System.Diagnostics.Tracing.EventTask::value__
@@ -11020,7 +11020,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventWrittenEventArgs
-struct  EventWrittenEventArgs_t3E46581254D84E46F89EE4154394C8B5B75A523E  : public EventArgs_t8E6CA180BE0E56674C6407011A94BAF7C757352E
+struct EventWrittenEventArgs_t3E46581254D84E46F89EE4154394C8B5B75A523E  : public EventArgs_t8E6CA180BE0E56674C6407011A94BAF7C757352E
 {
 public:
 	// System.Int32 System.Diagnostics.Tracing.EventWrittenEventArgs::<EventId>k__BackingField
@@ -11103,7 +11103,7 @@ public:
 
 
 // System.Diagnostics.Tracing.ManifestEnvelope/ManifestFormats
-struct  ManifestFormats_t463B40ED85683557A1610A3FD7C1D61953F3112B 
+struct ManifestFormats_t463B40ED85683557A1610A3FD7C1D61953F3112B 
 {
 public:
 	// System.Byte System.Diagnostics.Tracing.ManifestEnvelope/ManifestFormats::value__
@@ -11121,7 +11121,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingDataType
-struct  TraceLoggingDataType_tAF569833EAB13AD2793006E97B6D27A72B8301FE 
+struct TraceLoggingDataType_tAF569833EAB13AD2793006E97B6D27A72B8301FE 
 {
 public:
 	// System.Int32 System.Diagnostics.Tracing.TraceLoggingDataType::value__
@@ -11139,7 +11139,7 @@ public:
 
 
 // System.Enum/ParseFailureKind
-struct  ParseFailureKind_tEA92535264CBB0B0838EDDDA2B7203384426BF80 
+struct ParseFailureKind_tEA92535264CBB0B0838EDDDA2B7203384426BF80 
 {
 public:
 	// System.Int32 System.Enum/ParseFailureKind::value__
@@ -11157,7 +11157,7 @@ public:
 
 
 // System.Environment/SpecialFolder
-struct  SpecialFolder_t5A2C2AE97BD6C2DF95061C8904B2225228AC9BA0 
+struct SpecialFolder_t5A2C2AE97BD6C2DF95061C8904B2225228AC9BA0 
 {
 public:
 	// System.Int32 System.Environment/SpecialFolder::value__
@@ -11175,7 +11175,7 @@ public:
 
 
 // System.Environment/SpecialFolderOption
-struct  SpecialFolderOption_tAF2DB60F447738C1E46C3D5660A0CBB0F4480470 
+struct SpecialFolderOption_tAF2DB60F447738C1E46C3D5660A0CBB0F4480470 
 {
 public:
 	// System.Int32 System.Environment/SpecialFolderOption::value__
@@ -11193,7 +11193,7 @@ public:
 
 
 // System.Exception
-struct  Exception_t  : public RuntimeObject
+struct Exception_t  : public RuntimeObject
 {
 public:
 	// System.String System.Exception::_className
@@ -11419,7 +11419,7 @@ struct Exception_t_marshaled_com
 };
 
 // System.Exception/ExceptionMessageKind
-struct  ExceptionMessageKind_t5151BECAA7C450ADA0DDF5BB98A51E7042166AB7 
+struct ExceptionMessageKind_t5151BECAA7C450ADA0DDF5BB98A51E7042166AB7 
 {
 public:
 	// System.Int32 System.Exception/ExceptionMessageKind::value__
@@ -11437,7 +11437,7 @@ public:
 
 
 // System.ExceptionArgument
-struct  ExceptionArgument_tE4C1E083DC891ECF9688A8A0C62D7F7841057B14 
+struct ExceptionArgument_tE4C1E083DC891ECF9688A8A0C62D7F7841057B14 
 {
 public:
 	// System.Int32 System.ExceptionArgument::value__
@@ -11455,7 +11455,7 @@ public:
 
 
 // System.ExceptionResource
-struct  ExceptionResource_t897ACCB868BF3CAAC00AB0C00D57D7A2B6C7586A 
+struct ExceptionResource_t897ACCB868BF3CAAC00AB0C00D57D7A2B6C7586A 
 {
 public:
 	// System.Int32 System.ExceptionResource::value__
@@ -11473,7 +11473,7 @@ public:
 
 
 // System.Globalization.CalendarId
-struct  CalendarId_t6BEB24607D1F90A7EA377D0C97FB4167B5A7B364 
+struct CalendarId_t6BEB24607D1F90A7EA377D0C97FB4167B5A7B364 
 {
 public:
 	// System.UInt16 System.Globalization.CalendarId::value__
@@ -11491,7 +11491,7 @@ public:
 
 
 // System.Globalization.CompareOptions
-struct  CompareOptions_t163DCEA9A0972750294CC1A8348E5CA69E943939 
+struct CompareOptions_t163DCEA9A0972750294CC1A8348E5CA69E943939 
 {
 public:
 	// System.Int32 System.Globalization.CompareOptions::value__
@@ -11509,7 +11509,7 @@ public:
 
 
 // System.Globalization.CultureTypes
-struct  CultureTypes_t04A866B07972D6C174F6BB5A60E76A1F2A123BBD 
+struct CultureTypes_t04A866B07972D6C174F6BB5A60E76A1F2A123BBD 
 {
 public:
 	// System.Int32 System.Globalization.CultureTypes::value__
@@ -11527,7 +11527,7 @@ public:
 
 
 // System.Globalization.NumberStyles
-struct  NumberStyles_tB0ADA2D9CCAA236331AED14C42BE5832B2351592 
+struct NumberStyles_tB0ADA2D9CCAA236331AED14C42BE5832B2351592 
 {
 public:
 	// System.Int32 System.Globalization.NumberStyles::value__
@@ -11545,7 +11545,7 @@ public:
 
 
 // System.Globalization.UnicodeCategory
-struct  UnicodeCategory_tC192ED2DE3FB1214FA458FEEF2380911F1C32788 
+struct UnicodeCategory_tC192ED2DE3FB1214FA458FEEF2380911F1C32788 
 {
 public:
 	// System.Int32 System.Globalization.UnicodeCategory::value__
@@ -11563,7 +11563,7 @@ public:
 
 
 // System.IO.StreamReader
-struct  StreamReader_t62E68063760DCD2FC036AE132DE69C24B7ED001E  : public TextReader_t7DF8314B601D202ECFEDF623093A87BFDAB58D0A
+struct StreamReader_t62E68063760DCD2FC036AE132DE69C24B7ED001E  : public TextReader_t7DF8314B601D202ECFEDF623093A87BFDAB58D0A
 {
 public:
 	// System.IO.Stream System.IO.StreamReader::stream
@@ -11755,7 +11755,7 @@ public:
 
 
 // System.Int32Enum
-struct  Int32Enum_t6312CE4586C17FE2E2E513D2E7655B574F10FDCD 
+struct Int32Enum_t6312CE4586C17FE2E2E513D2E7655B574F10FDCD 
 {
 public:
 	// System.Int32 System.Int32Enum::value__
@@ -11773,7 +11773,7 @@ public:
 
 
 // System.PlatformID
-struct  PlatformID_t7969561D329B66D3E609C70CA506A519E06F2776 
+struct PlatformID_t7969561D329B66D3E609C70CA506A519E06F2776 
 {
 public:
 	// System.Int32 System.PlatformID::value__
@@ -11791,7 +11791,7 @@ public:
 
 
 // System.Reflection.Assembly
-struct  Assembly_t  : public RuntimeObject
+struct Assembly_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Reflection.Assembly::_mono_assembly
@@ -11935,7 +11935,7 @@ struct Assembly_t_marshaled_com
 };
 
 // System.Reflection.AssemblyContentType
-struct  AssemblyContentType_t9869DE40B7B1976B389F3B6A5A5D18B09E623401 
+struct AssemblyContentType_t9869DE40B7B1976B389F3B6A5A5D18B09E623401 
 {
 public:
 	// System.Int32 System.Reflection.AssemblyContentType::value__
@@ -11953,7 +11953,7 @@ public:
 
 
 // System.Reflection.AssemblyNameFlags
-struct  AssemblyNameFlags_t7834EDF078E7ECA985AA434A1EA0D95C2A44F256 
+struct AssemblyNameFlags_t7834EDF078E7ECA985AA434A1EA0D95C2A44F256 
 {
 public:
 	// System.Int32 System.Reflection.AssemblyNameFlags::value__
@@ -11971,7 +11971,7 @@ public:
 
 
 // System.Reflection.BindingFlags
-struct  BindingFlags_tE35C91D046E63A1B92BB9AB909FCF9DA84379ED0 
+struct BindingFlags_tE35C91D046E63A1B92BB9AB909FCF9DA84379ED0 
 {
 public:
 	// System.Int32 System.Reflection.BindingFlags::value__
@@ -11989,7 +11989,7 @@ public:
 
 
 // System.Reflection.MethodInfo
-struct  MethodInfo_t  : public MethodBase_t
+struct MethodInfo_t  : public MethodBase_t
 {
 public:
 
@@ -11998,7 +11998,7 @@ public:
 
 
 // System.Reflection.ParameterAttributes
-struct  ParameterAttributes_tF9962395513C2A48CF5AF2F371C66DD52789F110 
+struct ParameterAttributes_tF9962395513C2A48CF5AF2F371C66DD52789F110 
 {
 public:
 	// System.Int32 System.Reflection.ParameterAttributes::value__
@@ -12016,7 +12016,7 @@ public:
 
 
 // System.Reflection.ProcessorArchitecture
-struct  ProcessorArchitecture_t0CFB73A83469D6AC222B9FE46E81EAC73C2627C7 
+struct ProcessorArchitecture_t0CFB73A83469D6AC222B9FE46E81EAC73C2627C7 
 {
 public:
 	// System.Int32 System.Reflection.ProcessorArchitecture::value__
@@ -12034,7 +12034,7 @@ public:
 
 
 // System.Resources.UltimateResourceFallbackLocation
-struct  UltimateResourceFallbackLocation_t9E7495B2ADC328EB99FD80EDE68A2E5781D2882E 
+struct UltimateResourceFallbackLocation_t9E7495B2ADC328EB99FD80EDE68A2E5781D2882E 
 {
 public:
 	// System.Int32 System.Resources.UltimateResourceFallbackLocation::value__
@@ -12052,7 +12052,7 @@ public:
 
 
 // System.Runtime.Serialization.StreamingContextStates
-struct  StreamingContextStates_t6D16CD7BC584A66A29B702F5FD59DF62BB1BDD3F 
+struct StreamingContextStates_t6D16CD7BC584A66A29B702F5FD59DF62BB1BDD3F 
 {
 public:
 	// System.Int32 System.Runtime.Serialization.StreamingContextStates::value__
@@ -12070,7 +12070,7 @@ public:
 
 
 // System.RuntimeFieldHandle
-struct  RuntimeFieldHandle_t844BDF00E8E6FE69D9AEAA7657F09018B864F4EF 
+struct RuntimeFieldHandle_t844BDF00E8E6FE69D9AEAA7657F09018B864F4EF 
 {
 public:
 	// System.IntPtr System.RuntimeFieldHandle::value
@@ -12088,7 +12088,7 @@ public:
 
 
 // System.RuntimeTypeHandle
-struct  RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D 
+struct RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D 
 {
 public:
 	// System.IntPtr System.RuntimeTypeHandle::value
@@ -12106,7 +12106,7 @@ public:
 
 
 // System.StringComparison
-struct  StringComparison_t02BAA95468CE9E91115C604577611FDF58FEDCF0 
+struct StringComparison_t02BAA95468CE9E91115C604577611FDF58FEDCF0 
 {
 public:
 	// System.Int32 System.StringComparison::value__
@@ -12124,7 +12124,7 @@ public:
 
 
 // System.StringSplitOptions
-struct  StringSplitOptions_t2FA287E15325CC78BF3CA5CDAAA3520BFBD58487 
+struct StringSplitOptions_t2FA287E15325CC78BF3CA5CDAAA3520BFBD58487 
 {
 public:
 	// System.Int32 System.StringSplitOptions::value__
@@ -12142,7 +12142,7 @@ public:
 
 
 // System.TimeSpan
-struct  TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 
+struct TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 
 {
 public:
 	// System.Int64 System.TimeSpan::_ticks
@@ -12216,7 +12216,7 @@ public:
 
 
 // System.TypeCode
-struct  TypeCode_t03ED52F888000DAF40C550C434F29F39A23D61C6 
+struct TypeCode_t03ED52F888000DAF40C550C434F29F39A23D61C6 
 {
 public:
 	// System.Int32 System.TypeCode::value__
@@ -12234,7 +12234,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Object,System.Int32Enum>
-struct  KeyValuePair_2_tF5C55FD7AFA8164449EE2A5C295953C5B9CAE4F5 
+struct KeyValuePair_2_tF5C55FD7AFA8164449EE2A5C295953C5B9CAE4F5 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -12263,7 +12263,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.String,System.Diagnostics.Tracing.EventTags>
-struct  KeyValuePair_2_tC5E97F5FFE30651DD75FE9EC048400D9A5C57C74 
+struct KeyValuePair_2_tC5E97F5FFE30651DD75FE9EC048400D9A5C57C74 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -12292,7 +12292,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventAttribute
-struct  EventAttribute_t2BBB5CB51746AE5ABE68D2DAE4614F284400D7F1  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
+struct EventAttribute_t2BBB5CB51746AE5ABE68D2DAE4614F284400D7F1  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
 {
 public:
 	// System.Int32 System.Diagnostics.Tracing.EventAttribute::<EventId>k__BackingField
@@ -12401,7 +12401,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventDataAttribute
-struct  EventDataAttribute_t1D5900E119C876806FC056E30DDBE11D841A1F85  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
+struct EventDataAttribute_t1D5900E119C876806FC056E30DDBE11D841A1F85  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
 {
 public:
 	// System.Diagnostics.Tracing.EventLevel System.Diagnostics.Tracing.EventDataAttribute::level
@@ -12460,7 +12460,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventFieldAttribute
-struct  EventFieldAttribute_tCD8E252D7D673724F2980B794282B715E16A675C  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
+struct EventFieldAttribute_tCD8E252D7D673724F2980B794282B715E16A675C  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
 {
 public:
 	// System.Diagnostics.Tracing.EventFieldTags System.Diagnostics.Tracing.EventFieldAttribute::<Tags>k__BackingField
@@ -12499,7 +12499,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventProvider
-struct  EventProvider_t70CEE09111DA394FEAE007A324A44F737E74D483  : public RuntimeObject
+struct EventProvider_t70CEE09111DA394FEAE007A324A44F737E74D483  : public RuntimeObject
 {
 public:
 	// Microsoft.Win32.UnsafeNativeMethods/ManifestEtw/EtwEnableCallback System.Diagnostics.Tracing.EventProvider::m_etwCallback
@@ -12652,7 +12652,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventSource
-struct  EventSource_t263F509672F3C6747C5BA393F20E2717B7A981EB  : public RuntimeObject
+struct EventSource_t263F509672F3C6747C5BA393F20E2717B7A981EB  : public RuntimeObject
 {
 public:
 	// System.Byte[] System.Diagnostics.Tracing.EventSource::providerMetadata
@@ -12977,7 +12977,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventSource/EventMetadata
-struct  EventMetadata_tDC146079349635A3A29F84F4655C39D480BBCF0B 
+struct EventMetadata_tDC146079349635A3A29F84F4655C39D480BBCF0B 
 {
 public:
 	// System.Diagnostics.Tracing.EventDescriptor System.Diagnostics.Tracing.EventSource/EventMetadata::Descriptor
@@ -13129,7 +13129,7 @@ struct EventMetadata_tDC146079349635A3A29F84F4655C39D480BBCF0B_marshaled_com
 };
 
 // System.Diagnostics.Tracing.EventSourceException
-struct  EventSourceException_tCD5CC7F1F4F968609FB863449D9A5CD630236275  : public Exception_t
+struct EventSourceException_tCD5CC7F1F4F968609FB863449D9A5CD630236275  : public Exception_t
 {
 public:
 
@@ -13138,7 +13138,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventSourceOptions
-struct  EventSourceOptions_tB3B2EDA0BF087FEB0198CF64451FAAF4C1B3002C 
+struct EventSourceOptions_tB3B2EDA0BF087FEB0198CF64451FAAF4C1B3002C 
 {
 public:
 	// System.Diagnostics.Tracing.EventKeywords System.Diagnostics.Tracing.EventSourceOptions::keywords
@@ -13206,7 +13206,7 @@ public:
 
 
 // System.Diagnostics.Tracing.FieldMetadata
-struct  FieldMetadata_tF8338AA83F53559A65AC62864F69CCC2FCAE24CC  : public RuntimeObject
+struct FieldMetadata_tF8338AA83F53559A65AC62864F69CCC2FCAE24CC  : public RuntimeObject
 {
 public:
 	// System.String System.Diagnostics.Tracing.FieldMetadata::name
@@ -13286,7 +13286,7 @@ public:
 
 
 // System.Diagnostics.Tracing.ManifestBuilder
-struct  ManifestBuilder_t6C6D19F4605FBB0F1E11B6143457A3AE4D01E450  : public RuntimeObject
+struct ManifestBuilder_t6C6D19F4605FBB0F1E11B6143457A3AE4D01E450  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.Dictionary`2<System.Int32,System.String> System.Diagnostics.Tracing.ManifestBuilder::opcodeTab
@@ -13457,7 +13457,7 @@ public:
 
 
 // System.Diagnostics.Tracing.ManifestEnvelope
-struct  ManifestEnvelope_t77CD15A106F6540BFB7C48C6F4E4427CA1994E34 
+struct ManifestEnvelope_t77CD15A106F6540BFB7C48C6F4E4427CA1994E34 
 {
 public:
 	// System.Diagnostics.Tracing.ManifestEnvelope/ManifestFormats System.Diagnostics.Tracing.ManifestEnvelope::Format
@@ -13525,7 +13525,7 @@ public:
 
 
 // System.Diagnostics.Tracing.NameInfo
-struct  NameInfo_t506A214E126C77BF344CC08864783DE4E5922D4C  : public ConcurrentSetItem_2_tF75C8666AA6AE859719571013C6765518785D0DA
+struct NameInfo_t506A214E126C77BF344CC08864783DE4E5922D4C  : public ConcurrentSetItem_2_tF75C8666AA6AE859719571013C6765518785D0DA
 {
 public:
 	// System.String System.Diagnostics.Tracing.NameInfo::name
@@ -13591,7 +13591,7 @@ public:
 
 
 // System.Diagnostics.Tracing.Statics
-struct  Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95  : public RuntimeObject
+struct Statics_t5E1A1DC56C4617D3659228C6FA20FC98476ACF95  : public RuntimeObject
 {
 public:
 
@@ -13636,7 +13636,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TplEtwProvider/Keywords
-struct  Keywords_t5171937FE26BD6E78DA288FCE99671E055EF3CCC  : public RuntimeObject
+struct Keywords_t5171937FE26BD6E78DA288FCE99671E055EF3CCC  : public RuntimeObject
 {
 public:
 
@@ -13645,7 +13645,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingEventTypes
-struct  TraceLoggingEventTypes_t9CC0B45F554DBE11BA54227A704E1AC027E5DD25  : public RuntimeObject
+struct TraceLoggingEventTypes_t9CC0B45F554DBE11BA54227A704E1AC027E5DD25  : public RuntimeObject
 {
 public:
 	// System.Diagnostics.Tracing.TraceLoggingTypeInfo[] System.Diagnostics.Tracing.TraceLoggingEventTypes::typeInfos
@@ -13767,7 +13767,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingMetadataCollector
-struct  TraceLoggingMetadataCollector_t794F754226AD9DDCF0B4E0055DE3AA7378DEDD7E  : public RuntimeObject
+struct TraceLoggingMetadataCollector_t794F754226AD9DDCF0B4E0055DE3AA7378DEDD7E  : public RuntimeObject
 {
 public:
 	// System.Diagnostics.Tracing.TraceLoggingMetadataCollector/Impl System.Diagnostics.Tracing.TraceLoggingMetadataCollector::impl
@@ -13817,7 +13817,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo
-struct  TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F  : public RuntimeObject
+struct TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F  : public RuntimeObject
 {
 public:
 	// System.String System.Diagnostics.Tracing.TraceLoggingTypeInfo::name
@@ -13887,7 +13887,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TypeAnalysis
-struct  TypeAnalysis_tDF056211469FB207E3865AC52165AE84BF156DFD  : public RuntimeObject
+struct TypeAnalysis_tDF056211469FB207E3865AC52165AE84BF156DFD  : public RuntimeObject
 {
 public:
 	// System.Diagnostics.Tracing.PropertyAnalysis[] System.Diagnostics.Tracing.TypeAnalysis::properties
@@ -13957,7 +13957,7 @@ public:
 
 
 // System.Enum/EnumResult
-struct  EnumResult_t35D8EE76FAC6638FD89A5338957F377BF893566C 
+struct EnumResult_t35D8EE76FAC6638FD89A5338957F377BF893566C 
 {
 public:
 	// System.Object System.Enum/EnumResult::parsedEnum
@@ -14062,7 +14062,7 @@ struct EnumResult_t35D8EE76FAC6638FD89A5338957F377BF893566C_marshaled_com
 };
 
 // System.Globalization.CompareInfo
-struct  CompareInfo_tB9A071DBC11AC00AF2EA2066D0C2AE1DCB1865D1  : public RuntimeObject
+struct CompareInfo_tB9A071DBC11AC00AF2EA2066D0C2AE1DCB1865D1  : public RuntimeObject
 {
 public:
 	// System.String System.Globalization.CompareInfo::m_name
@@ -14171,7 +14171,7 @@ public:
 
 
 // System.Globalization.NumberFormatInfo
-struct  NumberFormatInfo_tFDF57037EBC5BC833D0A53EF0327B805994860A8  : public RuntimeObject
+struct NumberFormatInfo_tFDF57037EBC5BC833D0A53EF0327B805994860A8  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Globalization.NumberFormatInfo::numberGroupSizes
@@ -14555,7 +14555,7 @@ public:
 
 
 // System.Globalization.SortKey
-struct  SortKey_tD5C96B638D8C6D0C4C2F49F27387D51202D78FD9  : public RuntimeObject
+struct SortKey_tD5C96B638D8C6D0C4C2F49F27387D51202D78FD9  : public RuntimeObject
 {
 public:
 	// System.String System.Globalization.SortKey::source
@@ -14621,7 +14621,7 @@ struct SortKey_tD5C96B638D8C6D0C4C2F49F27387D51202D78FD9_marshaled_com
 };
 
 // System.MulticastDelegate
-struct  MulticastDelegate_t  : public Delegate_t
+struct MulticastDelegate_t  : public Delegate_t
 {
 public:
 	// System.Delegate[] System.MulticastDelegate::delegates
@@ -14650,7 +14650,7 @@ struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
 };
 
 // System.OperatingSystem
-struct  OperatingSystem_tBB05846D5AA6960FFEB42C59E5FE359255C2BE83  : public RuntimeObject
+struct OperatingSystem_tBB05846D5AA6960FFEB42C59E5FE359255C2BE83  : public RuntimeObject
 {
 public:
 	// System.PlatformID System.OperatingSystem::_platform
@@ -14690,7 +14690,7 @@ public:
 
 
 // System.Reflection.AssemblyName
-struct  AssemblyName_t6F3EC58113268060348EE894DCB46F6EF6BBBB82  : public RuntimeObject
+struct AssemblyName_t6F3EC58113268060348EE894DCB46F6EF6BBBB82  : public RuntimeObject
 {
 public:
 	// System.String System.Reflection.AssemblyName::name
@@ -14905,7 +14905,7 @@ struct AssemblyName_t6F3EC58113268060348EE894DCB46F6EF6BBBB82_marshaled_com
 };
 
 // System.Reflection.ParameterInfo
-struct  ParameterInfo_t37AB8D79D44E14C48CDA9004CB696E240C3FD4DB  : public RuntimeObject
+struct ParameterInfo_t37AB8D79D44E14C48CDA9004CB696E240C3FD4DB  : public RuntimeObject
 {
 public:
 	// System.Type System.Reflection.ParameterInfo::ClassImpl
@@ -15010,7 +15010,7 @@ struct ParameterInfo_t37AB8D79D44E14C48CDA9004CB696E240C3FD4DB_marshaled_com
 };
 
 // System.Reflection.RuntimeAssembly
-struct  RuntimeAssembly_t5EE9CD749D82345AE5635B9665665C31A3308EB1  : public Assembly_t
+struct RuntimeAssembly_t5EE9CD749D82345AE5635B9665665C31A3308EB1  : public Assembly_t
 {
 public:
 
@@ -15019,7 +15019,7 @@ public:
 
 
 // System.Resources.ResourceManager
-struct  ResourceManager_t966CE0B6B59F36DD8797BDC20B5EEFACE0A883FF  : public RuntimeObject
+struct ResourceManager_t966CE0B6B59F36DD8797BDC20B5EEFACE0A883FF  : public RuntimeObject
 {
 public:
 	// System.String System.Resources.ResourceManager::BaseNameField
@@ -15300,7 +15300,7 @@ public:
 
 
 // System.Runtime.Serialization.StreamingContext
-struct  StreamingContext_t2CCDC54E0E8D078AF4A50E3A8B921B828A900034 
+struct StreamingContext_t2CCDC54E0E8D078AF4A50E3A8B921B828A900034 
 {
 public:
 	// System.Object System.Runtime.Serialization.StreamingContext::m_additionalContext
@@ -15341,7 +15341,7 @@ struct StreamingContext_t2CCDC54E0E8D078AF4A50E3A8B921B828A900034_marshaled_com
 };
 
 // System.SystemException
-struct  SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
+struct SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
 {
 public:
 
@@ -15350,7 +15350,7 @@ public:
 
 
 // System.Type
-struct  Type_t  : public MemberInfo_t
+struct Type_t  : public MemberInfo_t
 {
 public:
 	// System.RuntimeTypeHandle System.Type::_impl
@@ -15450,7 +15450,7 @@ public:
 
 
 // System.Action`2<System.Char,System.String>
-struct  Action_2_tF9B5B4903EBDF1C9EC5FD39E96DE7A6A35B21C81  : public MulticastDelegate_t
+struct Action_2_tF9B5B4903EBDF1C9EC5FD39E96DE7A6A35B21C81  : public MulticastDelegate_t
 {
 public:
 
@@ -15459,7 +15459,7 @@ public:
 
 
 // System.ArgumentException
-struct  ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 	// System.String System.ArgumentException::m_paramName
@@ -15478,7 +15478,7 @@ public:
 
 
 // System.ArithmeticException
-struct  ArithmeticException_tF9EF5FE94597830EF315C5934258F994B8648269  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct ArithmeticException_tF9EF5FE94597830EF315C5934258F994B8648269  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -15487,7 +15487,7 @@ public:
 
 
 // System.AsyncCallback
-struct  AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4  : public MulticastDelegate_t
+struct AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4  : public MulticastDelegate_t
 {
 public:
 
@@ -15496,7 +15496,7 @@ public:
 
 
 // System.Comparison`1<System.String>
-struct  Comparison_1_tB59BE4B966B2646664AB777129F0D33B1AAA0E71  : public MulticastDelegate_t
+struct Comparison_1_tB59BE4B966B2646664AB777129F0D33B1AAA0E71  : public MulticastDelegate_t
 {
 public:
 
@@ -15505,7 +15505,7 @@ public:
 
 
 // System.Diagnostics.Tracing.EventSource/OverideEventProvider
-struct  OverideEventProvider_t354C68E8EFB53023A6C94D61F8F44358225D7C2B  : public EventProvider_t70CEE09111DA394FEAE007A324A44F737E74D483
+struct OverideEventProvider_t354C68E8EFB53023A6C94D61F8F44358225D7C2B  : public EventProvider_t70CEE09111DA394FEAE007A324A44F737E74D483
 {
 public:
 	// System.Diagnostics.Tracing.EventSource System.Diagnostics.Tracing.EventSource/OverideEventProvider::m_eventSource
@@ -15524,7 +15524,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TplEtwProvider
-struct  TplEtwProvider_tE8D95D638ADE31D5FCEF08E88222D518C2FACC9E  : public EventSource_t263F509672F3C6747C5BA393F20E2717B7A981EB
+struct TplEtwProvider_tE8D95D638ADE31D5FCEF08E88222D518C2FACC9E  : public EventSource_t263F509672F3C6747C5BA393F20E2717B7A981EB
 {
 public:
 
@@ -15550,7 +15550,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Guid>
-struct  TraceLoggingTypeInfo_1_t2B55C9286BB1419C38C60FD4458507F64BDC8CE4  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_t2B55C9286BB1419C38C60FD4458507F64BDC8CE4  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -15576,7 +15576,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Guid[]>
-struct  TraceLoggingTypeInfo_1_t5CD19345E04791061E49735C40A06560D1015A81  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_t5CD19345E04791061E49735C40A06560D1015A81  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -15602,7 +15602,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int16>
-struct  TraceLoggingTypeInfo_1_t506240682C732B33C0D659D6DC744D966C2FE363  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_t506240682C732B33C0D659D6DC744D966C2FE363  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -15628,7 +15628,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int16[]>
-struct  TraceLoggingTypeInfo_1_t48333D5529FE3B84602B0DC3CD4AE0F4B0D4BAE0  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_t48333D5529FE3B84602B0DC3CD4AE0F4B0D4BAE0  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -15654,7 +15654,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int32>
-struct  TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -15680,7 +15680,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int32[]>
-struct  TraceLoggingTypeInfo_1_t9B7E3D9AB547CAF187A5C9E97F07E2B5A58E2589  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_t9B7E3D9AB547CAF187A5C9E97F07E2B5A58E2589  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -15706,7 +15706,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int64>
-struct  TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -15732,7 +15732,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Int64[]>
-struct  TraceLoggingTypeInfo_1_tA67F5E5AEDAD34F7E25836F622BB7510867903BD  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_tA67F5E5AEDAD34F7E25836F622BB7510867903BD  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -15758,7 +15758,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.IntPtr>
-struct  TraceLoggingTypeInfo_1_t49721B614FCA52E6F380ACEE1AE32F5BA19815F1  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_t49721B614FCA52E6F380ACEE1AE32F5BA19815F1  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -15784,7 +15784,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.IntPtr[]>
-struct  TraceLoggingTypeInfo_1_t7DDB9F3AED3B154D72AB8AE300434F50B56870C6  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_t7DDB9F3AED3B154D72AB8AE300434F50B56870C6  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -15810,7 +15810,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.SByte>
-struct  TraceLoggingTypeInfo_1_tBCFB1C63D7D7837A0D7EAC07CF250A313B982794  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_tBCFB1C63D7D7837A0D7EAC07CF250A313B982794  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -15836,7 +15836,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.SByte[]>
-struct  TraceLoggingTypeInfo_1_t55CF8C945F32D794C974BA4DAE2EE7F2647C4C5E  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_t55CF8C945F32D794C974BA4DAE2EE7F2647C4C5E  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -15862,7 +15862,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Single>
-struct  TraceLoggingTypeInfo_1_t80BF4A689F205E66ABE5177817C623F9DF91E6CD  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_t80BF4A689F205E66ABE5177817C623F9DF91E6CD  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -15888,7 +15888,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.Single[]>
-struct  TraceLoggingTypeInfo_1_t1EC2C7D1B7604F9A26B9CBC247D3927A18E9633E  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_t1EC2C7D1B7604F9A26B9CBC247D3927A18E9633E  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -15914,7 +15914,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.String>
-struct  TraceLoggingTypeInfo_1_t34C750FAAA441003C34ECA6894E5D8640C78041D  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_t34C750FAAA441003C34ECA6894E5D8640C78041D  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -15940,7 +15940,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.TimeSpan>
-struct  TraceLoggingTypeInfo_1_t8DC6FE358F90681BDCCD5350065A9767D2AC90DD  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_t8DC6FE358F90681BDCCD5350065A9767D2AC90DD  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -15966,7 +15966,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.UInt16>
-struct  TraceLoggingTypeInfo_1_tCBF51B2E677BE976178EC8AC986798F9B65E2EC6  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_tCBF51B2E677BE976178EC8AC986798F9B65E2EC6  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -15992,7 +15992,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.UInt16[]>
-struct  TraceLoggingTypeInfo_1_t97FDBDA4CF3677121784926A6B75A517CB7A0354  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_t97FDBDA4CF3677121784926A6B75A517CB7A0354  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -16018,7 +16018,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.UInt32>
-struct  TraceLoggingTypeInfo_1_tC4AD26ADEB2206747827432E8A7EDA1A37681F10  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_tC4AD26ADEB2206747827432E8A7EDA1A37681F10  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -16044,7 +16044,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.UInt32[]>
-struct  TraceLoggingTypeInfo_1_t8AE0E093509BB6D0AF1B5A1D5F17DAD0FC17FBAB  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_t8AE0E093509BB6D0AF1B5A1D5F17DAD0FC17FBAB  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -16070,7 +16070,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.UInt64>
-struct  TraceLoggingTypeInfo_1_t2BDE5AE3D48BE884906B4ABADD9FA7EB16AD333C  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_t2BDE5AE3D48BE884906B4ABADD9FA7EB16AD333C  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -16096,7 +16096,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.UInt64[]>
-struct  TraceLoggingTypeInfo_1_t6EE8951B7314721A44CBD852551DAAF5CB72F606  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_t6EE8951B7314721A44CBD852551DAAF5CB72F606  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -16122,7 +16122,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.UIntPtr>
-struct  TraceLoggingTypeInfo_1_tB931FCDE5F91B9AE5C5515AA58B5518C97F86330  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_tB931FCDE5F91B9AE5C5515AA58B5518C97F86330  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -16148,7 +16148,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TraceLoggingTypeInfo`1<System.UIntPtr[]>
-struct  TraceLoggingTypeInfo_1_tD16C7A6EA0D37CFA5AC0AED1A07D919210983479  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
+struct TraceLoggingTypeInfo_1_tD16C7A6EA0D37CFA5AC0AED1A07D919210983479  : public TraceLoggingTypeInfo_t20C551D7A794E567EA451C7C8E8BAA4F7E2E263F
 {
 public:
 
@@ -16174,7 +16174,7 @@ public:
 
 
 // System.EventHandler
-struct  EventHandler_t2B84E745E28BA26C49C4E99A387FC3B534D1110C  : public MulticastDelegate_t
+struct EventHandler_t2B84E745E28BA26C49C4E99A387FC3B534D1110C  : public MulticastDelegate_t
 {
 public:
 
@@ -16183,7 +16183,7 @@ public:
 
 
 // System.ExecutionEngineException
-struct  ExecutionEngineException_t9D6DDEC5449D08251371AB57FE61558C2A2B1F21  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct ExecutionEngineException_t9D6DDEC5449D08251371AB57FE61558C2A2B1F21  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -16192,7 +16192,7 @@ public:
 
 
 // System.FormatException
-struct  FormatException_t2808E076CDE4650AF89F55FD78F49290D0EC5BDC  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct FormatException_t2808E076CDE4650AF89F55FD78F49290D0EC5BDC  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -16201,7 +16201,7 @@ public:
 
 
 // System.IO.IOException
-struct  IOException_t60E052020EDE4D3075F57A1DCC224FF8864354BA  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct IOException_t60E052020EDE4D3075F57A1DCC224FF8864354BA  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 	// System.String System.IO.IOException::_maybeFullPath
@@ -16220,7 +16220,7 @@ public:
 
 
 // System.InvalidCastException
-struct  InvalidCastException_t91DF9E7D7FCCDA6C562CB4A9A18903E016680FDA  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct InvalidCastException_t91DF9E7D7FCCDA6C562CB4A9A18903E016680FDA  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -16229,7 +16229,7 @@ public:
 
 
 // System.InvalidOperationException
-struct  InvalidOperationException_t0530E734D823F78310CAFAFA424CA5164D93A1F1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct InvalidOperationException_t0530E734D823F78310CAFAFA424CA5164D93A1F1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -16238,7 +16238,7 @@ public:
 
 
 // System.MemberAccessException
-struct  MemberAccessException_tDA869AFFB4FC1EA0EEF3143D85999710AC4774F0  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct MemberAccessException_tDA869AFFB4FC1EA0EEF3143D85999710AC4774F0  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -16247,7 +16247,7 @@ public:
 
 
 // System.NotImplementedException
-struct  NotImplementedException_t8AD6EBE5FEDB0AEBECEE0961CF73C35B372EFFA4  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct NotImplementedException_t8AD6EBE5FEDB0AEBECEE0961CF73C35B372EFFA4  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -16256,7 +16256,7 @@ public:
 
 
 // System.NotSupportedException
-struct  NotSupportedException_tE75B318D6590A02A5D9B29FD97409B1750FA0010  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct NotSupportedException_tE75B318D6590A02A5D9B29FD97409B1750FA0010  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -16265,7 +16265,7 @@ public:
 
 
 // System.NullReferenceException
-struct  NullReferenceException_t204B194BC4DDA3259AF5A8633EA248AE5977ABDC  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct NullReferenceException_t204B194BC4DDA3259AF5A8633EA248AE5977ABDC  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -16274,7 +16274,7 @@ public:
 
 
 // System.Reflection.TypeFilter
-struct  TypeFilter_t30BB04A68BC9FB949345457F71A9648BDB67FF18  : public MulticastDelegate_t
+struct TypeFilter_t30BB04A68BC9FB949345457F71A9648BDB67FF18  : public MulticastDelegate_t
 {
 public:
 
@@ -16283,7 +16283,7 @@ public:
 
 
 // System.Reflection.TypeInfo
-struct  TypeInfo_t9D6F65801A41B97F36138B15FD270A1550DBB3FC  : public Type_t
+struct TypeInfo_t9D6F65801A41B97F36138B15FD270A1550DBB3FC  : public Type_t
 {
 public:
 
@@ -16292,7 +16292,7 @@ public:
 
 
 // System.Runtime.Serialization.SerializationException
-struct  SerializationException_tA1FDFF6779406E688C2192E71C38DBFD7A4A2210  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct SerializationException_tA1FDFF6779406E688C2192E71C38DBFD7A4A2210  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -16318,7 +16318,7 @@ public:
 
 
 // System.TypeLoadException
-struct  TypeLoadException_t510963B29CB27C6EA3ACDF5FB76E72E1BC372CD1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct TypeLoadException_t510963B29CB27C6EA3ACDF5FB76E72E1BC372CD1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 	// System.String System.TypeLoadException::ClassName
@@ -16369,7 +16369,7 @@ public:
 
 
 // System.ArgumentNullException
-struct  ArgumentNullException_t581DF992B1F3E0EC6EFB30CC5DC43519A79B27AD  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
+struct ArgumentNullException_t581DF992B1F3E0EC6EFB30CC5DC43519A79B27AD  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
 {
 public:
 
@@ -16378,7 +16378,7 @@ public:
 
 
 // System.ArgumentOutOfRangeException
-struct  ArgumentOutOfRangeException_t94D19DF918A54511AEDF4784C9A08741BAD1DEDA  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
+struct ArgumentOutOfRangeException_t94D19DF918A54511AEDF4784C9A08741BAD1DEDA  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
 {
 public:
 	// System.Object System.ArgumentOutOfRangeException::m_actualValue
@@ -16414,7 +16414,7 @@ public:
 
 
 // System.Diagnostics.Tracing.GuidArrayTypeInfo
-struct  GuidArrayTypeInfo_tCBD4D79DCC29FDFCFA6B5B733A7CB76E1A4BB068  : public TraceLoggingTypeInfo_1_t5CD19345E04791061E49735C40A06560D1015A81
+struct GuidArrayTypeInfo_tCBD4D79DCC29FDFCFA6B5B733A7CB76E1A4BB068  : public TraceLoggingTypeInfo_1_t5CD19345E04791061E49735C40A06560D1015A81
 {
 public:
 
@@ -16423,7 +16423,7 @@ public:
 
 
 // System.Diagnostics.Tracing.GuidTypeInfo
-struct  GuidTypeInfo_tADCD4F34D348774C3AE9A0714A071BF1EC7699ED  : public TraceLoggingTypeInfo_1_t2B55C9286BB1419C38C60FD4458507F64BDC8CE4
+struct GuidTypeInfo_tADCD4F34D348774C3AE9A0714A071BF1EC7699ED  : public TraceLoggingTypeInfo_1_t2B55C9286BB1419C38C60FD4458507F64BDC8CE4
 {
 public:
 
@@ -16432,7 +16432,7 @@ public:
 
 
 // System.Diagnostics.Tracing.Int16ArrayTypeInfo
-struct  Int16ArrayTypeInfo_tAD49D189964C4528B1A70B5BF923016DF12A1CA3  : public TraceLoggingTypeInfo_1_t48333D5529FE3B84602B0DC3CD4AE0F4B0D4BAE0
+struct Int16ArrayTypeInfo_tAD49D189964C4528B1A70B5BF923016DF12A1CA3  : public TraceLoggingTypeInfo_1_t48333D5529FE3B84602B0DC3CD4AE0F4B0D4BAE0
 {
 public:
 
@@ -16441,7 +16441,7 @@ public:
 
 
 // System.Diagnostics.Tracing.Int16TypeInfo
-struct  Int16TypeInfo_t5D76EA51B81898B9E5D73E48513749E2F1E9E48B  : public TraceLoggingTypeInfo_1_t506240682C732B33C0D659D6DC744D966C2FE363
+struct Int16TypeInfo_t5D76EA51B81898B9E5D73E48513749E2F1E9E48B  : public TraceLoggingTypeInfo_1_t506240682C732B33C0D659D6DC744D966C2FE363
 {
 public:
 
@@ -16450,7 +16450,7 @@ public:
 
 
 // System.Diagnostics.Tracing.Int32ArrayTypeInfo
-struct  Int32ArrayTypeInfo_t081A0C4015757B88F1735B49551791902EB2456C  : public TraceLoggingTypeInfo_1_t9B7E3D9AB547CAF187A5C9E97F07E2B5A58E2589
+struct Int32ArrayTypeInfo_t081A0C4015757B88F1735B49551791902EB2456C  : public TraceLoggingTypeInfo_1_t9B7E3D9AB547CAF187A5C9E97F07E2B5A58E2589
 {
 public:
 
@@ -16459,7 +16459,7 @@ public:
 
 
 // System.Diagnostics.Tracing.Int32TypeInfo
-struct  Int32TypeInfo_t0B1921CD9614D1EB1B183ED8A686AA372750252C  : public TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C
+struct Int32TypeInfo_t0B1921CD9614D1EB1B183ED8A686AA372750252C  : public TraceLoggingTypeInfo_1_tDD2B74A36968F646CCDFEB9CE4074A216009252C
 {
 public:
 
@@ -16468,7 +16468,7 @@ public:
 
 
 // System.Diagnostics.Tracing.Int64ArrayTypeInfo
-struct  Int64ArrayTypeInfo_tA11180F9988B3F2768E2936B0EC740F4CA4098FC  : public TraceLoggingTypeInfo_1_tA67F5E5AEDAD34F7E25836F622BB7510867903BD
+struct Int64ArrayTypeInfo_tA11180F9988B3F2768E2936B0EC740F4CA4098FC  : public TraceLoggingTypeInfo_1_tA67F5E5AEDAD34F7E25836F622BB7510867903BD
 {
 public:
 
@@ -16477,7 +16477,7 @@ public:
 
 
 // System.Diagnostics.Tracing.Int64TypeInfo
-struct  Int64TypeInfo_t96DC7ABE2B905BED6B2BE60AB3BC0CC3AB5149E5  : public TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265
+struct Int64TypeInfo_t96DC7ABE2B905BED6B2BE60AB3BC0CC3AB5149E5  : public TraceLoggingTypeInfo_1_t443169292A139EC54B708D4B6023EA2449412265
 {
 public:
 
@@ -16486,7 +16486,7 @@ public:
 
 
 // System.Diagnostics.Tracing.IntPtrArrayTypeInfo
-struct  IntPtrArrayTypeInfo_t8E5F0E3EA1E88E19EF71CB6549DD46FFB78B5702  : public TraceLoggingTypeInfo_1_t7DDB9F3AED3B154D72AB8AE300434F50B56870C6
+struct IntPtrArrayTypeInfo_t8E5F0E3EA1E88E19EF71CB6549DD46FFB78B5702  : public TraceLoggingTypeInfo_1_t7DDB9F3AED3B154D72AB8AE300434F50B56870C6
 {
 public:
 
@@ -16495,7 +16495,7 @@ public:
 
 
 // System.Diagnostics.Tracing.IntPtrTypeInfo
-struct  IntPtrTypeInfo_tBAA196C9AFC0FF57DB01E76B903964521E29FF55  : public TraceLoggingTypeInfo_1_t49721B614FCA52E6F380ACEE1AE32F5BA19815F1
+struct IntPtrTypeInfo_tBAA196C9AFC0FF57DB01E76B903964521E29FF55  : public TraceLoggingTypeInfo_1_t49721B614FCA52E6F380ACEE1AE32F5BA19815F1
 {
 public:
 
@@ -16504,7 +16504,7 @@ public:
 
 
 // System.Diagnostics.Tracing.SByteArrayTypeInfo
-struct  SByteArrayTypeInfo_t4885ED20686CCAD72DF0C2423CAF5CDA3F5591C6  : public TraceLoggingTypeInfo_1_t55CF8C945F32D794C974BA4DAE2EE7F2647C4C5E
+struct SByteArrayTypeInfo_t4885ED20686CCAD72DF0C2423CAF5CDA3F5591C6  : public TraceLoggingTypeInfo_1_t55CF8C945F32D794C974BA4DAE2EE7F2647C4C5E
 {
 public:
 
@@ -16513,7 +16513,7 @@ public:
 
 
 // System.Diagnostics.Tracing.SByteTypeInfo
-struct  SByteTypeInfo_tA76D79A20B5AA0947AC807DEEADDB557BFB14A4C  : public TraceLoggingTypeInfo_1_tBCFB1C63D7D7837A0D7EAC07CF250A313B982794
+struct SByteTypeInfo_tA76D79A20B5AA0947AC807DEEADDB557BFB14A4C  : public TraceLoggingTypeInfo_1_tBCFB1C63D7D7837A0D7EAC07CF250A313B982794
 {
 public:
 
@@ -16522,7 +16522,7 @@ public:
 
 
 // System.Diagnostics.Tracing.SingleArrayTypeInfo
-struct  SingleArrayTypeInfo_t7D009CA00E2BC30821D9DADDDAD26C88484BD239  : public TraceLoggingTypeInfo_1_t1EC2C7D1B7604F9A26B9CBC247D3927A18E9633E
+struct SingleArrayTypeInfo_t7D009CA00E2BC30821D9DADDDAD26C88484BD239  : public TraceLoggingTypeInfo_1_t1EC2C7D1B7604F9A26B9CBC247D3927A18E9633E
 {
 public:
 
@@ -16531,7 +16531,7 @@ public:
 
 
 // System.Diagnostics.Tracing.SingleTypeInfo
-struct  SingleTypeInfo_tE256251DAD6B7FADC6378A7963F2C480467C31E8  : public TraceLoggingTypeInfo_1_t80BF4A689F205E66ABE5177817C623F9DF91E6CD
+struct SingleTypeInfo_tE256251DAD6B7FADC6378A7963F2C480467C31E8  : public TraceLoggingTypeInfo_1_t80BF4A689F205E66ABE5177817C623F9DF91E6CD
 {
 public:
 
@@ -16540,7 +16540,7 @@ public:
 
 
 // System.Diagnostics.Tracing.StringTypeInfo
-struct  StringTypeInfo_tBDB74156A62E8057C5232323FF288C600F49BE26  : public TraceLoggingTypeInfo_1_t34C750FAAA441003C34ECA6894E5D8640C78041D
+struct StringTypeInfo_tBDB74156A62E8057C5232323FF288C600F49BE26  : public TraceLoggingTypeInfo_1_t34C750FAAA441003C34ECA6894E5D8640C78041D
 {
 public:
 
@@ -16549,7 +16549,7 @@ public:
 
 
 // System.Diagnostics.Tracing.TimeSpanTypeInfo
-struct  TimeSpanTypeInfo_t81B67AE1FF6747F715CCBD69C3F45800A8D6BDFA  : public TraceLoggingTypeInfo_1_t8DC6FE358F90681BDCCD5350065A9767D2AC90DD
+struct TimeSpanTypeInfo_t81B67AE1FF6747F715CCBD69C3F45800A8D6BDFA  : public TraceLoggingTypeInfo_1_t8DC6FE358F90681BDCCD5350065A9767D2AC90DD
 {
 public:
 
@@ -16558,7 +16558,7 @@ public:
 
 
 // System.Diagnostics.Tracing.UInt16ArrayTypeInfo
-struct  UInt16ArrayTypeInfo_tA6991CB11EA32DC5B9D742927714EB9C7484D7DE  : public TraceLoggingTypeInfo_1_t97FDBDA4CF3677121784926A6B75A517CB7A0354
+struct UInt16ArrayTypeInfo_tA6991CB11EA32DC5B9D742927714EB9C7484D7DE  : public TraceLoggingTypeInfo_1_t97FDBDA4CF3677121784926A6B75A517CB7A0354
 {
 public:
 
@@ -16567,7 +16567,7 @@ public:
 
 
 // System.Diagnostics.Tracing.UInt16TypeInfo
-struct  UInt16TypeInfo_t468F411BD1B3584AF68A41C85B381CFA03832D7E  : public TraceLoggingTypeInfo_1_tCBF51B2E677BE976178EC8AC986798F9B65E2EC6
+struct UInt16TypeInfo_t468F411BD1B3584AF68A41C85B381CFA03832D7E  : public TraceLoggingTypeInfo_1_tCBF51B2E677BE976178EC8AC986798F9B65E2EC6
 {
 public:
 
@@ -16576,7 +16576,7 @@ public:
 
 
 // System.Diagnostics.Tracing.UInt32ArrayTypeInfo
-struct  UInt32ArrayTypeInfo_tBBD9B05BCF6D59A1A1D755DB774FAE24B2489EBC  : public TraceLoggingTypeInfo_1_t8AE0E093509BB6D0AF1B5A1D5F17DAD0FC17FBAB
+struct UInt32ArrayTypeInfo_tBBD9B05BCF6D59A1A1D755DB774FAE24B2489EBC  : public TraceLoggingTypeInfo_1_t8AE0E093509BB6D0AF1B5A1D5F17DAD0FC17FBAB
 {
 public:
 
@@ -16585,7 +16585,7 @@ public:
 
 
 // System.Diagnostics.Tracing.UInt32TypeInfo
-struct  UInt32TypeInfo_tB421E50E75E7CF429F488D89989FEC4791D1AE59  : public TraceLoggingTypeInfo_1_tC4AD26ADEB2206747827432E8A7EDA1A37681F10
+struct UInt32TypeInfo_tB421E50E75E7CF429F488D89989FEC4791D1AE59  : public TraceLoggingTypeInfo_1_tC4AD26ADEB2206747827432E8A7EDA1A37681F10
 {
 public:
 
@@ -16594,7 +16594,7 @@ public:
 
 
 // System.Diagnostics.Tracing.UInt64ArrayTypeInfo
-struct  UInt64ArrayTypeInfo_t7A203D5FBE0E98A82FF152A9AA52DA65846276D5  : public TraceLoggingTypeInfo_1_t6EE8951B7314721A44CBD852551DAAF5CB72F606
+struct UInt64ArrayTypeInfo_t7A203D5FBE0E98A82FF152A9AA52DA65846276D5  : public TraceLoggingTypeInfo_1_t6EE8951B7314721A44CBD852551DAAF5CB72F606
 {
 public:
 
@@ -16603,7 +16603,7 @@ public:
 
 
 // System.Diagnostics.Tracing.UInt64TypeInfo
-struct  UInt64TypeInfo_t36BF0D3F2BEF8E853D4640EB2E25D193F3F4438E  : public TraceLoggingTypeInfo_1_t2BDE5AE3D48BE884906B4ABADD9FA7EB16AD333C
+struct UInt64TypeInfo_t36BF0D3F2BEF8E853D4640EB2E25D193F3F4438E  : public TraceLoggingTypeInfo_1_t2BDE5AE3D48BE884906B4ABADD9FA7EB16AD333C
 {
 public:
 
@@ -16612,7 +16612,7 @@ public:
 
 
 // System.Diagnostics.Tracing.UIntPtrArrayTypeInfo
-struct  UIntPtrArrayTypeInfo_tAEBBC02218BE858DCF8856D19C991781A165251C  : public TraceLoggingTypeInfo_1_tD16C7A6EA0D37CFA5AC0AED1A07D919210983479
+struct UIntPtrArrayTypeInfo_tAEBBC02218BE858DCF8856D19C991781A165251C  : public TraceLoggingTypeInfo_1_tD16C7A6EA0D37CFA5AC0AED1A07D919210983479
 {
 public:
 
@@ -16621,7 +16621,7 @@ public:
 
 
 // System.Diagnostics.Tracing.UIntPtrTypeInfo
-struct  UIntPtrTypeInfo_t0B3F2074A32C0E180DC21FA16B46DCEC3E3E001D  : public TraceLoggingTypeInfo_1_tB931FCDE5F91B9AE5C5515AA58B5518C97F86330
+struct UIntPtrTypeInfo_t0B3F2074A32C0E180DC21FA16B46DCEC3E3E001D  : public TraceLoggingTypeInfo_1_tB931FCDE5F91B9AE5C5515AA58B5518C97F86330
 {
 public:
 
@@ -16630,7 +16630,7 @@ public:
 
 
 // System.DivideByZeroException
-struct  DivideByZeroException_tD233835DD9A31EE4E64DD93F2D6143646CFD3FBC  : public ArithmeticException_tF9EF5FE94597830EF315C5934258F994B8648269
+struct DivideByZeroException_tD233835DD9A31EE4E64DD93F2D6143646CFD3FBC  : public ArithmeticException_tF9EF5FE94597830EF315C5934258F994B8648269
 {
 public:
 
@@ -16639,7 +16639,7 @@ public:
 
 
 // System.DllNotFoundException
-struct  DllNotFoundException_tED90B6A78D4CF5AA565288E0BA88A990062A7F76  : public TypeLoadException_t510963B29CB27C6EA3ACDF5FB76E72E1BC372CD1
+struct DllNotFoundException_tED90B6A78D4CF5AA565288E0BA88A990062A7F76  : public TypeLoadException_t510963B29CB27C6EA3ACDF5FB76E72E1BC372CD1
 {
 public:
 
@@ -16648,7 +16648,7 @@ public:
 
 
 // System.EntryPointNotFoundException
-struct  EntryPointNotFoundException_tCF689617164B79AD85A41DADB38D27BD1E10B279  : public TypeLoadException_t510963B29CB27C6EA3ACDF5FB76E72E1BC372CD1
+struct EntryPointNotFoundException_tCF689617164B79AD85A41DADB38D27BD1E10B279  : public TypeLoadException_t510963B29CB27C6EA3ACDF5FB76E72E1BC372CD1
 {
 public:
 
@@ -16657,7 +16657,7 @@ public:
 
 
 // System.FieldAccessException
-struct  FieldAccessException_tBFF096C9CF3CA2BF95A3D596D7E50EF32B178BDF  : public MemberAccessException_tDA869AFFB4FC1EA0EEF3143D85999710AC4774F0
+struct FieldAccessException_tBFF096C9CF3CA2BF95A3D596D7E50EF32B178BDF  : public MemberAccessException_tDA869AFFB4FC1EA0EEF3143D85999710AC4774F0
 {
 public:
 
@@ -16666,7 +16666,7 @@ public:
 
 
 // System.IO.FileNotFoundException
-struct  FileNotFoundException_t0B3F0AE5C94A781A7E2ABBD786F91C229B703431  : public IOException_t60E052020EDE4D3075F57A1DCC224FF8864354BA
+struct FileNotFoundException_t0B3F0AE5C94A781A7E2ABBD786F91C229B703431  : public IOException_t60E052020EDE4D3075F57A1DCC224FF8864354BA
 {
 public:
 	// System.String System.IO.FileNotFoundException::_fileName
@@ -16696,7 +16696,7 @@ public:
 
 
 // System.RuntimeType
-struct  RuntimeType_t40F13BCEAD97478C72C4B40BFDC2A220161CDB8F  : public TypeInfo_t9D6F65801A41B97F36138B15FD270A1550DBB3FC
+struct RuntimeType_t40F13BCEAD97478C72C4B40BFDC2A220161CDB8F  : public TypeInfo_t9D6F65801A41B97F36138B15FD270A1550DBB3FC
 {
 public:
 	// System.MonoTypeInfo System.RuntimeType::type_info

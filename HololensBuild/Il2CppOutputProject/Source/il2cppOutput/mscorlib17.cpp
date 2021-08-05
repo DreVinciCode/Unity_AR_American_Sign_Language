@@ -1676,7 +1676,7 @@ IL2CPP_EXTERN_C_END
 
 
 // Microsoft.Win32.Registry
-struct  Registry_t241E9489A52A385888DBC941B714B48401DBB28E  : public RuntimeObject
+struct Registry_t241E9489A52A385888DBC941B714B48401DBB28E  : public RuntimeObject
 {
 public:
 
@@ -1772,7 +1772,7 @@ struct Il2CppArrayBounds;
 
 
 // System.BitConverter
-struct  BitConverter_tD5DF1CB5C5A5CB087D90BD881C8E75A332E546EE  : public RuntimeObject
+struct BitConverter_tD5DF1CB5C5A5CB087D90BD881C8E75A332E546EE  : public RuntimeObject
 {
 public:
 
@@ -1797,7 +1797,7 @@ public:
 
 
 // System.Collections.Comparer
-struct  Comparer_t02D6323B7C3FB1B7681184587B0E1174F8DF6B3B  : public RuntimeObject
+struct Comparer_t02D6323B7C3FB1B7681184587B0E1174F8DF6B3B  : public RuntimeObject
 {
 public:
 	// System.Globalization.CompareInfo System.Collections.Comparer::m_compareInfo
@@ -1844,7 +1844,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<System.Int32,System.String>
-struct  Dictionary_2_t4EFE6A1D6502662B911688316C6920444A18CF0C  : public RuntimeObject
+struct Dictionary_2_t4EFE6A1D6502662B911688316C6920444A18CF0C  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -1958,7 +1958,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<System.Int32,System.TimeType>
-struct  Dictionary_2_tF49FE2F5FE86CCFDD59492E9D46254E0CCB5EEC2  : public RuntimeObject
+struct Dictionary_2_tF49FE2F5FE86CCFDD59492E9D46254E0CCB5EEC2  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -2072,7 +2072,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.Collections.Generic.KeyValuePair`2<System.DateTime,System.Object>>
-struct  List_1_t5693FC241180E36A0BB189DFB39B0D3A43DC05B1  : public RuntimeObject
+struct List_1_t5693FC241180E36A0BB189DFB39B0D3A43DC05B1  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -2139,7 +2139,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.Collections.Generic.KeyValuePair`2<System.DateTime,System.TimeType>>
-struct  List_1_tD2FC74CFEE011F74F31183756A690154468817E9  : public RuntimeObject
+struct List_1_tD2FC74CFEE011F74F31183756A690154468817E9  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -2206,7 +2206,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.Object>
-struct  List_1_t05CC3C859AB5E6024394EF9A42E3E696628CA02D  : public RuntimeObject
+struct List_1_t05CC3C859AB5E6024394EF9A42E3E696628CA02D  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -2273,7 +2273,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.Runtime.ExceptionServices.ExceptionDispatchInfo>
-struct  List_1_tCD04260AE1254C438132446F1E6892AB86D18743  : public RuntimeObject
+struct List_1_tCD04260AE1254C438132446F1E6892AB86D18743  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -2340,7 +2340,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.Threading.Timer>
-struct  List_1_t0C6DF014BD2D1BE6D428FB761E8C21CDC22C5116  : public RuntimeObject
+struct List_1_t0C6DF014BD2D1BE6D428FB761E8C21CDC22C5116  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -2407,7 +2407,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.TimeZoneInfo/AdjustmentRule>
-struct  List_1_tD80A7DE15931C50562C52145C2DDFA2CA00BEC9E  : public RuntimeObject
+struct List_1_tD80A7DE15931C50562C52145C2DDFA2CA00BEC9E  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -2474,7 +2474,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.TimeZoneInfo>
-struct  List_1_tAEAAD63BC89129982F4AF4D8326A9C32BEFBECAD  : public RuntimeObject
+struct List_1_tAEAAD63BC89129982F4AF4D8326A9C32BEFBECAD  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -2541,7 +2541,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Exception>
-struct  ReadOnlyCollection_1_t6D5AC6FC0BF91A16C9E9159F577DEDA4DD3414C8  : public RuntimeObject
+struct ReadOnlyCollection_1_t6D5AC6FC0BF91A16C9E9159F577DEDA4DD3414C8  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2571,7 +2571,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Runtime.ExceptionServices.ExceptionDispatchInfo>
-struct  ReadOnlyCollection_1_t5DE493537EE0E554797BF0DA823DCBF1903CECC1  : public RuntimeObject
+struct ReadOnlyCollection_1_t5DE493537EE0E554797BF0DA823DCBF1903CECC1  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2601,7 +2601,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.TimeZoneInfo>
-struct  ReadOnlyCollection_1_tD63B9891087CF571DD4322388BDDBAEEB7606FE0  : public RuntimeObject
+struct ReadOnlyCollection_1_tD63B9891087CF571DD4322388BDDBAEEB7606FE0  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2631,7 +2631,7 @@ public:
 
 
 // System.Collections.SortedList
-struct  SortedList_tC8B7CDE75652EC657C510034F127B9DFDE16BF4E  : public RuntimeObject
+struct SortedList_tC8B7CDE75652EC657C510034F127B9DFDE16BF4E  : public RuntimeObject
 {
 public:
 	// System.Object[] System.Collections.SortedList::keys
@@ -2742,7 +2742,7 @@ public:
 
 
 // System.CompatibilitySwitches
-struct  CompatibilitySwitches_tC541F9F5404925C97741A0628E9B6D26C40CFA91  : public RuntimeObject
+struct CompatibilitySwitches_tC541F9F5404925C97741A0628E9B6D26C40CFA91  : public RuntimeObject
 {
 public:
 
@@ -2777,7 +2777,7 @@ public:
 
 
 // System.EmptyArray`1<System.Type>
-struct  EmptyArray_1_tF085172BB5E018A03FB07E8EEAFCD3D8F7EB784D  : public RuntimeObject
+struct EmptyArray_1_tF085172BB5E018A03FB07E8EEAFCD3D8F7EB784D  : public RuntimeObject
 {
 public:
 
@@ -2803,7 +2803,7 @@ public:
 
 
 // System.EventArgs
-struct  EventArgs_t8E6CA180BE0E56674C6407011A94BAF7C757352E  : public RuntimeObject
+struct EventArgs_t8E6CA180BE0E56674C6407011A94BAF7C757352E  : public RuntimeObject
 {
 public:
 
@@ -2829,7 +2829,7 @@ public:
 
 
 // System.Globalization.CultureInfo
-struct  CultureInfo_t345AC6924134F039ED9A11F3E03F8E91B6A3225F  : public RuntimeObject
+struct CultureInfo_t345AC6924134F039ED9A11F3E03F8E91B6A3225F  : public RuntimeObject
 {
 public:
 	// System.Boolean System.Globalization.CultureInfo::m_isReadOnly
@@ -3278,7 +3278,7 @@ struct CultureInfo_t345AC6924134F039ED9A11F3E03F8E91B6A3225F_marshaled_com
 };
 
 // System.IO.Path
-struct  Path_t0B99A4B924A6FDF08814FFA8DD4CD121ED1A0752  : public RuntimeObject
+struct Path_t0B99A4B924A6FDF08814FFA8DD4CD121ED1A0752  : public RuntimeObject
 {
 public:
 
@@ -3398,7 +3398,7 @@ public:
 
 
 // System.MarshalByRefObject
-struct  MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF  : public RuntimeObject
+struct MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF  : public RuntimeObject
 {
 public:
 	// System.Object System.MarshalByRefObject::_identity
@@ -3427,7 +3427,7 @@ struct MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF_marshaled_co
 };
 
 // System.Random
-struct  Random_t18A28484F67EFA289C256F508A5C71D9E6DEE09F  : public RuntimeObject
+struct Random_t18A28484F67EFA289C256F508A5C71D9E6DEE09F  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Random::inext
@@ -3466,7 +3466,7 @@ public:
 
 
 // System.Reflection.Binder
-struct  Binder_t4D5CB06963501D32847C057B57157D6DC49CA759  : public RuntimeObject
+struct Binder_t4D5CB06963501D32847C057B57157D6DC49CA759  : public RuntimeObject
 {
 public:
 
@@ -3475,7 +3475,7 @@ public:
 
 
 // System.Reflection.MemberInfo
-struct  MemberInfo_t  : public RuntimeObject
+struct MemberInfo_t  : public RuntimeObject
 {
 public:
 
@@ -3484,7 +3484,7 @@ public:
 
 
 // System.Reflection.Missing
-struct  Missing_t81434A5DBDCCA844BD22E1659DDE1EE7DE8B4ED7  : public RuntimeObject
+struct Missing_t81434A5DBDCCA844BD22E1659DDE1EE7DE8B4ED7  : public RuntimeObject
 {
 public:
 
@@ -3510,7 +3510,7 @@ public:
 
 
 // System.Runtime.CompilerServices.ConditionalWeakTable`2<System.Threading.Tasks.TaskScheduler,System.Object>
-struct  ConditionalWeakTable_2_t9E56EEB44502999EDAA6E212D522D7863829D95C  : public RuntimeObject
+struct ConditionalWeakTable_2_t9E56EEB44502999EDAA6E212D522D7863829D95C  : public RuntimeObject
 {
 public:
 	// System.Runtime.CompilerServices.Ephemeron[] System.Runtime.CompilerServices.ConditionalWeakTable`2::data
@@ -3550,7 +3550,7 @@ public:
 
 
 // System.Runtime.ConstrainedExecution.CriticalFinalizerObject
-struct  CriticalFinalizerObject_t8B006E1DEE084E781F5C0F3283E9226E28894DD9  : public RuntimeObject
+struct CriticalFinalizerObject_t8B006E1DEE084E781F5C0F3283E9226E28894DD9  : public RuntimeObject
 {
 public:
 
@@ -3559,7 +3559,7 @@ public:
 
 
 // System.Runtime.ExceptionServices.ExceptionDispatchInfo
-struct  ExceptionDispatchInfo_t0C54083F3909DAF986A4DEAA7C047559531E0E2A  : public RuntimeObject
+struct ExceptionDispatchInfo_t0C54083F3909DAF986A4DEAA7C047559531E0E2A  : public RuntimeObject
 {
 public:
 	// System.Exception System.Runtime.ExceptionServices.ExceptionDispatchInfo::m_Exception
@@ -3589,7 +3589,7 @@ public:
 
 
 // System.Runtime.Serialization.SerializationInfo
-struct  SerializationInfo_t1BB80E9C9DEA52DBF464487234B045E2930ADA26  : public RuntimeObject
+struct SerializationInfo_t1BB80E9C9DEA52DBF464487234B045E2930ADA26  : public RuntimeObject
 {
 public:
 	// System.String[] System.Runtime.Serialization.SerializationInfo::m_members
@@ -3725,7 +3725,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -3770,7 +3770,7 @@ public:
 
 
 // System.Text.Encoding
-struct  Encoding_t7837A3C0F55EAE0E3959A53C6D6E88B113ED78A4  : public RuntimeObject
+struct Encoding_t7837A3C0F55EAE0E3959A53C6D6E88B113ED78A4  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Text.Encoding::m_codePage
@@ -3957,7 +3957,7 @@ public:
 
 
 // System.Text.StringBuilder
-struct  StringBuilder_t  : public RuntimeObject
+struct StringBuilder_t  : public RuntimeObject
 {
 public:
 	// System.Char[] System.Text.StringBuilder::m_ChunkChars
@@ -4017,7 +4017,7 @@ public:
 
 
 // System.Threading.QueueUserWorkItemCallback
-struct  QueueUserWorkItemCallback_t98440ACF9490D738440F631E378B52AD11EAE8C8  : public RuntimeObject
+struct QueueUserWorkItemCallback_t98440ACF9490D738440F631E378B52AD11EAE8C8  : public RuntimeObject
 {
 public:
 	// System.Threading.WaitCallback System.Threading.QueueUserWorkItemCallback::callback
@@ -4075,7 +4075,7 @@ public:
 
 
 // System.Threading.Tasks.StackGuard
-struct  StackGuard_tE431ED3BBD1A18705FEE6F948EBF7FA2E99D64A9  : public RuntimeObject
+struct StackGuard_tE431ED3BBD1A18705FEE6F948EBF7FA2E99D64A9  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Threading.Tasks.StackGuard::m_inliningDepth
@@ -4093,7 +4093,7 @@ public:
 
 
 // System.Threading.Tasks.Task/<>c
-struct  U3CU3Ec_t07DD323FAAF5A7EC9AE5E0DA9748D2EA6B39DCD3  : public RuntimeObject
+struct U3CU3Ec_t07DD323FAAF5A7EC9AE5E0DA9748D2EA6B39DCD3  : public RuntimeObject
 {
 public:
 
@@ -4141,7 +4141,7 @@ public:
 
 
 // System.Threading.Tasks.TaskContinuation
-struct  TaskContinuation_t870BBF430CE7A3B6DF15EE1ED7940F1ABA9EEEE9  : public RuntimeObject
+struct TaskContinuation_t870BBF430CE7A3B6DF15EE1ED7940F1ABA9EEEE9  : public RuntimeObject
 {
 public:
 
@@ -4150,7 +4150,7 @@ public:
 
 
 // System.Threading.Tasks.TaskScheduler/SystemThreadingTasks_TaskSchedulerDebugView
-struct  SystemThreadingTasks_TaskSchedulerDebugView_t8F5F95CF99AF4467931D7235A3574ADAD41276CD  : public RuntimeObject
+struct SystemThreadingTasks_TaskSchedulerDebugView_t8F5F95CF99AF4467931D7235A3574ADAD41276CD  : public RuntimeObject
 {
 public:
 
@@ -4159,7 +4159,7 @@ public:
 
 
 // System.Threading.Tasks.TaskSchedulerAwaitTaskContinuation/<>c
-struct  U3CU3Ec_t596A8131DC5C38096B959F07E58C349AAAFE3439  : public RuntimeObject
+struct U3CU3Ec_t596A8131DC5C38096B959F07E58C349AAAFE3439  : public RuntimeObject
 {
 public:
 
@@ -4196,7 +4196,7 @@ public:
 
 
 // System.Threading.Tasks.TaskToApm
-struct  TaskToApm_tF25594732C9CF1F3AB4F2D74381577956E6B271E  : public RuntimeObject
+struct TaskToApm_tF25594732C9CF1F3AB4F2D74381577956E6B271E  : public RuntimeObject
 {
 public:
 
@@ -4205,7 +4205,7 @@ public:
 
 
 // System.Threading.Tasks.TaskToApm/<>c__DisplayClass3_0
-struct  U3CU3Ec__DisplayClass3_0_t657F9DBC5A9094840EFCD15D64F27D75F148FD86  : public RuntimeObject
+struct U3CU3Ec__DisplayClass3_0_t657F9DBC5A9094840EFCD15D64F27D75F148FD86  : public RuntimeObject
 {
 public:
 	// System.AsyncCallback System.Threading.Tasks.TaskToApm/<>c__DisplayClass3_0::callback
@@ -4235,7 +4235,7 @@ public:
 
 
 // System.Threading.Tasks.TaskToApm/TaskWrapperAsyncResult
-struct  TaskWrapperAsyncResult_t27D147DA04A6C23A69D2663E205435DC3567E2FE  : public RuntimeObject
+struct TaskWrapperAsyncResult_t27D147DA04A6C23A69D2663E205435DC3567E2FE  : public RuntimeObject
 {
 public:
 	// System.Threading.Tasks.Task System.Threading.Tasks.TaskToApm/TaskWrapperAsyncResult::Task
@@ -4275,7 +4275,7 @@ public:
 
 
 // System.Threading.ThreadHelper
-struct  ThreadHelper_tA2931CFFC5988E4C327F9379104975BC53F1CC13  : public RuntimeObject
+struct ThreadHelper_tA2931CFFC5988E4C327F9379104975BC53F1CC13  : public RuntimeObject
 {
 public:
 	// System.Delegate System.Threading.ThreadHelper::_start
@@ -4333,7 +4333,7 @@ public:
 
 
 // System.Threading.ThreadPool
-struct  ThreadPool_tA1940F6FD1289A609CD56A807062A1045E69478E  : public RuntimeObject
+struct ThreadPool_tA1940F6FD1289A609CD56A807062A1045E69478E  : public RuntimeObject
 {
 public:
 
@@ -4342,7 +4342,7 @@ public:
 
 
 // System.Threading.ThreadPoolWorkQueue/SparseArray`1<System.Threading.ThreadPoolWorkQueue/WorkStealingQueue>
-struct  SparseArray_1_tA9BA23F30984048431C40A4D4B5215A15A64B4EB  : public RuntimeObject
+struct SparseArray_1_tA9BA23F30984048431C40A4D4B5215A15A64B4EB  : public RuntimeObject
 {
 public:
 	// T[] modreq(System.Runtime.CompilerServices.IsVolatile) System.Threading.ThreadPoolWorkQueue/SparseArray`1::m_array
@@ -4361,7 +4361,7 @@ public:
 
 
 // System.Threading.ThreadPoolWorkQueueThreadLocals
-struct  ThreadPoolWorkQueueThreadLocals_tFFA030E536583A69A43878F3ABA0DEEC02C33F0B  : public RuntimeObject
+struct ThreadPoolWorkQueueThreadLocals_tFFA030E536583A69A43878F3ABA0DEEC02C33F0B  : public RuntimeObject
 {
 public:
 	// System.Threading.ThreadPoolWorkQueue System.Threading.ThreadPoolWorkQueueThreadLocals::workQueue
@@ -4419,7 +4419,7 @@ public:
 
 
 // System.Threading.TimeoutHelper
-struct  TimeoutHelper_t030E3625FF417D3C8315B20910298ECA96E4CDA2  : public RuntimeObject
+struct TimeoutHelper_t030E3625FF417D3C8315B20910298ECA96E4CDA2  : public RuntimeObject
 {
 public:
 
@@ -4428,7 +4428,7 @@ public:
 
 
 // System.Threading.Timer/Scheduler
-struct  Scheduler_t8BD442F4C8B5450A09F40CC3A68592601F96A9B9  : public RuntimeObject
+struct Scheduler_t8BD442F4C8B5450A09F40CC3A68592601F96A9B9  : public RuntimeObject
 {
 public:
 	// System.Collections.SortedList System.Threading.Timer/Scheduler::list
@@ -4475,7 +4475,7 @@ public:
 
 
 // System.Threading.Timer/TimerComparer
-struct  TimerComparer_tC987818CFADF2F3ECEB89C0BD510600DAD816015  : public RuntimeObject
+struct TimerComparer_tC987818CFADF2F3ECEB89C0BD510600DAD816015  : public RuntimeObject
 {
 public:
 
@@ -4484,7 +4484,7 @@ public:
 
 
 // System.Threading.Volatile
-struct  Volatile_tE96815F4BB2ADA7D8E4005AD52AC020C22856632  : public RuntimeObject
+struct Volatile_tE96815F4BB2ADA7D8E4005AD52AC020C22856632  : public RuntimeObject
 {
 public:
 
@@ -4493,7 +4493,7 @@ public:
 
 
 // System.Threading._ThreadPoolWaitCallback
-struct  _ThreadPoolWaitCallback_t0EAB5D898EAAA9E2A32A89597F7230B8A0D92774  : public RuntimeObject
+struct _ThreadPoolWaitCallback_t0EAB5D898EAAA9E2A32A89597F7230B8A0D92774  : public RuntimeObject
 {
 public:
 
@@ -4502,7 +4502,7 @@ public:
 
 
 // System.ThrowHelper
-struct  ThrowHelper_t8065E62B9F6294DE13A825C979597A9746B6771B  : public RuntimeObject
+struct ThrowHelper_t8065E62B9F6294DE13A825C979597A9746B6771B  : public RuntimeObject
 {
 public:
 
@@ -4511,7 +4511,7 @@ public:
 
 
 // System.TimeType
-struct  TimeType_t1E0366D2FDDE13B93F6DFD1A2FB8645B76E9DDA9  : public RuntimeObject
+struct TimeType_t1E0366D2FDDE13B93F6DFD1A2FB8645B76E9DDA9  : public RuntimeObject
 {
 public:
 	// System.Int32 System.TimeType::Offset
@@ -4550,7 +4550,7 @@ public:
 
 
 // System.TimeZone
-struct  TimeZone_tA2DF435DA1A379978B885F0872A93774666B7454  : public RuntimeObject
+struct TimeZone_tA2DF435DA1A379978B885F0872A93774666B7454  : public RuntimeObject
 {
 public:
 
@@ -4576,7 +4576,7 @@ public:
 
 
 // System.TimeZoneInfo/<>c
-struct  U3CU3Ec_tBED9E1805554B1EFE14027A8400694336FCEE2F7  : public RuntimeObject
+struct U3CU3Ec_tBED9E1805554B1EFE14027A8400694336FCEE2F7  : public RuntimeObject
 {
 public:
 
@@ -4613,7 +4613,7 @@ public:
 
 
 // System.Tuple
-struct  Tuple_tEC0E79AD4C7F35789E477B876F50D5854D890C52  : public RuntimeObject
+struct Tuple_tEC0E79AD4C7F35789E477B876F50D5854D890C52  : public RuntimeObject
 {
 public:
 
@@ -4622,7 +4622,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
+struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
 {
 public:
 
@@ -4639,7 +4639,7 @@ struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF_marshaled_com
 };
 
 // System.__Filters
-struct  __Filters_tDD9D6B7C7A31B12AB3D5CCF1B115DD693F62DB34  : public RuntimeObject
+struct __Filters_tDD9D6B7C7A31B12AB3D5CCF1B115DD693F62DB34  : public RuntimeObject
 {
 public:
 
@@ -4665,7 +4665,7 @@ public:
 
 
 // Microsoft.Win32.RegistryKey
-struct  RegistryKey_t29D81BFF6D6710C7AF7557F80446D514B0AB7574  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
+struct RegistryKey_t29D81BFF6D6710C7AF7557F80446D514B0AB7574  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
 {
 public:
 	// System.Object Microsoft.Win32.RegistryKey::handle
@@ -4754,7 +4754,7 @@ public:
 
 
 // System.Boolean
-struct  Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
+struct Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -4800,7 +4800,7 @@ public:
 
 
 // System.Byte
-struct  Byte_tF87C579059BD4633E6840EBBBEEF899C6E33EF07 
+struct Byte_tF87C579059BD4633E6840EBBBEEF899C6E33EF07 
 {
 public:
 	// System.Byte System.Byte::m_value
@@ -4818,7 +4818,7 @@ public:
 
 
 // System.Char
-struct  Char_tBF22D9FC341BE970735250BB6FF1A4A92BBA58B9 
+struct Char_tBF22D9FC341BE970735250BB6FF1A4A92BBA58B9 
 {
 public:
 	// System.Char System.Char::m_value
@@ -4853,7 +4853,7 @@ public:
 
 
 // System.Collections.Generic.List`1/Enumerator<System.Object>
-struct  Enumerator_tE0C99528D3DCE5863566CE37BD94162A4C0431CD 
+struct Enumerator_tE0C99528D3DCE5863566CE37BD94162A4C0431CD 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::list
@@ -4903,7 +4903,7 @@ public:
 
 
 // System.Collections.Generic.List`1/Enumerator<System.Runtime.ExceptionServices.ExceptionDispatchInfo>
-struct  Enumerator_t23D7E95BCDD5032F1F9E007FFC1937FDFB0BE911 
+struct Enumerator_t23D7E95BCDD5032F1F9E007FFC1937FDFB0BE911 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::list
@@ -4953,7 +4953,7 @@ public:
 
 
 // System.DateTime
-struct  DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 
+struct DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 
 {
 public:
 	// System.UInt64 System.DateTime::dateData
@@ -5019,7 +5019,7 @@ public:
 
 
 // System.DefaultBinder
-struct  DefaultBinder_tFFCBC1B63C1667920094F68AB261486C13814AEC  : public Binder_t4D5CB06963501D32847C057B57157D6DC49CA759
+struct DefaultBinder_tFFCBC1B63C1667920094F68AB261486C13814AEC  : public Binder_t4D5CB06963501D32847C057B57157D6DC49CA759
 {
 public:
 
@@ -5028,7 +5028,7 @@ public:
 
 
 // System.Double
-struct  Double_t358B8F23BDC52A5DD700E727E204F9F7CDE12409 
+struct Double_t358B8F23BDC52A5DD700E727E204F9F7CDE12409 
 {
 public:
 	// System.Double System.Double::m_value
@@ -5062,7 +5062,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
+struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
 {
 public:
 
@@ -5096,7 +5096,7 @@ struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521_marshaled_com
 };
 
 // System.IO.Stream
-struct  Stream_tFC50657DD5AAB87770987F9179D934A51D99D5E7  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
+struct Stream_tFC50657DD5AAB87770987F9179D934A51D99D5E7  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
 {
 public:
 	// System.IO.Stream/ReadWriteTask System.IO.Stream::_activeReadWriteTask
@@ -5143,7 +5143,7 @@ public:
 
 
 // System.Int16
-struct  Int16_t823A20635DAF5A3D93A1E01CFBF3CBA27CF00B4D 
+struct Int16_t823A20635DAF5A3D93A1E01CFBF3CBA27CF00B4D 
 {
 public:
 	// System.Int16 System.Int16::m_value
@@ -5161,7 +5161,7 @@ public:
 
 
 // System.Int32
-struct  Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
+struct Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -5179,7 +5179,7 @@ public:
 
 
 // System.Int64
-struct  Int64_t7A386C2FF7B0280A0F516992401DDFCF0FF7B436 
+struct Int64_t7A386C2FF7B0280A0F516992401DDFCF0FF7B436 
 {
 public:
 	// System.Int64 System.Int64::m_value
@@ -5197,7 +5197,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -5231,7 +5231,7 @@ public:
 
 
 // System.Reflection.FieldInfo
-struct  FieldInfo_t  : public MemberInfo_t
+struct FieldInfo_t  : public MemberInfo_t
 {
 public:
 
@@ -5240,7 +5240,7 @@ public:
 
 
 // System.Reflection.MethodBase
-struct  MethodBase_t  : public MemberInfo_t
+struct MethodBase_t  : public MemberInfo_t
 {
 public:
 
@@ -5249,7 +5249,7 @@ public:
 
 
 // System.Reflection.ParameterModifier
-struct  ParameterModifier_t7BEFF7C52C8D7CD73D787BDAE6A1A50196204E3E 
+struct ParameterModifier_t7BEFF7C52C8D7CD73D787BDAE6A1A50196204E3E 
 {
 public:
 	// System.Boolean[] System.Reflection.ParameterModifier::_byRef
@@ -5278,7 +5278,7 @@ struct ParameterModifier_t7BEFF7C52C8D7CD73D787BDAE6A1A50196204E3E_marshaled_com
 };
 
 // System.Reflection.PropertyInfo
-struct  PropertyInfo_t  : public MemberInfo_t
+struct PropertyInfo_t  : public MemberInfo_t
 {
 public:
 
@@ -5287,7 +5287,7 @@ public:
 
 
 // System.Runtime.CompilerServices.ConfiguredTaskAwaitable/ConfiguredTaskAwaiter
-struct  ConfiguredTaskAwaiter_tF1AAA16B8A1250CA037E32157A3424CD2BA47874 
+struct ConfiguredTaskAwaiter_tF1AAA16B8A1250CA037E32157A3424CD2BA47874 
 {
 public:
 	// System.Threading.Tasks.Task System.Runtime.CompilerServices.ConfiguredTaskAwaitable/ConfiguredTaskAwaiter::m_task
@@ -5328,7 +5328,7 @@ struct ConfiguredTaskAwaiter_tF1AAA16B8A1250CA037E32157A3424CD2BA47874_marshaled
 };
 
 // System.Runtime.CompilerServices.TaskAwaiter
-struct  TaskAwaiter_t0CDE8DBB564F0A0EA55FA6B3D43EEF96BC26252F 
+struct TaskAwaiter_t0CDE8DBB564F0A0EA55FA6B3D43EEF96BC26252F 
 {
 public:
 	// System.Threading.Tasks.Task System.Runtime.CompilerServices.TaskAwaiter::m_task
@@ -5357,7 +5357,7 @@ struct TaskAwaiter_t0CDE8DBB564F0A0EA55FA6B3D43EEF96BC26252F_marshaled_com
 };
 
 // System.Threading.CancellationToken
-struct  CancellationToken_t9E956952F7F20908F2AE72EDF36D97E6C7DB63AB 
+struct CancellationToken_t9E956952F7F20908F2AE72EDF36D97E6C7DB63AB 
 {
 public:
 	// System.Threading.CancellationTokenSource System.Threading.CancellationToken::m_source
@@ -5403,7 +5403,7 @@ struct CancellationToken_t9E956952F7F20908F2AE72EDF36D97E6C7DB63AB_marshaled_com
 };
 
 // System.Threading.ExecutionContext/Reader
-struct  Reader_t5766DE258B6B590281150D8DB517B651F9F4F33B 
+struct Reader_t5766DE258B6B590281150D8DB517B651F9F4F33B 
 {
 public:
 	// System.Threading.ExecutionContext System.Threading.ExecutionContext/Reader::m_ec
@@ -5432,7 +5432,7 @@ struct Reader_t5766DE258B6B590281150D8DB517B651F9F4F33B_marshaled_com
 };
 
 // System.Threading.SparselyPopulatedArrayAddInfo`1<System.Threading.CancellationCallbackInfo>
-struct  SparselyPopulatedArrayAddInfo_1_t0A76BDD84EBF76BEF894419FC221D25BB3D4FBEE 
+struct SparselyPopulatedArrayAddInfo_1_t0A76BDD84EBF76BEF894419FC221D25BB3D4FBEE 
 {
 public:
 	// System.Threading.SparselyPopulatedArrayFragment`1<T> System.Threading.SparselyPopulatedArrayAddInfo`1::m_source
@@ -5461,7 +5461,7 @@ public:
 
 
 // System.Threading.SpinWait
-struct  SpinWait_tE079CCE966DA5879ACBE28273573E447C0BA31B9 
+struct SpinWait_tE079CCE966DA5879ACBE28273573E447C0BA31B9 
 {
 public:
 	// System.Int32 System.Threading.SpinWait::m_count
@@ -5479,7 +5479,7 @@ public:
 
 
 // System.Threading.Tasks.AwaitTaskContinuation
-struct  AwaitTaskContinuation_t883E8FB9C34A1024B54F2D4A9CCBA21CC595286F  : public TaskContinuation_t870BBF430CE7A3B6DF15EE1ED7940F1ABA9EEEE9
+struct AwaitTaskContinuation_t883E8FB9C34A1024B54F2D4A9CCBA21CC595286F  : public TaskContinuation_t870BBF430CE7A3B6DF15EE1ED7940F1ABA9EEEE9
 {
 public:
 	// System.Threading.ExecutionContext System.Threading.Tasks.AwaitTaskContinuation::m_capturedContext
@@ -5526,7 +5526,7 @@ public:
 
 
 // System.Threading.Tasks.UnobservedTaskExceptionEventArgs
-struct  UnobservedTaskExceptionEventArgs_tFE11214527E226372281384AC73C2B792170A3B7  : public EventArgs_t8E6CA180BE0E56674C6407011A94BAF7C757352E
+struct UnobservedTaskExceptionEventArgs_tFE11214527E226372281384AC73C2B792170A3B7  : public EventArgs_t8E6CA180BE0E56674C6407011A94BAF7C757352E
 {
 public:
 	// System.AggregateException System.Threading.Tasks.UnobservedTaskExceptionEventArgs::m_exception
@@ -5555,7 +5555,7 @@ public:
 
 
 // System.Threading.Tasks.VoidTaskResult
-struct  VoidTaskResult_t66EBC10DDE738848DB00F6EC1A2536D7D4715F40 
+struct VoidTaskResult_t66EBC10DDE738848DB00F6EC1A2536D7D4715F40 
 {
 public:
 	union
@@ -5571,7 +5571,7 @@ public:
 
 
 // System.Threading.Thread
-struct  Thread_tF60E0A146CD3B5480CB65FF9B6016E84C5460CC7  : public CriticalFinalizerObject_t8B006E1DEE084E781F5C0F3283E9226E28894DD9
+struct Thread_tF60E0A146CD3B5480CB65FF9B6016E84C5460CC7  : public CriticalFinalizerObject_t8B006E1DEE084E781F5C0F3283E9226E28894DD9
 {
 public:
 	// System.Threading.InternalThread System.Threading.Thread::internal_thread
@@ -5754,7 +5754,7 @@ public:
 
 
 // System.Threading.Timer
-struct  Timer_t67FAB8E41573B4FA09CA56AE30725AF4297C2553  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
+struct Timer_t67FAB8E41573B4FA09CA56AE30725AF4297C2553  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
 {
 public:
 	// System.Threading.TimerCallback System.Threading.Timer::callback
@@ -5841,7 +5841,7 @@ public:
 
 
 // System.TimeZoneInfo/SYSTEMTIME
-struct  SYSTEMTIME_tB7F532B6AEC26D9270A30C57600C31F2622DF7A2 
+struct SYSTEMTIME_tB7F532B6AEC26D9270A30C57600C31F2622DF7A2 
 {
 public:
 	// System.UInt16 System.TimeZoneInfo/SYSTEMTIME::wYear
@@ -5929,7 +5929,7 @@ public:
 
 
 // System.UInt16
-struct  UInt16_tAE45CEF73BF720100519F6867F32145D075F928E 
+struct UInt16_tAE45CEF73BF720100519F6867F32145D075F928E 
 {
 public:
 	// System.UInt16 System.UInt16::m_value
@@ -5947,7 +5947,7 @@ public:
 
 
 // System.UInt32
-struct  UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
+struct UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
 {
 public:
 	// System.UInt32 System.UInt32::m_value
@@ -5965,7 +5965,7 @@ public:
 
 
 // System.UInt64
-struct  UInt64_tA02DF3B59C8FC4A849BD207DA11038CC64E4CB4E 
+struct UInt64_tA02DF3B59C8FC4A849BD207DA11038CC64E4CB4E 
 {
 public:
 	// System.UInt64 System.UInt64::m_value
@@ -5983,7 +5983,7 @@ public:
 
 
 // System.UIntPtr
-struct  UIntPtr_t 
+struct UIntPtr_t 
 {
 public:
 	// System.Void* System.UIntPtr::_pointer
@@ -6017,7 +6017,7 @@ public:
 
 
 // System.Void
-struct  Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
+struct Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
 {
 public:
 	union
@@ -6033,7 +6033,7 @@ public:
 
 
 // System.AppDomain
-struct  AppDomain_t1B59572328F60585904DF52A59FE47CF5B5FFFF8  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
+struct AppDomain_t1B59572328F60585904DF52A59FE47CF5B5FFFF8  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
 {
 public:
 	// System.IntPtr System.AppDomain::_mono_app_domain
@@ -6346,7 +6346,7 @@ struct AppDomain_t1B59572328F60585904DF52A59FE47CF5B5FFFF8_marshaled_com : publi
 };
 
 // System.Collections.Generic.KeyValuePair`2<System.DateTime,System.Object>
-struct  KeyValuePair_2_t5DDBBB9A3C8CBE3A4A39721E8F0A10AEBF13737B 
+struct KeyValuePair_2_t5DDBBB9A3C8CBE3A4A39721E8F0A10AEBF13737B 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -6375,7 +6375,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.DateTime,System.TimeType>
-struct  KeyValuePair_2_t86E21DDA124482935B8F0E8DCC380E2B8206105D 
+struct KeyValuePair_2_t86E21DDA124482935B8F0E8DCC380E2B8206105D 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -6404,7 +6404,7 @@ public:
 
 
 // System.DateTimeKind
-struct  DateTimeKind_t6BC23532930B812ABFCCEB2B61BC233712B180EE 
+struct DateTimeKind_t6BC23532930B812ABFCCEB2B61BC233712B180EE 
 {
 public:
 	// System.Int32 System.DateTimeKind::value__
@@ -6422,7 +6422,7 @@ public:
 
 
 // System.DayOfWeek
-struct  DayOfWeek_tE7CD4C3124650FF8B2AD3E9DBD34B9896927DFF8 
+struct DayOfWeek_tE7CD4C3124650FF8B2AD3E9DBD34B9896927DFF8 
 {
 public:
 	// System.Int32 System.DayOfWeek::value__
@@ -6440,7 +6440,7 @@ public:
 
 
 // System.Delegate
-struct  Delegate_t  : public RuntimeObject
+struct Delegate_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Delegate::method_ptr
@@ -6592,7 +6592,7 @@ struct Delegate_t_marshaled_com
 };
 
 // System.Exception
-struct  Exception_t  : public RuntimeObject
+struct Exception_t  : public RuntimeObject
 {
 public:
 	// System.String System.Exception::_className
@@ -6818,7 +6818,7 @@ struct Exception_t_marshaled_com
 };
 
 // System.Exception/ExceptionMessageKind
-struct  ExceptionMessageKind_t5151BECAA7C450ADA0DDF5BB98A51E7042166AB7 
+struct ExceptionMessageKind_t5151BECAA7C450ADA0DDF5BB98A51E7042166AB7 
 {
 public:
 	// System.Int32 System.Exception/ExceptionMessageKind::value__
@@ -6836,7 +6836,7 @@ public:
 
 
 // System.ExceptionArgument
-struct  ExceptionArgument_tE4C1E083DC891ECF9688A8A0C62D7F7841057B14 
+struct ExceptionArgument_tE4C1E083DC891ECF9688A8A0C62D7F7841057B14 
 {
 public:
 	// System.Int32 System.ExceptionArgument::value__
@@ -6854,7 +6854,7 @@ public:
 
 
 // System.ExceptionResource
-struct  ExceptionResource_t897ACCB868BF3CAAC00AB0C00D57D7A2B6C7586A 
+struct ExceptionResource_t897ACCB868BF3CAAC00AB0C00D57D7A2B6C7586A 
 {
 public:
 	// System.Int32 System.ExceptionResource::value__
@@ -6872,7 +6872,7 @@ public:
 
 
 // System.IO.FileAccess
-struct  FileAccess_t31950F3A853EAE886AC8F13EA7FC03A3EB46E3F6 
+struct FileAccess_t31950F3A853EAE886AC8F13EA7FC03A3EB46E3F6 
 {
 public:
 	// System.Int32 System.IO.FileAccess::value__
@@ -6890,7 +6890,7 @@ public:
 
 
 // System.PlatformID
-struct  PlatformID_t7969561D329B66D3E609C70CA506A519E06F2776 
+struct PlatformID_t7969561D329B66D3E609C70CA506A519E06F2776 
 {
 public:
 	// System.Int32 System.PlatformID::value__
@@ -6908,7 +6908,7 @@ public:
 
 
 // System.Reflection.BindingFlags
-struct  BindingFlags_tE35C91D046E63A1B92BB9AB909FCF9DA84379ED0 
+struct BindingFlags_tE35C91D046E63A1B92BB9AB909FCF9DA84379ED0 
 {
 public:
 	// System.Int32 System.Reflection.BindingFlags::value__
@@ -6926,7 +6926,7 @@ public:
 
 
 // System.Reflection.CallingConventions
-struct  CallingConventions_t495B6EF267B118F780C044F96BCDE78C1982C147 
+struct CallingConventions_t495B6EF267B118F780C044F96BCDE78C1982C147 
 {
 public:
 	// System.Int32 System.Reflection.CallingConventions::value__
@@ -6944,7 +6944,7 @@ public:
 
 
 // System.Reflection.ConstructorInfo
-struct  ConstructorInfo_t9CB51BFC178DF1CBCA5FD16B2D58229618F23EFF  : public MethodBase_t
+struct ConstructorInfo_t9CB51BFC178DF1CBCA5FD16B2D58229618F23EFF  : public MethodBase_t
 {
 public:
 
@@ -6981,7 +6981,7 @@ public:
 
 
 // System.Reflection.GenericParameterAttributes
-struct  GenericParameterAttributes_t63450AEBA1F27F81502722CE89E01BD01E27A8CE 
+struct GenericParameterAttributes_t63450AEBA1F27F81502722CE89E01BD01E27A8CE 
 {
 public:
 	// System.Int32 System.Reflection.GenericParameterAttributes::value__
@@ -6999,7 +6999,7 @@ public:
 
 
 // System.Reflection.MemberTypes
-struct  MemberTypes_t3FEDC67D8B994D09AF155FFB2CFD26023F245041 
+struct MemberTypes_t3FEDC67D8B994D09AF155FFB2CFD26023F245041 
 {
 public:
 	// System.Int32 System.Reflection.MemberTypes::value__
@@ -7017,7 +7017,7 @@ public:
 
 
 // System.Reflection.MethodInfo
-struct  MethodInfo_t  : public MethodBase_t
+struct MethodInfo_t  : public MethodBase_t
 {
 public:
 
@@ -7026,7 +7026,7 @@ public:
 
 
 // System.Reflection.TypeAttributes
-struct  TypeAttributes_tE6ACB574918E5D234E547DB66EE27142AC379B30 
+struct TypeAttributes_tE6ACB574918E5D234E547DB66EE27142AC379B30 
 {
 public:
 	// System.Int32 System.Reflection.TypeAttributes::value__
@@ -7044,7 +7044,7 @@ public:
 
 
 // System.Runtime.CompilerServices.ConfiguredTaskAwaitable
-struct  ConfiguredTaskAwaitable_t24DE1415466EE20060BE5AD528DC5C812CFA53A9 
+struct ConfiguredTaskAwaitable_t24DE1415466EE20060BE5AD528DC5C812CFA53A9 
 {
 public:
 	// System.Runtime.CompilerServices.ConfiguredTaskAwaitable/ConfiguredTaskAwaiter System.Runtime.CompilerServices.ConfiguredTaskAwaitable::m_configuredTaskAwaiter
@@ -7073,7 +7073,7 @@ struct ConfiguredTaskAwaitable_t24DE1415466EE20060BE5AD528DC5C812CFA53A9_marshal
 };
 
 // System.Runtime.InteropServices.SafeHandle
-struct  SafeHandle_t1E326D75E23FD5BB6D40BA322298FDC6526CC383  : public CriticalFinalizerObject_t8B006E1DEE084E781F5C0F3283E9226E28894DD9
+struct SafeHandle_t1E326D75E23FD5BB6D40BA322298FDC6526CC383  : public CriticalFinalizerObject_t8B006E1DEE084E781F5C0F3283E9226E28894DD9
 {
 public:
 	// System.IntPtr System.Runtime.InteropServices.SafeHandle::handle
@@ -7121,7 +7121,7 @@ public:
 
 
 // System.Runtime.Remoting.Contexts.Context
-struct  Context_tE86AB6B3D9759C8E715184808579EFE761683724  : public RuntimeObject
+struct Context_tE86AB6B3D9759C8E715184808579EFE761683724  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Runtime.Remoting.Contexts.Context::domain_id
@@ -7323,7 +7323,7 @@ struct Context_tE86AB6B3D9759C8E715184808579EFE761683724_marshaled_com
 };
 
 // System.Runtime.Serialization.StreamingContextStates
-struct  StreamingContextStates_t6D16CD7BC584A66A29B702F5FD59DF62BB1BDD3F 
+struct StreamingContextStates_t6D16CD7BC584A66A29B702F5FD59DF62BB1BDD3F 
 {
 public:
 	// System.Int32 System.Runtime.Serialization.StreamingContextStates::value__
@@ -7341,7 +7341,7 @@ public:
 
 
 // System.RuntimeTypeHandle
-struct  RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D 
+struct RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D 
 {
 public:
 	// System.IntPtr System.RuntimeTypeHandle::value
@@ -7359,7 +7359,7 @@ public:
 
 
 // System.StringComparison
-struct  StringComparison_t02BAA95468CE9E91115C604577611FDF58FEDCF0 
+struct StringComparison_t02BAA95468CE9E91115C604577611FDF58FEDCF0 
 {
 public:
 	// System.Int32 System.StringComparison::value__
@@ -7377,7 +7377,7 @@ public:
 
 
 // System.Threading.CancellationTokenRegistration
-struct  CancellationTokenRegistration_tCDB9825D1854DD0D7FF737C82B099FC468107BB2 
+struct CancellationTokenRegistration_tCDB9825D1854DD0D7FF737C82B099FC468107BB2 
 {
 public:
 	// System.Threading.CancellationCallbackInfo System.Threading.CancellationTokenRegistration::m_callbackInfo
@@ -7419,7 +7419,7 @@ struct CancellationTokenRegistration_tCDB9825D1854DD0D7FF737C82B099FC468107BB2_m
 };
 
 // System.Threading.ExecutionContext/CaptureOptions
-struct  CaptureOptions_t7D9885DDA178752A2B4CA4EB542756102B918B6C 
+struct CaptureOptions_t7D9885DDA178752A2B4CA4EB542756102B918B6C 
 {
 public:
 	// System.Int32 System.Threading.ExecutionContext/CaptureOptions::value__
@@ -7437,7 +7437,7 @@ public:
 
 
 // System.Threading.ExecutionContext/Flags
-struct  Flags_t8F565E43354BBB9A79D7F0308B469D11A82268BD 
+struct Flags_t8F565E43354BBB9A79D7F0308B469D11A82268BD 
 {
 public:
 	// System.Int32 System.Threading.ExecutionContext/Flags::value__
@@ -7455,7 +7455,7 @@ public:
 
 
 // System.Threading.ManualResetEventSlim
-struct  ManualResetEventSlim_t085E880B24016C42F7DE42113674D0A41B4FB445  : public RuntimeObject
+struct ManualResetEventSlim_t085E880B24016C42F7DE42113674D0A41B4FB445  : public RuntimeObject
 {
 public:
 	// System.Object modreq(System.Runtime.CompilerServices.IsVolatile) System.Threading.ManualResetEventSlim::m_lock
@@ -7512,7 +7512,7 @@ public:
 
 
 // System.Threading.SpinLock
-struct  SpinLock_t8C6A214261382587D0A07AD354500141672A1DE1 
+struct SpinLock_t8C6A214261382587D0A07AD354500141672A1DE1 
 {
 public:
 	// System.Int32 modreq(System.Runtime.CompilerServices.IsVolatile) System.Threading.SpinLock::m_owner
@@ -7546,7 +7546,7 @@ public:
 
 
 // System.Threading.StackCrawlMark
-struct  StackCrawlMark_t857D8DE506F124E737FD26BB7ADAAAAD13E4F943 
+struct StackCrawlMark_t857D8DE506F124E737FD26BB7ADAAAAD13E4F943 
 {
 public:
 	// System.Int32 System.Threading.StackCrawlMark::value__
@@ -7564,7 +7564,7 @@ public:
 
 
 // System.Threading.Tasks.AsyncCausalityStatus
-struct  AsyncCausalityStatus_t551C8435E137F3CE15E458A31D0FF0825FD5FA21 
+struct AsyncCausalityStatus_t551C8435E137F3CE15E458A31D0FF0825FD5FA21 
 {
 public:
 	// System.Int32 System.Threading.Tasks.AsyncCausalityStatus::value__
@@ -7582,7 +7582,7 @@ public:
 
 
 // System.Threading.Tasks.CausalityRelation
-struct  CausalityRelation_t7B7C548905BFF2D0E24701E2D4FE85DF2C68840A 
+struct CausalityRelation_t7B7C548905BFF2D0E24701E2D4FE85DF2C68840A 
 {
 public:
 	// System.Int32 System.Threading.Tasks.CausalityRelation::value__
@@ -7600,7 +7600,7 @@ public:
 
 
 // System.Threading.Tasks.CausalityTraceLevel
-struct  CausalityTraceLevel_t43E68E9AA92AD875A33C16851EFA189EA7D394EE 
+struct CausalityTraceLevel_t43E68E9AA92AD875A33C16851EFA189EA7D394EE 
 {
 public:
 	// System.Int32 System.Threading.Tasks.CausalityTraceLevel::value__
@@ -7618,7 +7618,7 @@ public:
 
 
 // System.Threading.Tasks.InternalTaskOptions
-struct  InternalTaskOptions_t370B96BF359DE59C57EB5444F9310B8FFFA2AA6A 
+struct InternalTaskOptions_t370B96BF359DE59C57EB5444F9310B8FFFA2AA6A 
 {
 public:
 	// System.Int32 System.Threading.Tasks.InternalTaskOptions::value__
@@ -7636,7 +7636,7 @@ public:
 
 
 // System.Threading.Tasks.Task
-struct  Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2  : public RuntimeObject
+struct Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2  : public RuntimeObject
 {
 public:
 	// System.Int32 modreq(System.Runtime.CompilerServices.IsVolatile) System.Threading.Tasks.Task::m_taskId
@@ -7894,7 +7894,7 @@ public:
 
 
 // System.Threading.Tasks.Task/ContingentProperties
-struct  ContingentProperties_t7149A27D01507C74E8BDAAA3848B45D2644FDF08  : public RuntimeObject
+struct ContingentProperties_t7149A27D01507C74E8BDAAA3848B45D2644FDF08  : public RuntimeObject
 {
 public:
 	// System.Threading.ExecutionContext System.Threading.Tasks.Task/ContingentProperties::m_capturedContext
@@ -7988,7 +7988,7 @@ public:
 
 
 // System.Threading.Tasks.TaskContinuationOptions
-struct  TaskContinuationOptions_t749581ABDD24D74BD051F09EC4E3408C209121A2 
+struct TaskContinuationOptions_t749581ABDD24D74BD051F09EC4E3408C209121A2 
 {
 public:
 	// System.Int32 System.Threading.Tasks.TaskContinuationOptions::value__
@@ -8006,7 +8006,7 @@ public:
 
 
 // System.Threading.Tasks.TaskCreationOptions
-struct  TaskCreationOptions_t73D75E64925AACDF2A90DDB3D508192A8E74D375 
+struct TaskCreationOptions_t73D75E64925AACDF2A90DDB3D508192A8E74D375 
 {
 public:
 	// System.Int32 System.Threading.Tasks.TaskCreationOptions::value__
@@ -8024,7 +8024,7 @@ public:
 
 
 // System.Threading.Tasks.TaskExceptionHolder
-struct  TaskExceptionHolder_t1F44F1CE648090AA15DDC759304A18E998EFA811  : public RuntimeObject
+struct TaskExceptionHolder_t1F44F1CE648090AA15DDC759304A18E998EFA811  : public RuntimeObject
 {
 public:
 	// System.Threading.Tasks.Task System.Threading.Tasks.TaskExceptionHolder::m_task
@@ -8112,7 +8112,7 @@ public:
 
 
 // System.Threading.Tasks.TaskScheduler
-struct  TaskScheduler_t966F2798F198FA90A0DA8EFC92BAC08297793114  : public RuntimeObject
+struct TaskScheduler_t966F2798F198FA90A0DA8EFC92BAC08297793114  : public RuntimeObject
 {
 public:
 	// System.Int32 modreq(System.Runtime.CompilerServices.IsVolatile) System.Threading.Tasks.TaskScheduler::m_taskSchedulerId
@@ -8190,7 +8190,7 @@ public:
 
 
 // System.Threading.Tasks.TaskSchedulerAwaitTaskContinuation
-struct  TaskSchedulerAwaitTaskContinuation_t08B24138EF6D3AC7A821332F15F5A5A0F08543B6  : public AwaitTaskContinuation_t883E8FB9C34A1024B54F2D4A9CCBA21CC595286F
+struct TaskSchedulerAwaitTaskContinuation_t08B24138EF6D3AC7A821332F15F5A5A0F08543B6  : public AwaitTaskContinuation_t883E8FB9C34A1024B54F2D4A9CCBA21CC595286F
 {
 public:
 	// System.Threading.Tasks.TaskScheduler System.Threading.Tasks.TaskSchedulerAwaitTaskContinuation::m_scheduler
@@ -8209,7 +8209,7 @@ public:
 
 
 // System.Threading.Tasks.TaskStatus
-struct  TaskStatus_t4DB45EB7777EB16CEB85E12E43C4F56EAFA59A99 
+struct TaskStatus_t4DB45EB7777EB16CEB85E12E43C4F56EAFA59A99 
 {
 public:
 	// System.Int32 System.Threading.Tasks.TaskStatus::value__
@@ -8227,7 +8227,7 @@ public:
 
 
 // System.Threading.ThreadPoolGlobals
-struct  ThreadPoolGlobals_t9DF93E24441362B1D7114B8AD50AF977E96671F5  : public RuntimeObject
+struct ThreadPoolGlobals_t9DF93E24441362B1D7114B8AD50AF977E96671F5  : public RuntimeObject
 {
 public:
 
@@ -8303,7 +8303,7 @@ public:
 
 
 // System.Threading.ThreadPoolWorkQueue
-struct  ThreadPoolWorkQueue_t7CD2CD2E30665483DB7D73043AE06270E0220011  : public RuntimeObject
+struct ThreadPoolWorkQueue_t7CD2CD2E30665483DB7D73043AE06270E0220011  : public RuntimeObject
 {
 public:
 	// System.Threading.ThreadPoolWorkQueue/QueueSegment modreq(System.Runtime.CompilerServices.IsVolatile) System.Threading.ThreadPoolWorkQueue::queueHead
@@ -8360,7 +8360,7 @@ public:
 
 
 // System.Threading.ThreadPoolWorkQueue/QueueSegment
-struct  QueueSegment_t3F7E9D01C68FF83E06B265B2CF69264953C094EE  : public RuntimeObject
+struct QueueSegment_t3F7E9D01C68FF83E06B265B2CF69264953C094EE  : public RuntimeObject
 {
 public:
 	// System.Threading.IThreadPoolWorkItem[] System.Threading.ThreadPoolWorkQueue/QueueSegment::nodes
@@ -8400,7 +8400,7 @@ public:
 
 
 // System.Threading.ThreadState
-struct  ThreadState_t5DE1FACD0DA096CCF07D144CBEB4D124CECC671E 
+struct ThreadState_t5DE1FACD0DA096CCF07D144CBEB4D124CECC671E 
 {
 public:
 	// System.Int32 System.Threading.ThreadState::value__
@@ -8418,7 +8418,7 @@ public:
 
 
 // System.Threading.WaitHandle
-struct  WaitHandle_tFD46B5B45A6BB296EA3A104C91DF2A7C03C10AC6  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
+struct WaitHandle_tFD46B5B45A6BB296EA3A104C91DF2A7C03C10AC6  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
 {
 public:
 	// System.IntPtr System.Threading.WaitHandle::waitHandle
@@ -8487,7 +8487,7 @@ struct WaitHandle_tFD46B5B45A6BB296EA3A104C91DF2A7C03C10AC6_marshaled_com : publ
 };
 
 // System.TimeSpan
-struct  TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 
+struct TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 
 {
 public:
 	// System.Int64 System.TimeSpan::_ticks
@@ -8561,7 +8561,7 @@ public:
 
 
 // System.TimeZoneInfo/TIME_ZONE_INFORMATION
-struct  TIME_ZONE_INFORMATION_tE8C6F24D5D50D01E03E52B00DDF74849F3DE9811 
+struct TIME_ZONE_INFORMATION_tE8C6F24D5D50D01E03E52B00DDF74849F3DE9811 
 {
 public:
 	// System.Int32 System.TimeZoneInfo/TIME_ZONE_INFORMATION::Bias
@@ -8663,7 +8663,7 @@ struct TIME_ZONE_INFORMATION_tE8C6F24D5D50D01E03E52B00DDF74849F3DE9811_marshaled
 };
 
 // System.TimeZoneInfoOptions
-struct  TimeZoneInfoOptions_t123D8B5A23D3DE107FB9D3A29BF5952895C652EE 
+struct TimeZoneInfoOptions_t123D8B5A23D3DE107FB9D3A29BF5952895C652EE 
 {
 public:
 	// System.Int32 System.TimeZoneInfoOptions::value__
@@ -8681,7 +8681,7 @@ public:
 
 
 // System.TokenType
-struct  TokenType_t192580F19CFCC8A71F0BD44B8BE1056BA64D869A 
+struct TokenType_t192580F19CFCC8A71F0BD44B8BE1056BA64D869A 
 {
 public:
 	// System.Int32 System.TokenType::value__
@@ -8699,7 +8699,7 @@ public:
 
 
 // System.TypeCode
-struct  TypeCode_t03ED52F888000DAF40C550C434F29F39A23D61C6 
+struct TypeCode_t03ED52F888000DAF40C550C434F29F39A23D61C6 
 {
 public:
 	// System.Int32 System.TypeCode::value__
@@ -8717,7 +8717,7 @@ public:
 
 
 // Microsoft.Win32.SafeHandles.SafeHandleZeroOrMinusOneIsInvalid
-struct  SafeHandleZeroOrMinusOneIsInvalid_t779A965C82098677DF1ED10A134DBCDEC8AACB8E  : public SafeHandle_t1E326D75E23FD5BB6D40BA322298FDC6526CC383
+struct SafeHandleZeroOrMinusOneIsInvalid_t779A965C82098677DF1ED10A134DBCDEC8AACB8E  : public SafeHandle_t1E326D75E23FD5BB6D40BA322298FDC6526CC383
 {
 public:
 
@@ -8726,7 +8726,7 @@ public:
 
 
 // System.AggregateException
-struct  AggregateException_t9217B9E89DF820D5632411F2BD92F444B17BD60E  : public Exception_t
+struct AggregateException_t9217B9E89DF820D5632411F2BD92F444B17BD60E  : public Exception_t
 {
 public:
 	// System.Collections.ObjectModel.ReadOnlyCollection`1<System.Exception> System.AggregateException::m_innerExceptions
@@ -8745,7 +8745,7 @@ public:
 
 
 // System.ApplicationException
-struct  ApplicationException_t664823C3E0D3E1E7C7FA1C0DB4E19E98E9811C74  : public Exception_t
+struct ApplicationException_t664823C3E0D3E1E7C7FA1C0DB4E19E98E9811C74  : public Exception_t
 {
 public:
 
@@ -8754,7 +8754,7 @@ public:
 
 
 // System.IO.FileStream
-struct  FileStream_tA770BF9AF0906644D43C81B962C7DBC3BC79A418  : public Stream_tFC50657DD5AAB87770987F9179D934A51D99D5E7
+struct FileStream_tA770BF9AF0906644D43C81B962C7DBC3BC79A418  : public Stream_tFC50657DD5AAB87770987F9179D934A51D99D5E7
 {
 public:
 	// System.Byte[] System.IO.FileStream::buf
@@ -8943,7 +8943,7 @@ public:
 
 
 // System.InvalidTimeZoneException
-struct  InvalidTimeZoneException_tA035F4C48B9BE56165F6FD6526A3F7384CC78C25  : public Exception_t
+struct InvalidTimeZoneException_tA035F4C48B9BE56165F6FD6526A3F7384CC78C25  : public Exception_t
 {
 public:
 
@@ -8952,7 +8952,7 @@ public:
 
 
 // System.MulticastDelegate
-struct  MulticastDelegate_t  : public Delegate_t
+struct MulticastDelegate_t  : public Delegate_t
 {
 public:
 	// System.Delegate[] System.MulticastDelegate::delegates
@@ -8981,7 +8981,7 @@ struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
 };
 
 // System.OperatingSystem
-struct  OperatingSystem_tBB05846D5AA6960FFEB42C59E5FE359255C2BE83  : public RuntimeObject
+struct OperatingSystem_tBB05846D5AA6960FFEB42C59E5FE359255C2BE83  : public RuntimeObject
 {
 public:
 	// System.PlatformID System.OperatingSystem::_platform
@@ -9021,7 +9021,7 @@ public:
 
 
 // System.Runtime.Serialization.StreamingContext
-struct  StreamingContext_t2CCDC54E0E8D078AF4A50E3A8B921B828A900034 
+struct StreamingContext_t2CCDC54E0E8D078AF4A50E3A8B921B828A900034 
 {
 public:
 	// System.Object System.Runtime.Serialization.StreamingContext::m_additionalContext
@@ -9062,7 +9062,7 @@ struct StreamingContext_t2CCDC54E0E8D078AF4A50E3A8B921B828A900034_marshaled_com
 };
 
 // System.SystemException
-struct  SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
+struct SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
 {
 public:
 
@@ -9071,7 +9071,7 @@ public:
 
 
 // System.Threading.EventWaitHandle
-struct  EventWaitHandle_t7603BF1D3D30FE42DD07A450C8D09E2684DC4D98  : public WaitHandle_tFD46B5B45A6BB296EA3A104C91DF2A7C03C10AC6
+struct EventWaitHandle_t7603BF1D3D30FE42DD07A450C8D09E2684DC4D98  : public WaitHandle_tFD46B5B45A6BB296EA3A104C91DF2A7C03C10AC6
 {
 public:
 
@@ -9080,7 +9080,7 @@ public:
 
 
 // System.Threading.ExecutionContext
-struct  ExecutionContext_t0E11C30308A4CC964D8A2EA9132F9BDCE5362C70  : public RuntimeObject
+struct ExecutionContext_t0E11C30308A4CC964D8A2EA9132F9BDCE5362C70  : public RuntimeObject
 {
 public:
 	// System.Threading.SynchronizationContext System.Threading.ExecutionContext::_syncContext
@@ -9181,7 +9181,7 @@ public:
 
 
 // System.Threading.InternalThread
-struct  InternalThread_tA4C58C2A7D15AF43C3E7507375E6D31DBBE7D192  : public CriticalFinalizerObject_t8B006E1DEE084E781F5C0F3283E9226E28894DD9
+struct InternalThread_tA4C58C2A7D15AF43C3E7507375E6D31DBBE7D192  : public CriticalFinalizerObject_t8B006E1DEE084E781F5C0F3283E9226E28894DD9
 {
 public:
 	// System.Int32 System.Threading.InternalThread::lock_thread_id
@@ -9583,7 +9583,7 @@ public:
 
 
 // System.Threading.RegisteredWaitHandle
-struct  RegisteredWaitHandle_t25AAC0B53C62CFA0B3F9BFFA87DDA3638F4308C0  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
+struct RegisteredWaitHandle_t25AAC0B53C62CFA0B3F9BFFA87DDA3638F4308C0  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
 {
 public:
 	// System.Threading.WaitHandle System.Threading.RegisteredWaitHandle::_waitObject
@@ -9686,7 +9686,7 @@ public:
 
 
 // System.Threading.Tasks.Shared`1<System.Threading.CancellationTokenRegistration>
-struct  Shared_1_t6EFAE49AC0A1E070F87779D3DD8273B35F28E7D2  : public RuntimeObject
+struct Shared_1_t6EFAE49AC0A1E070F87779D3DD8273B35F28E7D2  : public RuntimeObject
 {
 public:
 	// T System.Threading.Tasks.Shared`1::Value
@@ -9708,7 +9708,7 @@ public:
 
 
 // System.Threading.Tasks.SynchronizationContextTaskScheduler
-struct  SynchronizationContextTaskScheduler_tB37B7324A55FB514B110FED3E4B7F70A0B57961C  : public TaskScheduler_t966F2798F198FA90A0DA8EFC92BAC08297793114
+struct SynchronizationContextTaskScheduler_tB37B7324A55FB514B110FED3E4B7F70A0B57961C  : public TaskScheduler_t966F2798F198FA90A0DA8EFC92BAC08297793114
 {
 public:
 	// System.Threading.SynchronizationContext System.Threading.Tasks.SynchronizationContextTaskScheduler::m_synchronizationContext
@@ -9744,7 +9744,7 @@ public:
 
 
 // System.Threading.Tasks.Task/<>c__DisplayClass178_0
-struct  U3CU3Ec__DisplayClass178_0_tDB7F53582BFA1879573CC515D119580A06752F7E  : public RuntimeObject
+struct U3CU3Ec__DisplayClass178_0_tDB7F53582BFA1879573CC515D119580A06752F7E  : public RuntimeObject
 {
 public:
 	// System.Threading.Tasks.Task System.Threading.Tasks.Task/<>c__DisplayClass178_0::root
@@ -9804,7 +9804,7 @@ public:
 
 
 // System.Threading.Tasks.Task/SetOnInvokeMres
-struct  SetOnInvokeMres_tBDCEA7BE3061614FC83A82D8E6FBD5903C3FD2A9  : public ManualResetEventSlim_t085E880B24016C42F7DE42113674D0A41B4FB445
+struct SetOnInvokeMres_tBDCEA7BE3061614FC83A82D8E6FBD5903C3FD2A9  : public ManualResetEventSlim_t085E880B24016C42F7DE42113674D0A41B4FB445
 {
 public:
 
@@ -9813,7 +9813,7 @@ public:
 
 
 // System.Threading.Tasks.TaskFactory
-struct  TaskFactory_tF3C6D983390ACFB40B4979E225368F78006D6155  : public RuntimeObject
+struct TaskFactory_tF3C6D983390ACFB40B4979E225368F78006D6155  : public RuntimeObject
 {
 public:
 	// System.Threading.CancellationToken System.Threading.Tasks.TaskFactory::m_defaultCancellationToken
@@ -9863,7 +9863,7 @@ public:
 
 
 // System.Threading.Tasks.TaskSchedulerException
-struct  TaskSchedulerException_tE0888B47136E7B61EAF20A145EF053023F8C7B24  : public Exception_t
+struct TaskSchedulerException_tE0888B47136E7B61EAF20A145EF053023F8C7B24  : public Exception_t
 {
 public:
 
@@ -9872,7 +9872,7 @@ public:
 
 
 // System.Threading.Tasks.Task`1<System.Threading.Tasks.Task>
-struct  Task_1_t6E4E91059C08F359F21A42B8BFA51E8BBFA47138  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
+struct Task_1_t6E4E91059C08F359F21A42B8BFA51E8BBFA47138  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
 {
 public:
 	// TResult System.Threading.Tasks.Task`1::m_result
@@ -9919,7 +9919,7 @@ public:
 
 
 // System.Threading.Tasks.Task`1<System.Threading.Tasks.VoidTaskResult>
-struct  Task_1_t1359D75350E9D976BFA28AD96E417450DE277673  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
+struct Task_1_t1359D75350E9D976BFA28AD96E417450DE277673  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
 {
 public:
 	// TResult System.Threading.Tasks.Task`1::m_result
@@ -9965,7 +9965,7 @@ public:
 
 
 // System.Threading.Tasks.ThreadPoolTaskScheduler
-struct  ThreadPoolTaskScheduler_t881DB3BB8EFB9D969F86C70D01288AF7CE5F8CAD  : public TaskScheduler_t966F2798F198FA90A0DA8EFC92BAC08297793114
+struct ThreadPoolTaskScheduler_t881DB3BB8EFB9D969F86C70D01288AF7CE5F8CAD  : public TaskScheduler_t966F2798F198FA90A0DA8EFC92BAC08297793114
 {
 public:
 
@@ -9991,7 +9991,7 @@ public:
 
 
 // System.Threading.ThreadPoolWorkQueue/WorkStealingQueue
-struct  WorkStealingQueue_tFC6A568537E943B70FB9A859876D16E7DB7A84DB  : public RuntimeObject
+struct WorkStealingQueue_tFC6A568537E943B70FB9A859876D16E7DB7A84DB  : public RuntimeObject
 {
 public:
 	// System.Threading.IThreadPoolWorkItem[] modreq(System.Runtime.CompilerServices.IsVolatile) System.Threading.ThreadPoolWorkQueue/WorkStealingQueue::m_array
@@ -10050,7 +10050,7 @@ public:
 
 
 // System.Threading.Timeout
-struct  Timeout_t148C37C092EAF5AFCE1D0C06481466A5F88E4C04  : public RuntimeObject
+struct Timeout_t148C37C092EAF5AFCE1D0C06481466A5F88E4C04  : public RuntimeObject
 {
 public:
 
@@ -10075,7 +10075,7 @@ public:
 
 
 // System.TimeZoneInfo
-struct  TimeZoneInfo_t46EF9BAEAA787846F1A1EC419BE75CFEFAFF6777  : public RuntimeObject
+struct TimeZoneInfo_t46EF9BAEAA787846F1A1EC419BE75CFEFAFF6777  : public RuntimeObject
 {
 public:
 	// System.TimeSpan System.TimeZoneInfo::baseUtcOffset
@@ -10251,7 +10251,7 @@ public:
 
 
 // System.TimeZoneInfo/DYNAMIC_TIME_ZONE_INFORMATION
-struct  DYNAMIC_TIME_ZONE_INFORMATION_tE2A7A07ADC8726A5FC7954EA9CDE9168756C9B1F 
+struct DYNAMIC_TIME_ZONE_INFORMATION_tE2A7A07ADC8726A5FC7954EA9CDE9168756C9B1F 
 {
 public:
 	// System.TimeZoneInfo/TIME_ZONE_INFORMATION System.TimeZoneInfo/DYNAMIC_TIME_ZONE_INFORMATION::TZI
@@ -10308,7 +10308,7 @@ struct DYNAMIC_TIME_ZONE_INFORMATION_tE2A7A07ADC8726A5FC7954EA9CDE9168756C9B1F_m
 };
 
 // System.TimeZoneInfo/TransitionTime
-struct  TransitionTime_t9958178434A0688FD45EF028B1AE9EA665C3E116 
+struct TransitionTime_t9958178434A0688FD45EF028B1AE9EA665C3E116 
 {
 public:
 	// System.DateTime System.TimeZoneInfo/TransitionTime::m_timeOfDay
@@ -10396,7 +10396,7 @@ struct TransitionTime_t9958178434A0688FD45EF028B1AE9EA665C3E116_marshaled_com
 };
 
 // System.TimeZoneNotFoundException
-struct  TimeZoneNotFoundException_t44EC55B0AAD26AD0E0B659D308CBF90E5C81B388  : public Exception_t
+struct TimeZoneNotFoundException_t44EC55B0AAD26AD0E0B659D308CBF90E5C81B388  : public Exception_t
 {
 public:
 
@@ -10405,7 +10405,7 @@ public:
 
 
 // System.Type
-struct  Type_t  : public MemberInfo_t
+struct Type_t  : public MemberInfo_t
 {
 public:
 	// System.RuntimeTypeHandle System.Type::_impl
@@ -10505,7 +10505,7 @@ public:
 
 
 // Microsoft.Win32.SafeHandles.SafeWaitHandle
-struct  SafeWaitHandle_t51DB35FF382E636FF3B868D87816733894D46CF2  : public SafeHandleZeroOrMinusOneIsInvalid_t779A965C82098677DF1ED10A134DBCDEC8AACB8E
+struct SafeWaitHandle_t51DB35FF382E636FF3B868D87816733894D46CF2  : public SafeHandleZeroOrMinusOneIsInvalid_t779A965C82098677DF1ED10A134DBCDEC8AACB8E
 {
 public:
 
@@ -10514,7 +10514,7 @@ public:
 
 
 // System.Action
-struct  Action_t591D2A86165F896B4B800BB5C25CE18672A55579  : public MulticastDelegate_t
+struct Action_t591D2A86165F896B4B800BB5C25CE18672A55579  : public MulticastDelegate_t
 {
 public:
 
@@ -10523,7 +10523,7 @@ public:
 
 
 // System.Action`1<System.Object>
-struct  Action_1_t551A279CEADCF6EEAE8FA2B1E1E757D0D15290D0  : public MulticastDelegate_t
+struct Action_1_t551A279CEADCF6EEAE8FA2B1E1E757D0D15290D0  : public MulticastDelegate_t
 {
 public:
 
@@ -10532,7 +10532,7 @@ public:
 
 
 // System.ArgumentException
-struct  ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 	// System.String System.ArgumentException::m_paramName
@@ -10551,7 +10551,7 @@ public:
 
 
 // System.ArithmeticException
-struct  ArithmeticException_tF9EF5FE94597830EF315C5934258F994B8648269  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct ArithmeticException_tF9EF5FE94597830EF315C5934258F994B8648269  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -10560,7 +10560,7 @@ public:
 
 
 // System.AsyncCallback
-struct  AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4  : public MulticastDelegate_t
+struct AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4  : public MulticastDelegate_t
 {
 public:
 
@@ -10569,7 +10569,7 @@ public:
 
 
 // System.Comparison`1<System.TimeZoneInfo/AdjustmentRule>
-struct  Comparison_1_tD28744463320E1F22A90E02BFEE7967364ABCAA6  : public MulticastDelegate_t
+struct Comparison_1_tD28744463320E1F22A90E02BFEE7967364ABCAA6  : public MulticastDelegate_t
 {
 public:
 
@@ -10578,7 +10578,7 @@ public:
 
 
 // System.EventHandler
-struct  EventHandler_t2B84E745E28BA26C49C4E99A387FC3B534D1110C  : public MulticastDelegate_t
+struct EventHandler_t2B84E745E28BA26C49C4E99A387FC3B534D1110C  : public MulticastDelegate_t
 {
 public:
 
@@ -10587,7 +10587,7 @@ public:
 
 
 // System.EventHandler`1<System.Threading.Tasks.UnobservedTaskExceptionEventArgs>
-struct  EventHandler_1_tF704D003AB4792AFE4B10D9127FF82EEC18615BC  : public MulticastDelegate_t
+struct EventHandler_1_tF704D003AB4792AFE4B10D9127FF82EEC18615BC  : public MulticastDelegate_t
 {
 public:
 
@@ -10596,7 +10596,7 @@ public:
 
 
 // System.Func`2<System.Reflection.AssemblyName,System.Reflection.Assembly>
-struct  Func_2_t13827C9725E0D12567E029E178981FB7D0E13430  : public MulticastDelegate_t
+struct Func_2_t13827C9725E0D12567E029E178981FB7D0E13430  : public MulticastDelegate_t
 {
 public:
 
@@ -10605,7 +10605,7 @@ public:
 
 
 // System.Func`4<System.Reflection.Assembly,System.String,System.Boolean,System.Type>
-struct  Func_4_t3D7857A2A0F731D1E992FC5B09E983A8621FABFF  : public MulticastDelegate_t
+struct Func_4_t3D7857A2A0F731D1E992FC5B09E983A8621FABFF  : public MulticastDelegate_t
 {
 public:
 
@@ -10614,7 +10614,7 @@ public:
 
 
 // System.InvalidOperationException
-struct  InvalidOperationException_t0530E734D823F78310CAFAFA424CA5164D93A1F1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct InvalidOperationException_t0530E734D823F78310CAFAFA424CA5164D93A1F1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -10623,7 +10623,7 @@ public:
 
 
 // System.NotImplementedException
-struct  NotImplementedException_t8AD6EBE5FEDB0AEBECEE0961CF73C35B372EFFA4  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct NotImplementedException_t8AD6EBE5FEDB0AEBECEE0961CF73C35B372EFFA4  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -10632,7 +10632,7 @@ public:
 
 
 // System.NotSupportedException
-struct  NotSupportedException_tE75B318D6590A02A5D9B29FD97409B1750FA0010  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct NotSupportedException_tE75B318D6590A02A5D9B29FD97409B1750FA0010  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -10641,7 +10641,7 @@ public:
 
 
 // System.OperationCanceledException
-struct  OperationCanceledException_tD28B1AE59ACCE4D46333BFE398395B8D75D76A90  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct OperationCanceledException_tD28B1AE59ACCE4D46333BFE398395B8D75D76A90  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 	// System.Threading.CancellationToken System.OperationCanceledException::_cancellationToken
@@ -10660,7 +10660,7 @@ public:
 
 
 // System.Reflection.MemberFilter
-struct  MemberFilter_t25C1BD92C42BE94426E300787C13C452CB89B381  : public MulticastDelegate_t
+struct MemberFilter_t25C1BD92C42BE94426E300787C13C452CB89B381  : public MulticastDelegate_t
 {
 public:
 
@@ -10669,7 +10669,7 @@ public:
 
 
 // System.Reflection.TypeFilter
-struct  TypeFilter_t30BB04A68BC9FB949345457F71A9648BDB67FF18  : public MulticastDelegate_t
+struct TypeFilter_t30BB04A68BC9FB949345457F71A9648BDB67FF18  : public MulticastDelegate_t
 {
 public:
 
@@ -10678,7 +10678,7 @@ public:
 
 
 // System.Reflection.TypeInfo
-struct  TypeInfo_t9D6F65801A41B97F36138B15FD270A1550DBB3FC  : public Type_t
+struct TypeInfo_t9D6F65801A41B97F36138B15FD270A1550DBB3FC  : public Type_t
 {
 public:
 
@@ -10687,7 +10687,7 @@ public:
 
 
 // System.Runtime.Serialization.SerializationException
-struct  SerializationException_tA1FDFF6779406E688C2192E71C38DBFD7A4A2210  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct SerializationException_tA1FDFF6779406E688C2192E71C38DBFD7A4A2210  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -10713,7 +10713,7 @@ public:
 
 
 // System.Threading.AbandonedMutexException
-struct  AbandonedMutexException_tCE41515409705F64C8D2AE1AAB4C1864905803C9  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct AbandonedMutexException_tCE41515409705F64C8D2AE1AAB4C1864905803C9  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 	// System.Int32 System.Threading.AbandonedMutexException::m_MutexIndex
@@ -10742,7 +10742,7 @@ public:
 
 
 // System.Threading.ContextCallback
-struct  ContextCallback_t8AE8A965AC6C7ECD396F527F15CDC8E683BE1676  : public MulticastDelegate_t
+struct ContextCallback_t8AE8A965AC6C7ECD396F527F15CDC8E683BE1676  : public MulticastDelegate_t
 {
 public:
 
@@ -10751,7 +10751,7 @@ public:
 
 
 // System.Threading.ManualResetEvent
-struct  ManualResetEvent_tDFAF117B200ECA4CCF4FD09593F949A016D55408  : public EventWaitHandle_t7603BF1D3D30FE42DD07A450C8D09E2684DC4D98
+struct ManualResetEvent_tDFAF117B200ECA4CCF4FD09593F949A016D55408  : public EventWaitHandle_t7603BF1D3D30FE42DD07A450C8D09E2684DC4D98
 {
 public:
 
@@ -10760,7 +10760,7 @@ public:
 
 
 // System.Threading.ParameterizedThreadStart
-struct  ParameterizedThreadStart_tB0BBCC1B5B33EBCFE37B9B91840464DBF124218F  : public MulticastDelegate_t
+struct ParameterizedThreadStart_tB0BBCC1B5B33EBCFE37B9B91840464DBF124218F  : public MulticastDelegate_t
 {
 public:
 
@@ -10769,7 +10769,7 @@ public:
 
 
 // System.Threading.Tasks.Task/DelayPromise
-struct  DelayPromise_t7C7AB82D097218CCDB5A68ED80ED47BC56DE10D2  : public Task_1_t1359D75350E9D976BFA28AD96E417450DE277673
+struct DelayPromise_t7C7AB82D097218CCDB5A68ED80ED47BC56DE10D2  : public Task_1_t1359D75350E9D976BFA28AD96E417450DE277673
 {
 public:
 	// System.Threading.CancellationToken System.Threading.Tasks.Task/DelayPromise::Token
@@ -10813,7 +10813,7 @@ public:
 
 
 // System.Threading.Tasks.TaskFactory/CompleteOnInvokePromise
-struct  CompleteOnInvokePromise_t5A1CFB5E935FFD61858B0F0CE081BBD8B96B1E86  : public Task_1_t6E4E91059C08F359F21A42B8BFA51E8BBFA47138
+struct CompleteOnInvokePromise_t5A1CFB5E935FFD61858B0F0CE081BBD8B96B1E86  : public Task_1_t6E4E91059C08F359F21A42B8BFA51E8BBFA47138
 {
 public:
 	// System.Collections.Generic.IList`1<System.Threading.Tasks.Task> System.Threading.Tasks.TaskFactory/CompleteOnInvokePromise::_tasks
@@ -10842,7 +10842,7 @@ public:
 
 
 // System.Threading.ThreadAbortException
-struct  ThreadAbortException_t0B7CFB34B2901B695FBCFF84E0A1EBDFC8177468  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct ThreadAbortException_t0B7CFB34B2901B695FBCFF84E0A1EBDFC8177468  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -10851,7 +10851,7 @@ public:
 
 
 // System.Threading.ThreadInterruptedException
-struct  ThreadInterruptedException_t40D8296AA9D9E8B74E29BFAE1089CFACC5F03751  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct ThreadInterruptedException_t40D8296AA9D9E8B74E29BFAE1089CFACC5F03751  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -10860,7 +10860,7 @@ public:
 
 
 // System.Threading.ThreadStart
-struct  ThreadStart_t09FFA4371E4B2A713F212B157CC9B8B61983B5BF  : public MulticastDelegate_t
+struct ThreadStart_t09FFA4371E4B2A713F212B157CC9B8B61983B5BF  : public MulticastDelegate_t
 {
 public:
 
@@ -10869,7 +10869,7 @@ public:
 
 
 // System.Threading.ThreadStateException
-struct  ThreadStateException_tCE60AB1B9E16A6D13E3926137BA55832ABE986AE  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct ThreadStateException_tCE60AB1B9E16A6D13E3926137BA55832ABE986AE  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -10878,7 +10878,7 @@ public:
 
 
 // System.Threading.TimerCallback
-struct  TimerCallback_tC89F2FB1294A86F64DEB2C1F68024954018AA219  : public MulticastDelegate_t
+struct TimerCallback_tC89F2FB1294A86F64DEB2C1F68024954018AA219  : public MulticastDelegate_t
 {
 public:
 
@@ -10887,7 +10887,7 @@ public:
 
 
 // System.Threading.WaitCallback
-struct  WaitCallback_t61C5F053CAC7A7FE923208EFA060693D7997B4EC  : public MulticastDelegate_t
+struct WaitCallback_t61C5F053CAC7A7FE923208EFA060693D7997B4EC  : public MulticastDelegate_t
 {
 public:
 
@@ -10896,7 +10896,7 @@ public:
 
 
 // System.Threading.WaitHandleCannotBeOpenedException
-struct  WaitHandleCannotBeOpenedException_t869CD999EE7B918C5546E2007AF7C4557281B65B  : public ApplicationException_t664823C3E0D3E1E7C7FA1C0DB4E19E98E9811C74
+struct WaitHandleCannotBeOpenedException_t869CD999EE7B918C5546E2007AF7C4557281B65B  : public ApplicationException_t664823C3E0D3E1E7C7FA1C0DB4E19E98E9811C74
 {
 public:
 
@@ -10905,7 +10905,7 @@ public:
 
 
 // System.Threading.WaitOrTimerCallback
-struct  WaitOrTimerCallback_tC7370E7654DC005FC74E8E82993FD40C2C6AF8CF  : public MulticastDelegate_t
+struct WaitOrTimerCallback_tC7370E7654DC005FC74E8E82993FD40C2C6AF8CF  : public MulticastDelegate_t
 {
 public:
 
@@ -10914,7 +10914,7 @@ public:
 
 
 // System.TimeZoneInfo/AdjustmentRule
-struct  AdjustmentRule_tD07790AF71973358AF86152413749426B28D6204  : public RuntimeObject
+struct AdjustmentRule_tD07790AF71973358AF86152413749426B28D6204  : public RuntimeObject
 {
 public:
 	// System.DateTime System.TimeZoneInfo/AdjustmentRule::m_dateStart
@@ -10982,7 +10982,7 @@ public:
 
 
 // System.TimeoutException
-struct  TimeoutException_t15A6E9A2A5819966712B5CFAF756BAEA40E3B1B7  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct TimeoutException_t15A6E9A2A5819966712B5CFAF756BAEA40E3B1B7  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -10991,7 +10991,7 @@ public:
 
 
 // System.TypeLoadException
-struct  TypeLoadException_t510963B29CB27C6EA3ACDF5FB76E72E1BC372CD1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct TypeLoadException_t510963B29CB27C6EA3ACDF5FB76E72E1BC372CD1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 	// System.String System.TypeLoadException::ClassName
@@ -11042,7 +11042,7 @@ public:
 
 
 // System.ArgumentNullException
-struct  ArgumentNullException_t581DF992B1F3E0EC6EFB30CC5DC43519A79B27AD  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
+struct ArgumentNullException_t581DF992B1F3E0EC6EFB30CC5DC43519A79B27AD  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
 {
 public:
 
@@ -11051,7 +11051,7 @@ public:
 
 
 // System.ArgumentOutOfRangeException
-struct  ArgumentOutOfRangeException_t94D19DF918A54511AEDF4784C9A08741BAD1DEDA  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
+struct ArgumentOutOfRangeException_t94D19DF918A54511AEDF4784C9A08741BAD1DEDA  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
 {
 public:
 	// System.Object System.ArgumentOutOfRangeException::m_actualValue
@@ -11087,7 +11087,7 @@ public:
 
 
 // System.DllNotFoundException
-struct  DllNotFoundException_tED90B6A78D4CF5AA565288E0BA88A990062A7F76  : public TypeLoadException_t510963B29CB27C6EA3ACDF5FB76E72E1BC372CD1
+struct DllNotFoundException_tED90B6A78D4CF5AA565288E0BA88A990062A7F76  : public TypeLoadException_t510963B29CB27C6EA3ACDF5FB76E72E1BC372CD1
 {
 public:
 
@@ -11096,7 +11096,7 @@ public:
 
 
 // System.EntryPointNotFoundException
-struct  EntryPointNotFoundException_tCF689617164B79AD85A41DADB38D27BD1E10B279  : public TypeLoadException_t510963B29CB27C6EA3ACDF5FB76E72E1BC372CD1
+struct EntryPointNotFoundException_tCF689617164B79AD85A41DADB38D27BD1E10B279  : public TypeLoadException_t510963B29CB27C6EA3ACDF5FB76E72E1BC372CD1
 {
 public:
 
@@ -11105,7 +11105,7 @@ public:
 
 
 // System.ObjectDisposedException
-struct  ObjectDisposedException_tF68E471ECD1419AD7C51137B742837395F50B69A  : public InvalidOperationException_t0530E734D823F78310CAFAFA424CA5164D93A1F1
+struct ObjectDisposedException_tF68E471ECD1419AD7C51137B742837395F50B69A  : public InvalidOperationException_t0530E734D823F78310CAFAFA424CA5164D93A1F1
 {
 public:
 	// System.String System.ObjectDisposedException::objectName
@@ -11124,7 +11124,7 @@ public:
 
 
 // System.OverflowException
-struct  OverflowException_tD89571E2350DE06D9DE4AB65ADCA77D607B5693D  : public ArithmeticException_tF9EF5FE94597830EF315C5934258F994B8648269
+struct OverflowException_tD89571E2350DE06D9DE4AB65ADCA77D607B5693D  : public ArithmeticException_tF9EF5FE94597830EF315C5934258F994B8648269
 {
 public:
 
@@ -11133,7 +11133,7 @@ public:
 
 
 // System.RuntimeType
-struct  RuntimeType_t40F13BCEAD97478C72C4B40BFDC2A220161CDB8F  : public TypeInfo_t9D6F65801A41B97F36138B15FD270A1550DBB3FC
+struct RuntimeType_t40F13BCEAD97478C72C4B40BFDC2A220161CDB8F  : public TypeInfo_t9D6F65801A41B97F36138B15FD270A1550DBB3FC
 {
 public:
 	// System.MonoTypeInfo System.RuntimeType::type_info
@@ -11257,7 +11257,7 @@ public:
 
 
 // System.Threading.Tasks.TaskCanceledException
-struct  TaskCanceledException_tB1E5209054F302F814E18BBCACDF6546BAF2EC48  : public OperationCanceledException_tD28B1AE59ACCE4D46333BFE398395B8D75D76A90
+struct TaskCanceledException_tB1E5209054F302F814E18BBCACDF6546BAF2EC48  : public OperationCanceledException_tD28B1AE59ACCE4D46333BFE398395B8D75D76A90
 {
 public:
 	// System.Threading.Tasks.Task System.Threading.Tasks.TaskCanceledException::m_canceledTask
@@ -18462,7 +18462,7 @@ IL2CPP_EXTERN_C IL2CPP_NO_INLINE IL2CPP_METHOD_ATTR RegisteredWaitHandle_t25AAC0
 	int32_t V_1 = 0;
 	{
 		double L_0 = TimeSpan_get_TotalMilliseconds_m48B00B27D485CC556C10A5119BC11E1A1E0FE363((TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 *)(&___timeout3), /*hidden argument*/NULL);
-		V_0 = (((int64_t)((int64_t)L_0)));
+		V_0 = (il2cpp_codegen_cast_double_to_int<int64_t>(L_0));
 		int64_t L_1 = V_0;
 		if ((((int64_t)L_1) >= ((int64_t)(((int64_t)((int64_t)(-1)))))))
 		{
@@ -21236,7 +21236,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Timer__ctor_mE731E24B4A4D66AD0A34BF604E9
 		RuntimeObject * L_1 = ___state1;
 		double L_2 = TimeSpan_get_TotalMilliseconds_m48B00B27D485CC556C10A5119BC11E1A1E0FE363((TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 *)(&___dueTime2), /*hidden argument*/NULL);
 		double L_3 = TimeSpan_get_TotalMilliseconds_m48B00B27D485CC556C10A5119BC11E1A1E0FE363((TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 *)(&___period3), /*hidden argument*/NULL);
-		Timer_Init_mF69134A3E2C8A2B79BA925BCF687B3DCBBF4AB65(__this, L_0, L_1, (((int64_t)((int64_t)L_2))), (((int64_t)((int64_t)L_3))), /*hidden argument*/NULL);
+		Timer_Init_mF69134A3E2C8A2B79BA925BCF687B3DCBBF4AB65(__this, L_0, L_1, (il2cpp_codegen_cast_double_to_int<int64_t>(L_2)), (il2cpp_codegen_cast_double_to_int<int64_t>(L_3)), /*hidden argument*/NULL);
 		return;
 	}
 }
@@ -21280,7 +21280,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Timer_Change_mF2EE1A30C21C82757352489E6D
 	{
 		double L_0 = TimeSpan_get_TotalMilliseconds_m48B00B27D485CC556C10A5119BC11E1A1E0FE363((TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 *)(&___dueTime0), /*hidden argument*/NULL);
 		double L_1 = TimeSpan_get_TotalMilliseconds_m48B00B27D485CC556C10A5119BC11E1A1E0FE363((TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 *)(&___period1), /*hidden argument*/NULL);
-		bool L_2 = Timer_Change_m0D893D7C243B79E85CDD8E06F366F0744F6637D6(__this, (((int64_t)((int64_t)L_0))), (((int64_t)((int64_t)L_1))), (bool)0, /*hidden argument*/NULL);
+		bool L_2 = Timer_Change_m0D893D7C243B79E85CDD8E06F366F0744F6637D6(__this, (il2cpp_codegen_cast_double_to_int<int64_t>(L_0)), (il2cpp_codegen_cast_double_to_int<int64_t>(L_1)), (bool)0, /*hidden argument*/NULL);
 		return L_2;
 	}
 }
@@ -23551,7 +23551,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t WaitHandle_WaitAny_mB3F8C574D50E2EC2D
 	int64_t V_0 = 0;
 	{
 		double L_0 = TimeSpan_get_TotalMilliseconds_m48B00B27D485CC556C10A5119BC11E1A1E0FE363((TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 *)(&___timeout1), /*hidden argument*/NULL);
-		V_0 = (((int64_t)((int64_t)L_0)));
+		V_0 = (il2cpp_codegen_cast_double_to_int<int64_t>(L_0));
 		int64_t L_1 = V_0;
 		if ((((int64_t)(((int64_t)((int64_t)(-1))))) > ((int64_t)L_1)))
 		{
@@ -25730,7 +25730,7 @@ IL_0066:
 		double L_11 = V_0;
 		TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4  L_12;
 		memset((&L_12), 0, sizeof(L_12));
-		TimeSpan__ctor_mEB013EB288370617E8D465D75BE383C4058DB5A5_inline((&L_12), ((int64_t)il2cpp_codegen_multiply((int64_t)(((int64_t)((int64_t)L_11))), (int64_t)(((int64_t)((int64_t)((int32_t)10000)))))), /*hidden argument*/NULL);
+		TimeSpan__ctor_mEB013EB288370617E8D465D75BE383C4058DB5A5_inline((&L_12), ((int64_t)il2cpp_codegen_multiply((int64_t)(il2cpp_codegen_cast_double_to_int<int64_t>(L_11)), (int64_t)(((int64_t)((int64_t)((int32_t)10000)))))), /*hidden argument*/NULL);
 		return L_12;
 	}
 }
@@ -34084,7 +34084,7 @@ IL_02cd:
 	{
 		double L_133 = TimeSpan_get_TotalMinutes_m41B6248DF2E4E6CAFC4A1B3C7ECCD9A10CC16C22((TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 *)(&V_10), /*hidden argument*/NULL);
 		IL2CPP_RUNTIME_CLASS_INIT(TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4_il2cpp_TypeInfo_var);
-		TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4  L_134 = TimeSpan_FromMinutes_m3038BAC5BAB62262567D7BB3AE6DD845FC985BC2((((double)((double)(((int64_t)((int64_t)((double)il2cpp_codegen_add((double)L_133, (double)(0.5))))))))), /*hidden argument*/NULL);
+		TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4  L_134 = TimeSpan_FromMinutes_m3038BAC5BAB62262567D7BB3AE6DD845FC985BC2((((double)((double)(il2cpp_codegen_cast_double_to_int<int64_t>(((double)il2cpp_codegen_add((double)L_133, (double)(0.5)))))))), /*hidden argument*/NULL);
 		V_10 = L_134;
 	}
 

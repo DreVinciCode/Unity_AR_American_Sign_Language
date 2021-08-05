@@ -1718,7 +1718,7 @@ struct NOVTABLE ISpatialInteractionSourceState3_t5A9BD3E696EB8D76EB35D53F2AB7021
 };
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IDictionary`2<System.String,System.Int32>>
-struct  ReadOnlyCollection_1_tED73854FBB60F46650A0ED320E767B49FFE9E002  : public RuntimeObject
+struct ReadOnlyCollection_1_tED73854FBB60F46650A0ED320E767B49FFE9E002  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1748,7 +1748,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IEnumerable`1<System.Collections.Generic.KeyValuePair`2<System.String,System.Int32>>>
-struct  ReadOnlyCollection_1_tAB162DC585C6274B67FF9870458A9114D9D5C2C0  : public RuntimeObject
+struct ReadOnlyCollection_1_tAB162DC585C6274B67FF9870458A9114D9D5C2C0  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1778,7 +1778,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IEnumerable`1<System.IDisposable>>
-struct  ReadOnlyCollection_1_t34A0DCC3F59FB9DB8AD1BFC3768D4E4E4F41B90A  : public RuntimeObject
+struct ReadOnlyCollection_1_t34A0DCC3F59FB9DB8AD1BFC3768D4E4E4F41B90A  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1808,7 +1808,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IEnumerable`1<System.Type>>
-struct  ReadOnlyCollection_1_t76501B24DA5887587F7808F84F508C5B773319C9  : public RuntimeObject
+struct ReadOnlyCollection_1_t76501B24DA5887587F7808F84F508C5B773319C9  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1838,7 +1838,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IList`1<System.Type>>
-struct  ReadOnlyCollection_1_t963E6AEAA78661C9ED675B9F6568DFF3FD427AD1  : public RuntimeObject
+struct ReadOnlyCollection_1_t963E6AEAA78661C9ED675B9F6568DFF3FD427AD1  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1868,7 +1868,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IReadOnlyDictionary`2<System.String,System.Int32>>
-struct  ReadOnlyCollection_1_t6FAC3B8C0634176E4853AB9E797621CF616B2E6D  : public RuntimeObject
+struct ReadOnlyCollection_1_t6FAC3B8C0634176E4853AB9E797621CF616B2E6D  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1898,7 +1898,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IReadOnlyList`1<System.IDisposable>>
-struct  ReadOnlyCollection_1_t7E63CC6ACB1602322A15BAE0AC507B87553E4A31  : public RuntimeObject
+struct ReadOnlyCollection_1_t7E63CC6ACB1602322A15BAE0AC507B87553E4A31  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1928,7 +1928,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IReadOnlyList`1<System.Type>>
-struct  ReadOnlyCollection_1_t244E0A50E9EF8EE6CE618C288CECC947B9BBF2BC  : public RuntimeObject
+struct ReadOnlyCollection_1_t244E0A50E9EF8EE6CE618C288CECC947B9BBF2BC  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1958,7 +1958,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.KeyValuePair`2<System.Int32,System.Int32>>
-struct  ReadOnlyCollection_1_tA01BA2346C4AD9EB5AD9DD5B5F355F09D0CB3D64  : public RuntimeObject
+struct ReadOnlyCollection_1_tA01BA2346C4AD9EB5AD9DD5B5F355F09D0CB3D64  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1988,7 +1988,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.KeyValuePair`2<System.Object,System.Boolean>>
-struct  ReadOnlyCollection_1_t626215B9C0984A461A0315A767C648263B433558  : public RuntimeObject
+struct ReadOnlyCollection_1_t626215B9C0984A461A0315A767C648263B433558  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2018,7 +2018,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.KeyValuePair`2<System.Object,System.UInt32>>
-struct  ReadOnlyCollection_1_t5EA81ECE92E4150140A6D2FBA93F2C8C4D4E2377  : public RuntimeObject
+struct ReadOnlyCollection_1_t5EA81ECE92E4150140A6D2FBA93F2C8C4D4E2377  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2048,7 +2048,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.KeyValuePair`2<System.UInt32,System.Object>>
-struct  ReadOnlyCollection_1_t433FC82A11896461FD0A76FD6AE227BC67731E6B  : public RuntimeObject
+struct ReadOnlyCollection_1_t433FC82A11896461FD0A76FD6AE227BC67731E6B  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2078,7 +2078,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.UI.Input.GazeInputAccessStatus>
-struct  ReadOnlyCollection_1_t39243131C6E8F21B60912C9264E92865095778CE  : public RuntimeObject
+struct ReadOnlyCollection_1_t39243131C6E8F21B60912C9264E92865095778CE  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2108,7 +2108,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.UI.Input.Spatial.ISpatialInteractionSourceState2>
-struct  ReadOnlyCollection_1_tE075A68175A614E0E7CD38A0C065B5B58DF5CC98  : public RuntimeObject
+struct ReadOnlyCollection_1_tE075A68175A614E0E7CD38A0C065B5B58DF5CC98  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2138,7 +2138,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.UI.Input.Spatial.ISpatialInteractionSourceState3>
-struct  ReadOnlyCollection_1_tD086BAC06C11DE9F93216270E550027BA4FC3645  : public RuntimeObject
+struct ReadOnlyCollection_1_tD086BAC06C11DE9F93216270E550027BA4FC3645  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2168,7 +2168,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.UI.Input.Spatial.ISpatialInteractionSourceState>
-struct  ReadOnlyCollection_1_t90BD781B88A2EA0E6CF8016DB16AE457D8F448F4  : public RuntimeObject
+struct ReadOnlyCollection_1_t90BD781B88A2EA0E6CF8016DB16AE457D8F448F4  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2198,7 +2198,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.UI.Input.Spatial.SpatialInteractionSourceHandedness>
-struct  ReadOnlyCollection_1_tF94A9B37AD0E71BA66542B250474F03BE18E5DFE  : public RuntimeObject
+struct ReadOnlyCollection_1_tF94A9B37AD0E71BA66542B250474F03BE18E5DFE  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2228,7 +2228,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.UI.Input.Spatial.SpatialInteractionSourceKind>
-struct  ReadOnlyCollection_1_tC3D54809DCADF0151AEE65BA125328F9391F38F8  : public RuntimeObject
+struct ReadOnlyCollection_1_tC3D54809DCADF0151AEE65BA125328F9391F38F8  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2258,7 +2258,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.UI.Input.Spatial.SpatialInteractionSourceState>
-struct  ReadOnlyCollection_1_t7D32945263379B1C5C4F56E11CA35F296EF094F9  : public RuntimeObject
+struct ReadOnlyCollection_1_t7D32945263379B1C5C4F56E11CA35F296EF094F9  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2288,7 +2288,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.UI.Xaml.Interop.TypeKind>
-struct  ReadOnlyCollection_1_t8CF680B8CC4C650A90198CB1CAC7DC6945B2AD31  : public RuntimeObject
+struct ReadOnlyCollection_1_t8CF680B8CC4C650A90198CB1CAC7DC6945B2AD31  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2318,7 +2318,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.UI.Xaml.Interop.TypeName>
-struct  ReadOnlyCollection_1_t08D71223AD491434F91A520CD99B5D48F4BABA64  : public RuntimeObject
+struct ReadOnlyCollection_1_t08D71223AD491434F91A520CD99B5D48F4BABA64  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2348,7 +2348,7 @@ public:
 
 
 // System.Reflection.MemberInfo
-struct  MemberInfo_t  : public RuntimeObject
+struct MemberInfo_t  : public RuntimeObject
 {
 public:
 
@@ -2357,7 +2357,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -2402,7 +2402,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
+struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
 {
 public:
 
@@ -2422,7 +2422,7 @@ struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF_marshaled_com
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Int32,System.Int32>
-struct  KeyValuePair_2_tA9AFBC865B07606ED8F020A8E3AF8E27491AF809 
+struct KeyValuePair_2_tA9AFBC865B07606ED8F020A8E3AF8E27491AF809 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -2450,7 +2450,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Object,System.Boolean>
-struct  KeyValuePair_2_tF975BF5238F06AC9CCA19111DD41484E071258C1 
+struct KeyValuePair_2_tF975BF5238F06AC9CCA19111DD41484E071258C1 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -2479,7 +2479,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Object,System.UInt32>
-struct  KeyValuePair_2_t683ADD3289D3AC7636F0919817F654335ABBAB84 
+struct KeyValuePair_2_t683ADD3289D3AC7636F0919817F654335ABBAB84 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -2508,7 +2508,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.UInt32,System.Object>
-struct  KeyValuePair_2_t471E2DF36C9849B1488F87CC6C0EA0F6B6224DBA 
+struct KeyValuePair_2_t471E2DF36C9849B1488F87CC6C0EA0F6B6224DBA 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -2537,7 +2537,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
+struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
 {
 public:
 
@@ -2571,7 +2571,7 @@ struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521_marshaled_com
 };
 
 // System.Int32
-struct  Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
+struct Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -2589,7 +2589,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -2623,7 +2623,7 @@ public:
 
 
 // System.UInt32
-struct  UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
+struct UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
 {
 public:
 	// System.UInt32 System.UInt32::m_value
@@ -2641,7 +2641,7 @@ public:
 
 
 // System.Void
-struct  Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
+struct Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
 {
 public:
 	union
@@ -2657,7 +2657,7 @@ public:
 
 
 // Windows.UI.Input.Spatial.SpatialInteractionSourceState
-struct  SpatialInteractionSourceState_tCDB5A5BBF75A0CBCAAB79AFB468FF51B77921384  : public Il2CppComObject
+struct SpatialInteractionSourceState_tCDB5A5BBF75A0CBCAAB79AFB468FF51B77921384  : public Il2CppComObject
 {
 public:
 
@@ -2666,7 +2666,7 @@ public:
 
 
 // System.Exception
-struct  Exception_t  : public RuntimeObject
+struct Exception_t  : public RuntimeObject
 {
 public:
 	// System.String System.Exception::_className
@@ -2892,7 +2892,7 @@ struct Exception_t_marshaled_com
 };
 
 // System.Reflection.BindingFlags
-struct  BindingFlags_tE35C91D046E63A1B92BB9AB909FCF9DA84379ED0 
+struct BindingFlags_tE35C91D046E63A1B92BB9AB909FCF9DA84379ED0 
 {
 public:
 	// System.Int32 System.Reflection.BindingFlags::value__
@@ -2910,7 +2910,7 @@ public:
 
 
 // System.RuntimeTypeHandle
-struct  RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D 
+struct RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D 
 {
 public:
 	// System.IntPtr System.RuntimeTypeHandle::value
@@ -2928,7 +2928,7 @@ public:
 
 
 // Windows.Storage.Streams.InputStreamOptions
-struct  InputStreamOptions_t84A663CC3616A0D05994D54C1DA6B2E877F7FF82 
+struct InputStreamOptions_t84A663CC3616A0D05994D54C1DA6B2E877F7FF82 
 {
 public:
 	// System.UInt32 Windows.Storage.Streams.InputStreamOptions::value__
@@ -2946,7 +2946,7 @@ public:
 
 
 // Windows.UI.Input.GazeInputAccessStatus
-struct  GazeInputAccessStatus_tE56B1134F343E06D19FF224683D91598329BA7A0 
+struct GazeInputAccessStatus_tE56B1134F343E06D19FF224683D91598329BA7A0 
 {
 public:
 	// System.Int32 Windows.UI.Input.GazeInputAccessStatus::value__
@@ -2964,7 +2964,7 @@ public:
 
 
 // Windows.UI.Input.Spatial.SpatialInteractionSourceHandedness
-struct  SpatialInteractionSourceHandedness_t930A9F027DB348D4E843479A1F836F425A45FB25 
+struct SpatialInteractionSourceHandedness_t930A9F027DB348D4E843479A1F836F425A45FB25 
 {
 public:
 	// System.Int32 Windows.UI.Input.Spatial.SpatialInteractionSourceHandedness::value__
@@ -2982,7 +2982,7 @@ public:
 
 
 // Windows.UI.Input.Spatial.SpatialInteractionSourceKind
-struct  SpatialInteractionSourceKind_t121787D88938AD2A5EB266A9C10FAD348762817B 
+struct SpatialInteractionSourceKind_t121787D88938AD2A5EB266A9C10FAD348762817B 
 {
 public:
 	// System.Int32 Windows.UI.Input.Spatial.SpatialInteractionSourceKind::value__
@@ -3000,7 +3000,7 @@ public:
 
 
 // Windows.UI.Xaml.Interop.TypeKind
-struct  TypeKind_tFC0FD272ED78E70CA1173A99B89D31193D93239C 
+struct TypeKind_tFC0FD272ED78E70CA1173A99B89D31193D93239C 
 {
 public:
 	// System.Int32 Windows.UI.Xaml.Interop.TypeKind::value__
@@ -3018,7 +3018,7 @@ public:
 
 
 // System.SystemException
-struct  SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
+struct SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
 {
 public:
 
@@ -3027,7 +3027,7 @@ public:
 
 
 // System.Type
-struct  Type_t  : public MemberInfo_t
+struct Type_t  : public MemberInfo_t
 {
 public:
 	// System.RuntimeTypeHandle System.Type::_impl
@@ -3276,7 +3276,7 @@ struct NOVTABLE IVector_1_t284FE940BEFFE704F6DC12CCCE4259577DAA3C98 : Il2CppIIns
 };
 
 // Windows.UI.Xaml.Interop.TypeName
-struct  TypeName_t17AF60463A5503D900B87745B0BF9C96F0F82EEC 
+struct TypeName_t17AF60463A5503D900B87745B0BF9C96F0F82EEC 
 {
 public:
 	// System.String Windows.UI.Xaml.Interop.TypeName::Name
@@ -3323,7 +3323,7 @@ struct TypeName_t17AF60463A5503D900B87745B0BF9C96F0F82EEC_marshaled_windows_runt
 };
 
 // System.ArgumentException
-struct  ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 	// System.String System.ArgumentException::m_paramName
@@ -3342,7 +3342,7 @@ public:
 
 
 // System.InvalidOperationException
-struct  InvalidOperationException_t0530E734D823F78310CAFAFA424CA5164D93A1F1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct InvalidOperationException_t0530E734D823F78310CAFAFA424CA5164D93A1F1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -3412,7 +3412,7 @@ struct NOVTABLE IVector_1_t715505A51AFA09F2A6913A32659462EFE3A620FD : Il2CppIIns
 };
 
 // System.ArgumentOutOfRangeException
-struct  ArgumentOutOfRangeException_t94D19DF918A54511AEDF4784C9A08741BAD1DEDA  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
+struct ArgumentOutOfRangeException_t94D19DF918A54511AEDF4784C9A08741BAD1DEDA  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
 {
 public:
 	// System.Object System.ArgumentOutOfRangeException::m_actualValue

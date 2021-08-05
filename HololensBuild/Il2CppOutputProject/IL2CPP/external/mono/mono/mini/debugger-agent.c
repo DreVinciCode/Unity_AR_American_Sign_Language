@@ -8807,6 +8807,12 @@ vm_commands (int command, int id, guint8 *p, guint8 *end, Buffer *buf)
 		/* Have to send a reply before exiting */
 		send_reply_packet (id, 0, buf);
 
+#if RUNTIME_IL2CPP
+        // IL2CPP needs to suspend the VM before modifying the event_requests array
+		suspend_vm ();
+		wait_for_suspend ();
+#endif // RUNTIME_IL2CPP
+
 		/* Clear all event requests */
 		mono_loader_lock ();
 		while (event_requests->len > 0) {
@@ -8823,8 +8829,10 @@ vm_commands (int command, int id, guint8 *p, guint8 *end, Buffer *buf)
 		 * better than doing the shutdown ourselves, since it avoids various races.
 		 */
 
+#ifndef RUNTIME_IL2CPP
 		suspend_vm ();
 		wait_for_suspend ();
+#endif // RUNTIME_IL2CPP
 
 #ifdef TRY_MANAGED_SYSTEM_ENVIRONMENT_EXIT
 		env_class = mono_class_try_load_from_name (VM_DEFAULTS_CORLIB_IMAGE, "System", "Environment");
@@ -9344,7 +9352,17 @@ event_commands (int command, guint8 *p, guint8 *end, Buffer *buf)
 		}
 
 		mono_loader_lock ();
+
+#if RUNTIME_IL2CPP
+		suspend_vm ();
+		wait_for_suspend ();
+#endif // RUNTIME_IL2CPP
+
 		g_ptr_array_add (event_requests, req);
+
+#if RUNTIME_IL2CPP
+        resume_vm ();
+#endif // RUNTIME_IL2CPP
 		
 		if (agent_config.defer) {
 			/* Transmit cached data to the client on receipt of the event request */
@@ -9378,14 +9396,28 @@ event_commands (int command, guint8 *p, guint8 *end, Buffer *buf)
 		int etype = decode_byte (p, &p, end);
 		int req_id = decode_int (p, &p, end);
 
+#if RUNTIME_IL2CPP
+		suspend_vm ();
+		wait_for_suspend ();
+#endif // RUNTIME_IL2CPP
+
 		// FIXME: Make a faster mapping from req_id to request
 		mono_loader_lock ();
 		clear_event_request (req_id, etype);
 		mono_loader_unlock ();
+
+#if RUNTIME_IL2CPP
+        resume_vm ();
+#endif // RUNTIME_IL2CPP
 		break;
 	}
 	case CMD_EVENT_REQUEST_CLEAR_ALL_BREAKPOINTS: {
 		int i;
+
+#if RUNTIME_IL2CPP
+		suspend_vm ();
+		wait_for_suspend ();
+#endif // RUNTIME_IL2CPP
 
 		mono_loader_lock ();
 		i = 0;
@@ -9401,6 +9433,11 @@ event_commands (int command, guint8 *p, guint8 *end, Buffer *buf)
 				i ++;
 			}
 		}
+
+#if RUNTIME_IL2CPP
+        resume_vm ();
+#endif // RUNTIME_IL2CPP
+
 		mono_loader_unlock ();
 		break;
 	}

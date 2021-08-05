@@ -693,7 +693,7 @@ struct Il2CppArrayBounds;
 
 
 // System.Attribute
-struct  Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74  : public RuntimeObject
+struct Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74  : public RuntimeObject
 {
 public:
 
@@ -702,7 +702,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<System.Int32,System.Boolean>
-struct  Dictionary_2_t51623C556AA5634DE50ABE8918A82995978C8D71  : public RuntimeObject
+struct Dictionary_2_t51623C556AA5634DE50ABE8918A82995978C8D71  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -816,7 +816,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<System.Int32,System.Collections.Generic.List`1<UnityEngine.Rendering.Volume>>
-struct  Dictionary_2_t519F734F620B6C2F170BAE6F457EA0FDD8E9329C  : public RuntimeObject
+struct Dictionary_2_t519F734F620B6C2F170BAE6F457EA0FDD8E9329C  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -930,7 +930,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<System.Type,UnityEngine.Rendering.VolumeComponent>
-struct  Dictionary_2_tB831B8766C22B08F64C8394DE21FCFF48DAD8C12  : public RuntimeObject
+struct Dictionary_2_tB831B8766C22B08F64C8394DE21FCFF48DAD8C12  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -1044,7 +1044,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.Object>
-struct  List_1_t05CC3C859AB5E6024394EF9A42E3E696628CA02D  : public RuntimeObject
+struct List_1_t05CC3C859AB5E6024394EF9A42E3E696628CA02D  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -1111,7 +1111,7 @@ public:
 
 
 // System.Collections.Generic.List`1<UnityEngine.Collider>
-struct  List_1_t34F3153FFE29D834C770DB7FD47483EE5175933C  : public RuntimeObject
+struct List_1_t34F3153FFE29D834C770DB7FD47483EE5175933C  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -1178,7 +1178,7 @@ public:
 
 
 // System.Collections.Generic.List`1<UnityEngine.Rendering.Volume>
-struct  List_1_tBCA45E9D501AD9485E4DB8C52C342F5AEE401E59  : public RuntimeObject
+struct List_1_tBCA45E9D501AD9485E4DB8C52C342F5AEE401E59  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -1245,7 +1245,7 @@ public:
 
 
 // System.Collections.Generic.List`1<UnityEngine.Rendering.VolumeComponent>
-struct  List_1_t840BB64A758DCDDD485446007D35AD0000BAFE4F  : public RuntimeObject
+struct List_1_t840BB64A758DCDDD485446007D35AD0000BAFE4F  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -1312,7 +1312,7 @@ public:
 
 
 // System.Collections.Generic.List`1<UnityEngine.Rendering.VolumeParameter>
-struct  List_1_t6744CE43F180BD002102D31EB468920B2B4A0BB2  : public RuntimeObject
+struct List_1_t6744CE43F180BD002102D31EB468920B2B4A0BB2  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -1379,7 +1379,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<UnityEngine.Rendering.VolumeParameter>
-struct  ReadOnlyCollection_1_t82903AB5F2F2428651BEA3FE2A666B4B74A376DA  : public RuntimeObject
+struct ReadOnlyCollection_1_t82903AB5F2F2428651BEA3FE2A666B4B74A376DA  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1409,7 +1409,7 @@ public:
 
 
 // System.Lazy`1<UnityEngine.Rendering.VolumeManager>
-struct  Lazy_1_tEE87890C46ECEA0A048E4B11DDD1E4288B6AD913  : public RuntimeObject
+struct Lazy_1_tEE87890C46ECEA0A048E4B11DDD1E4288B6AD913  : public RuntimeObject
 {
 public:
 	// System.Object System.Lazy`1::m_boxed
@@ -1467,7 +1467,7 @@ public:
 
 
 // System.Reflection.MemberInfo
-struct  MemberInfo_t  : public RuntimeObject
+struct MemberInfo_t  : public RuntimeObject
 {
 public:
 
@@ -1476,7 +1476,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -1521,7 +1521,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
+struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
 {
 public:
 
@@ -1538,7 +1538,7 @@ struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF_marshaled_com
 };
 
 // UnityEngine.Events.UnityEventBase
-struct  UnityEventBase_t6E0F7823762EE94BB8489B5AE41C7802A266D3D5  : public RuntimeObject
+struct UnityEventBase_t6E0F7823762EE94BB8489B5AE41C7802A266D3D5  : public RuntimeObject
 {
 public:
 	// UnityEngine.Events.InvokableCallList UnityEngine.Events.UnityEventBase::m_Calls
@@ -1578,7 +1578,7 @@ public:
 
 
 // UnityEngine.Rendering.DebugManager
-struct  DebugManager_t1AFEFEE9B53212D0A1010B430560C8A8045ED678  : public RuntimeObject
+struct DebugManager_t1AFEFEE9B53212D0A1010B430560C8A8045ED678  : public RuntimeObject
 {
 public:
 	// UnityEngine.Rendering.DebugActionDesc[] UnityEngine.Rendering.DebugManager::m_DebugActions
@@ -1744,7 +1744,7 @@ public:
 
 
 // UnityEngine.Rendering.UI.DebugUIPrefabBundle
-struct  DebugUIPrefabBundle_tBCA8CCD680A39D58BB02FA7CBDA79AA9B183F1E5  : public RuntimeObject
+struct DebugUIPrefabBundle_tBCA8CCD680A39D58BB02FA7CBDA79AA9B183F1E5  : public RuntimeObject
 {
 public:
 	// System.String UnityEngine.Rendering.UI.DebugUIPrefabBundle::type
@@ -1774,7 +1774,7 @@ public:
 
 
 // UnityEngine.Rendering.VolumeComponent/<>c
-struct  U3CU3Ec_tF5272F75B6B81C72362CFC1DC6B5AC59C9677F7B  : public RuntimeObject
+struct U3CU3Ec_tF5272F75B6B81C72362CFC1DC6B5AC59C9677F7B  : public RuntimeObject
 {
 public:
 
@@ -1822,7 +1822,7 @@ public:
 
 
 // UnityEngine.Rendering.VolumeManager
-struct  VolumeManager_t25270E217629069A695101F3AF5702A52E13A446  : public RuntimeObject
+struct VolumeManager_t25270E217629069A695101F3AF5702A52E13A446  : public RuntimeObject
 {
 public:
 	// UnityEngine.Rendering.VolumeStack UnityEngine.Rendering.VolumeManager::<stack>k__BackingField
@@ -1934,7 +1934,7 @@ public:
 
 
 // UnityEngine.Rendering.VolumeManager/<>c
-struct  U3CU3Ec_t4D6D635BCD9F75F089C522DD0D75D642B1EB5C14  : public RuntimeObject
+struct U3CU3Ec_t4D6D635BCD9F75F089C522DD0D75D642B1EB5C14  : public RuntimeObject
 {
 public:
 
@@ -1971,7 +1971,7 @@ public:
 
 
 // UnityEngine.Rendering.VolumeParameter
-struct  VolumeParameter_tCDE6ED34C0CCAD13E50C7267DA667EB9F8E5D978  : public RuntimeObject
+struct VolumeParameter_tCDE6ED34C0CCAD13E50C7267DA667EB9F8E5D978  : public RuntimeObject
 {
 public:
 	// System.Boolean UnityEngine.Rendering.VolumeParameter::m_OverrideState
@@ -1989,7 +1989,7 @@ public:
 
 
 // UnityEngine.Rendering.VolumeProfile/<>c
-struct  U3CU3Ec_tD8ACB201D5AF2F7BEE3AAB8058EE8EDB9D874AF2  : public RuntimeObject
+struct U3CU3Ec_tD8ACB201D5AF2F7BEE3AAB8058EE8EDB9D874AF2  : public RuntimeObject
 {
 public:
 
@@ -2026,7 +2026,7 @@ public:
 
 
 // UnityEngine.Rendering.VolumeStack
-struct  VolumeStack_tF9EF843E5DD7B2E39CD76B2C63C26675A66D8E38  : public RuntimeObject
+struct VolumeStack_tF9EF843E5DD7B2E39CD76B2C63C26675A66D8E38  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.Dictionary`2<System.Type,UnityEngine.Rendering.VolumeComponent> UnityEngine.Rendering.VolumeStack::components
@@ -2045,7 +2045,7 @@ public:
 
 
 // UnityEngine.Rendering.XRGraphics
-struct  XRGraphics_t3F3B66A8DFE5112DA0807DF13F2475545D46CABD  : public RuntimeObject
+struct XRGraphics_t3F3B66A8DFE5112DA0807DF13F2475545D46CABD  : public RuntimeObject
 {
 public:
 
@@ -2054,7 +2054,7 @@ public:
 
 
 // UnityEngine.Rendering.XRUtils
-struct  XRUtils_t267075E5033B0BE1C53BBA4F4F018649D79FD30C  : public RuntimeObject
+struct XRUtils_t267075E5033B0BE1C53BBA4F4F018649D79FD30C  : public RuntimeObject
 {
 public:
 
@@ -2063,7 +2063,7 @@ public:
 
 
 // Utilities.MaterialQualityUtilities
-struct  MaterialQualityUtilities_t9DD2291129C2A13D883307B8456357A9EBB502CF  : public RuntimeObject
+struct MaterialQualityUtilities_t9DD2291129C2A13D883307B8456357A9EBB502CF  : public RuntimeObject
 {
 public:
 
@@ -2111,7 +2111,7 @@ public:
 
 
 // System.Boolean
-struct  Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
+struct Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -2157,7 +2157,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Int32,System.Collections.Generic.List`1<UnityEngine.Rendering.Volume>>
-struct  KeyValuePair_2_t8CD1F1998982559AF504250D594E02826F43906E 
+struct KeyValuePair_2_t8CD1F1998982559AF504250D594E02826F43906E 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -2186,7 +2186,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Int32,System.Object>
-struct  KeyValuePair_2_t86464C52F9602337EAC68825E6BE06951D7530CE 
+struct KeyValuePair_2_t86464C52F9602337EAC68825E6BE06951D7530CE 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -2215,7 +2215,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>
-struct  KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE 
+struct KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -2245,7 +2245,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Type,UnityEngine.Rendering.VolumeComponent>
-struct  KeyValuePair_2_t159C217DD855EC1A40B4EB55CFB2300E808661C8 
+struct KeyValuePair_2_t159C217DD855EC1A40B4EB55CFB2300E808661C8 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -2275,7 +2275,7 @@ public:
 
 
 // System.Collections.Generic.List`1/Enumerator<System.Object>
-struct  Enumerator_tE0C99528D3DCE5863566CE37BD94162A4C0431CD 
+struct Enumerator_tE0C99528D3DCE5863566CE37BD94162A4C0431CD 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::list
@@ -2325,7 +2325,7 @@ public:
 
 
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.Collider>
-struct  Enumerator_t924A7EAC131C09EFD1A3EFEFEC9B661F1923E7F0 
+struct Enumerator_t924A7EAC131C09EFD1A3EFEFEC9B661F1923E7F0 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::list
@@ -2375,7 +2375,7 @@ public:
 
 
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.Rendering.Volume>
-struct  Enumerator_t626EF5F1DE62FA333B3F233C5FD175EA220EB6B9 
+struct Enumerator_t626EF5F1DE62FA333B3F233C5FD175EA220EB6B9 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::list
@@ -2425,7 +2425,7 @@ public:
 
 
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.Rendering.VolumeComponent>
-struct  Enumerator_t22B02FEB82D58E3EE6D8FC20F0A6C079E1C73410 
+struct Enumerator_t22B02FEB82D58E3EE6D8FC20F0A6C079E1C73410 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::list
@@ -2475,7 +2475,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
+struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
 {
 public:
 
@@ -2509,7 +2509,7 @@ struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521_marshaled_com
 };
 
 // System.Int32
-struct  Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
+struct Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -2527,7 +2527,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -2561,7 +2561,7 @@ public:
 
 
 // System.Reflection.FieldInfo
-struct  FieldInfo_t  : public MemberInfo_t
+struct FieldInfo_t  : public MemberInfo_t
 {
 public:
 
@@ -2570,7 +2570,7 @@ public:
 
 
 // System.Reflection.PropertyInfo
-struct  PropertyInfo_t  : public MemberInfo_t
+struct PropertyInfo_t  : public MemberInfo_t
 {
 public:
 
@@ -2579,7 +2579,7 @@ public:
 
 
 // System.Single
-struct  Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
+struct Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
 {
 public:
 	// System.Single System.Single::m_value
@@ -2597,7 +2597,7 @@ public:
 
 
 // System.Void
-struct  Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
+struct Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
 {
 public:
 	union
@@ -2613,7 +2613,7 @@ public:
 
 
 // UnityEngine.Color
-struct  Color_t119BCA590009762C7223FDD3AF9706653AC84ED2 
+struct Color_t119BCA590009762C7223FDD3AF9706653AC84ED2 
 {
 public:
 	// System.Single UnityEngine.Color::r
@@ -2661,7 +2661,7 @@ public:
 
 
 // UnityEngine.Events.UnityEvent`1<System.Boolean>
-struct  UnityEvent_1_tE040CE348097B63925504E9E6AFCD89D46798FE3  : public UnityEventBase_t6E0F7823762EE94BB8489B5AE41C7802A266D3D5
+struct UnityEvent_1_tE040CE348097B63925504E9E6AFCD89D46798FE3  : public UnityEventBase_t6E0F7823762EE94BB8489B5AE41C7802A266D3D5
 {
 public:
 	// System.Object[] UnityEngine.Events.UnityEvent`1::m_InvokeArray
@@ -2680,7 +2680,7 @@ public:
 
 
 // UnityEngine.LayerMask
-struct  LayerMask_tBB9173D8B6939D476E67E849280AC9F4EC4D93B0 
+struct LayerMask_tBB9173D8B6939D476E67E849280AC9F4EC4D93B0 
 {
 public:
 	// System.Int32 UnityEngine.LayerMask::m_Mask
@@ -2698,7 +2698,7 @@ public:
 
 
 // UnityEngine.RectInt
-struct  RectInt_t595A63F7EE2BC91A4D2DE5403C5FE94D3C3A6F7A 
+struct RectInt_t595A63F7EE2BC91A4D2DE5403C5FE94D3C3A6F7A 
 {
 public:
 	// System.Int32 UnityEngine.RectInt::m_XMin
@@ -2746,7 +2746,7 @@ public:
 
 
 // UnityEngine.Rendering.ShaderKeyword
-struct  ShaderKeyword_t89659A5E599A732703D89A5CB6638625EC1BA30C 
+struct ShaderKeyword_t89659A5E599A732703D89A5CB6638625EC1BA30C 
 {
 public:
 	// System.Int32 UnityEngine.Rendering.ShaderKeyword::m_KeywordIndex
@@ -2764,7 +2764,7 @@ public:
 
 
 // UnityEngine.Rendering.VolumeComponentDeprecated
-struct  VolumeComponentDeprecated_t7A1E3A1B9926BD3F79780026A62B2A65AA7F02C8  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
+struct VolumeComponentDeprecated_t7A1E3A1B9926BD3F79780026A62B2A65AA7F02C8  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
 {
 public:
 
@@ -2773,7 +2773,7 @@ public:
 
 
 // UnityEngine.Rendering.VolumeComponentMenu
-struct  VolumeComponentMenu_t470BD4818C578B99A5FCFF341BDEF1FE9427D862  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
+struct VolumeComponentMenu_t470BD4818C578B99A5FCFF341BDEF1FE9427D862  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
 {
 public:
 	// System.String UnityEngine.Rendering.VolumeComponentMenu::menu
@@ -2792,7 +2792,7 @@ public:
 
 
 // UnityEngine.Rendering.VolumeIsolationScope
-struct  VolumeIsolationScope_t51002F479C15CA7084CD5661A8C62F42B27C3587 
+struct VolumeIsolationScope_t51002F479C15CA7084CD5661A8C62F42B27C3587 
 {
 public:
 	union
@@ -2808,7 +2808,7 @@ public:
 
 
 // UnityEngine.UI.SpriteState
-struct  SpriteState_t58B9DD66A79CD69AB4CFC3AD0C41E45DC2192C0A 
+struct SpriteState_t58B9DD66A79CD69AB4CFC3AD0C41E45DC2192C0A 
 {
 public:
 	// UnityEngine.Sprite UnityEngine.UI.SpriteState::m_HighlightedSprite
@@ -2876,7 +2876,7 @@ struct SpriteState_t58B9DD66A79CD69AB4CFC3AD0C41E45DC2192C0A_marshaled_com
 };
 
 // UnityEngine.Vector2
-struct  Vector2_tA85D2DD88578276CA8A8796756458277E72D073D 
+struct Vector2_tA85D2DD88578276CA8A8796756458277E72D073D 
 {
 public:
 	// System.Single UnityEngine.Vector2::x
@@ -2990,7 +2990,7 @@ public:
 
 
 // UnityEngine.Vector3
-struct  Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720 
+struct Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720 
 {
 public:
 	// System.Single UnityEngine.Vector3::x
@@ -3134,7 +3134,7 @@ public:
 
 
 // UnityEngine.Vector4
-struct  Vector4_tD148D6428C3F8FF6CD998F82090113C2B490B76E 
+struct Vector4_tD148D6428C3F8FF6CD998F82090113C2B490B76E 
 {
 public:
 	// System.Single UnityEngine.Vector4::x
@@ -3228,7 +3228,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/Enumerator<System.Int32,System.Collections.Generic.List`1<UnityEngine.Rendering.Volume>>
-struct  Enumerator_tB850EC153563AE8AFAA8CAD7E22E57912E160ACF 
+struct Enumerator_tB850EC153563AE8AFAA8CAD7E22E57912E160ACF 
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/Enumerator::dictionary
@@ -3288,7 +3288,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/Enumerator<System.Int32,System.Object>
-struct  Enumerator_t9A2E00C583A23B1B5B7D051DF98EBA95FA7174AF 
+struct Enumerator_t9A2E00C583A23B1B5B7D051DF98EBA95FA7174AF 
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/Enumerator::dictionary
@@ -3348,7 +3348,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/Enumerator<System.Object,System.Object>
-struct  Enumerator_tED23DFBF3911229086C71CCE7A54D56F5FFB34CB 
+struct Enumerator_tED23DFBF3911229086C71CCE7A54D56F5FFB34CB 
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/Enumerator::dictionary
@@ -3411,7 +3411,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/Enumerator<System.Type,UnityEngine.Rendering.VolumeComponent>
-struct  Enumerator_t651A075F573C4839F441CB245C9151ECD5133BCE 
+struct Enumerator_t651A075F573C4839F441CB245C9151ECD5133BCE 
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/Enumerator::dictionary
@@ -3474,7 +3474,7 @@ public:
 
 
 // System.Delegate
-struct  Delegate_t  : public RuntimeObject
+struct Delegate_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Delegate::method_ptr
@@ -3626,7 +3626,7 @@ struct Delegate_t_marshaled_com
 };
 
 // System.Exception
-struct  Exception_t  : public RuntimeObject
+struct Exception_t  : public RuntimeObject
 {
 public:
 	// System.String System.Exception::_className
@@ -3852,7 +3852,7 @@ struct Exception_t_marshaled_com
 };
 
 // System.Reflection.BindingFlags
-struct  BindingFlags_tE35C91D046E63A1B92BB9AB909FCF9DA84379ED0 
+struct BindingFlags_tE35C91D046E63A1B92BB9AB909FCF9DA84379ED0 
 {
 public:
 	// System.Int32 System.Reflection.BindingFlags::value__
@@ -3870,7 +3870,7 @@ public:
 
 
 // System.RuntimeTypeHandle
-struct  RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D 
+struct RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D 
 {
 public:
 	// System.IntPtr System.RuntimeTypeHandle::value
@@ -3888,7 +3888,7 @@ public:
 
 
 // UnityEngine.Experimental.Rendering.GraphicsFormat
-struct  GraphicsFormat_t512915BBE299AE115F4DB0B96DF1DA2E72ECA181 
+struct GraphicsFormat_t512915BBE299AE115F4DB0B96DF1DA2E72ECA181 
 {
 public:
 	// System.Int32 UnityEngine.Experimental.Rendering.GraphicsFormat::value__
@@ -3906,7 +3906,7 @@ public:
 
 
 // UnityEngine.Object
-struct  Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0  : public RuntimeObject
+struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Object::m_CachedPtr
@@ -3950,7 +3950,7 @@ struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0_marshaled_com
 };
 
 // UnityEngine.RenderTextureCreationFlags
-struct  RenderTextureCreationFlags_tF63E06301E4BB4746F7E07759B359872BD4BFB1E 
+struct RenderTextureCreationFlags_tF63E06301E4BB4746F7E07759B359872BD4BFB1E 
 {
 public:
 	// System.Int32 UnityEngine.RenderTextureCreationFlags::value__
@@ -3968,7 +3968,7 @@ public:
 
 
 // UnityEngine.RenderTextureMemoryless
-struct  RenderTextureMemoryless_t19E37ADD57C1F00D67146A2BB4521D06F370D2E9 
+struct RenderTextureMemoryless_t19E37ADD57C1F00D67146A2BB4521D06F370D2E9 
 {
 public:
 	// System.Int32 UnityEngine.RenderTextureMemoryless::value__
@@ -3986,7 +3986,7 @@ public:
 
 
 // UnityEngine.Rendering.CommandBuffer
-struct  CommandBuffer_t70BF7D9D84C2AFA83559B45FAD5BEDA73DA617DD  : public RuntimeObject
+struct CommandBuffer_t70BF7D9D84C2AFA83559B45FAD5BEDA73DA617DD  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Rendering.CommandBuffer::m_Ptr
@@ -4004,7 +4004,7 @@ public:
 
 
 // UnityEngine.Rendering.DebugUI/Flags
-struct  Flags_t1512896A60515E6D6AE2533F13CBE9D7C55F62D6 
+struct Flags_t1512896A60515E6D6AE2533F13CBE9D7C55F62D6 
 {
 public:
 	// System.Int32 UnityEngine.Rendering.DebugUI/Flags::value__
@@ -4022,7 +4022,7 @@ public:
 
 
 // UnityEngine.Rendering.ShadowSamplingMode
-struct  ShadowSamplingMode_t585A9BDECAC505FF19FF785F55CDD403A2E5DA73 
+struct ShadowSamplingMode_t585A9BDECAC505FF19FF785F55CDD403A2E5DA73 
 {
 public:
 	// System.Int32 UnityEngine.Rendering.ShadowSamplingMode::value__
@@ -4040,7 +4040,7 @@ public:
 
 
 // UnityEngine.Rendering.TextureDimension
-struct  TextureDimension_t90D0E4110D3F4D062F3E8C0F69809BFBBDF8E19C 
+struct TextureDimension_t90D0E4110D3F4D062F3E8C0F69809BFBBDF8E19C 
 {
 public:
 	// System.Int32 UnityEngine.Rendering.TextureDimension::value__
@@ -4058,7 +4058,7 @@ public:
 
 
 // UnityEngine.Rendering.VolumeParameter`1<UnityEngine.Vector2>
-struct  VolumeParameter_1_tF58299DEEE2EF4D80FD77FC009ED2A4CE3D411ED  : public VolumeParameter_tCDE6ED34C0CCAD13E50C7267DA667EB9F8E5D978
+struct VolumeParameter_1_tF58299DEEE2EF4D80FD77FC009ED2A4CE3D411ED  : public VolumeParameter_tCDE6ED34C0CCAD13E50C7267DA667EB9F8E5D978
 {
 public:
 	// T UnityEngine.Rendering.VolumeParameter`1::m_Value
@@ -4076,7 +4076,7 @@ public:
 
 
 // UnityEngine.Rendering.VolumeParameter`1<UnityEngine.Vector3>
-struct  VolumeParameter_1_t410FFFF80FBCD4C465026DD7AFD1572D87E4F3E1  : public VolumeParameter_tCDE6ED34C0CCAD13E50C7267DA667EB9F8E5D978
+struct VolumeParameter_1_t410FFFF80FBCD4C465026DD7AFD1572D87E4F3E1  : public VolumeParameter_tCDE6ED34C0CCAD13E50C7267DA667EB9F8E5D978
 {
 public:
 	// T UnityEngine.Rendering.VolumeParameter`1::m_Value
@@ -4094,7 +4094,7 @@ public:
 
 
 // UnityEngine.Rendering.VolumeParameter`1<UnityEngine.Vector4>
-struct  VolumeParameter_1_t14EDC405CD6A3957BDB5B917DAB8AFA918F67431  : public VolumeParameter_tCDE6ED34C0CCAD13E50C7267DA667EB9F8E5D978
+struct VolumeParameter_1_t14EDC405CD6A3957BDB5B917DAB8AFA918F67431  : public VolumeParameter_tCDE6ED34C0CCAD13E50C7267DA667EB9F8E5D978
 {
 public:
 	// T UnityEngine.Rendering.VolumeParameter`1::m_Value
@@ -4112,7 +4112,7 @@ public:
 
 
 // UnityEngine.Rendering.XRGraphics/StereoRenderingMode
-struct  StereoRenderingMode_tD8A1B3F58EAC777358BF6991E65AC3E6FE5E24E2 
+struct StereoRenderingMode_tD8A1B3F58EAC777358BF6991E65AC3E6FE5E24E2 
 {
 public:
 	// System.Int32 UnityEngine.Rendering.XRGraphics/StereoRenderingMode::value__
@@ -4130,7 +4130,7 @@ public:
 
 
 // UnityEngine.UI.ColorBlock
-struct  ColorBlock_t93B54DF6E8D65D24CEA9726CA745E48C53E3B1EA 
+struct ColorBlock_t93B54DF6E8D65D24CEA9726CA745E48C53E3B1EA 
 {
 public:
 	// UnityEngine.Color UnityEngine.UI.ColorBlock::m_NormalColor
@@ -4208,7 +4208,7 @@ public:
 
 
 // UnityEngine.UI.Navigation/Mode
-struct  Mode_t93F92BD50B147AE38D82BA33FA77FD247A59FE26 
+struct Mode_t93F92BD50B147AE38D82BA33FA77FD247A59FE26 
 {
 public:
 	// System.Int32 UnityEngine.UI.Navigation/Mode::value__
@@ -4226,7 +4226,7 @@ public:
 
 
 // UnityEngine.UI.Selectable/Transition
-struct  Transition_tA9261C608B54C52324084A0B080E7A3E0548A181 
+struct Transition_tA9261C608B54C52324084A0B080E7A3E0548A181 
 {
 public:
 	// System.Int32 UnityEngine.UI.Selectable/Transition::value__
@@ -4244,7 +4244,7 @@ public:
 
 
 // UnityEngine.UI.Toggle/ToggleEvent
-struct  ToggleEvent_t50D925F8E220FB47DA738411CEF9C57FF7E1DC43  : public UnityEvent_1_tE040CE348097B63925504E9E6AFCD89D46798FE3
+struct ToggleEvent_t50D925F8E220FB47DA738411CEF9C57FF7E1DC43  : public UnityEvent_1_tE040CE348097B63925504E9E6AFCD89D46798FE3
 {
 public:
 
@@ -4253,7 +4253,7 @@ public:
 
 
 // UnityEngine.UI.Toggle/ToggleTransition
-struct  ToggleTransition_t45980EB1352FF47B2D8D8EBC90385AB68939046D 
+struct ToggleTransition_t45980EB1352FF47B2D8D8EBC90385AB68939046D 
 {
 public:
 	// System.Int32 UnityEngine.UI.Toggle/ToggleTransition::value__
@@ -4271,7 +4271,7 @@ public:
 
 
 // UnityEngine.VRTextureUsage
-struct  VRTextureUsage_t2D7C2397ABF03DD28086B969100F7D91DDD978A0 
+struct VRTextureUsage_t2D7C2397ABF03DD28086B969100F7D91DDD978A0 
 {
 public:
 	// System.Int32 UnityEngine.VRTextureUsage::value__
@@ -4289,7 +4289,7 @@ public:
 
 
 // UnityEngine.XR.XRSettings/StereoRenderingMode
-struct  StereoRenderingMode_tB595F1AB99E048D306C484D1A529D23C6A7C2D10 
+struct StereoRenderingMode_tB595F1AB99E048D306C484D1A529D23C6A7C2D10 
 {
 public:
 	// System.Int32 UnityEngine.XR.XRSettings/StereoRenderingMode::value__
@@ -4307,7 +4307,7 @@ public:
 
 
 // Utilities.MaterialQuality
-struct  MaterialQuality_t3C3BBBED2A699D717D08339A0E8EABC386B6A7D3 
+struct MaterialQuality_t3C3BBBED2A699D717D08339A0E8EABC386B6A7D3 
 {
 public:
 	// System.Int32 Utilities.MaterialQuality::value__
@@ -4325,7 +4325,7 @@ public:
 
 
 // System.MulticastDelegate
-struct  MulticastDelegate_t  : public Delegate_t
+struct MulticastDelegate_t  : public Delegate_t
 {
 public:
 	// System.Delegate[] System.MulticastDelegate::delegates
@@ -4354,7 +4354,7 @@ struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
 };
 
 // System.SystemException
-struct  SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
+struct SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
 {
 public:
 
@@ -4363,7 +4363,7 @@ public:
 
 
 // System.Type
-struct  Type_t  : public MemberInfo_t
+struct Type_t  : public MemberInfo_t
 {
 public:
 	// System.RuntimeTypeHandle System.Type::_impl
@@ -4463,7 +4463,7 @@ public:
 
 
 // UnityEngine.Component
-struct  Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -4472,7 +4472,7 @@ public:
 
 
 // UnityEngine.GameObject
-struct  GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -4481,7 +4481,7 @@ public:
 
 
 // UnityEngine.RenderTextureDescriptor
-struct  RenderTextureDescriptor_t74FEC57A54F89E11748E1865F7DCA3565BFAF58E 
+struct RenderTextureDescriptor_t74FEC57A54F89E11748E1865F7DCA3565BFAF58E 
 {
 public:
 	// System.Int32 UnityEngine.RenderTextureDescriptor::<width>k__BackingField
@@ -4636,7 +4636,7 @@ public:
 
 
 // UnityEngine.Rendering.DebugUI/Widget
-struct  Widget_t2F8CAB380BF8F8C9A0B38583C11B67F325D578C1  : public RuntimeObject
+struct Widget_t2F8CAB380BF8F8C9A0B38583C11B67F325D578C1  : public RuntimeObject
 {
 public:
 	// UnityEngine.Rendering.DebugUI/Panel UnityEngine.Rendering.DebugUI/Widget::m_Panel
@@ -4698,7 +4698,7 @@ public:
 
 
 // UnityEngine.Rendering.Vector2Parameter
-struct  Vector2Parameter_tBAD7F31CC939256F1FC753CCC432CD55AA2E7B94  : public VolumeParameter_1_tF58299DEEE2EF4D80FD77FC009ED2A4CE3D411ED
+struct Vector2Parameter_tBAD7F31CC939256F1FC753CCC432CD55AA2E7B94  : public VolumeParameter_1_tF58299DEEE2EF4D80FD77FC009ED2A4CE3D411ED
 {
 public:
 
@@ -4707,7 +4707,7 @@ public:
 
 
 // UnityEngine.Rendering.Vector3Parameter
-struct  Vector3Parameter_t67EEB119EF72600E530D5BEB5552827A2DD69D1D  : public VolumeParameter_1_t410FFFF80FBCD4C465026DD7AFD1572D87E4F3E1
+struct Vector3Parameter_t67EEB119EF72600E530D5BEB5552827A2DD69D1D  : public VolumeParameter_1_t410FFFF80FBCD4C465026DD7AFD1572D87E4F3E1
 {
 public:
 
@@ -4716,7 +4716,7 @@ public:
 
 
 // UnityEngine.Rendering.Vector4Parameter
-struct  Vector4Parameter_t60D5F6086A92D7BFFDED8DEBF75BE5AD9472682E  : public VolumeParameter_1_t14EDC405CD6A3957BDB5B917DAB8AFA918F67431
+struct Vector4Parameter_t60D5F6086A92D7BFFDED8DEBF75BE5AD9472682E  : public VolumeParameter_1_t14EDC405CD6A3957BDB5B917DAB8AFA918F67431
 {
 public:
 
@@ -4725,7 +4725,7 @@ public:
 
 
 // UnityEngine.ScriptableObject
-struct  ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -4742,7 +4742,7 @@ struct ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734_marshaled_com 
 };
 
 // UnityEngine.UI.Navigation
-struct  Navigation_t761250C05C09773B75F5E0D52DDCBBFE60288A07 
+struct Navigation_t761250C05C09773B75F5E0D52DDCBBFE60288A07 
 {
 public:
 	// UnityEngine.UI.Navigation/Mode UnityEngine.UI.Navigation::m_Mode
@@ -4822,7 +4822,7 @@ struct Navigation_t761250C05C09773B75F5E0D52DDCBBFE60288A07_marshaled_com
 };
 
 // System.Action`1<System.Single>
-struct  Action_1_tCBF7F8C203F735692364E5850B0A960E0EABD03B  : public MulticastDelegate_t
+struct Action_1_tCBF7F8C203F735692364E5850B0A960E0EABD03B  : public MulticastDelegate_t
 {
 public:
 
@@ -4831,7 +4831,7 @@ public:
 
 
 // System.Func`1<System.Single>
-struct  Func_1_tB5FC0E8EF7AC2C9864EC623079563E9611A95128  : public MulticastDelegate_t
+struct Func_1_tB5FC0E8EF7AC2C9864EC623079563E9611A95128  : public MulticastDelegate_t
 {
 public:
 
@@ -4840,7 +4840,7 @@ public:
 
 
 // System.Func`1<UnityEngine.Rendering.VolumeManager>
-struct  Func_1_tF5F02B2190A6E2ED6CC083D3BF952EB3F7A7E097  : public MulticastDelegate_t
+struct Func_1_tF5F02B2190A6E2ED6CC083D3BF952EB3F7A7E097  : public MulticastDelegate_t
 {
 public:
 
@@ -4849,7 +4849,7 @@ public:
 
 
 // System.Func`2<System.Reflection.FieldInfo,System.Boolean>
-struct  Func_2_t56D7C745FF6EF4A902AAB44EAFC9F43DC7DF0CDD  : public MulticastDelegate_t
+struct Func_2_t56D7C745FF6EF4A902AAB44EAFC9F43DC7DF0CDD  : public MulticastDelegate_t
 {
 public:
 
@@ -4858,7 +4858,7 @@ public:
 
 
 // System.Func`2<System.Reflection.FieldInfo,System.Int32>
-struct  Func_2_t5A22B0C32E2088807584847339810C3893D8EDAE  : public MulticastDelegate_t
+struct Func_2_t5A22B0C32E2088807584847339810C3893D8EDAE  : public MulticastDelegate_t
 {
 public:
 
@@ -4867,7 +4867,7 @@ public:
 
 
 // System.Func`2<System.Reflection.FieldInfo,UnityEngine.Rendering.VolumeParameter>
-struct  Func_2_tA836A55552642780FCE7C82F78DD54D71B76BB97  : public MulticastDelegate_t
+struct Func_2_tA836A55552642780FCE7C82F78DD54D71B76BB97  : public MulticastDelegate_t
 {
 public:
 
@@ -4876,7 +4876,7 @@ public:
 
 
 // System.Func`2<System.Type,System.Boolean>
-struct  Func_2_t9C37D30F5B2BC1C1DCC8FF2E2ECC57D997D9FDD9  : public MulticastDelegate_t
+struct Func_2_t9C37D30F5B2BC1C1DCC8FF2E2ECC57D997D9FDD9  : public MulticastDelegate_t
 {
 public:
 
@@ -4885,7 +4885,7 @@ public:
 
 
 // System.InvalidOperationException
-struct  InvalidOperationException_t0530E734D823F78310CAFAFA424CA5164D93A1F1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct InvalidOperationException_t0530E734D823F78310CAFAFA424CA5164D93A1F1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -4894,7 +4894,7 @@ public:
 
 
 // System.Predicate`1<UnityEngine.Rendering.VolumeComponent>
-struct  Predicate_1_tB5279C3AD2C7F92643B7B7E4B857818DF777AF51  : public MulticastDelegate_t
+struct Predicate_1_tB5279C3AD2C7F92643B7B7E4B857818DF777AF51  : public MulticastDelegate_t
 {
 public:
 
@@ -4903,7 +4903,7 @@ public:
 
 
 // UnityEngine.Behaviour
-struct  Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
+struct Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
 {
 public:
 
@@ -4912,7 +4912,7 @@ public:
 
 
 // UnityEngine.Collider
-struct  Collider_t0FEEB36760860AD21B3B1F0509C365B393EC4BDF  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
+struct Collider_t0FEEB36760860AD21B3B1F0509C365B393EC4BDF  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
 {
 public:
 
@@ -4921,7 +4921,7 @@ public:
 
 
 // UnityEngine.Events.UnityAction`1<System.Boolean>
-struct  UnityAction_1_tB994D127B02789CE2010397AEF756615E5F84FDC  : public MulticastDelegate_t
+struct UnityAction_1_tB994D127B02789CE2010397AEF756615E5F84FDC  : public MulticastDelegate_t
 {
 public:
 
@@ -4930,7 +4930,7 @@ public:
 
 
 // UnityEngine.Rendering.DebugUI/Field`1<UnityEngine.Vector4>
-struct  Field_1_tD30831E010313799B23F15E58137A4E0BD5BB257  : public Widget_t2F8CAB380BF8F8C9A0B38583C11B67F325D578C1
+struct Field_1_tD30831E010313799B23F15E58137A4E0BD5BB257  : public Widget_t2F8CAB380BF8F8C9A0B38583C11B67F325D578C1
 {
 public:
 	// System.Func`1<T> UnityEngine.Rendering.DebugUI/Field`1::<getter>k__BackingField
@@ -4971,7 +4971,7 @@ public:
 
 
 // UnityEngine.Rendering.VolumeComponent
-struct  VolumeComponent_t333392A1EED68E0227F1B4E974B1AD591BB13753  : public ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734
+struct VolumeComponent_t333392A1EED68E0227F1B4E974B1AD591BB13753  : public ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734
 {
 public:
 	// System.Boolean UnityEngine.Rendering.VolumeComponent::active
@@ -5021,7 +5021,7 @@ public:
 
 
 // UnityEngine.Rendering.VolumeProfile
-struct  VolumeProfile_t337A44A671E93CF2687335B64D6AB1C60EEA34EC  : public ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734
+struct VolumeProfile_t337A44A671E93CF2687335B64D6AB1C60EEA34EC  : public ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734
 {
 public:
 	// System.Collections.Generic.List`1<UnityEngine.Rendering.VolumeComponent> UnityEngine.Rendering.VolumeProfile::components
@@ -5050,7 +5050,7 @@ public:
 
 
 // UnityEngine.Transform
-struct  Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
+struct Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
 {
 public:
 
@@ -5059,7 +5059,7 @@ public:
 
 
 // UnityEngine.Camera
-struct  Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34  : public Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8
+struct Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34  : public Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8
 {
 public:
 
@@ -5107,7 +5107,7 @@ public:
 
 
 // UnityEngine.MonoBehaviour
-struct  MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429  : public Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8
+struct MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429  : public Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8
 {
 public:
 
@@ -5116,7 +5116,7 @@ public:
 
 
 // UnityEngine.RectTransform
-struct  RectTransform_t285CBD8775B25174B75164F10618F8B9728E1B20  : public Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA
+struct RectTransform_t285CBD8775B25174B75164F10618F8B9728E1B20  : public Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA
 {
 public:
 
@@ -5142,7 +5142,7 @@ public:
 
 
 // UnityEngine.Rendering.DebugUI/Vector4Field
-struct  Vector4Field_t9A5062FC34C0B1569363FC0F2DF89DC3E2AEB086  : public Field_1_tD30831E010313799B23F15E58137A4E0BD5BB257
+struct Vector4Field_t9A5062FC34C0B1569363FC0F2DF89DC3E2AEB086  : public Field_1_tD30831E010313799B23F15E58137A4E0BD5BB257
 {
 public:
 	// System.Single UnityEngine.Rendering.DebugUI/Vector4Field::incStep
@@ -5180,7 +5180,7 @@ public:
 
 
 // UnityEngine.EventSystems.UIBehaviour
-struct  UIBehaviour_t3C3C339CD5677BA7FC27C352FED8B78052A3FE70  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
+struct UIBehaviour_t3C3C339CD5677BA7FC27C352FED8B78052A3FE70  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
 {
 public:
 
@@ -5189,7 +5189,7 @@ public:
 
 
 // UnityEngine.Rendering.UI.DebugUIHandlerContainer
-struct  DebugUIHandlerContainer_t3139DEB7185C784DA6284A79529A8657C2D836BA  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
+struct DebugUIHandlerContainer_t3139DEB7185C784DA6284A79529A8657C2D836BA  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
 {
 public:
 	// UnityEngine.RectTransform UnityEngine.Rendering.UI.DebugUIHandlerContainer::contentHolder
@@ -5208,7 +5208,7 @@ public:
 
 
 // UnityEngine.Rendering.UI.DebugUIHandlerWidget
-struct  DebugUIHandlerWidget_t07EF4C75C5D1289130896F49AF95DD7EA819A58B  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
+struct DebugUIHandlerWidget_t07EF4C75C5D1289130896F49AF95DD7EA819A58B  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
 {
 public:
 	// UnityEngine.Color UnityEngine.Rendering.UI.DebugUIHandlerWidget::colorDefault
@@ -5280,7 +5280,7 @@ public:
 
 
 // UnityEngine.Rendering.Volume
-struct  Volume_tF9C9E24B37E12F77F376B6BE098AE9DB24F4EC58  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
+struct Volume_tF9C9E24B37E12F77F376B6BE098AE9DB24F4EC58  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
 {
 public:
 	// System.Boolean UnityEngine.Rendering.Volume::isGlobal
@@ -5370,7 +5370,7 @@ public:
 
 
 // UnityEngine.Rendering.UI.DebugUIHandlerIndirectFloatField
-struct  DebugUIHandlerIndirectFloatField_tB168476BBC07AE33C8AB8241B860C9CAB8CCC562  : public DebugUIHandlerWidget_t07EF4C75C5D1289130896F49AF95DD7EA819A58B
+struct DebugUIHandlerIndirectFloatField_tB168476BBC07AE33C8AB8241B860C9CAB8CCC562  : public DebugUIHandlerWidget_t07EF4C75C5D1289130896F49AF95DD7EA819A58B
 {
 public:
 	// UnityEngine.UI.Text UnityEngine.Rendering.UI.DebugUIHandlerIndirectFloatField::nameLabel
@@ -5455,7 +5455,7 @@ public:
 
 
 // UnityEngine.Rendering.UI.DebugUIHandlerVector4
-struct  DebugUIHandlerVector4_tBA2BE5D46783137AA0905C923B4624F09A86247B  : public DebugUIHandlerWidget_t07EF4C75C5D1289130896F49AF95DD7EA819A58B
+struct DebugUIHandlerVector4_tBA2BE5D46783137AA0905C923B4624F09A86247B  : public DebugUIHandlerWidget_t07EF4C75C5D1289130896F49AF95DD7EA819A58B
 {
 public:
 	// UnityEngine.UI.Text UnityEngine.Rendering.UI.DebugUIHandlerVector4::nameLabel
@@ -5551,7 +5551,7 @@ public:
 
 
 // UnityEngine.UI.Graphic
-struct  Graphic_tBA2C3EF11D3DAEBB57F6879AB0BB4F8BD40D00D8  : public UIBehaviour_t3C3C339CD5677BA7FC27C352FED8B78052A3FE70
+struct Graphic_tBA2C3EF11D3DAEBB57F6879AB0BB4F8BD40D00D8  : public UIBehaviour_t3C3C339CD5677BA7FC27C352FED8B78052A3FE70
 {
 public:
 	// UnityEngine.Material UnityEngine.UI.Graphic::m_Material
@@ -5789,7 +5789,7 @@ public:
 
 
 // UnityEngine.UI.Selectable
-struct  Selectable_tAA9065030FE0468018DEC880302F95FEA9C0133A  : public UIBehaviour_t3C3C339CD5677BA7FC27C352FED8B78052A3FE70
+struct Selectable_tAA9065030FE0468018DEC880302F95FEA9C0133A  : public UIBehaviour_t3C3C339CD5677BA7FC27C352FED8B78052A3FE70
 {
 public:
 	// System.Boolean UnityEngine.UI.Selectable::m_EnableCalled
@@ -5987,7 +5987,7 @@ public:
 
 
 // UnityEngine.UI.MaskableGraphic
-struct  MaskableGraphic_tDA46A5925C6A2101217C9F52C855B5C1A36A7A0F  : public Graphic_tBA2C3EF11D3DAEBB57F6879AB0BB4F8BD40D00D8
+struct MaskableGraphic_tDA46A5925C6A2101217C9F52C855B5C1A36A7A0F  : public Graphic_tBA2C3EF11D3DAEBB57F6879AB0BB4F8BD40D00D8
 {
 public:
 	// System.Boolean UnityEngine.UI.MaskableGraphic::m_ShouldRecalculateStencil
@@ -6099,7 +6099,7 @@ public:
 
 
 // UnityEngine.UI.Toggle
-struct  Toggle_t9ADD572046F831945ED0E48A01B50FEA1CA52106  : public Selectable_tAA9065030FE0468018DEC880302F95FEA9C0133A
+struct Toggle_t9ADD572046F831945ED0E48A01B50FEA1CA52106  : public Selectable_tAA9065030FE0468018DEC880302F95FEA9C0133A
 {
 public:
 	// UnityEngine.UI.Toggle/ToggleTransition UnityEngine.UI.Toggle::toggleTransition
@@ -6160,7 +6160,7 @@ public:
 
 
 // UnityEngine.Rendering.UI.UIFoldout
-struct  UIFoldout_t4E9985224062F64EB1A32B52F6F9143DD2B636A6  : public Toggle_t9ADD572046F831945ED0E48A01B50FEA1CA52106
+struct UIFoldout_t4E9985224062F64EB1A32B52F6F9143DD2B636A6  : public Toggle_t9ADD572046F831945ED0E48A01B50FEA1CA52106
 {
 public:
 	// UnityEngine.GameObject UnityEngine.Rendering.UI.UIFoldout::content
@@ -6201,7 +6201,7 @@ public:
 
 
 // UnityEngine.UI.Text
-struct  Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030  : public MaskableGraphic_tDA46A5925C6A2101217C9F52C855B5C1A36A7A0F
+struct Text_tE9317B57477F4B50AA4C16F460DE6F82DAD6D030  : public MaskableGraphic_tDA46A5925C6A2101217C9F52C855B5C1A36A7A0F
 {
 public:
 	// UnityEngine.UI.FontData UnityEngine.UI.Text::m_FontData

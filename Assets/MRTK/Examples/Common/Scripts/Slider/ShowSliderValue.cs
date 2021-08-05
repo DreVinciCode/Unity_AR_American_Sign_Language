@@ -13,6 +13,8 @@ namespace Microsoft.MixedReality.Toolkit.Examples.Demos
     [AddComponentMenu("Scripts/MRTK/Examples/ShowSliderValue")]
     public class ShowSliderValue : MonoBehaviour
     {
+        public float scale = 0.1f;
+
         [SerializeField]
         private TextMeshPro textMesh = null;
 
@@ -25,7 +27,11 @@ namespace Microsoft.MixedReality.Toolkit.Examples.Demos
 
             if (textMesh != null)
             {
-                textMesh.text = $"{eventData.NewValue:F2}";
+                
+                float inputValue = eventData.NewValue * scale;
+                //textMesh.text = $"{eventData.NewValue:F4}";
+                textMesh.text = inputValue.ToString();
+
             }
         }
     }

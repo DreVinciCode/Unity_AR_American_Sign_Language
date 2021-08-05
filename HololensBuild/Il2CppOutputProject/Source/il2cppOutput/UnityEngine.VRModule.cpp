@@ -639,7 +639,7 @@ IL2CPP_EXTERN_C_END
 #endif
 
 // <Module>
-struct  U3CModuleU3E_tB054F17A779AC945E3659AF119A96DB806541AF9 
+struct U3CModuleU3E_tB054F17A779AC945E3659AF119A96DB806541AF9 
 {
 public:
 
@@ -655,7 +655,7 @@ struct Il2CppArrayBounds;
 
 
 // System.Collections.Generic.List`1<UnityEngine.Vector3>
-struct  List_1_tFCCBEDAA56D8F7598520FB136A9F8D713033D6B5  : public RuntimeObject
+struct List_1_tFCCBEDAA56D8F7598520FB136A9F8D713033D6B5  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -722,7 +722,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -767,7 +767,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
+struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
 {
 public:
 
@@ -784,7 +784,7 @@ struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF_marshaled_com
 };
 
 // UnityEngine.Experimental.XR.Boundary
-struct  Boundary_t28B358633557CC38BADD75593D50D596DEE085E9  : public RuntimeObject
+struct Boundary_t28B358633557CC38BADD75593D50D596DEE085E9  : public RuntimeObject
 {
 public:
 
@@ -793,7 +793,7 @@ public:
 
 
 // UnityEngine.XR.WSA.HolographicSettings
-struct  HolographicSettings_t8F9D4FDA249684479F44CFC2772417DF360707BF  : public RuntimeObject
+struct HolographicSettings_t8F9D4FDA249684479F44CFC2772417DF360707BF  : public RuntimeObject
 {
 public:
 
@@ -802,7 +802,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.InteractionManager
-struct  InteractionManager_tD3DEC7E7B6FD949771B56036CCB26F6C0A4914E4  : public RuntimeObject
+struct InteractionManager_tD3DEC7E7B6FD949771B56036CCB26F6C0A4914E4  : public RuntimeObject
 {
 public:
 
@@ -927,7 +927,7 @@ public:
 
 
 // UnityEngine.XR.WSA.SurfaceObserver
-struct  SurfaceObserver_tE97E43137858D5F6A417980ECDABAC2BB4CF1864  : public RuntimeObject
+struct SurfaceObserver_tE97E43137858D5F6A417980ECDABAC2BB4CF1864  : public RuntimeObject
 {
 public:
 	// System.Int32 UnityEngine.XR.WSA.SurfaceObserver::m_Observer
@@ -955,7 +955,7 @@ struct SurfaceObserver_tE97E43137858D5F6A417980ECDABAC2BB4CF1864_marshaled_com
 };
 
 // UnityEngine.XR.WSA.WorldManager
-struct  WorldManager_t92F845DF2530AD354D4805170141AFE73AFFA863  : public RuntimeObject
+struct WorldManager_t92F845DF2530AD354D4805170141AFE73AFFA863  : public RuntimeObject
 {
 public:
 
@@ -981,7 +981,7 @@ public:
 
 
 // UnityEngine.XR.XRDevice
-struct  XRDevice_t392FCA3D1DCEB95FF500C8F374C88B034C31DF4A  : public RuntimeObject
+struct XRDevice_t392FCA3D1DCEB95FF500C8F374C88B034C31DF4A  : public RuntimeObject
 {
 public:
 
@@ -1007,7 +1007,16 @@ public:
 
 
 // UnityEngine.XR.XRSettings
-struct  XRSettings_tB57FCBA5B804996700C097CC13B658E7BD43D874  : public RuntimeObject
+struct XRSettings_tB57FCBA5B804996700C097CC13B658E7BD43D874  : public RuntimeObject
+{
+public:
+
+public:
+};
+
+
+// UnityEngineInternal.XR.WSA.RemoteSpeechAccess
+struct RemoteSpeechAccess_t794A490444DE2883979D09992C60497AAEC3473D  : public RuntimeObject
 {
 public:
 
@@ -1016,7 +1025,7 @@ public:
 
 
 // System.Boolean
-struct  Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
+struct Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -1062,7 +1071,7 @@ public:
 
 
 // System.Byte
-struct  Byte_tF87C579059BD4633E6840EBBBEEF899C6E33EF07 
+struct Byte_tF87C579059BD4633E6840EBBBEEF899C6E33EF07 
 {
 public:
 	// System.Byte System.Byte::m_value
@@ -1080,7 +1089,7 @@ public:
 
 
 // System.DateTime
-struct  DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 
+struct DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 
 {
 public:
 	// System.UInt64 System.DateTime::dateData
@@ -1146,7 +1155,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
+struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
 {
 public:
 
@@ -1180,7 +1189,7 @@ struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521_marshaled_com
 };
 
 // System.Int32
-struct  Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
+struct Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -1198,7 +1207,7 @@ public:
 
 
 // System.Int64
-struct  Int64_t7A386C2FF7B0280A0F516992401DDFCF0FF7B436 
+struct Int64_t7A386C2FF7B0280A0F516992401DDFCF0FF7B436 
 {
 public:
 	// System.Int64 System.Int64::m_value
@@ -1216,7 +1225,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -1250,7 +1259,7 @@ public:
 
 
 // System.Single
-struct  Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
+struct Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
 {
 public:
 	// System.Single System.Single::m_value
@@ -1268,7 +1277,7 @@ public:
 
 
 // System.UInt16
-struct  UInt16_tAE45CEF73BF720100519F6867F32145D075F928E 
+struct UInt16_tAE45CEF73BF720100519F6867F32145D075F928E 
 {
 public:
 	// System.UInt16 System.UInt16::m_value
@@ -1286,7 +1295,7 @@ public:
 
 
 // System.UInt32
-struct  UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
+struct UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
 {
 public:
 	// System.UInt32 System.UInt32::m_value
@@ -1304,7 +1313,7 @@ public:
 
 
 // System.Void
-struct  Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
+struct Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
 {
 public:
 	union
@@ -1320,7 +1329,7 @@ public:
 
 
 // UnityEngine.Quaternion
-struct  Quaternion_t319F3319A7D43FFA5D819AD6C0A98851F0095357 
+struct Quaternion_t319F3319A7D43FFA5D819AD6C0A98851F0095357 
 {
 public:
 	// System.Single UnityEngine.Quaternion::x
@@ -1384,7 +1393,7 @@ public:
 
 
 // UnityEngine.Vector2
-struct  Vector2_tA85D2DD88578276CA8A8796756458277E72D073D 
+struct Vector2_tA85D2DD88578276CA8A8796756458277E72D073D 
 {
 public:
 	// System.Single UnityEngine.Vector2::x
@@ -1498,7 +1507,7 @@ public:
 
 
 // UnityEngine.Vector3
-struct  Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720 
+struct Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720 
 {
 public:
 	// System.Single UnityEngine.Vector3::x
@@ -1642,7 +1651,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.GestureErrorEventArgs
-struct  GestureErrorEventArgs_tE93CF2521799DC9320F0B7A32C4CE279DC24E80C 
+struct GestureErrorEventArgs_tE93CF2521799DC9320F0B7A32C4CE279DC24E80C 
 {
 public:
 	// System.String UnityEngine.XR.WSA.Input.GestureErrorEventArgs::<error>k__BackingField
@@ -1683,7 +1692,7 @@ struct GestureErrorEventArgs_tE93CF2521799DC9320F0B7A32C4CE279DC24E80C_marshaled
 };
 
 // UnityEngine.XR.WSA.SurfaceId
-struct  SurfaceId_t5FCE14311FE5CFC3C4DDFCAC0B7FC2F54123E9BF 
+struct SurfaceId_t5FCE14311FE5CFC3C4DDFCAC0B7FC2F54123E9BF 
 {
 public:
 	// System.Int32 UnityEngine.XR.WSA.SurfaceId::handle
@@ -1701,7 +1710,7 @@ public:
 
 
 // System.Delegate
-struct  Delegate_t  : public RuntimeObject
+struct Delegate_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Delegate::method_ptr
@@ -1853,7 +1862,7 @@ struct Delegate_t_marshaled_com
 };
 
 // System.Exception
-struct  Exception_t  : public RuntimeObject
+struct Exception_t  : public RuntimeObject
 {
 public:
 	// System.String System.Exception::_className
@@ -2079,7 +2088,7 @@ struct Exception_t_marshaled_com
 };
 
 // UnityEngine.Bounds
-struct  Bounds_tA2716F5212749C61B0E7B7B77E0CD3D79B742890 
+struct Bounds_tA2716F5212749C61B0E7B7B77E0CD3D79B742890 
 {
 public:
 	// UnityEngine.Vector3 UnityEngine.Bounds::m_Center
@@ -2107,7 +2116,7 @@ public:
 
 
 // UnityEngine.Experimental.Rendering.GraphicsFormat
-struct  GraphicsFormat_t512915BBE299AE115F4DB0B96DF1DA2E72ECA181 
+struct GraphicsFormat_t512915BBE299AE115F4DB0B96DF1DA2E72ECA181 
 {
 public:
 	// System.Int32 UnityEngine.Experimental.Rendering.GraphicsFormat::value__
@@ -2125,7 +2134,7 @@ public:
 
 
 // UnityEngine.Experimental.XR.Boundary/Type
-struct  Type_t94CEB95ABED1654F7AF6B2CACCA1769C4061A288 
+struct Type_t94CEB95ABED1654F7AF6B2CACCA1769C4061A288 
 {
 public:
 	// System.Int32 UnityEngine.Experimental.XR.Boundary/Type::value__
@@ -2143,7 +2152,7 @@ public:
 
 
 // UnityEngine.Object
-struct  Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0  : public RuntimeObject
+struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Object::m_CachedPtr
@@ -2187,7 +2196,7 @@ struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0_marshaled_com
 };
 
 // UnityEngine.Pose
-struct  Pose_t2997DE3CB3863E4D78FCF42B46FC481818823F29 
+struct Pose_t2997DE3CB3863E4D78FCF42B46FC481818823F29 
 {
 public:
 	// UnityEngine.Vector3 UnityEngine.Pose::position
@@ -2231,7 +2240,7 @@ public:
 
 
 // UnityEngine.Ray
-struct  Ray_tE2163D4CB3E6B267E29F8ABE41684490E4A614B2 
+struct Ray_tE2163D4CB3E6B267E29F8ABE41684490E4A614B2 
 {
 public:
 	// UnityEngine.Vector3 UnityEngine.Ray::m_Origin
@@ -2259,7 +2268,7 @@ public:
 
 
 // UnityEngine.RenderTextureCreationFlags
-struct  RenderTextureCreationFlags_tF63E06301E4BB4746F7E07759B359872BD4BFB1E 
+struct RenderTextureCreationFlags_tF63E06301E4BB4746F7E07759B359872BD4BFB1E 
 {
 public:
 	// System.Int32 UnityEngine.RenderTextureCreationFlags::value__
@@ -2277,7 +2286,7 @@ public:
 
 
 // UnityEngine.RenderTextureMemoryless
-struct  RenderTextureMemoryless_t19E37ADD57C1F00D67146A2BB4521D06F370D2E9 
+struct RenderTextureMemoryless_t19E37ADD57C1F00D67146A2BB4521D06F370D2E9 
 {
 public:
 	// System.Int32 UnityEngine.RenderTextureMemoryless::value__
@@ -2295,7 +2304,7 @@ public:
 
 
 // UnityEngine.Rendering.ShadowSamplingMode
-struct  ShadowSamplingMode_t585A9BDECAC505FF19FF785F55CDD403A2E5DA73 
+struct ShadowSamplingMode_t585A9BDECAC505FF19FF785F55CDD403A2E5DA73 
 {
 public:
 	// System.Int32 UnityEngine.Rendering.ShadowSamplingMode::value__
@@ -2313,7 +2322,7 @@ public:
 
 
 // UnityEngine.Rendering.TextureDimension
-struct  TextureDimension_t90D0E4110D3F4D062F3E8C0F69809BFBBDF8E19C 
+struct TextureDimension_t90D0E4110D3F4D062F3E8C0F69809BFBBDF8E19C 
 {
 public:
 	// System.Int32 UnityEngine.Rendering.TextureDimension::value__
@@ -2331,7 +2340,7 @@ public:
 
 
 // UnityEngine.VRTextureUsage
-struct  VRTextureUsage_t2D7C2397ABF03DD28086B969100F7D91DDD978A0 
+struct VRTextureUsage_t2D7C2397ABF03DD28086B969100F7D91DDD978A0 
 {
 public:
 	// System.Int32 UnityEngine.VRTextureUsage::value__
@@ -2349,7 +2358,7 @@ public:
 
 
 // UnityEngine.XR.TrackingSpaceType
-struct  TrackingSpaceType_tDFAE75A41ADEB2EC330998CCC63202F4A4889C2B 
+struct TrackingSpaceType_tDFAE75A41ADEB2EC330998CCC63202F4A4889C2B 
 {
 public:
 	// System.Int32 UnityEngine.XR.TrackingSpaceType::value__
@@ -2367,7 +2376,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.GestureRecognizer
-struct  GestureRecognizer_tE4A3B36C495289B1DF1011E12394116A91E361DE  : public RuntimeObject
+struct GestureRecognizer_tE4A3B36C495289B1DF1011E12394116A91E361DE  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.XR.WSA.Input.GestureRecognizer::m_Recognizer
@@ -2785,7 +2794,7 @@ struct GestureRecognizer_tE4A3B36C495289B1DF1011E12394116A91E361DE_marshaled_com
 };
 
 // UnityEngine.XR.WSA.Input.GestureSettings
-struct  GestureSettings_t75803D4EC100BFFD3E80E60E6228FE13BC816F4A 
+struct GestureSettings_t75803D4EC100BFFD3E80E60E6228FE13BC816F4A 
 {
 public:
 	// System.Int32 UnityEngine.XR.WSA.Input.GestureSettings::value__
@@ -2803,7 +2812,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.InteractionManager/EventType
-struct  EventType_t9BDE5A5CA4F2A5DF83013032DAA8CAFB401AD80C 
+struct EventType_t9BDE5A5CA4F2A5DF83013032DAA8CAFB401AD80C 
 {
 public:
 	// System.Int32 UnityEngine.XR.WSA.Input.InteractionManager/EventType::value__
@@ -2821,7 +2830,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.InteractionSourceFlags
-struct  InteractionSourceFlags_tFEED23CE62EF1B04EEBB6C7DD1CA6921D73E9BBE 
+struct InteractionSourceFlags_tFEED23CE62EF1B04EEBB6C7DD1CA6921D73E9BBE 
 {
 public:
 	// System.Int32 UnityEngine.XR.WSA.Input.InteractionSourceFlags::value__
@@ -2839,7 +2848,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.InteractionSourceHandedness
-struct  InteractionSourceHandedness_t10FDFBFAABBC3E04468D3AE77CE3614E7DD9308E 
+struct InteractionSourceHandedness_t10FDFBFAABBC3E04468D3AE77CE3614E7DD9308E 
 {
 public:
 	// System.Int32 UnityEngine.XR.WSA.Input.InteractionSourceHandedness::value__
@@ -2857,7 +2866,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.InteractionSourceKind
-struct  InteractionSourceKind_t5405F2951F4D1FC7D041FBAC720950BDA3CD3819 
+struct InteractionSourceKind_t5405F2951F4D1FC7D041FBAC720950BDA3CD3819 
 {
 public:
 	// System.Int32 UnityEngine.XR.WSA.Input.InteractionSourceKind::value__
@@ -2875,7 +2884,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.InteractionSourceNode
-struct  InteractionSourceNode_tDFA7A84A17C0FD283C5F95B52593026A7B436D18 
+struct InteractionSourceNode_tDFA7A84A17C0FD283C5F95B52593026A7B436D18 
 {
 public:
 	// System.Int32 UnityEngine.XR.WSA.Input.InteractionSourceNode::value__
@@ -2893,7 +2902,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.InteractionSourcePoseFlags
-struct  InteractionSourcePoseFlags_t46E1164F226BCDCDEAD84C338483E7A401794BA8 
+struct InteractionSourcePoseFlags_t46E1164F226BCDCDEAD84C338483E7A401794BA8 
 {
 public:
 	// System.Int32 UnityEngine.XR.WSA.Input.InteractionSourcePoseFlags::value__
@@ -2911,7 +2920,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.InteractionSourcePositionAccuracy
-struct  InteractionSourcePositionAccuracy_t53AC6BBABBE0182903C6CA4529BD2FA3479276AD 
+struct InteractionSourcePositionAccuracy_t53AC6BBABBE0182903C6CA4529BD2FA3479276AD 
 {
 public:
 	// System.Int32 UnityEngine.XR.WSA.Input.InteractionSourcePositionAccuracy::value__
@@ -2929,7 +2938,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.InteractionSourcePressType
-struct  InteractionSourcePressType_tC4234E53B3E760D31EC9D35FF56FE667D33A182D 
+struct InteractionSourcePressType_tC4234E53B3E760D31EC9D35FF56FE667D33A182D 
 {
 public:
 	// System.Int32 UnityEngine.XR.WSA.Input.InteractionSourcePressType::value__
@@ -2947,7 +2956,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.InteractionSourceStateFlags
-struct  InteractionSourceStateFlags_t44E9FA88305A647259525473BD922773CACB5905 
+struct InteractionSourceStateFlags_t44E9FA88305A647259525473BD922773CACB5905 
 {
 public:
 	// System.Int32 UnityEngine.XR.WSA.Input.InteractionSourceStateFlags::value__
@@ -2965,7 +2974,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Persistence.WorldAnchorStore
-struct  WorldAnchorStore_tD361F689FE6F087AD3F38BA8724398992434E225  : public RuntimeObject
+struct WorldAnchorStore_tD361F689FE6F087AD3F38BA8724398992434E225  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.XR.WSA.Persistence.WorldAnchorStore::m_NativePtr
@@ -3010,7 +3019,7 @@ struct WorldAnchorStore_tD361F689FE6F087AD3F38BA8724398992434E225_marshaled_com
 };
 
 // UnityEngine.XR.WSA.PositionalLocatorState
-struct  PositionalLocatorState_tE622489AA7DB67A92489D77CD1EF22EC2C5F0598 
+struct PositionalLocatorState_tE622489AA7DB67A92489D77CD1EF22EC2C5F0598 
 {
 public:
 	// System.Int32 UnityEngine.XR.WSA.PositionalLocatorState::value__
@@ -3027,8 +3036,26 @@ public:
 };
 
 
+// UnityEngine.XR.WSA.RemoteDeviceVersion
+struct RemoteDeviceVersion_t973ECC581F7F0AE14820FEBD06CF032949324FF8 
+{
+public:
+	// System.Int32 UnityEngine.XR.WSA.RemoteDeviceVersion::value__
+	int32_t ___value___2;
+
+public:
+	inline static int32_t get_offset_of_value___2() { return static_cast<int32_t>(offsetof(RemoteDeviceVersion_t973ECC581F7F0AE14820FEBD06CF032949324FF8, ___value___2)); }
+	inline int32_t get_value___2() const { return ___value___2; }
+	inline int32_t* get_address_of_value___2() { return &___value___2; }
+	inline void set_value___2(int32_t value)
+	{
+		___value___2 = value;
+	}
+};
+
+
 // UnityEngine.XR.WSA.Sharing.SerializationCompletionReason
-struct  SerializationCompletionReason_t36D4884AF265179731484C44E5A95235EB6F3987 
+struct SerializationCompletionReason_t36D4884AF265179731484C44E5A95235EB6F3987 
 {
 public:
 	// System.Int32 UnityEngine.XR.WSA.Sharing.SerializationCompletionReason::value__
@@ -3046,7 +3073,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Sharing.WorldAnchorTransferBatch
-struct  WorldAnchorTransferBatch_t7BF25F7D67684AD6C02C3162A81797BC9045BF96  : public RuntimeObject
+struct WorldAnchorTransferBatch_t7BF25F7D67684AD6C02C3162A81797BC9045BF96  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.XR.WSA.Sharing.WorldAnchorTransferBatch::m_NativePtr
@@ -3074,7 +3101,7 @@ struct WorldAnchorTransferBatch_t7BF25F7D67684AD6C02C3162A81797BC9045BF96_marsha
 };
 
 // UnityEngine.XR.WSA.SurfaceChange
-struct  SurfaceChange_t2E92CB8BA67A369A733BBEBD7087706B8E8FA747 
+struct SurfaceChange_t2E92CB8BA67A369A733BBEBD7087706B8E8FA747 
 {
 public:
 	// System.Int32 UnityEngine.XR.WSA.SurfaceChange::value__
@@ -3092,7 +3119,7 @@ public:
 
 
 // UnityEngine.XR.WSA.SurfaceData
-struct  SurfaceData_t4C48F847E8643D6640786CC364CDB510C7C60C66 
+struct SurfaceData_t4C48F847E8643D6640786CC364CDB510C7C60C66 
 {
 public:
 	// UnityEngine.XR.WSA.SurfaceId UnityEngine.XR.WSA.SurfaceData::id
@@ -3183,7 +3210,7 @@ struct SurfaceData_t4C48F847E8643D6640786CC364CDB510C7C60C66_marshaled_com
 };
 
 // UnityEngine.XR.XRSettings/StereoRenderingMode
-struct  StereoRenderingMode_tB595F1AB99E048D306C484D1A529D23C6A7C2D10 
+struct StereoRenderingMode_tB595F1AB99E048D306C484D1A529D23C6A7C2D10 
 {
 public:
 	// System.Int32 UnityEngine.XR.XRSettings/StereoRenderingMode::value__
@@ -3201,7 +3228,7 @@ public:
 
 
 // System.MulticastDelegate
-struct  MulticastDelegate_t  : public Delegate_t
+struct MulticastDelegate_t  : public Delegate_t
 {
 public:
 	// System.Delegate[] System.MulticastDelegate::delegates
@@ -3230,7 +3257,7 @@ struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
 };
 
 // System.SystemException
-struct  SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
+struct SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
 {
 public:
 
@@ -3239,7 +3266,7 @@ public:
 
 
 // UnityEngine.Component
-struct  Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -3248,7 +3275,7 @@ public:
 
 
 // UnityEngine.GameObject
-struct  GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -3257,7 +3284,7 @@ public:
 
 
 // UnityEngine.RenderTextureDescriptor
-struct  RenderTextureDescriptor_t74FEC57A54F89E11748E1865F7DCA3565BFAF58E 
+struct RenderTextureDescriptor_t74FEC57A54F89E11748E1865F7DCA3565BFAF58E 
 {
 public:
 	// System.Int32 UnityEngine.RenderTextureDescriptor::<width>k__BackingField
@@ -3412,7 +3439,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.InteractionSource
-struct  InteractionSource_t21335CC7BE7B9164D14283EEA3EC775AB2720DF6 
+struct InteractionSource_t21335CC7BE7B9164D14283EEA3EC775AB2720DF6 
 {
 public:
 	// System.UInt32 UnityEngine.XR.WSA.Input.InteractionSource::m_Id
@@ -3490,7 +3517,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.InteractionSourcePose
-struct  InteractionSourcePose_t249CD43F634426269571F0E4689428ACC8C54F73 
+struct InteractionSourcePose_t249CD43F634426269571F0E4689428ACC8C54F73 
 {
 public:
 	// UnityEngine.Quaternion UnityEngine.XR.WSA.Input.InteractionSourcePose::m_GripRotation
@@ -3578,7 +3605,7 @@ public:
 
 
 // System.Action`1<System.String>
-struct  Action_1_t32A9EECF5D4397CC1B9A7C7079870875411B06D0  : public MulticastDelegate_t
+struct Action_1_t32A9EECF5D4397CC1B9A7C7079870875411B06D0  : public MulticastDelegate_t
 {
 public:
 
@@ -3587,7 +3614,7 @@ public:
 
 
 // System.Action`1<UnityEngine.XR.WSA.Input.GestureErrorEventArgs>
-struct  Action_1_t86FE98C3236EF6A6C38460C0B9FE2D8262E44B6B  : public MulticastDelegate_t
+struct Action_1_t86FE98C3236EF6A6C38460C0B9FE2D8262E44B6B  : public MulticastDelegate_t
 {
 public:
 
@@ -3596,7 +3623,7 @@ public:
 
 
 // System.ArgumentException
-struct  ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 	// System.String System.ArgumentException::m_paramName
@@ -3615,7 +3642,7 @@ public:
 
 
 // System.AsyncCallback
-struct  AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4  : public MulticastDelegate_t
+struct AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4  : public MulticastDelegate_t
 {
 public:
 
@@ -3624,7 +3651,7 @@ public:
 
 
 // System.Nullable`1<UnityEngine.XR.WSA.Input.InteractionSource>
-struct  Nullable_1_t2BAE7F2F24CA3009C8A4626DF50D64CBD4A00FBE 
+struct Nullable_1_t2BAE7F2F24CA3009C8A4626DF50D64CBD4A00FBE 
 {
 public:
 	// T System.Nullable`1::value
@@ -3652,7 +3679,7 @@ public:
 
 
 // UnityEngine.Collider
-struct  Collider_t0FEEB36760860AD21B3B1F0509C365B393EC4BDF  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
+struct Collider_t0FEEB36760860AD21B3B1F0509C365B393EC4BDF  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
 {
 public:
 
@@ -3661,7 +3688,7 @@ public:
 
 
 // UnityEngine.MeshFilter
-struct  MeshFilter_t8D4BA8E8723DE5CFF53B0DA5EE2F6B3A5B0E0FE0  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
+struct MeshFilter_t8D4BA8E8723DE5CFF53B0DA5EE2F6B3A5B0E0FE0  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
 {
 public:
 
@@ -3670,7 +3697,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.GestureRecognizer/GestureErrorDelegate
-struct  GestureErrorDelegate_tFA3E7E6A9E25ADFB4D2FF30E7CD521937F795084  : public MulticastDelegate_t
+struct GestureErrorDelegate_tFA3E7E6A9E25ADFB4D2FF30E7CD521937F795084  : public MulticastDelegate_t
 {
 public:
 
@@ -3679,7 +3706,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.GestureRecognizer/HoldCanceledEventDelegate
-struct  HoldCanceledEventDelegate_t5073A875A657B659A55D9111BF52AFA5E8FA22C2  : public MulticastDelegate_t
+struct HoldCanceledEventDelegate_t5073A875A657B659A55D9111BF52AFA5E8FA22C2  : public MulticastDelegate_t
 {
 public:
 
@@ -3688,7 +3715,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.GestureRecognizer/HoldCompletedEventDelegate
-struct  HoldCompletedEventDelegate_tE1C05DE1BDD2AF5B15D561CE9EEB23259CAD0A7A  : public MulticastDelegate_t
+struct HoldCompletedEventDelegate_tE1C05DE1BDD2AF5B15D561CE9EEB23259CAD0A7A  : public MulticastDelegate_t
 {
 public:
 
@@ -3697,7 +3724,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.GestureRecognizer/HoldStartedEventDelegate
-struct  HoldStartedEventDelegate_t79DBAFBD8DB4A33E282665E171EF7F7903DA57B2  : public MulticastDelegate_t
+struct HoldStartedEventDelegate_t79DBAFBD8DB4A33E282665E171EF7F7903DA57B2  : public MulticastDelegate_t
 {
 public:
 
@@ -3706,7 +3733,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.GestureRecognizer/ManipulationCanceledEventDelegate
-struct  ManipulationCanceledEventDelegate_t5D62D76C35A55841145479B9708F35A667B42917  : public MulticastDelegate_t
+struct ManipulationCanceledEventDelegate_t5D62D76C35A55841145479B9708F35A667B42917  : public MulticastDelegate_t
 {
 public:
 
@@ -3715,7 +3742,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.GestureRecognizer/ManipulationCompletedEventDelegate
-struct  ManipulationCompletedEventDelegate_tFBC536B9D0EED5699871DB3855AA02653F35B6A4  : public MulticastDelegate_t
+struct ManipulationCompletedEventDelegate_tFBC536B9D0EED5699871DB3855AA02653F35B6A4  : public MulticastDelegate_t
 {
 public:
 
@@ -3724,7 +3751,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.GestureRecognizer/ManipulationStartedEventDelegate
-struct  ManipulationStartedEventDelegate_tECC88952F89E480F898CF5710A0A47D1BA85C9F0  : public MulticastDelegate_t
+struct ManipulationStartedEventDelegate_tECC88952F89E480F898CF5710A0A47D1BA85C9F0  : public MulticastDelegate_t
 {
 public:
 
@@ -3733,7 +3760,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.GestureRecognizer/ManipulationUpdatedEventDelegate
-struct  ManipulationUpdatedEventDelegate_t521F96EEF0CE5D99D54AA2AB2D075CBD66D46406  : public MulticastDelegate_t
+struct ManipulationUpdatedEventDelegate_t521F96EEF0CE5D99D54AA2AB2D075CBD66D46406  : public MulticastDelegate_t
 {
 public:
 
@@ -3742,7 +3769,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.GestureRecognizer/NavigationCanceledEventDelegate
-struct  NavigationCanceledEventDelegate_tA82EB6DFFB53212C7FADC09362EA424CEEF2A954  : public MulticastDelegate_t
+struct NavigationCanceledEventDelegate_tA82EB6DFFB53212C7FADC09362EA424CEEF2A954  : public MulticastDelegate_t
 {
 public:
 
@@ -3751,7 +3778,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.GestureRecognizer/NavigationCompletedEventDelegate
-struct  NavigationCompletedEventDelegate_tF2B1D25EF7819624117F3C6E25E70F80B238F5D3  : public MulticastDelegate_t
+struct NavigationCompletedEventDelegate_tF2B1D25EF7819624117F3C6E25E70F80B238F5D3  : public MulticastDelegate_t
 {
 public:
 
@@ -3760,7 +3787,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.GestureRecognizer/NavigationStartedEventDelegate
-struct  NavigationStartedEventDelegate_tC56D514B35B7270BBE8D21E15C435EDBA84F1AEF  : public MulticastDelegate_t
+struct NavigationStartedEventDelegate_tC56D514B35B7270BBE8D21E15C435EDBA84F1AEF  : public MulticastDelegate_t
 {
 public:
 
@@ -3769,7 +3796,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.GestureRecognizer/NavigationUpdatedEventDelegate
-struct  NavigationUpdatedEventDelegate_t5802B4B5608A4D915714D70A5A51C82C6E34C69A  : public MulticastDelegate_t
+struct NavigationUpdatedEventDelegate_t5802B4B5608A4D915714D70A5A51C82C6E34C69A  : public MulticastDelegate_t
 {
 public:
 
@@ -3778,7 +3805,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.GestureRecognizer/RecognitionEndedEventDelegate
-struct  RecognitionEndedEventDelegate_t00AB7FD9F0C0070CA19697B832E58151348F700B  : public MulticastDelegate_t
+struct RecognitionEndedEventDelegate_t00AB7FD9F0C0070CA19697B832E58151348F700B  : public MulticastDelegate_t
 {
 public:
 
@@ -3787,7 +3814,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.GestureRecognizer/RecognitionStartedEventDelegate
-struct  RecognitionStartedEventDelegate_t8C076BC7E24C0326F46F8EBB3B3CB7495027B214  : public MulticastDelegate_t
+struct RecognitionStartedEventDelegate_t8C076BC7E24C0326F46F8EBB3B3CB7495027B214  : public MulticastDelegate_t
 {
 public:
 
@@ -3796,7 +3823,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.GestureRecognizer/TappedEventDelegate
-struct  TappedEventDelegate_tC33CDAA9CA071369B711FA5FDE947E122072D34F  : public MulticastDelegate_t
+struct TappedEventDelegate_tC33CDAA9CA071369B711FA5FDE947E122072D34F  : public MulticastDelegate_t
 {
 public:
 
@@ -3805,7 +3832,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.HoldCanceledEventArgs
-struct  HoldCanceledEventArgs_t1149229A845756F9A586E3DD91C3EFEEA1029244 
+struct HoldCanceledEventArgs_t1149229A845756F9A586E3DD91C3EFEEA1029244 
 {
 public:
 	// UnityEngine.XR.WSA.Input.InteractionSource UnityEngine.XR.WSA.Input.HoldCanceledEventArgs::m_Source
@@ -3843,7 +3870,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.HoldCompletedEventArgs
-struct  HoldCompletedEventArgs_t13AD11A9EDEE4F627639E98E09910A72E82242B3 
+struct HoldCompletedEventArgs_t13AD11A9EDEE4F627639E98E09910A72E82242B3 
 {
 public:
 	// UnityEngine.XR.WSA.Input.InteractionSource UnityEngine.XR.WSA.Input.HoldCompletedEventArgs::m_Source
@@ -3881,7 +3908,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.HoldStartedEventArgs
-struct  HoldStartedEventArgs_tF309FAD5ADD192662D046995D7A71B5F92CFA874 
+struct HoldStartedEventArgs_tF309FAD5ADD192662D046995D7A71B5F92CFA874 
 {
 public:
 	// UnityEngine.XR.WSA.Input.InteractionSource UnityEngine.XR.WSA.Input.HoldStartedEventArgs::m_Source
@@ -3919,7 +3946,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.InteractionSourceProperties
-struct  InteractionSourceProperties_t4F09AE5472B080CF0CA6D8DB68B8D48E90FA455A 
+struct InteractionSourceProperties_t4F09AE5472B080CF0CA6D8DB68B8D48E90FA455A 
 {
 public:
 	// System.Double UnityEngine.XR.WSA.Input.InteractionSourceProperties::m_SourceLossRisk
@@ -3957,7 +3984,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.ManipulationCanceledEventArgs
-struct  ManipulationCanceledEventArgs_t6CD33D88A2B9B5FF30BAE21E2FE253EF9FA98417 
+struct ManipulationCanceledEventArgs_t6CD33D88A2B9B5FF30BAE21E2FE253EF9FA98417 
 {
 public:
 	// UnityEngine.XR.WSA.Input.InteractionSource UnityEngine.XR.WSA.Input.ManipulationCanceledEventArgs::m_Source
@@ -3995,7 +4022,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.ManipulationCompletedEventArgs
-struct  ManipulationCompletedEventArgs_t68FA66838267BEDC02E178D76EFC5E03D1958BA0 
+struct ManipulationCompletedEventArgs_t68FA66838267BEDC02E178D76EFC5E03D1958BA0 
 {
 public:
 	// UnityEngine.XR.WSA.Input.InteractionSource UnityEngine.XR.WSA.Input.ManipulationCompletedEventArgs::m_Source
@@ -4043,7 +4070,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.ManipulationStartedEventArgs
-struct  ManipulationStartedEventArgs_t15AFA1D2E17F9D5E2DFA7B7384FA5A79481AEAB2 
+struct ManipulationStartedEventArgs_t15AFA1D2E17F9D5E2DFA7B7384FA5A79481AEAB2 
 {
 public:
 	// UnityEngine.XR.WSA.Input.InteractionSource UnityEngine.XR.WSA.Input.ManipulationStartedEventArgs::m_Source
@@ -4081,7 +4108,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.ManipulationUpdatedEventArgs
-struct  ManipulationUpdatedEventArgs_t6B06C74A87C5FC65D6B45AAE8DC1BB59C147089E 
+struct ManipulationUpdatedEventArgs_t6B06C74A87C5FC65D6B45AAE8DC1BB59C147089E 
 {
 public:
 	// UnityEngine.XR.WSA.Input.InteractionSource UnityEngine.XR.WSA.Input.ManipulationUpdatedEventArgs::m_Source
@@ -4129,7 +4156,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.NavigationCanceledEventArgs
-struct  NavigationCanceledEventArgs_tC2B533AD31373B31AF9FDC354D3A07C749FC9760 
+struct NavigationCanceledEventArgs_tC2B533AD31373B31AF9FDC354D3A07C749FC9760 
 {
 public:
 	// UnityEngine.XR.WSA.Input.InteractionSource UnityEngine.XR.WSA.Input.NavigationCanceledEventArgs::m_Source
@@ -4167,7 +4194,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.NavigationCompletedEventArgs
-struct  NavigationCompletedEventArgs_tA0A6DD23233401CBAE4848F6B6D0BA03DE647E39 
+struct NavigationCompletedEventArgs_tA0A6DD23233401CBAE4848F6B6D0BA03DE647E39 
 {
 public:
 	// UnityEngine.XR.WSA.Input.InteractionSource UnityEngine.XR.WSA.Input.NavigationCompletedEventArgs::m_Source
@@ -4215,7 +4242,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.NavigationStartedEventArgs
-struct  NavigationStartedEventArgs_t834E02E24343414BB48A9099C7CF0C331C859339 
+struct NavigationStartedEventArgs_t834E02E24343414BB48A9099C7CF0C331C859339 
 {
 public:
 	// UnityEngine.XR.WSA.Input.InteractionSource UnityEngine.XR.WSA.Input.NavigationStartedEventArgs::m_Source
@@ -4253,7 +4280,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.NavigationUpdatedEventArgs
-struct  NavigationUpdatedEventArgs_tC41595BC70171E7D2E16538C62923395B285F3BA 
+struct NavigationUpdatedEventArgs_tC41595BC70171E7D2E16538C62923395B285F3BA 
 {
 public:
 	// UnityEngine.XR.WSA.Input.InteractionSource UnityEngine.XR.WSA.Input.NavigationUpdatedEventArgs::m_Source
@@ -4301,7 +4328,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.RecognitionEndedEventArgs
-struct  RecognitionEndedEventArgs_t41420CD5725610A560C4316BD5DBE7F96504B8BB 
+struct RecognitionEndedEventArgs_t41420CD5725610A560C4316BD5DBE7F96504B8BB 
 {
 public:
 	// UnityEngine.XR.WSA.Input.InteractionSource UnityEngine.XR.WSA.Input.RecognitionEndedEventArgs::m_Source
@@ -4339,7 +4366,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.RecognitionStartedEventArgs
-struct  RecognitionStartedEventArgs_t10FC01D91F3A18B7B03065C6C857473DCFD17E65 
+struct RecognitionStartedEventArgs_t10FC01D91F3A18B7B03065C6C857473DCFD17E65 
 {
 public:
 	// UnityEngine.XR.WSA.Input.InteractionSource UnityEngine.XR.WSA.Input.RecognitionStartedEventArgs::m_Source
@@ -4377,7 +4404,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.TappedEventArgs
-struct  TappedEventArgs_t1E2125DB3E5E3F28EF3018C15F6A7786EDE8E9D6 
+struct TappedEventArgs_t1E2125DB3E5E3F28EF3018C15F6A7786EDE8E9D6 
 {
 public:
 	// UnityEngine.XR.WSA.Input.InteractionSource UnityEngine.XR.WSA.Input.TappedEventArgs::m_Source
@@ -4425,7 +4452,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Persistence.WorldAnchorStore/GetAsyncDelegate
-struct  GetAsyncDelegate_t243E451DDFA40F30023A031E71AA0BDC9D9865EF  : public MulticastDelegate_t
+struct GetAsyncDelegate_t243E451DDFA40F30023A031E71AA0BDC9D9865EF  : public MulticastDelegate_t
 {
 public:
 
@@ -4434,7 +4461,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Sharing.WorldAnchorTransferBatch/DeserializationCompleteDelegate
-struct  DeserializationCompleteDelegate_tEE42E6197884BFC9946F07F02F2E3B437B4C2648  : public MulticastDelegate_t
+struct DeserializationCompleteDelegate_tEE42E6197884BFC9946F07F02F2E3B437B4C2648  : public MulticastDelegate_t
 {
 public:
 
@@ -4443,7 +4470,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Sharing.WorldAnchorTransferBatch/SerializationCompleteDelegate
-struct  SerializationCompleteDelegate_tD53067D4C22E4C7372CFB92B4287EFE9188DA7EB  : public MulticastDelegate_t
+struct SerializationCompleteDelegate_tD53067D4C22E4C7372CFB92B4287EFE9188DA7EB  : public MulticastDelegate_t
 {
 public:
 
@@ -4452,7 +4479,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Sharing.WorldAnchorTransferBatch/SerializationDataAvailableDelegate
-struct  SerializationDataAvailableDelegate_tEE1027E18A229BC1CF155CE15AFB47FD044654C7  : public MulticastDelegate_t
+struct SerializationDataAvailableDelegate_tEE1027E18A229BC1CF155CE15AFB47FD044654C7  : public MulticastDelegate_t
 {
 public:
 
@@ -4461,7 +4488,7 @@ public:
 
 
 // UnityEngine.XR.WSA.SurfaceObserver/SurfaceChangedDelegate
-struct  SurfaceChangedDelegate_t44685763A08766AF68D59B3C9FE8B5370386B3A1  : public MulticastDelegate_t
+struct SurfaceChangedDelegate_t44685763A08766AF68D59B3C9FE8B5370386B3A1  : public MulticastDelegate_t
 {
 public:
 
@@ -4470,7 +4497,7 @@ public:
 
 
 // UnityEngine.XR.WSA.SurfaceObserver/SurfaceDataReadyDelegate
-struct  SurfaceDataReadyDelegate_t612948BD68C321AF19136CC76F4F94B778B20092  : public MulticastDelegate_t
+struct SurfaceDataReadyDelegate_t612948BD68C321AF19136CC76F4F94B778B20092  : public MulticastDelegate_t
 {
 public:
 
@@ -4479,7 +4506,7 @@ public:
 
 
 // UnityEngine.XR.WSA.WorldAnchor
-struct  WorldAnchor_tD6275232D14415769601A3BD6AE1E7D5622F96EE  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
+struct WorldAnchor_tD6275232D14415769601A3BD6AE1E7D5622F96EE  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
 {
 public:
 	// UnityEngine.XR.WSA.WorldAnchor/OnTrackingChangedDelegate UnityEngine.XR.WSA.WorldAnchor::OnTrackingChanged
@@ -4498,7 +4525,7 @@ public:
 
 
 // UnityEngine.XR.WSA.WorldAnchor/OnTrackingChangedDelegate
-struct  OnTrackingChangedDelegate_t213BE1DC543541B52A31539ACEA406782B1DB253  : public MulticastDelegate_t
+struct OnTrackingChangedDelegate_t213BE1DC543541B52A31539ACEA406782B1DB253  : public MulticastDelegate_t
 {
 public:
 
@@ -4507,7 +4534,7 @@ public:
 
 
 // UnityEngine.XR.WSA.WorldManager/OnPositionalLocatorStateChangedDelegate
-struct  OnPositionalLocatorStateChangedDelegate_tF20079800BA8015A2DC1FDAE907DF48391A53E0B  : public MulticastDelegate_t
+struct OnPositionalLocatorStateChangedDelegate_tF20079800BA8015A2DC1FDAE907DF48391A53E0B  : public MulticastDelegate_t
 {
 public:
 
@@ -4516,7 +4543,7 @@ public:
 
 
 // System.Action`1<UnityEngine.XR.WSA.Input.HoldCanceledEventArgs>
-struct  Action_1_t5DB3D8F91CD6BEB6D429ED4A29CC61B44CDD8A4B  : public MulticastDelegate_t
+struct Action_1_t5DB3D8F91CD6BEB6D429ED4A29CC61B44CDD8A4B  : public MulticastDelegate_t
 {
 public:
 
@@ -4525,7 +4552,7 @@ public:
 
 
 // System.Action`1<UnityEngine.XR.WSA.Input.HoldCompletedEventArgs>
-struct  Action_1_t37D466E712A7A553C87729F5DD58DC77C8A89FF0  : public MulticastDelegate_t
+struct Action_1_t37D466E712A7A553C87729F5DD58DC77C8A89FF0  : public MulticastDelegate_t
 {
 public:
 
@@ -4534,7 +4561,7 @@ public:
 
 
 // System.Action`1<UnityEngine.XR.WSA.Input.HoldStartedEventArgs>
-struct  Action_1_t9A7EBE66F02FBEEDDB83D150DBABC2F2728C7F8E  : public MulticastDelegate_t
+struct Action_1_t9A7EBE66F02FBEEDDB83D150DBABC2F2728C7F8E  : public MulticastDelegate_t
 {
 public:
 
@@ -4543,7 +4570,7 @@ public:
 
 
 // System.Action`1<UnityEngine.XR.WSA.Input.ManipulationCanceledEventArgs>
-struct  Action_1_tB13B2372B219E1C2C06EFDBCE8BD7EE041A2EB5E  : public MulticastDelegate_t
+struct Action_1_tB13B2372B219E1C2C06EFDBCE8BD7EE041A2EB5E  : public MulticastDelegate_t
 {
 public:
 
@@ -4552,7 +4579,7 @@ public:
 
 
 // System.Action`1<UnityEngine.XR.WSA.Input.ManipulationCompletedEventArgs>
-struct  Action_1_t3D75FAEDED813354B2965399C726ABFD1A5EBC3F  : public MulticastDelegate_t
+struct Action_1_t3D75FAEDED813354B2965399C726ABFD1A5EBC3F  : public MulticastDelegate_t
 {
 public:
 
@@ -4561,7 +4588,7 @@ public:
 
 
 // System.Action`1<UnityEngine.XR.WSA.Input.ManipulationStartedEventArgs>
-struct  Action_1_t6DC7BD1E28CAAD24387D527C634AB60FA116325E  : public MulticastDelegate_t
+struct Action_1_t6DC7BD1E28CAAD24387D527C634AB60FA116325E  : public MulticastDelegate_t
 {
 public:
 
@@ -4570,7 +4597,7 @@ public:
 
 
 // System.Action`1<UnityEngine.XR.WSA.Input.ManipulationUpdatedEventArgs>
-struct  Action_1_t6F72821471F95D09FC84BC9F98573CD2139C23DC  : public MulticastDelegate_t
+struct Action_1_t6F72821471F95D09FC84BC9F98573CD2139C23DC  : public MulticastDelegate_t
 {
 public:
 
@@ -4579,7 +4606,7 @@ public:
 
 
 // System.Action`1<UnityEngine.XR.WSA.Input.NavigationCanceledEventArgs>
-struct  Action_1_t725D93DE550342B16861C2DF8B459B4657B0B40B  : public MulticastDelegate_t
+struct Action_1_t725D93DE550342B16861C2DF8B459B4657B0B40B  : public MulticastDelegate_t
 {
 public:
 
@@ -4588,7 +4615,7 @@ public:
 
 
 // System.Action`1<UnityEngine.XR.WSA.Input.NavigationCompletedEventArgs>
-struct  Action_1_tE20909ED14E1CC129893FCAD2C19BA898C77D7B1  : public MulticastDelegate_t
+struct Action_1_tE20909ED14E1CC129893FCAD2C19BA898C77D7B1  : public MulticastDelegate_t
 {
 public:
 
@@ -4597,7 +4624,7 @@ public:
 
 
 // System.Action`1<UnityEngine.XR.WSA.Input.NavigationStartedEventArgs>
-struct  Action_1_t12403A5DFD6ED9F6D2D66FBBBF9B65D8CF00538E  : public MulticastDelegate_t
+struct Action_1_t12403A5DFD6ED9F6D2D66FBBBF9B65D8CF00538E  : public MulticastDelegate_t
 {
 public:
 
@@ -4606,7 +4633,7 @@ public:
 
 
 // System.Action`1<UnityEngine.XR.WSA.Input.NavigationUpdatedEventArgs>
-struct  Action_1_tEAD62A4E2B757ADC9D11D8A3CCB8E2CF8792F64C  : public MulticastDelegate_t
+struct Action_1_tEAD62A4E2B757ADC9D11D8A3CCB8E2CF8792F64C  : public MulticastDelegate_t
 {
 public:
 
@@ -4615,7 +4642,7 @@ public:
 
 
 // System.Action`1<UnityEngine.XR.WSA.Input.RecognitionEndedEventArgs>
-struct  Action_1_tE903BE1931BE14124CF0EFF594B91436F631E6E7  : public MulticastDelegate_t
+struct Action_1_tE903BE1931BE14124CF0EFF594B91436F631E6E7  : public MulticastDelegate_t
 {
 public:
 
@@ -4624,7 +4651,7 @@ public:
 
 
 // System.Action`1<UnityEngine.XR.WSA.Input.RecognitionStartedEventArgs>
-struct  Action_1_tCDC01C5032C70E5DD6217277758BBB3991DC7A8E  : public MulticastDelegate_t
+struct Action_1_tCDC01C5032C70E5DD6217277758BBB3991DC7A8E  : public MulticastDelegate_t
 {
 public:
 
@@ -4633,7 +4660,7 @@ public:
 
 
 // System.Action`1<UnityEngine.XR.WSA.Input.TappedEventArgs>
-struct  Action_1_tF26E81D6C525086A6BF0264D4CCFF4F9D3C86D12  : public MulticastDelegate_t
+struct Action_1_tF26E81D6C525086A6BF0264D4CCFF4F9D3C86D12  : public MulticastDelegate_t
 {
 public:
 
@@ -4642,7 +4669,7 @@ public:
 
 
 // System.ArgumentNullException
-struct  ArgumentNullException_t581DF992B1F3E0EC6EFB30CC5DC43519A79B27AD  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
+struct ArgumentNullException_t581DF992B1F3E0EC6EFB30CC5DC43519A79B27AD  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
 {
 public:
 
@@ -4651,7 +4678,7 @@ public:
 
 
 // System.ArgumentOutOfRangeException
-struct  ArgumentOutOfRangeException_t94D19DF918A54511AEDF4784C9A08741BAD1DEDA  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
+struct ArgumentOutOfRangeException_t94D19DF918A54511AEDF4784C9A08741BAD1DEDA  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
 {
 public:
 	// System.Object System.ArgumentOutOfRangeException::m_actualValue
@@ -4687,7 +4714,7 @@ public:
 
 
 // UnityEngine.MeshCollider
-struct  MeshCollider_t60EB55ADE92499FE8D1AA206D2BD96E65B2766DE  : public Collider_t0FEEB36760860AD21B3B1F0509C365B393EC4BDF
+struct MeshCollider_t60EB55ADE92499FE8D1AA206D2BD96E65B2766DE  : public Collider_t0FEEB36760860AD21B3B1F0509C365B393EC4BDF
 {
 public:
 
@@ -4696,7 +4723,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.InteractionSourceState
-struct  InteractionSourceState_t41A6FEEA413909D5D94BF48BC907FE5DBD162250 
+struct InteractionSourceState_t41A6FEEA413909D5D94BF48BC907FE5DBD162250 
 {
 public:
 	// UnityEngine.XR.WSA.Input.InteractionSourceProperties UnityEngine.XR.WSA.Input.InteractionSourceState::m_Properties
@@ -4774,7 +4801,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.InteractionManager/SourceEventHandler
-struct  SourceEventHandler_tD9AB6A197C9FA91D255ACEC9EB413ED769ED0F75  : public MulticastDelegate_t
+struct SourceEventHandler_tD9AB6A197C9FA91D255ACEC9EB413ED769ED0F75  : public MulticastDelegate_t
 {
 public:
 
@@ -4783,7 +4810,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.InteractionSourceDetectedEventArgs
-struct  InteractionSourceDetectedEventArgs_tC1F077616F3D6B484D0B12321013A21E072B9755 
+struct InteractionSourceDetectedEventArgs_tC1F077616F3D6B484D0B12321013A21E072B9755 
 {
 public:
 	// UnityEngine.XR.WSA.Input.InteractionSourceState UnityEngine.XR.WSA.Input.InteractionSourceDetectedEventArgs::<state>k__BackingField
@@ -4801,7 +4828,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.InteractionSourceLostEventArgs
-struct  InteractionSourceLostEventArgs_t1922B08265BAB2D8980B734D0A89C8705CCC40AC 
+struct InteractionSourceLostEventArgs_t1922B08265BAB2D8980B734D0A89C8705CCC40AC 
 {
 public:
 	// UnityEngine.XR.WSA.Input.InteractionSourceState UnityEngine.XR.WSA.Input.InteractionSourceLostEventArgs::<state>k__BackingField
@@ -4819,7 +4846,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.InteractionSourcePressedEventArgs
-struct  InteractionSourcePressedEventArgs_tA2188AAAB8CB2AA059C55E45F2FD09ED3725EA5B 
+struct InteractionSourcePressedEventArgs_tA2188AAAB8CB2AA059C55E45F2FD09ED3725EA5B 
 {
 public:
 	// UnityEngine.XR.WSA.Input.InteractionSourceState UnityEngine.XR.WSA.Input.InteractionSourcePressedEventArgs::<state>k__BackingField
@@ -4847,7 +4874,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.InteractionSourceReleasedEventArgs
-struct  InteractionSourceReleasedEventArgs_tD5E7A07FF6CC463893178DC4F3FD3543F20FB943 
+struct InteractionSourceReleasedEventArgs_tD5E7A07FF6CC463893178DC4F3FD3543F20FB943 
 {
 public:
 	// UnityEngine.XR.WSA.Input.InteractionSourceState UnityEngine.XR.WSA.Input.InteractionSourceReleasedEventArgs::<state>k__BackingField
@@ -4875,7 +4902,7 @@ public:
 
 
 // UnityEngine.XR.WSA.Input.InteractionSourceUpdatedEventArgs
-struct  InteractionSourceUpdatedEventArgs_t8386FB5578FE7C069A136CC36C9B6A56FF99CBC5 
+struct InteractionSourceUpdatedEventArgs_t8386FB5578FE7C069A136CC36C9B6A56FF99CBC5 
 {
 public:
 	// UnityEngine.XR.WSA.Input.InteractionSourceState UnityEngine.XR.WSA.Input.InteractionSourceUpdatedEventArgs::<state>k__BackingField
@@ -4893,7 +4920,7 @@ public:
 
 
 // System.Action`1<UnityEngine.XR.WSA.Input.InteractionSourceDetectedEventArgs>
-struct  Action_1_t5FBB0CAB4D84AD4BEC640760EBC9B9D18AFDDEA0  : public MulticastDelegate_t
+struct Action_1_t5FBB0CAB4D84AD4BEC640760EBC9B9D18AFDDEA0  : public MulticastDelegate_t
 {
 public:
 
@@ -4902,7 +4929,7 @@ public:
 
 
 // System.Action`1<UnityEngine.XR.WSA.Input.InteractionSourceLostEventArgs>
-struct  Action_1_t0880AB893CE69E2212857481DAEDA70E8C3AA7DA  : public MulticastDelegate_t
+struct Action_1_t0880AB893CE69E2212857481DAEDA70E8C3AA7DA  : public MulticastDelegate_t
 {
 public:
 
@@ -4911,7 +4938,7 @@ public:
 
 
 // System.Action`1<UnityEngine.XR.WSA.Input.InteractionSourcePressedEventArgs>
-struct  Action_1_t5925C354A9C769D7F04E130EF166F2EDD1B8EE93  : public MulticastDelegate_t
+struct Action_1_t5925C354A9C769D7F04E130EF166F2EDD1B8EE93  : public MulticastDelegate_t
 {
 public:
 
@@ -4920,7 +4947,7 @@ public:
 
 
 // System.Action`1<UnityEngine.XR.WSA.Input.InteractionSourceReleasedEventArgs>
-struct  Action_1_tB303DD7A7900C391F27676319D72609C5B9BDFF7  : public MulticastDelegate_t
+struct Action_1_tB303DD7A7900C391F27676319D72609C5B9BDFF7  : public MulticastDelegate_t
 {
 public:
 
@@ -4929,7 +4956,7 @@ public:
 
 
 // System.Action`1<UnityEngine.XR.WSA.Input.InteractionSourceUpdatedEventArgs>
-struct  Action_1_tDF471E8C2FE20585DF9E74E046AA2D3A84629C91  : public MulticastDelegate_t
+struct Action_1_tDF471E8C2FE20585DF9E74E046AA2D3A84629C91  : public MulticastDelegate_t
 {
 public:
 
@@ -13337,6 +13364,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GetAsyncDelegate_EndInvoke_mD5E52C44C9A8
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
 // Conversion methods for marshalling of: UnityEngine.XR.WSA.Sharing.WorldAnchorTransferBatch
 IL2CPP_EXTERN_C void WorldAnchorTransferBatch_t7BF25F7D67684AD6C02C3162A81797BC9045BF96_marshal_pinvoke(const WorldAnchorTransferBatch_t7BF25F7D67684AD6C02C3162A81797BC9045BF96& unmarshaled, WorldAnchorTransferBatch_t7BF25F7D67684AD6C02C3162A81797BC9045BF96_marshaled_pinvoke& marshaled)
 {
@@ -15713,6 +15748,32 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void XRSettings_get_eyeTextureDesc_Injected_m
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// System.Void UnityEngineInternal.XR.WSA.RemoteSpeechAccess::EnableRemoteSpeech(UnityEngine.XR.WSA.RemoteDeviceVersion)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RemoteSpeechAccess_EnableRemoteSpeech_m24333760C61D57393192FB3B104A3427FAD61AD0 (int32_t ___remoteDeviceVersion0, const RuntimeMethod* method)
+{
+	typedef void (*RemoteSpeechAccess_EnableRemoteSpeech_m24333760C61D57393192FB3B104A3427FAD61AD0_ftn) (int32_t);
+	static RemoteSpeechAccess_EnableRemoteSpeech_m24333760C61D57393192FB3B104A3427FAD61AD0_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (RemoteSpeechAccess_EnableRemoteSpeech_m24333760C61D57393192FB3B104A3427FAD61AD0_ftn)il2cpp_codegen_resolve_icall ("UnityEngineInternal.XR.WSA.RemoteSpeechAccess::EnableRemoteSpeech(UnityEngine.XR.WSA.RemoteDeviceVersion)");
+	_il2cpp_icall_func(___remoteDeviceVersion0);
+}
+// System.Void UnityEngineInternal.XR.WSA.RemoteSpeechAccess::DisableRemoteSpeech()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RemoteSpeechAccess_DisableRemoteSpeech_mAA6B79C99FAE9F97A5344B46034030E7208CC41C (const RuntimeMethod* method)
+{
+	typedef void (*RemoteSpeechAccess_DisableRemoteSpeech_mAA6B79C99FAE9F97A5344B46034030E7208CC41C_ftn) ();
+	static RemoteSpeechAccess_DisableRemoteSpeech_mAA6B79C99FAE9F97A5344B46034030E7208CC41C_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (RemoteSpeechAccess_DisableRemoteSpeech_mAA6B79C99FAE9F97A5344B46034030E7208CC41C_ftn)il2cpp_codegen_resolve_icall ("UnityEngineInternal.XR.WSA.RemoteSpeechAccess::DisableRemoteSpeech()");
+	_il2cpp_icall_func();
+}
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif

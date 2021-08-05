@@ -208,7 +208,7 @@ IL2CPP_EXTERN_C_END
 #endif
 
 // <Module>
-struct  U3CModuleU3E_tA0EE58F9C633CDF1163F0E75B964A014C483DC8D 
+struct U3CModuleU3E_tA0EE58F9C633CDF1163F0E75B964A014C483DC8D 
 {
 public:
 
@@ -220,7 +220,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfProperty
-struct  GltfProperty_tF93558A1A6E697BE5FDE57D03D264F62BDE70BE0  : public RuntimeObject
+struct GltfProperty_tF93558A1A6E697BE5FDE57D03D264F62BDE70BE0  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.Dictionary`2<System.String,System.String> Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfProperty::Extensions
@@ -254,7 +254,7 @@ struct Il2CppArrayBounds;
 
 
 // System.Collections.Generic.Dictionary`2<System.String,System.String>
-struct  Dictionary_2_t931BF283048C4E74FC063C3036E5F3FE328861FC  : public RuntimeObject
+struct Dictionary_2_t931BF283048C4E74FC063C3036E5F3FE328861FC  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -368,7 +368,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -413,7 +413,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
+struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
 {
 public:
 
@@ -430,7 +430,7 @@ struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF_marshaled_com
 };
 
 // Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject
-struct  GltfObject_t270BFEEBEE1AD91E1B91B53CD489C4B97B2A5AB2  : public GltfProperty_tF93558A1A6E697BE5FDE57D03D264F62BDE70BE0
+struct GltfObject_t270BFEEBEE1AD91E1B91B53CD489C4B97B2A5AB2  : public GltfProperty_tF93558A1A6E697BE5FDE57D03D264F62BDE70BE0
 {
 public:
 	// System.String[] Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject::extensionsUsed
@@ -678,7 +678,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.Response
-struct  Response_t06D134C2EC025073346CC5129FA0D771E3D6651C 
+struct Response_t06D134C2EC025073346CC5129FA0D771E3D6651C 
 {
 public:
 	// System.Boolean Microsoft.MixedReality.Toolkit.Utilities.Response::<Successful>k__BackingField
@@ -770,7 +770,7 @@ struct Response_t06D134C2EC025073346CC5129FA0D771E3D6651C_marshaled_com
 };
 
 // System.Boolean
-struct  Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
+struct Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -816,7 +816,7 @@ public:
 
 
 // System.Byte
-struct  Byte_tF87C579059BD4633E6840EBBBEEF899C6E33EF07 
+struct Byte_tF87C579059BD4633E6840EBBBEEF899C6E33EF07 
 {
 public:
 	// System.Byte System.Byte::m_value
@@ -834,7 +834,7 @@ public:
 
 
 // System.Int32
-struct  Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
+struct Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -852,7 +852,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -886,7 +886,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncMethodBuilderCore
-struct  AsyncMethodBuilderCore_t4CE6C1E4B0621A6EC45CF6E0E8F1F633FFF9FF01 
+struct AsyncMethodBuilderCore_t4CE6C1E4B0621A6EC45CF6E0E8F1F633FFF9FF01 
 {
 public:
 	// System.Runtime.CompilerServices.IAsyncStateMachine System.Runtime.CompilerServices.AsyncMethodBuilderCore::m_stateMachine
@@ -928,7 +928,7 @@ struct AsyncMethodBuilderCore_t4CE6C1E4B0621A6EC45CF6E0E8F1F633FFF9FF01_marshale
 };
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject>
-struct  TaskAwaiter_1_tEF7C72911175AB3C8C8E5E2BB5557CCCCEDA88AF 
+struct TaskAwaiter_1_tEF7C72911175AB3C8C8E5E2BB5557CCCCEDA88AF 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -947,7 +947,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<Microsoft.MixedReality.Toolkit.Utilities.Response>
-struct  TaskAwaiter_1_t893807AFAD2E4A77BB8E12337ACB130641E63B87 
+struct TaskAwaiter_1_t893807AFAD2E4A77BB8E12337ACB130641E63B87 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -966,7 +966,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<System.Object>
-struct  TaskAwaiter_1_t8CDB78D2A4D48E80C35A8FF6FC04A82B9FC35977 
+struct TaskAwaiter_1_t8CDB78D2A4D48E80C35A8FF6FC04A82B9FC35977 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -985,7 +985,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<UnityEngine.GameObject>
-struct  TaskAwaiter_1_tAE6B8B90DDB2F4605D3C8F53F1F449F35790A468 
+struct TaskAwaiter_1_tAE6B8B90DDB2F4605D3C8F53F1F449F35790A468 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -1004,7 +1004,7 @@ public:
 
 
 // System.Single
-struct  Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
+struct Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
 {
 public:
 	// System.Single System.Single::m_value
@@ -1022,7 +1022,7 @@ public:
 
 
 // System.Void
-struct  Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
+struct Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
 {
 public:
 	union
@@ -1038,7 +1038,7 @@ public:
 
 
 // UnityEngine.Vector3
-struct  Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720 
+struct Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720 
 {
 public:
 	// System.Single UnityEngine.Vector3::x
@@ -1182,7 +1182,7 @@ public:
 
 
 // System.Exception
-struct  Exception_t  : public RuntimeObject
+struct Exception_t  : public RuntimeObject
 {
 public:
 	// System.String System.Exception::_className
@@ -1408,7 +1408,7 @@ struct Exception_t_marshaled_com
 };
 
 // System.Runtime.CompilerServices.AsyncVoidMethodBuilder
-struct  AsyncVoidMethodBuilder_t44E3C9B52B019BB5BDCC0E1BB83188B536161CFF 
+struct AsyncVoidMethodBuilder_t44E3C9B52B019BB5BDCC0E1BB83188B536161CFF 
 {
 public:
 	// System.Threading.SynchronizationContext System.Runtime.CompilerServices.AsyncVoidMethodBuilder::m_synchronizationContext
@@ -1466,7 +1466,7 @@ struct AsyncVoidMethodBuilder_t44E3C9B52B019BB5BDCC0E1BB83188B536161CFF_marshale
 };
 
 // System.Threading.Tasks.Task
-struct  Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2  : public RuntimeObject
+struct Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2  : public RuntimeObject
 {
 public:
 	// System.Int32 modreq(System.Runtime.CompilerServices.IsVolatile) System.Threading.Tasks.Task::m_taskId
@@ -1724,7 +1724,7 @@ public:
 
 
 // UnityEngine.Networking.CertificateHandler
-struct  CertificateHandler_tBD070BF4150A44AB482FD36EA3882C363117E8C0  : public RuntimeObject
+struct CertificateHandler_tBD070BF4150A44AB482FD36EA3882C363117E8C0  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Networking.CertificateHandler::m_Ptr
@@ -1752,7 +1752,7 @@ struct CertificateHandler_tBD070BF4150A44AB482FD36EA3882C363117E8C0_marshaled_co
 };
 
 // UnityEngine.Networking.DownloadHandler
-struct  DownloadHandler_t4A7802ADC97024B469C87FA454B6973951980EE9  : public RuntimeObject
+struct DownloadHandler_t4A7802ADC97024B469C87FA454B6973951980EE9  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Networking.DownloadHandler::m_Ptr
@@ -1780,7 +1780,7 @@ struct DownloadHandler_t4A7802ADC97024B469C87FA454B6973951980EE9_marshaled_com
 };
 
 // UnityEngine.Object
-struct  Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0  : public RuntimeObject
+struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Object::m_CachedPtr
@@ -1824,7 +1824,7 @@ struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0_marshaled_com
 };
 
 // Microsoft.MixedReality.Toolkit.Examples.Demos.Gltf.TestGlbLoading/<Start>d__1
-struct  U3CStartU3Ed__1_t8A13FA0507D6080CC9A217D4A7DDDD80A187D5F9 
+struct U3CStartU3Ed__1_t8A13FA0507D6080CC9A217D4A7DDDD80A187D5F9 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Examples.Demos.Gltf.TestGlbLoading/<Start>d__1::<>1__state
@@ -1926,7 +1926,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Examples.Demos.Gltf.TestGltfLoading/<Start>d__7
-struct  U3CStartU3Ed__7_t46751F8CA7DCD421A924F186A393C141EFBD7AAE 
+struct U3CStartU3Ed__7_t46751F8CA7DCD421A924F186A393C141EFBD7AAE 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Examples.Demos.Gltf.TestGltfLoading/<Start>d__7::<>1__state
@@ -1997,7 +1997,7 @@ public:
 
 
 // System.Threading.Tasks.Task`1<Microsoft.MixedReality.Toolkit.Utilities.Gltf.Schema.GltfObject>
-struct  Task_1_t8310AA5F98F13B07F90DE18FAE905E18D07798E0  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
+struct Task_1_t8310AA5F98F13B07F90DE18FAE905E18D07798E0  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
 {
 public:
 	// TResult System.Threading.Tasks.Task`1::m_result
@@ -2044,7 +2044,7 @@ public:
 
 
 // System.Threading.Tasks.Task`1<Microsoft.MixedReality.Toolkit.Utilities.Response>
-struct  Task_1_tC8C4C467CF6CEF7D987AD87BB3A856848F49721B  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
+struct Task_1_tC8C4C467CF6CEF7D987AD87BB3A856848F49721B  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
 {
 public:
 	// TResult System.Threading.Tasks.Task`1::m_result
@@ -2100,7 +2100,7 @@ public:
 
 
 // System.Threading.Tasks.Task`1<UnityEngine.GameObject>
-struct  Task_1_t5029FFD61E4B10A1E614C1D97F1F0FA5B04557EC  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
+struct Task_1_t5029FFD61E4B10A1E614C1D97F1F0FA5B04557EC  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
 {
 public:
 	// TResult System.Threading.Tasks.Task`1::m_result
@@ -2147,7 +2147,7 @@ public:
 
 
 // UnityEngine.Component
-struct  Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -2156,7 +2156,7 @@ public:
 
 
 // UnityEngine.GameObject
-struct  GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -2165,7 +2165,7 @@ public:
 
 
 // UnityEngine.Behaviour
-struct  Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
+struct Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
 {
 public:
 
@@ -2174,7 +2174,7 @@ public:
 
 
 // UnityEngine.Transform
-struct  Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
+struct Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
 {
 public:
 
@@ -2183,7 +2183,7 @@ public:
 
 
 // UnityEngine.MonoBehaviour
-struct  MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429  : public Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8
+struct MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429  : public Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8
 {
 public:
 
@@ -2192,7 +2192,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Examples.Demos.Gltf.TestGlbLoading
-struct  TestGlbLoading_t5FF17ECCDECF72C87158B1B8AE95F65EF93B01E9  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
+struct TestGlbLoading_t5FF17ECCDECF72C87158B1B8AE95F65EF93B01E9  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.Examples.Demos.Gltf.TestGlbLoading::uri
@@ -2211,7 +2211,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Examples.Demos.Gltf.TestGltfLoading
-struct  TestGltfLoading_t65D9E80B5883ED5A273C99256CD22100EAD0AE8B  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
+struct TestGltfLoading_t65D9E80B5883ED5A273C99256CD22100EAD0AE8B  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.Examples.Demos.Gltf.TestGltfLoading::relativePath

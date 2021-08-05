@@ -749,6 +749,7 @@ IL2CPP_EXTERN_C RuntimeClass* Vector3U5BU5D_tB9EC3346CC4A0EA5447D968E84A9AC1F6F3
 IL2CPP_EXTERN_C RuntimeClass* Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* VectorRollingStatistics_tB9CDCAE35FD526D4F2309051260967F58EE17715_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* XRDevice_t392FCA3D1DCEB95FF500C8F374C88B034C31DF4A_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* XRSettingsUtilities_t29DE0C95570533A73074BA5BC9493FF9F9D3D307_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* XRSubsystemHelpers_t857011D990CF0C6A6075AB22F47503E6D3BBCA1A_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* XboxControllerDefinition_t5DC7723BA738D76EE760F254A31CF4228495DD8F_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C String_t* _stringLiteral00A4640FED386D466E49B9C97FC296AE7AFA6ED3;
@@ -1303,7 +1304,7 @@ IL2CPP_EXTERN_C_END
 
 
 // Microsoft.MixedReality.Toolkit.LayerExtensions
-struct  LayerExtensions_t117937B32B3CB334CABEED9F85D9382397809CC5  : public RuntimeObject
+struct LayerExtensions_t117937B32B3CB334CABEED9F85D9382397809CC5  : public RuntimeObject
 {
 public:
 
@@ -1312,7 +1313,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.MathExtensions
-struct  MathExtensions_t06900BFC6CEBC899592F2711A957DB87CA7E8582  : public RuntimeObject
+struct MathExtensions_t06900BFC6CEBC899592F2711A957DB87CA7E8582  : public RuntimeObject
 {
 public:
 
@@ -1321,7 +1322,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.MixedRealityPlayspace
-struct  MixedRealityPlayspace_t60D600CDC40621BFE4EEA808218449DBF21FF9DD  : public RuntimeObject
+struct MixedRealityPlayspace_t60D600CDC40621BFE4EEA808218449DBF21FF9DD  : public RuntimeObject
 {
 public:
 
@@ -1357,7 +1358,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.MixedRealitySceneContent/<InitializeSceneContentWithDelay>d__8
-struct  U3CInitializeSceneContentWithDelayU3Ed__8_t1FEFECC68F27375768BA57B957DABEE561F1DB40  : public RuntimeObject
+struct U3CInitializeSceneContentWithDelayU3Ed__8_t1FEFECC68F27375768BA57B957DABEE561F1DB40  : public RuntimeObject
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.MixedRealitySceneContent/<InitializeSceneContentWithDelay>d__8::<>1__state
@@ -1407,7 +1408,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.MixedRealityServiceRegistry/<>c
-struct  U3CU3Ec_tB024850C9D62F7BCFD7236FDDE8C90B8ED5451E3  : public RuntimeObject
+struct U3CU3Ec_tB024850C9D62F7BCFD7236FDDE8C90B8ED5451E3  : public RuntimeObject
 {
 public:
 
@@ -1433,7 +1434,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.MixedRealityToolkit/<>c
-struct  U3CU3Ec_tFED3AC0A0AC58C65DC8E3509C4BEE78BEA9B3790  : public RuntimeObject
+struct U3CU3Ec_tFED3AC0A0AC58C65DC8E3509C4BEE78BEA9B3790  : public RuntimeObject
 {
 public:
 
@@ -1569,7 +1570,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Physics.BaseRayStabilizer
-struct  BaseRayStabilizer_t94B0E1EBB784C5A698D760DDFD8B27D8EC3B5053  : public RuntimeObject
+struct BaseRayStabilizer_t94B0E1EBB784C5A698D760DDFD8B27D8EC3B5053  : public RuntimeObject
 {
 public:
 
@@ -1578,7 +1579,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Physics.InterpolationUtilities
-struct  InterpolationUtilities_t61AE415456F4FDCFCB75F08571C722B11805340A  : public RuntimeObject
+struct InterpolationUtilities_t61AE415456F4FDCFCB75F08571C722B11805340A  : public RuntimeObject
 {
 public:
 
@@ -1587,7 +1588,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.FastSimplexNoise
-struct  FastSimplexNoise_tEEB7E87A9425DAC4D212FB55C384BF4713024F0C  : public RuntimeObject
+struct FastSimplexNoise_tEEB7E87A9425DAC4D212FB55C384BF4713024F0C  : public RuntimeObject
 {
 public:
 	// System.Byte[] Microsoft.MixedReality.Toolkit.Utilities.FastSimplexNoise::perm
@@ -1810,7 +1811,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.SystemType
-struct  SystemType_t077FEEF09D6CB8C9C1D8B53BFE25FDF3A28C4462  : public RuntimeObject
+struct SystemType_t077FEEF09D6CB8C9C1D8B53BFE25FDF3A28C4462  : public RuntimeObject
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.Utilities.SystemType::reference
@@ -1861,7 +1862,7 @@ struct Il2CppArrayBounds;
 
 
 // System.Attribute
-struct  Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74  : public RuntimeObject
+struct Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74  : public RuntimeObject
 {
 public:
 
@@ -1870,7 +1871,7 @@ public:
 
 
 // System.Collections.Generic.Comparer`1<Microsoft.MixedReality.Toolkit.IMixedRealityService>
-struct  Comparer_1_t434C3E658CD9FFBCA0127DAAD72EE6D8E5EED46F  : public RuntimeObject
+struct Comparer_1_t434C3E658CD9FFBCA0127DAAD72EE6D8E5EED46F  : public RuntimeObject
 {
 public:
 
@@ -1896,7 +1897,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/ValueCollection<System.String,Microsoft.MixedReality.Toolkit.Input.UnityInput.GenericJoystickController>
-struct  ValueCollection_t6F5F5938D164A16EDBD62623C6E81F7AB2D5DF7C  : public RuntimeObject
+struct ValueCollection_t6F5F5938D164A16EDBD62623C6E81F7AB2D5DF7C  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/ValueCollection::dictionary
@@ -1915,7 +1916,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/ValueCollection<System.Type,System.Collections.Generic.List`1<System.Collections.Generic.KeyValuePair`2<Microsoft.MixedReality.Toolkit.IMixedRealityService,Microsoft.MixedReality.Toolkit.IMixedRealityServiceRegistrar>>>
-struct  ValueCollection_t717D99A7DFE6EBC0E4B73F0F4D2551E07EA8FA86  : public RuntimeObject
+struct ValueCollection_t717D99A7DFE6EBC0E4B73F0F4D2551E07EA8FA86  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/ValueCollection::dictionary
@@ -1934,7 +1935,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<Microsoft.MixedReality.Toolkit.IMixedRealityServiceRegistrar,System.Collections.Generic.List`1<Microsoft.MixedReality.Toolkit.IMixedRealityService>>
-struct  Dictionary_2_t494ADD7299853EF3BBC4474778C6AD4E1ECF7CC2  : public RuntimeObject
+struct Dictionary_2_t494ADD7299853EF3BBC4474778C6AD4E1ECF7CC2  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -2048,7 +2049,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<System.Int32,Microsoft.MixedReality.Toolkit.Input.UnityInput.UnityTouchController>
-struct  Dictionary_2_t0C2D67AB411D176BA964FCE438FBAC84A81FF898  : public RuntimeObject
+struct Dictionary_2_t0C2D67AB411D176BA964FCE438FBAC84A81FF898  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -2162,7 +2163,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<System.String,Microsoft.MixedReality.Toolkit.Input.UnityInput.GenericJoystickController>
-struct  Dictionary_2_t5BA652DCF3B69E3A3BEFEF33EC4CE738188CD908  : public RuntimeObject
+struct Dictionary_2_t5BA652DCF3B69E3A3BEFEF33EC4CE738188CD908  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -2276,7 +2277,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<System.Type,Microsoft.MixedReality.Toolkit.IMixedRealityService>
-struct  Dictionary_2_t94F9724957BDA2F79C2026BE910A02D0ED9CE903  : public RuntimeObject
+struct Dictionary_2_t94F9724957BDA2F79C2026BE910A02D0ED9CE903  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -2390,7 +2391,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<System.Type,System.Collections.Generic.List`1<System.Collections.Generic.KeyValuePair`2<Microsoft.MixedReality.Toolkit.IMixedRealityService,Microsoft.MixedReality.Toolkit.IMixedRealityServiceRegistrar>>>
-struct  Dictionary_2_tED852E9F24500AD5156CB917578067464C9C7251  : public RuntimeObject
+struct Dictionary_2_tED852E9F24500AD5156CB917578067464C9C7251  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -2504,7 +2505,7 @@ public:
 
 
 // System.Collections.Generic.HashSet`1<Microsoft.MixedReality.Toolkit.Input.IMixedRealityInputSource>
-struct  HashSet_1_t9AF495989DC2032111BBC032E45A2236FC51EBE3  : public RuntimeObject
+struct HashSet_1_t9AF495989DC2032111BBC032E45A2236FC51EBE3  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.HashSet`1::_buckets
@@ -2596,7 +2597,7 @@ public:
 
 
 // System.Collections.Generic.List`1<Microsoft.MixedReality.Toolkit.IMixedRealityService>
-struct  List_1_t8832494CC77C0C1D52A2772D962912C46C8EFC6D  : public RuntimeObject
+struct List_1_t8832494CC77C0C1D52A2772D962912C46C8EFC6D  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -2663,7 +2664,7 @@ public:
 
 
 // System.Collections.Generic.List`1<Microsoft.MixedReality.Toolkit.Input.UnityInput.UnityTouchController>
-struct  List_1_t3E35B2B52D84E63907BBD2FD003A1567A3A722C4  : public RuntimeObject
+struct List_1_t3E35B2B52D84E63907BBD2FD003A1567A3A722C4  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -2730,7 +2731,7 @@ public:
 
 
 // System.Collections.Generic.List`1<Microsoft.MixedReality.Toolkit.MixedRealityToolkit>
-struct  List_1_t53A7371875984D03D131AE98BB07621CBDCC0D8E  : public RuntimeObject
+struct List_1_t53A7371875984D03D131AE98BB07621CBDCC0D8E  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -2797,7 +2798,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.Collections.Generic.KeyValuePair`2<Microsoft.MixedReality.Toolkit.IMixedRealityService,Microsoft.MixedReality.Toolkit.IMixedRealityServiceRegistrar>>
-struct  List_1_t374E8DCA8EB12FAAB3397E84AB46D7EEE5CDD36A  : public RuntimeObject
+struct List_1_t374E8DCA8EB12FAAB3397E84AB46D7EEE5CDD36A  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -2864,7 +2865,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>>
-struct  List_1_t8E9FA96864291A9D7EFECBE85759FED5F9528EA1  : public RuntimeObject
+struct List_1_t8E9FA96864291A9D7EFECBE85759FED5F9528EA1  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -2931,7 +2932,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.Object>
-struct  List_1_t05CC3C859AB5E6024394EF9A42E3E696628CA02D  : public RuntimeObject
+struct List_1_t05CC3C859AB5E6024394EF9A42E3E696628CA02D  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -2998,7 +2999,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.Tuple`2<System.Type,Microsoft.MixedReality.Toolkit.IMixedRealityService>>
-struct  List_1_tD1CD758CA14CD6029AAF976807E64821395E4120  : public RuntimeObject
+struct List_1_tD1CD758CA14CD6029AAF976807E64821395E4120  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -3065,7 +3066,7 @@ public:
 
 
 // System.EmptyArray`1<System.Object>
-struct  EmptyArray_1_tCF137C88A5824F413EFB5A2F31664D8207E61D26  : public RuntimeObject
+struct EmptyArray_1_tCF137C88A5824F413EFB5A2F31664D8207E61D26  : public RuntimeObject
 {
 public:
 
@@ -3091,7 +3092,7 @@ public:
 
 
 // System.Reflection.MemberInfo
-struct  MemberInfo_t  : public RuntimeObject
+struct MemberInfo_t  : public RuntimeObject
 {
 public:
 
@@ -3100,7 +3101,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -3145,7 +3146,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
+struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
 {
 public:
 
@@ -3162,7 +3163,7 @@ struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF_marshaled_com
 };
 
 // UnityEngine.YieldInstruction
-struct  YieldInstruction_t836035AC7BD07A3C7909F7AD2A5B42DE99D91C44  : public RuntimeObject
+struct YieldInstruction_t836035AC7BD07A3C7909F7AD2A5B42DE99D91C44  : public RuntimeObject
 {
 public:
 
@@ -3179,7 +3180,7 @@ struct YieldInstruction_t836035AC7BD07A3C7909F7AD2A5B42DE99D91C44_marshaled_com
 };
 
 // Microsoft.MixedReality.Toolkit.MixedRealityServiceInspectorAttribute
-struct  MixedRealityServiceInspectorAttribute_t6AA9E5CA3079B491ADD2A492EDC75EBD522C75A4  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
+struct MixedRealityServiceInspectorAttribute_t6AA9E5CA3079B491ADD2A492EDC75EBD522C75A4  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
 {
 public:
 	// System.Type Microsoft.MixedReality.Toolkit.MixedRealityServiceInspectorAttribute::<ServiceType>k__BackingField
@@ -3198,7 +3199,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.MixedRealityServiceProfileAttribute
-struct  MixedRealityServiceProfileAttribute_t8059DB1A5567F280630B67F2A996D441E08AD7B0  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
+struct MixedRealityServiceProfileAttribute_t8059DB1A5567F280630B67F2A996D441E08AD7B0  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
 {
 public:
 	// System.Type[] Microsoft.MixedReality.Toolkit.MixedRealityServiceProfileAttribute::<RequiredTypes>k__BackingField
@@ -3228,7 +3229,7 @@ public:
 
 
 // System.Boolean
-struct  Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
+struct Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -3274,7 +3275,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/ValueCollection/Enumerator<System.Object,System.Object>
-struct  Enumerator_tB5076FB1730C18188DBB208FD1B6870FC5A660E6 
+struct Enumerator_tB5076FB1730C18188DBB208FD1B6870FC5A660E6 
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/ValueCollection/Enumerator::dictionary
@@ -3324,7 +3325,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/ValueCollection/Enumerator<System.Type,System.Collections.Generic.List`1<System.Collections.Generic.KeyValuePair`2<Microsoft.MixedReality.Toolkit.IMixedRealityService,Microsoft.MixedReality.Toolkit.IMixedRealityServiceRegistrar>>>
-struct  Enumerator_t046832EC64DE25C930046660D652F374B6E576C4 
+struct Enumerator_t046832EC64DE25C930046660D652F374B6E576C4 
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/ValueCollection/Enumerator::dictionary
@@ -3374,7 +3375,7 @@ public:
 
 
 // System.Collections.Generic.HashSet`1/Enumerator<Microsoft.MixedReality.Toolkit.Input.IMixedRealityInputSource>
-struct  Enumerator_t130667D80D7E128AB5DFE1A99A0EA8CCBAC9A840 
+struct Enumerator_t130667D80D7E128AB5DFE1A99A0EA8CCBAC9A840 
 {
 public:
 	// System.Collections.Generic.HashSet`1<T> System.Collections.Generic.HashSet`1/Enumerator::_set
@@ -3424,7 +3425,7 @@ public:
 
 
 // System.Collections.Generic.HashSet`1/Enumerator<System.Object>
-struct  Enumerator_t16164AEE5BCAD6A8A04C21F32E9D949BE1CA0133 
+struct Enumerator_t16164AEE5BCAD6A8A04C21F32E9D949BE1CA0133 
 {
 public:
 	// System.Collections.Generic.HashSet`1<T> System.Collections.Generic.HashSet`1/Enumerator::_set
@@ -3474,7 +3475,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<Microsoft.MixedReality.Toolkit.IMixedRealityService,Microsoft.MixedReality.Toolkit.IMixedRealityServiceRegistrar>
-struct  KeyValuePair_2_t68376BD0D23BBFF691D49436CCD824216FE2F725 
+struct KeyValuePair_2_t68376BD0D23BBFF691D49436CCD824216FE2F725 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -3504,7 +3505,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Int32,Microsoft.MixedReality.Toolkit.Input.UnityInput.UnityTouchController>
-struct  KeyValuePair_2_tF837B0AE1763B830A593BB529517C33A14E50DF9 
+struct KeyValuePair_2_tF837B0AE1763B830A593BB529517C33A14E50DF9 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -3533,7 +3534,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Int32,System.Object>
-struct  KeyValuePair_2_t86464C52F9602337EAC68825E6BE06951D7530CE 
+struct KeyValuePair_2_t86464C52F9602337EAC68825E6BE06951D7530CE 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -3562,7 +3563,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>
-struct  KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE 
+struct KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -3592,7 +3593,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.String,Microsoft.MixedReality.Toolkit.Input.UnityInput.GenericJoystickController>
-struct  KeyValuePair_2_t255E6DE5E2358E589EC8936B904921716D176E73 
+struct KeyValuePair_2_t255E6DE5E2358E589EC8936B904921716D176E73 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -3622,7 +3623,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Type,Microsoft.MixedReality.Toolkit.IMixedRealityService>
-struct  KeyValuePair_2_t7E2C2F5FA7793C99BA7E2EFE9A98576753364D2A 
+struct KeyValuePair_2_t7E2C2F5FA7793C99BA7E2EFE9A98576753364D2A 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -3652,7 +3653,7 @@ public:
 
 
 // System.Double
-struct  Double_t358B8F23BDC52A5DD700E727E204F9F7CDE12409 
+struct Double_t358B8F23BDC52A5DD700E727E204F9F7CDE12409 
 {
 public:
 	// System.Double System.Double::m_value
@@ -3686,7 +3687,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
+struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
 {
 public:
 
@@ -3720,7 +3721,7 @@ struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521_marshaled_com
 };
 
 // System.Int32
-struct  Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
+struct Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -3738,7 +3739,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -3772,7 +3773,7 @@ public:
 
 
 // System.Nullable`1<System.Boolean>
-struct  Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793 
+struct Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793 
 {
 public:
 	// T System.Nullable`1::value
@@ -3800,7 +3801,7 @@ public:
 
 
 // System.Nullable`1<System.Int32>
-struct  Nullable_1_t0D03270832B3FFDDC0E7C2D89D4A0EA25376A1EB 
+struct Nullable_1_t0D03270832B3FFDDC0E7C2D89D4A0EA25376A1EB 
 {
 public:
 	// T System.Nullable`1::value
@@ -3828,7 +3829,7 @@ public:
 
 
 // System.Single
-struct  Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
+struct Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
 {
 public:
 	// System.Single System.Single::m_value
@@ -3846,7 +3847,7 @@ public:
 
 
 // System.UInt16
-struct  UInt16_tAE45CEF73BF720100519F6867F32145D075F928E 
+struct UInt16_tAE45CEF73BF720100519F6867F32145D075F928E 
 {
 public:
 	// System.UInt16 System.UInt16::m_value
@@ -3864,7 +3865,7 @@ public:
 
 
 // System.UInt32
-struct  UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
+struct UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
 {
 public:
 	// System.UInt32 System.UInt32::m_value
@@ -3882,7 +3883,7 @@ public:
 
 
 // System.Void
-struct  Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
+struct Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
 {
 public:
 	union
@@ -3898,7 +3899,7 @@ public:
 
 
 // UnityEngine.Color
-struct  Color_t119BCA590009762C7223FDD3AF9706653AC84ED2 
+struct Color_t119BCA590009762C7223FDD3AF9706653AC84ED2 
 {
 public:
 	// System.Single UnityEngine.Color::r
@@ -3946,7 +3947,7 @@ public:
 
 
 // UnityEngine.LayerMask
-struct  LayerMask_tBB9173D8B6939D476E67E849280AC9F4EC4D93B0 
+struct LayerMask_tBB9173D8B6939D476E67E849280AC9F4EC4D93B0 
 {
 public:
 	// System.Int32 UnityEngine.LayerMask::m_Mask
@@ -3964,7 +3965,7 @@ public:
 
 
 // UnityEngine.Mathf
-struct  Mathf_tFBDE6467D269BFE410605C7D806FD9991D4A89CB 
+struct Mathf_tFBDE6467D269BFE410605C7D806FD9991D4A89CB 
 {
 public:
 	union
@@ -3996,7 +3997,7 @@ public:
 
 
 // UnityEngine.Matrix4x4
-struct  Matrix4x4_t6BF60F70C9169DF14C9D2577672A44224B236ECA 
+struct Matrix4x4_t6BF60F70C9169DF14C9D2577672A44224B236ECA 
 {
 public:
 	// System.Single UnityEngine.Matrix4x4::m00
@@ -4190,7 +4191,7 @@ public:
 
 
 // UnityEngine.PropertyAttribute
-struct  PropertyAttribute_t25BFFC093C9C96E3CCF4EAB36F5DC6F937B1FA54  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
+struct PropertyAttribute_t25BFFC093C9C96E3CCF4EAB36F5DC6F937B1FA54  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
 {
 public:
 
@@ -4199,7 +4200,7 @@ public:
 
 
 // UnityEngine.Quaternion
-struct  Quaternion_t319F3319A7D43FFA5D819AD6C0A98851F0095357 
+struct Quaternion_t319F3319A7D43FFA5D819AD6C0A98851F0095357 
 {
 public:
 	// System.Single UnityEngine.Quaternion::x
@@ -4263,7 +4264,7 @@ public:
 
 
 // UnityEngine.SceneManagement.Scene
-struct  Scene_t942E023788C2BC9FBB7EC8356B4FB0088B2CFED2 
+struct Scene_t942E023788C2BC9FBB7EC8356B4FB0088B2CFED2 
 {
 public:
 	// System.Int32 UnityEngine.SceneManagement.Scene::m_Handle
@@ -4281,7 +4282,7 @@ public:
 
 
 // UnityEngine.Vector2
-struct  Vector2_tA85D2DD88578276CA8A8796756458277E72D073D 
+struct Vector2_tA85D2DD88578276CA8A8796756458277E72D073D 
 {
 public:
 	// System.Single UnityEngine.Vector2::x
@@ -4395,7 +4396,7 @@ public:
 
 
 // UnityEngine.Vector3
-struct  Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720 
+struct Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720 
 {
 public:
 	// System.Single UnityEngine.Vector3::x
@@ -4539,7 +4540,7 @@ public:
 
 
 // UnityEngine.Vector3Int
-struct  Vector3Int_tA843C5F8C2EB42492786C5AF82C3E1F4929942B4 
+struct Vector3Int_tA843C5F8C2EB42492786C5AF82C3E1F4929942B4 
 {
 public:
 	// System.Int32 UnityEngine.Vector3Int::m_X
@@ -4643,7 +4644,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.BaseService
-struct  BaseService_t04BD3B909CB87D0CCC7B5C236A124AE2898EE07D  : public RuntimeObject
+struct BaseService_t04BD3B909CB87D0CCC7B5C236A124AE2898EE07D  : public RuntimeObject
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.BaseService::<Name>k__BackingField
@@ -4723,7 +4724,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.DeviceInputType
-struct  DeviceInputType_t82CCA5279B612F927F15DB8969A64FA79885F5CA 
+struct DeviceInputType_t82CCA5279B612F927F15DB8969A64FA79885F5CA 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Input.DeviceInputType::value__
@@ -4741,7 +4742,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.GestureInputType
-struct  GestureInputType_t7C2A5B1E4CB1D8436F370320CC3BA519057B1A96 
+struct GestureInputType_t7C2A5B1E4CB1D8436F370320CC3BA519057B1A96 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Input.GestureInputType::value__
@@ -4759,7 +4760,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.InputSourceType
-struct  InputSourceType_tC80C0DAA2FE6E1D108B57DAD19D042E157183CC6 
+struct InputSourceType_tC80C0DAA2FE6E1D108B57DAD19D042E157183CC6 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Input.InputSourceType::value__
@@ -4777,7 +4778,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.MixedRealityControllerConfigurationFlags
-struct  MixedRealityControllerConfigurationFlags_tFF98C1D23FC3700147742A8A93FF910E9BD9A70C 
+struct MixedRealityControllerConfigurationFlags_tFF98C1D23FC3700147742A8A93FF910E9BD9A70C 
 {
 public:
 	// System.Byte Microsoft.MixedReality.Toolkit.Input.MixedRealityControllerConfigurationFlags::value__
@@ -4795,7 +4796,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.MixedRealityRaycastHit
-struct  MixedRealityRaycastHit_tE6F903DE29D0D4AD12DD3962B098DE48853C2B9B 
+struct MixedRealityRaycastHit_tE6F903DE29D0D4AD12DD3962B098DE48853C2B9B 
 {
 public:
 	// UnityEngine.Vector3 Microsoft.MixedReality.Toolkit.Input.MixedRealityRaycastHit::point
@@ -4945,7 +4946,7 @@ struct MixedRealityRaycastHit_tE6F903DE29D0D4AD12DD3962B098DE48853C2B9B_marshale
 };
 
 // Microsoft.MixedReality.Toolkit.Input.SupportedControllerType
-struct  SupportedControllerType_tEB61AF851CFA81FCFEA4FBF92AF0C91A4977A3D2 
+struct SupportedControllerType_tEB61AF851CFA81FCFEA4FBF92AF0C91A4977A3D2 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Input.SupportedControllerType::value__
@@ -4963,7 +4964,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.InterpolationMode
-struct  InterpolationMode_t24220F29696B6130883D422AD461658BBB028CDE 
+struct InterpolationMode_t24220F29696B6130883D422AD461658BBB028CDE 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.InterpolationMode::value__
@@ -4981,7 +4982,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.InterpolationType
-struct  InterpolationType_t7A4CAD87168F960A54EB45BF98C9B04B0FEE6320 
+struct InterpolationType_t7A4CAD87168F960A54EB45BF98C9B04B0FEE6320 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.InterpolationType::value__
@@ -4999,7 +5000,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.LinePointTransformMode
-struct  LinePointTransformMode_tF5F1C42572EB20A313CD700C2F7531701A8B871C 
+struct LinePointTransformMode_tF5F1C42572EB20A313CD700C2F7531701A8B871C 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.LinePointTransformMode::value__
@@ -5017,7 +5018,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.LineRotationMode
-struct  LineRotationMode_t9B8F0CE7D23334CCD66BEED6521896CC57A340D6 
+struct LineRotationMode_t9B8F0CE7D23334CCD66BEED6521896CC57A340D6 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.LineRotationMode::value__
@@ -5035,7 +5036,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.MixedRealityCapability
-struct  MixedRealityCapability_t7B7AEE6BFBE1123E5B65993ABF761CE5E494DD1F 
+struct MixedRealityCapability_t7B7AEE6BFBE1123E5B65993ABF761CE5E494DD1F 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.MixedRealityCapability::value__
@@ -5053,7 +5054,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.MixedRealitySceneContent/AlignmentType
-struct  AlignmentType_t702CD2BE511A702E3B4C3038BAB60E7F5F3C38BB 
+struct AlignmentType_t702CD2BE511A702E3B4C3038BAB60E7F5F3C38BB 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.MixedRealitySceneContent/AlignmentType::value__
@@ -5071,7 +5072,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Physics.PhysicsLayerAttribute
-struct  PhysicsLayerAttribute_tEED8199442C1D40D763B2E43F9AAFF93A9A9F892  : public PropertyAttribute_t25BFFC093C9C96E3CCF4EAB36F5DC6F937B1FA54
+struct PhysicsLayerAttribute_tEED8199442C1D40D763B2E43F9AAFF93A9A9F892  : public PropertyAttribute_t25BFFC093C9C96E3CCF4EAB36F5DC6F937B1FA54
 {
 public:
 
@@ -5080,7 +5081,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Physics.RayStep
-struct  RayStep_t87BAA396376A2268AD51DDE455061B82FD8CB258 
+struct RayStep_t87BAA396376A2268AD51DDE455061B82FD8CB258 
 {
 public:
 	// UnityEngine.Vector3 Microsoft.MixedReality.Toolkit.Physics.RayStep::<Origin>k__BackingField
@@ -5174,7 +5175,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Physics.VectorRollingStatistics
-struct  VectorRollingStatistics_tB9CDCAE35FD526D4F2309051260967F58EE17715  : public RuntimeObject
+struct VectorRollingStatistics_tB9CDCAE35FD526D4F2309051260967F58EE17715  : public RuntimeObject
 {
 public:
 	// System.Single Microsoft.MixedReality.Toolkit.Physics.VectorRollingStatistics::<CurrentStandardDeviation>k__BackingField
@@ -5293,7 +5294,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.TrackingState
-struct  TrackingState_t3F3BA5829CF29CE39CE69DCF16B4709EB29B3566 
+struct TrackingState_t3F3BA5829CF29CE39CE69DCF16B4709EB29B3566 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.TrackingState::value__
@@ -5311,7 +5312,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.AutoStartBehavior
-struct  AutoStartBehavior_t10B2527F70978B5CB36186CAF8E41D5BF1A8CC8B 
+struct AutoStartBehavior_t10B2527F70978B5CB36186CAF8E41D5BF1A8CC8B 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.AutoStartBehavior::value__
@@ -5329,7 +5330,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.AxisType
-struct  AxisType_tB1349A32D492597F2BE1244EDFC343C295DE7E0C 
+struct AxisType_tB1349A32D492597F2BE1244EDFC343C295DE7E0C 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.AxisType::value__
@@ -5347,7 +5348,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.DebugUtilities/LoggingLevel
-struct  LoggingLevel_t137B2A1B396CC1C49E83D1A56A8F744C2DC66B0A 
+struct LoggingLevel_t137B2A1B396CC1C49E83D1A56A8F744C2DC66B0A 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.DebugUtilities/LoggingLevel::value__
@@ -5365,7 +5366,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.ExperienceScale
-struct  ExperienceScale_t8B2BD809A373015742406D60469005CDD64B11F5 
+struct ExperienceScale_t8B2BD809A373015742406D60469005CDD64B11F5 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.ExperienceScale::value__
@@ -5383,7 +5384,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.Handedness
-struct  Handedness_t301E8BC803842961C6D57055922A242B17CC242D 
+struct Handedness_t301E8BC803842961C6D57055922A242B17CC242D 
 {
 public:
 	// System.Byte Microsoft.MixedReality.Toolkit.Utilities.Handedness::value__
@@ -5401,7 +5402,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.MixedRealityPose
-struct  MixedRealityPose_tD0EA25752DB09A7E1D8D25321C32360088D2DA3F 
+struct MixedRealityPose_tD0EA25752DB09A7E1D8D25321C32360088D2DA3F 
 {
 public:
 	// UnityEngine.Vector3 Microsoft.MixedReality.Toolkit.Utilities.MixedRealityPose::position
@@ -5445,7 +5446,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.SupportedPlatforms
-struct  SupportedPlatforms_tC1BF6F31F4AEC766F18A07396C343E4F841886F2 
+struct SupportedPlatforms_tC1BF6F31F4AEC766F18A07396C343E4F841886F2 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.SupportedPlatforms::value__
@@ -5463,7 +5464,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.SupportedUnityXRPipelines
-struct  SupportedUnityXRPipelines_tEBCEAD68FAB5B4DC61DD111F86FC7A48DEB8138D 
+struct SupportedUnityXRPipelines_tEBCEAD68FAB5B4DC61DD111F86FC7A48DEB8138D 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.SupportedUnityXRPipelines::value__
@@ -5481,7 +5482,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Windows.Input.WindowsGestureSettings
-struct  WindowsGestureSettings_tACA335EB13C5766CA1D3B6A54BAE22D1A12A8FC8 
+struct WindowsGestureSettings_tACA335EB13C5766CA1D3B6A54BAE22D1A12A8FC8 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Windows.Input.WindowsGestureSettings::value__
@@ -5499,7 +5500,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/Enumerator<System.Int32,Microsoft.MixedReality.Toolkit.Input.UnityInput.UnityTouchController>
-struct  Enumerator_t0A7F3B39C96B55A52D808084A9756BC14E0907DB 
+struct Enumerator_t0A7F3B39C96B55A52D808084A9756BC14E0907DB 
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/Enumerator::dictionary
@@ -5559,7 +5560,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/Enumerator<System.Int32,System.Object>
-struct  Enumerator_t9A2E00C583A23B1B5B7D051DF98EBA95FA7174AF 
+struct Enumerator_t9A2E00C583A23B1B5B7D051DF98EBA95FA7174AF 
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/Enumerator::dictionary
@@ -5619,7 +5620,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/Enumerator<System.Object,System.Object>
-struct  Enumerator_tED23DFBF3911229086C71CCE7A54D56F5FFB34CB 
+struct Enumerator_tED23DFBF3911229086C71CCE7A54D56F5FFB34CB 
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/Enumerator::dictionary
@@ -5682,7 +5683,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/Enumerator<System.String,Microsoft.MixedReality.Toolkit.Input.UnityInput.GenericJoystickController>
-struct  Enumerator_t0374CE140F3F47D20DB05ACB54AF5E535B9AD392 
+struct Enumerator_t0374CE140F3F47D20DB05ACB54AF5E535B9AD392 
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/Enumerator::dictionary
@@ -5745,7 +5746,7 @@ public:
 
 
 // System.Delegate
-struct  Delegate_t  : public RuntimeObject
+struct Delegate_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Delegate::method_ptr
@@ -5897,7 +5898,7 @@ struct Delegate_t_marshaled_com
 };
 
 // System.Exception
-struct  Exception_t  : public RuntimeObject
+struct Exception_t  : public RuntimeObject
 {
 public:
 	// System.String System.Exception::_className
@@ -6123,7 +6124,7 @@ struct Exception_t_marshaled_com
 };
 
 // System.Reflection.BindingFlags
-struct  BindingFlags_tE35C91D046E63A1B92BB9AB909FCF9DA84379ED0 
+struct BindingFlags_tE35C91D046E63A1B92BB9AB909FCF9DA84379ED0 
 {
 public:
 	// System.Int32 System.Reflection.BindingFlags::value__
@@ -6141,7 +6142,7 @@ public:
 
 
 // System.RuntimeTypeHandle
-struct  RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D 
+struct RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D 
 {
 public:
 	// System.IntPtr System.RuntimeTypeHandle::value
@@ -6159,7 +6160,7 @@ public:
 
 
 // Unity.Profiling.ProfilerMarker
-struct  ProfilerMarker_t41096870004E8A2081E31E01BC0552F2F01F2B86 
+struct ProfilerMarker_t41096870004E8A2081E31E01BC0552F2F01F2B86 
 {
 public:
 	// System.IntPtr Unity.Profiling.ProfilerMarker::m_Ptr
@@ -6177,7 +6178,7 @@ public:
 
 
 // Unity.Profiling.ProfilerMarker/AutoScope
-struct  AutoScope_tFCF9F27FF85DCD3A3880FAADCB520F29B1543A7F 
+struct AutoScope_tFCF9F27FF85DCD3A3880FAADCB520F29B1543A7F 
 {
 public:
 	// System.IntPtr Unity.Profiling.ProfilerMarker/AutoScope::m_Ptr
@@ -6195,7 +6196,7 @@ public:
 
 
 // UnityEngine.AnimationCurve
-struct  AnimationCurve_tD2F265379583AAF1BF8D84F1BB8DB12980FA504C  : public RuntimeObject
+struct AnimationCurve_tD2F265379583AAF1BF8D84F1BB8DB12980FA504C  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.AnimationCurve::m_Ptr
@@ -6223,7 +6224,7 @@ struct AnimationCurve_tD2F265379583AAF1BF8D84F1BB8DB12980FA504C_marshaled_com
 };
 
 // UnityEngine.CameraClearFlags
-struct  CameraClearFlags_tAC22BD22D12708CBDC63F6CFB31109E5E17CF239 
+struct CameraClearFlags_tAC22BD22D12708CBDC63F6CFB31109E5E17CF239 
 {
 public:
 	// System.Int32 UnityEngine.CameraClearFlags::value__
@@ -6241,7 +6242,7 @@ public:
 
 
 // UnityEngine.Coroutine
-struct  Coroutine_tAE7DB2FC70A0AE6477F896F852057CB0754F06EC  : public YieldInstruction_t836035AC7BD07A3C7909F7AD2A5B42DE99D91C44
+struct Coroutine_tAE7DB2FC70A0AE6477F896F852057CB0754F06EC  : public YieldInstruction_t836035AC7BD07A3C7909F7AD2A5B42DE99D91C44
 {
 public:
 	// System.IntPtr UnityEngine.Coroutine::m_Ptr
@@ -6269,7 +6270,7 @@ struct Coroutine_tAE7DB2FC70A0AE6477F896F852057CB0754F06EC_marshaled_com : publi
 };
 
 // UnityEngine.EventSystems.RaycastResult
-struct  RaycastResult_t991BCED43A91EDD8580F39631DA07B1F88C58B91 
+struct RaycastResult_t991BCED43A91EDD8580F39631DA07B1F88C58B91 
 {
 public:
 	// UnityEngine.GameObject UnityEngine.EventSystems.RaycastResult::m_GameObject
@@ -6419,7 +6420,7 @@ struct RaycastResult_t991BCED43A91EDD8580F39631DA07B1F88C58B91_marshaled_com
 };
 
 // UnityEngine.IntegratedSubsystem
-struct  IntegratedSubsystem_tEFE71989A825ABA8955C1B1505C8F2405FA61026  : public RuntimeObject
+struct IntegratedSubsystem_tEFE71989A825ABA8955C1B1505C8F2405FA61026  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.IntegratedSubsystem::m_Ptr
@@ -6460,7 +6461,7 @@ struct IntegratedSubsystem_tEFE71989A825ABA8955C1B1505C8F2405FA61026_marshaled_c
 };
 
 // UnityEngine.KeyCode
-struct  KeyCode_tC93EA87C5A6901160B583ADFCD3EF6726570DC3C 
+struct KeyCode_tC93EA87C5A6901160B583ADFCD3EF6726570DC3C 
 {
 public:
 	// System.Int32 UnityEngine.KeyCode::value__
@@ -6478,7 +6479,7 @@ public:
 
 
 // UnityEngine.Object
-struct  Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0  : public RuntimeObject
+struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Object::m_CachedPtr
@@ -6522,7 +6523,7 @@ struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0_marshaled_com
 };
 
 // UnityEngine.Plane
-struct  Plane_t0903921088DEEDE1BCDEA5BF279EDBCFC9679AED 
+struct Plane_t0903921088DEEDE1BCDEA5BF279EDBCFC9679AED 
 {
 public:
 	// UnityEngine.Vector3 UnityEngine.Plane::m_Normal
@@ -6550,7 +6551,7 @@ public:
 
 
 // UnityEngine.Ray
-struct  Ray_tE2163D4CB3E6B267E29F8ABE41684490E4A614B2 
+struct Ray_tE2163D4CB3E6B267E29F8ABE41684490E4A614B2 
 {
 public:
 	// UnityEngine.Vector3 UnityEngine.Ray::m_Origin
@@ -6578,7 +6579,7 @@ public:
 
 
 // UnityEngine.RaycastHit
-struct  RaycastHit_t19695F18F9265FE5425062BBA6A4D330480538C3 
+struct RaycastHit_t19695F18F9265FE5425062BBA6A4D330480538C3 
 {
 public:
 	// UnityEngine.Vector3 UnityEngine.RaycastHit::m_Point
@@ -6646,7 +6647,7 @@ public:
 
 
 // UnityEngine.SceneManagement.LoadSceneMode
-struct  LoadSceneMode_t75F0B96794398942671B8315D2A9AC25C40A22D5 
+struct LoadSceneMode_t75F0B96794398942671B8315D2A9AC25C40A22D5 
 {
 public:
 	// System.Int32 UnityEngine.SceneManagement.LoadSceneMode::value__
@@ -6664,7 +6665,7 @@ public:
 
 
 // UnityEngine.TextAnchor
-struct  TextAnchor_tEC19034D476659A5E05366C63564F34DD30E7C57 
+struct TextAnchor_tEC19034D476659A5E05366C63564F34DD30E7C57 
 {
 public:
 	// System.Int32 UnityEngine.TextAnchor::value__
@@ -6682,7 +6683,7 @@ public:
 
 
 // UnityEngine.TouchPhase
-struct  TouchPhase_t7E9CEC3DD059E32F847242513BD6CE30866AB2A6 
+struct TouchPhase_t7E9CEC3DD059E32F847242513BD6CE30866AB2A6 
 {
 public:
 	// System.Int32 UnityEngine.TouchPhase::value__
@@ -6700,7 +6701,7 @@ public:
 
 
 // UnityEngine.TouchType
-struct  TouchType_tBBD83025576FC017B10484014B5C396613A02B8E 
+struct TouchType_tBBD83025576FC017B10484014B5C396613A02B8E 
 {
 public:
 	// System.Int32 UnityEngine.TouchType::value__
@@ -6718,7 +6719,7 @@ public:
 
 
 // UnityEngine.XR.TrackingOriginModeFlags
-struct  TrackingOriginModeFlags_t99F07374B49B56D7A4AB1AB8EB456ACDD00B0A52 
+struct TrackingOriginModeFlags_t99F07374B49B56D7A4AB1AB8EB456ACDD00B0A52 
 {
 public:
 	// System.Int32 UnityEngine.XR.TrackingOriginModeFlags::value__
@@ -6736,7 +6737,7 @@ public:
 
 
 // UnityEngine.XR.TrackingSpaceType
-struct  TrackingSpaceType_tDFAE75A41ADEB2EC330998CCC63202F4A4889C2B 
+struct TrackingSpaceType_tDFAE75A41ADEB2EC330998CCC63202F4A4889C2B 
 {
 public:
 	// System.Int32 UnityEngine.XR.TrackingSpaceType::value__
@@ -6754,7 +6755,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.BaseDataProvider`1<Microsoft.MixedReality.Toolkit.Input.IMixedRealityInputSystem>
-struct  BaseDataProvider_1_t375B765F0EDEABF5447143D32EE5349B4E77E1CC  : public BaseService_t04BD3B909CB87D0CCC7B5C236A124AE2898EE07D
+struct BaseDataProvider_1_t375B765F0EDEABF5447143D32EE5349B4E77E1CC  : public BaseService_t04BD3B909CB87D0CCC7B5C236A124AE2898EE07D
 {
 public:
 	// Microsoft.MixedReality.Toolkit.IMixedRealityServiceRegistrar Microsoft.MixedReality.Toolkit.BaseDataProvider`1::<Registrar>k__BackingField
@@ -6784,7 +6785,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.BaseDataProvider`1<System.Object>
-struct  BaseDataProvider_1_t91C293BC735B7FE9890829B0A7BF63C844FDA201  : public BaseService_t04BD3B909CB87D0CCC7B5C236A124AE2898EE07D
+struct BaseDataProvider_1_t91C293BC735B7FE9890829B0A7BF63C844FDA201  : public BaseService_t04BD3B909CB87D0CCC7B5C236A124AE2898EE07D
 {
 public:
 	// Microsoft.MixedReality.Toolkit.IMixedRealityServiceRegistrar Microsoft.MixedReality.Toolkit.BaseDataProvider`1::<Registrar>k__BackingField
@@ -6814,7 +6815,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.CameraSystem.MixedRealityCameraSettingsConfiguration
-struct  MixedRealityCameraSettingsConfiguration_t5C6546F83443BD65ECE44A72D21E841761DEDCD8 
+struct MixedRealityCameraSettingsConfiguration_t5C6546F83443BD65ECE44A72D21E841761DEDCD8 
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Utilities.SystemType Microsoft.MixedReality.Toolkit.CameraSystem.MixedRealityCameraSettingsConfiguration::componentType
@@ -6893,7 +6894,7 @@ struct MixedRealityCameraSettingsConfiguration_t5C6546F83443BD65ECE44A72D21E8417
 };
 
 // Microsoft.MixedReality.Toolkit.Input.BaseController
-struct  BaseController_t3DCCF56B5EDC6DC3EF2DE2894B6ED1EE98065EDA  : public RuntimeObject
+struct BaseController_t3DCCF56B5EDC6DC3EF2DE2894B6ED1EE98065EDA  : public RuntimeObject
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Input.IMixedRealityInputSourceDefinition Microsoft.MixedReality.Toolkit.Input.BaseController::<Definition>k__BackingField
@@ -7025,7 +7026,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.BaseInputSourceDefinition
-struct  BaseInputSourceDefinition_tDFB60353D97B32938D58AE9766C1E31C638C5384  : public RuntimeObject
+struct BaseInputSourceDefinition_tDFB60353D97B32938D58AE9766C1E31C638C5384  : public RuntimeObject
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Utilities.Handedness Microsoft.MixedReality.Toolkit.Input.BaseInputSourceDefinition::<Handedness>k__BackingField
@@ -7043,7 +7044,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.MixedRealityControllerAttribute
-struct  MixedRealityControllerAttribute_tB505BFF88B43C1D40073C125BE793A6E2187153D  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
+struct MixedRealityControllerAttribute_tB505BFF88B43C1D40073C125BE793A6E2187153D  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Input.SupportedControllerType Microsoft.MixedReality.Toolkit.Input.MixedRealityControllerAttribute::<SupportedControllerType>k__BackingField
@@ -7103,7 +7104,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.MixedRealityInputAction
-struct  MixedRealityInputAction_t5B61307291187B5DFD1199E73E785381223173FC 
+struct MixedRealityInputAction_t5B61307291187B5DFD1199E73E785381223173FC 
 {
 public:
 	// System.UInt32 Microsoft.MixedReality.Toolkit.Input.MixedRealityInputAction::id
@@ -7173,7 +7174,7 @@ struct MixedRealityInputAction_t5B61307291187B5DFD1199E73E785381223173FC_marshal
 };
 
 // Microsoft.MixedReality.Toolkit.Input.MixedRealityInteractionMappingLegacyInput
-struct  MixedRealityInteractionMappingLegacyInput_tC15106A6BA5073D57A33B59A96DD8F87FE9FA06B 
+struct MixedRealityInteractionMappingLegacyInput_tC15106A6BA5073D57A33B59A96DD8F87FE9FA06B 
 {
 public:
 	// UnityEngine.KeyCode Microsoft.MixedReality.Toolkit.Input.MixedRealityInteractionMappingLegacyInput::<KeyCode>k__BackingField
@@ -7251,7 +7252,7 @@ struct MixedRealityInteractionMappingLegacyInput_tC15106A6BA5073D57A33B59A96DD8F
 };
 
 // Microsoft.MixedReality.Toolkit.MixedRealityExtensionServiceAttribute
-struct  MixedRealityExtensionServiceAttribute_tFAEA7F7555B981E3487F1FA785470B89E35347DB  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
+struct MixedRealityExtensionServiceAttribute_tFAEA7F7555B981E3487F1FA785470B89E35347DB  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.MixedRealityExtensionServiceAttribute::<Name>k__BackingField
@@ -7312,7 +7313,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.MixedRealityServiceConfiguration
-struct  MixedRealityServiceConfiguration_t6B2FE1A6C022E7B8F4E31B7146146A95757904F8 
+struct MixedRealityServiceConfiguration_t6B2FE1A6C022E7B8F4E31B7146146A95757904F8 
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Utilities.SystemType Microsoft.MixedReality.Toolkit.MixedRealityServiceConfiguration::componentType
@@ -7391,7 +7392,7 @@ struct MixedRealityServiceConfiguration_t6B2FE1A6C022E7B8F4E31B7146146A95757904F
 };
 
 // Microsoft.MixedReality.Toolkit.MixedRealityServiceRegistry
-struct  MixedRealityServiceRegistry_t1BFFCDCD1F1CD9C3B10517E7B084E9B397054829  : public RuntimeObject
+struct MixedRealityServiceRegistry_t1BFFCDCD1F1CD9C3B10517E7B084E9B397054829  : public RuntimeObject
 {
 public:
 
@@ -7470,7 +7471,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Physics.ComparableRaycastResult
-struct  ComparableRaycastResult_tE773A73699015A83AD22807EDCBE69E6A0BFA8BF 
+struct ComparableRaycastResult_tE773A73699015A83AD22807EDCBE69E6A0BFA8BF 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Physics.ComparableRaycastResult::LayerMaskIndex
@@ -7514,7 +7515,7 @@ struct ComparableRaycastResult_tE773A73699015A83AD22807EDCBE69E6A0BFA8BF_marshal
 };
 
 // Microsoft.MixedReality.Toolkit.Physics.FocusDetails
-struct  FocusDetails_t598CBE711352D49F2931A62DDCBD3D7B08074E4D 
+struct FocusDetails_t598CBE711352D49F2931A62DDCBD3D7B08074E4D 
 {
 public:
 	// System.Single Microsoft.MixedReality.Toolkit.Physics.FocusDetails::<RayDistance>k__BackingField
@@ -7635,7 +7636,7 @@ struct FocusDetails_t598CBE711352D49F2931A62DDCBD3D7B08074E4D_marshaled_com
 };
 
 // Microsoft.MixedReality.Toolkit.Physics.GazeStabilizer
-struct  GazeStabilizer_tA38024970182962F14E118574A15F67D99C27281  : public BaseRayStabilizer_t94B0E1EBB784C5A698D760DDFD8B27D8EC3B5053
+struct GazeStabilizer_tA38024970182962F14E118574A15F67D99C27281  : public BaseRayStabilizer_t94B0E1EBB784C5A698D760DDFD8B27D8EC3B5053
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Physics.GazeStabilizer::storedStabilitySamples
@@ -7705,7 +7706,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Physics.MixedRealityRaycaster
-struct  MixedRealityRaycaster_t47BFF3EED078208D092DAAA9A9A6BCD47F8C5660  : public RuntimeObject
+struct MixedRealityRaycaster_t47BFF3EED078208D092DAAA9A9A6BCD47F8C5660  : public RuntimeObject
 {
 public:
 
@@ -7802,7 +7803,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.SceneSystem.SceneInfo
-struct  SceneInfo_tD1592983C4DF99585999294241133C88FF21B73E 
+struct SceneInfo_tD1592983C4DF99585999294241133C88FF21B73E 
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.SceneSystem.SceneInfo::Name
@@ -7920,7 +7921,7 @@ struct SceneInfo_tD1592983C4DF99585999294241133C88FF21B73E_marshaled_com
 };
 
 // Microsoft.MixedReality.Toolkit.Utilities.DebugUtilities
-struct  DebugUtilities_t4C8D23C7111E75A07FBCBD26F48F447028C51761  : public RuntimeObject
+struct DebugUtilities_t4C8D23C7111E75A07FBCBD26F48F447028C51761  : public RuntimeObject
 {
 public:
 
@@ -7945,7 +7946,7 @@ public:
 
 
 // System.MulticastDelegate
-struct  MulticastDelegate_t  : public Delegate_t
+struct MulticastDelegate_t  : public Delegate_t
 {
 public:
 	// System.Delegate[] System.MulticastDelegate::delegates
@@ -7974,7 +7975,7 @@ struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
 };
 
 // System.Nullable`1<UnityEngine.RaycastHit>
-struct  Nullable_1_t6224B732028631256932FA4C4176E10D171EFE29 
+struct Nullable_1_t6224B732028631256932FA4C4176E10D171EFE29 
 {
 public:
 	// T System.Nullable`1::value
@@ -8002,7 +8003,7 @@ public:
 
 
 // System.SystemException
-struct  SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
+struct SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
 {
 public:
 
@@ -8011,7 +8012,7 @@ public:
 
 
 // System.Type
-struct  Type_t  : public MemberInfo_t
+struct Type_t  : public MemberInfo_t
 {
 public:
 	// System.RuntimeTypeHandle System.Type::_impl
@@ -8111,7 +8112,7 @@ public:
 
 
 // UnityEngine.Component
-struct  Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -8120,7 +8121,7 @@ public:
 
 
 // UnityEngine.GameObject
-struct  GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct GameObject_tBD1244AD56B4E59AAD76E5E7C9282EC5CE434F0F  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -8129,7 +8130,7 @@ public:
 
 
 // UnityEngine.IntegratedSubsystem`1<UnityEngine.XR.XRInputSubsystemDescriptor>
-struct  IntegratedSubsystem_1_t648AE5E2D40F3159DD68D2AFD4B5ECA29920149D  : public IntegratedSubsystem_tEFE71989A825ABA8955C1B1505C8F2405FA61026
+struct IntegratedSubsystem_1_t648AE5E2D40F3159DD68D2AFD4B5ECA29920149D  : public IntegratedSubsystem_tEFE71989A825ABA8955C1B1505C8F2405FA61026
 {
 public:
 
@@ -8138,7 +8139,7 @@ public:
 
 
 // UnityEngine.ScriptableObject
-struct  ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -8155,7 +8156,7 @@ struct ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734_marshaled_com 
 };
 
 // UnityEngine.Touch
-struct  Touch_tAACD32535FF3FE5DD91125E0B6987B93C68D2DE8 
+struct Touch_tAACD32535FF3FE5DD91125E0B6987B93C68D2DE8 
 {
 public:
 	// System.Int32 UnityEngine.Touch::m_FingerId
@@ -8303,7 +8304,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.BaseMixedRealityProfile
-struct  BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709  : public ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734
+struct BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709  : public ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734
 {
 public:
 	// System.Boolean Microsoft.MixedReality.Toolkit.BaseMixedRealityProfile::isCustomProfile
@@ -8321,7 +8322,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.BaseInputDeviceManager
-struct  BaseInputDeviceManager_t4EB9FFA37404B8BEFEA46653A18A70459872FDA2  : public BaseDataProvider_1_t375B765F0EDEABF5447143D32EE5349B4E77E1CC
+struct BaseInputDeviceManager_t4EB9FFA37404B8BEFEA46653A18A70459872FDA2  : public BaseDataProvider_1_t375B765F0EDEABF5447143D32EE5349B4E77E1CC
 {
 public:
 	// System.Boolean Microsoft.MixedReality.Toolkit.Input.BaseInputDeviceManager::enablePointerCache
@@ -8407,7 +8408,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.MixedRealityGestureMapping
-struct  MixedRealityGestureMapping_t57849208AE27C74F5B822AB325A3F23DC00F87F4 
+struct MixedRealityGestureMapping_t57849208AE27C74F5B822AB325A3F23DC00F87F4 
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.Input.MixedRealityGestureMapping::description
@@ -8461,7 +8462,7 @@ struct MixedRealityGestureMapping_t57849208AE27C74F5B822AB325A3F23DC00F87F4_mars
 };
 
 // Microsoft.MixedReality.Toolkit.Input.MixedRealityInputActionMapping
-struct  MixedRealityInputActionMapping_t9583CA7ECD755056235E05CD619B6C59CD3C4786  : public RuntimeObject
+struct MixedRealityInputActionMapping_t9583CA7ECD755056235E05CD619B6C59CD3C4786  : public RuntimeObject
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.Input.MixedRealityInputActionMapping::description
@@ -8511,7 +8512,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.MixedRealityInteractionMapping
-struct  MixedRealityInteractionMapping_t995EEEF95390E501B5CB3DBC706CAC25F088E6AB  : public RuntimeObject
+struct MixedRealityInteractionMapping_t995EEEF95390E501B5CB3DBC706CAC25F088E6AB  : public RuntimeObject
 {
 public:
 	// System.UInt32 Microsoft.MixedReality.Toolkit.Input.MixedRealityInteractionMapping::id
@@ -8704,7 +8705,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.TouchScreenDefinition
-struct  TouchScreenDefinition_t68EDCAF1B1FCFD8B8DA1041ECF759B2A41ACDB99  : public BaseInputSourceDefinition_tDFB60353D97B32938D58AE9766C1E31C638C5384
+struct TouchScreenDefinition_t68EDCAF1B1FCFD8B8DA1041ECF759B2A41ACDB99  : public BaseInputSourceDefinition_tDFB60353D97B32938D58AE9766C1E31C638C5384
 {
 public:
 
@@ -8713,7 +8714,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.UnityInput.GenericJoystickController
-struct  GenericJoystickController_t81EB7A0E37A9684AAB80B3B613016EACEB96E1F6  : public BaseController_t3DCCF56B5EDC6DC3EF2DE2894B6ED1EE98065EDA
+struct GenericJoystickController_t81EB7A0E37A9684AAB80B3B613016EACEB96E1F6  : public BaseController_t3DCCF56B5EDC6DC3EF2DE2894B6ED1EE98065EDA
 {
 public:
 	// System.Single Microsoft.MixedReality.Toolkit.Input.UnityInput.GenericJoystickController::<PointerOffsetAngle>k__BackingField
@@ -8880,7 +8881,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.UnityInput.MouseController
-struct  MouseController_t9E51653F8E0B26ADE66E881C7155836C9D37DD5C  : public BaseController_t3DCCF56B5EDC6DC3EF2DE2894B6ED1EE98065EDA
+struct MouseController_t9E51653F8E0B26ADE66E881C7155836C9D37DD5C  : public BaseController_t3DCCF56B5EDC6DC3EF2DE2894B6ED1EE98065EDA
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Utilities.MixedRealityPose Microsoft.MixedReality.Toolkit.Input.UnityInput.MouseController::controllerPose
@@ -8936,7 +8937,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.UnityInput.UnityTouchController
-struct  UnityTouchController_tA2266CE6F9E39AFB532A9F7784C9DE5DB994784E  : public BaseController_t3DCCF56B5EDC6DC3EF2DE2894B6ED1EE98065EDA
+struct UnityTouchController_tA2266CE6F9E39AFB532A9F7784C9DE5DB994784E  : public BaseController_t3DCCF56B5EDC6DC3EF2DE2894B6ED1EE98065EDA
 {
 public:
 	// System.Single Microsoft.MixedReality.Toolkit.Input.UnityInput.UnityTouchController::<MaxTapContactTime>k__BackingField
@@ -9092,7 +9093,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.ViveKnucklesControllerDefinition
-struct  ViveKnucklesControllerDefinition_tEBA10DF5D7F46B7E5D101A999BD0AD8BA62F9E70  : public BaseInputSourceDefinition_tDFB60353D97B32938D58AE9766C1E31C638C5384
+struct ViveKnucklesControllerDefinition_tEBA10DF5D7F46B7E5D101A999BD0AD8BA62F9E70  : public BaseInputSourceDefinition_tDFB60353D97B32938D58AE9766C1E31C638C5384
 {
 public:
 
@@ -9101,7 +9102,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.ViveWandControllerDefinition
-struct  ViveWandControllerDefinition_t1387479FD6B86851F9ADEF38133E065BC6922FAA  : public BaseInputSourceDefinition_tDFB60353D97B32938D58AE9766C1E31C638C5384
+struct ViveWandControllerDefinition_t1387479FD6B86851F9ADEF38133E065BC6922FAA  : public BaseInputSourceDefinition_tDFB60353D97B32938D58AE9766C1E31C638C5384
 {
 public:
 
@@ -9110,7 +9111,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.WindowsMixedRealityControllerDefinition
-struct  WindowsMixedRealityControllerDefinition_tEAEC5BC95A1CBCCAB2BD9A94E84BB06A3861A3B9  : public BaseInputSourceDefinition_tDFB60353D97B32938D58AE9766C1E31C638C5384
+struct WindowsMixedRealityControllerDefinition_tEAEC5BC95A1CBCCAB2BD9A94E84BB06A3861A3B9  : public BaseInputSourceDefinition_tDFB60353D97B32938D58AE9766C1E31C638C5384
 {
 public:
 
@@ -9119,7 +9120,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.XboxControllerDefinition
-struct  XboxControllerDefinition_t5DC7723BA738D76EE760F254A31CF4228495DD8F  : public BaseInputSourceDefinition_tDFB60353D97B32938D58AE9766C1E31C638C5384
+struct XboxControllerDefinition_t5DC7723BA738D76EE760F254A31CF4228495DD8F  : public BaseInputSourceDefinition_tDFB60353D97B32938D58AE9766C1E31C638C5384
 {
 public:
 
@@ -9128,7 +9129,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.MixedRealityDataProviderAttribute
-struct  MixedRealityDataProviderAttribute_tA6DDA53D644287639C80813A0B4E2A11892A50BF  : public MixedRealityExtensionServiceAttribute_tFAEA7F7555B981E3487F1FA785470B89E35347DB
+struct MixedRealityDataProviderAttribute_tA6DDA53D644287639C80813A0B4E2A11892A50BF  : public MixedRealityExtensionServiceAttribute_tFAEA7F7555B981E3487F1FA785470B89E35347DB
 {
 public:
 	// System.Type Microsoft.MixedReality.Toolkit.MixedRealityDataProviderAttribute::<ServiceInterfaceType>k__BackingField
@@ -9157,7 +9158,7 @@ public:
 
 
 // System.Action
-struct  Action_t591D2A86165F896B4B800BB5C25CE18672A55579  : public MulticastDelegate_t
+struct Action_t591D2A86165F896B4B800BB5C25CE18672A55579  : public MulticastDelegate_t
 {
 public:
 
@@ -9166,7 +9167,7 @@ public:
 
 
 // System.Action`1<Microsoft.MixedReality.Toolkit.IMixedRealityService>
-struct  Action_1_t5BC4F8C1A51E06D492BAAC964494801366707E92  : public MulticastDelegate_t
+struct Action_1_t5BC4F8C1A51E06D492BAAC964494801366707E92  : public MulticastDelegate_t
 {
 public:
 
@@ -9175,7 +9176,7 @@ public:
 
 
 // System.Action`1<UnityEngine.Transform>
-struct  Action_1_t944B085F4D5DEBCA83E9053D0BFC60EF26FA1C6A  : public MulticastDelegate_t
+struct Action_1_t944B085F4D5DEBCA83E9053D0BFC60EF26FA1C6A  : public MulticastDelegate_t
 {
 public:
 
@@ -9184,7 +9185,7 @@ public:
 
 
 // System.ArgumentException
-struct  ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 	// System.String System.ArgumentException::m_paramName
@@ -9203,7 +9204,7 @@ public:
 
 
 // System.Comparison`1<Microsoft.MixedReality.Toolkit.IMixedRealityService>
-struct  Comparison_1_t2D3DCE2EC27DA2B933196814E8D58B2687DAB482  : public MulticastDelegate_t
+struct Comparison_1_t2D3DCE2EC27DA2B933196814E8D58B2687DAB482  : public MulticastDelegate_t
 {
 public:
 
@@ -9212,7 +9213,7 @@ public:
 
 
 // System.Comparison`1<Microsoft.MixedReality.Toolkit.MixedRealityToolkit>
-struct  Comparison_1_t6AD8D25106989E2B48B962BF37D37718ED8BD6CB  : public MulticastDelegate_t
+struct Comparison_1_t6AD8D25106989E2B48B962BF37D37718ED8BD6CB  : public MulticastDelegate_t
 {
 public:
 
@@ -9221,7 +9222,7 @@ public:
 
 
 // System.Func`2<System.Collections.Generic.KeyValuePair`2<System.Type,Microsoft.MixedReality.Toolkit.IMixedRealityService>,System.UInt32>
-struct  Func_2_tF19E0FDA6B42ABEE5EEA706C4293C1F80B60AB3D  : public MulticastDelegate_t
+struct Func_2_tF19E0FDA6B42ABEE5EEA706C4293C1F80B60AB3D  : public MulticastDelegate_t
 {
 public:
 
@@ -9230,7 +9231,7 @@ public:
 
 
 // System.NotSupportedException
-struct  NotSupportedException_tE75B318D6590A02A5D9B29FD97409B1750FA0010  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct NotSupportedException_tE75B318D6590A02A5D9B29FD97409B1750FA0010  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -9239,7 +9240,7 @@ public:
 
 
 // UnityEngine.Behaviour
-struct  Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
+struct Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
 {
 public:
 
@@ -9248,7 +9249,7 @@ public:
 
 
 // UnityEngine.Collider
-struct  Collider_t0FEEB36760860AD21B3B1F0509C365B393EC4BDF  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
+struct Collider_t0FEEB36760860AD21B3B1F0509C365B393EC4BDF  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
 {
 public:
 
@@ -9257,7 +9258,7 @@ public:
 
 
 // UnityEngine.Events.UnityAction`1<UnityEngine.SceneManagement.Scene>
-struct  UnityAction_1_t95F46E5AC4F5A5CFAD850DDC188E2674CEAC6384  : public MulticastDelegate_t
+struct UnityAction_1_t95F46E5AC4F5A5CFAD850DDC188E2674CEAC6384  : public MulticastDelegate_t
 {
 public:
 
@@ -9266,7 +9267,7 @@ public:
 
 
 // UnityEngine.Events.UnityAction`2<UnityEngine.SceneManagement.Scene,UnityEngine.SceneManagement.LoadSceneMode>
-struct  UnityAction_2_t34FACA3D608984EE7CF1EE51BBFA450D2DB62305  : public MulticastDelegate_t
+struct UnityAction_2_t34FACA3D608984EE7CF1EE51BBFA450D2DB62305  : public MulticastDelegate_t
 {
 public:
 
@@ -9275,7 +9276,7 @@ public:
 
 
 // UnityEngine.Transform
-struct  Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
+struct Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
 {
 public:
 
@@ -9284,7 +9285,7 @@ public:
 
 
 // UnityEngine.XR.XRInputSubsystem
-struct  XRInputSubsystem_t9B5A5AD5B134D55762D1FA5E425126EF7F86B2B7  : public IntegratedSubsystem_1_t648AE5E2D40F3159DD68D2AFD4B5ECA29920149D
+struct XRInputSubsystem_t9B5A5AD5B134D55762D1FA5E425126EF7F86B2B7  : public IntegratedSubsystem_1_t648AE5E2D40F3159DD68D2AFD4B5ECA29920149D
 {
 public:
 	// System.Action`1<UnityEngine.XR.XRInputSubsystem> UnityEngine.XR.XRInputSubsystem::trackingOriginUpdated
@@ -9325,7 +9326,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Boundary.MixedRealityBoundaryVisualizationProfile
-struct  MixedRealityBoundaryVisualizationProfile_t571039F68D4D4601AF8928414A1A72BCC5C06615  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
+struct MixedRealityBoundaryVisualizationProfile_t571039F68D4D4601AF8928414A1A72BCC5C06615  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
 {
 public:
 	// System.Single Microsoft.MixedReality.Toolkit.Boundary.MixedRealityBoundaryVisualizationProfile::boundaryHeight
@@ -9508,7 +9509,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Diagnostics.MixedRealityDiagnosticsProfile
-struct  MixedRealityDiagnosticsProfile_tCA2B2CAD76E87626EB9EE9DBA8593C0A78B0CFBD  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
+struct MixedRealityDiagnosticsProfile_tCA2B2CAD76E87626EB9EE9DBA8593C0A78B0CFBD  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
 {
 public:
 	// System.Boolean Microsoft.MixedReality.Toolkit.Diagnostics.MixedRealityDiagnosticsProfile::showDiagnostics
@@ -9627,7 +9628,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.MixedRealityGesturesProfile
-struct  MixedRealityGesturesProfile_t3CB3E1E8DBABDC3711EE09AD14D267AFF62EEB6F  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
+struct MixedRealityGesturesProfile_t3CB3E1E8DBABDC3711EE09AD14D267AFF62EEB6F  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Windows.Input.WindowsGestureSettings Microsoft.MixedReality.Toolkit.Input.MixedRealityGesturesProfile::manipulationGestures
@@ -9696,7 +9697,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.MixedRealityInputSystemProfile
-struct  MixedRealityInputSystemProfile_t9262E848642ADE3AC06DF2B286E7D530B7969C16  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
+struct MixedRealityInputSystemProfile_t9262E848642ADE3AC06DF2B286E7D530B7969C16  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Input.MixedRealityInputDataProviderConfiguration[] Microsoft.MixedReality.Toolkit.Input.MixedRealityInputSystemProfile::dataProviderConfigurations
@@ -9876,7 +9877,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.MixedRealityMouseInputProfile
-struct  MixedRealityMouseInputProfile_tE8106336D60E102F1E19E524C412AD945D1885ED  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
+struct MixedRealityMouseInputProfile_tE8106336D60E102F1E19E524C412AD945D1885ED  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
 {
 public:
 	// System.Single Microsoft.MixedReality.Toolkit.Input.MixedRealityMouseInputProfile::cursorSpeed
@@ -9904,7 +9905,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.UnityInput.MouseDeviceManager
-struct  MouseDeviceManager_t326EADF351CD8F7CF21A331AD80E90185CAA765A  : public BaseInputDeviceManager_t4EB9FFA37404B8BEFEA46653A18A70459872FDA2
+struct MouseDeviceManager_t326EADF351CD8F7CF21A331AD80E90185CAA765A  : public BaseInputDeviceManager_t4EB9FFA37404B8BEFEA46653A18A70459872FDA2
 {
 public:
 	// System.Single Microsoft.MixedReality.Toolkit.Input.UnityInput.MouseDeviceManager::cursorSpeed
@@ -9959,7 +9960,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.UnityInput.UnityJoystickManager
-struct  UnityJoystickManager_t8BD7DF2CA2F6A7646BDA0EC351548A8B3F7FB850  : public BaseInputDeviceManager_t4EB9FFA37404B8BEFEA46653A18A70459872FDA2
+struct UnityJoystickManager_t8BD7DF2CA2F6A7646BDA0EC351548A8B3F7FB850  : public BaseInputDeviceManager_t4EB9FFA37404B8BEFEA46653A18A70459872FDA2
 {
 public:
 	// System.Single Microsoft.MixedReality.Toolkit.Input.UnityInput.UnityJoystickManager::deviceRefreshTimer
@@ -10045,7 +10046,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.UnityInput.UnityTouchDeviceManager
-struct  UnityTouchDeviceManager_t7EE7764EA4A5F32B46803E5D1F045F1FCED4D036  : public BaseInputDeviceManager_t4EB9FFA37404B8BEFEA46653A18A70459872FDA2
+struct UnityTouchDeviceManager_t7EE7764EA4A5F32B46803E5D1F045F1FCED4D036  : public BaseInputDeviceManager_t4EB9FFA37404B8BEFEA46653A18A70459872FDA2
 {
 public:
 	// System.Collections.Generic.List`1<Microsoft.MixedReality.Toolkit.Input.UnityInput.UnityTouchController> Microsoft.MixedReality.Toolkit.Input.UnityInput.UnityTouchDeviceManager::touchesToRemove
@@ -10121,7 +10122,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.UnityInput.XboxController
-struct  XboxController_t69A1750608E22F27B712EF3839E147DD4F233CF0  : public GenericJoystickController_t81EB7A0E37A9684AAB80B3B613016EACEB96E1F6
+struct XboxController_t69A1750608E22F27B712EF3839E147DD4F233CF0  : public GenericJoystickController_t81EB7A0E37A9684AAB80B3B613016EACEB96E1F6
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Input.MixedRealityInteractionMappingLegacyInput[] Microsoft.MixedReality.Toolkit.Input.UnityInput.XboxController::<LegacyInputSupport>k__BackingField
@@ -10140,7 +10141,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.MixedRealityCameraProfile
-struct  MixedRealityCameraProfile_tDDFF71D00EEF11F1ACDD70D1DAF9DED362171410  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
+struct MixedRealityCameraProfile_tDDFF71D00EEF11F1ACDD70D1DAF9DED362171410  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
 {
 public:
 	// Microsoft.MixedReality.Toolkit.CameraSystem.MixedRealityCameraSettingsConfiguration[] Microsoft.MixedReality.Toolkit.MixedRealityCameraProfile::settingsConfigurations
@@ -10259,7 +10260,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.MixedRealityExperienceSettingsProfile
-struct  MixedRealityExperienceSettingsProfile_t80E966057E4EA642884980AF79DC8A6DBD024819  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
+struct MixedRealityExperienceSettingsProfile_t80E966057E4EA642884980AF79DC8A6DBD024819  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Utilities.ExperienceScale Microsoft.MixedReality.Toolkit.MixedRealityExperienceSettingsProfile::targetExperienceScale
@@ -10287,7 +10288,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.MixedRealityRegisteredServiceProvidersProfile
-struct  MixedRealityRegisteredServiceProvidersProfile_tEE7E5F777712ADE4F4BE2C6BB31E97C4C8BB779A  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
+struct MixedRealityRegisteredServiceProvidersProfile_tEE7E5F777712ADE4F4BE2C6BB31E97C4C8BB779A  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
 {
 public:
 	// Microsoft.MixedReality.Toolkit.MixedRealityServiceConfiguration[] Microsoft.MixedReality.Toolkit.MixedRealityRegisteredServiceProvidersProfile::configurations
@@ -10306,7 +10307,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.MixedRealityToolkitConfigurationProfile
-struct  MixedRealityToolkitConfigurationProfile_t3B924027B38C09BA7EE57648B46254A4062C202D  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
+struct MixedRealityToolkitConfigurationProfile_t3B924027B38C09BA7EE57648B46254A4062C202D  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
 {
 public:
 	// Microsoft.MixedReality.Toolkit.MixedRealityExperienceSettingsProfile Microsoft.MixedReality.Toolkit.MixedRealityToolkitConfigurationProfile::experienceSettingsProfile
@@ -10600,7 +10601,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystemProfile
-struct  MixedRealitySceneSystemProfile_tA140040F7E00591E1BA92B40ABA3EDCCDFB1DFA3  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
+struct MixedRealitySceneSystemProfile_tA140040F7E00591E1BA92B40ABA3EDCCDFB1DFA3  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
 {
 public:
 	// System.Boolean Microsoft.MixedReality.Toolkit.SceneSystem.MixedRealitySceneSystemProfile::useManagerScene
@@ -10763,7 +10764,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystemProfile
-struct  MixedRealitySpatialAwarenessSystemProfile_tCE841781EAD5D328B48E424FD9113D9D86FC62AD  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
+struct MixedRealitySpatialAwarenessSystemProfile_tCE841781EAD5D328B48E424FD9113D9D86FC62AD  : public BaseMixedRealityProfile_t47FE5D1C46140AD43FFBAE7FF68A201EBCF61709
 {
 public:
 	// Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialObserverConfiguration[] Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystemProfile::observerConfigurations
@@ -10782,7 +10783,7 @@ public:
 
 
 // UnityEngine.Camera
-struct  Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34  : public Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8
+struct Camera_t48B2B9ECB3CE6108A98BF949A1CECF0FE3421F34  : public Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8
 {
 public:
 
@@ -10830,7 +10831,7 @@ public:
 
 
 // UnityEngine.MonoBehaviour
-struct  MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429  : public Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8
+struct MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429  : public Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8
 {
 public:
 
@@ -10839,7 +10840,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.MixedRealitySceneContent
-struct  MixedRealitySceneContent_t25E8B2A3B1303D584B6B79BF713C4779A3365D58  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
+struct MixedRealitySceneContent_t25E8B2A3B1303D584B6B79BF713C4779A3365D58  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
 {
 public:
 	// Microsoft.MixedReality.Toolkit.MixedRealitySceneContent/AlignmentType Microsoft.MixedReality.Toolkit.MixedRealitySceneContent::alignmentType
@@ -10899,7 +10900,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.MixedRealityToolkit
-struct  MixedRealityToolkit_t5D16F2AA7EC0F0EF0CB041B2E29362FE81A97A30  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
+struct MixedRealityToolkit_t5D16F2AA7EC0F0EF0CB041B2E29362FE81A97A30  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
 {
 public:
 	// System.Boolean Microsoft.MixedReality.Toolkit.MixedRealityToolkit::<IsProfileSwitching>k__BackingField
@@ -11069,7 +11070,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Physics.Distorter
-struct  Distorter_t0963F355FECBE88A59DF6FCB44F0F17B097E66F5  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
+struct Distorter_t0963F355FECBE88A59DF6FCB44F0F17B097E66F5  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Physics.Distorter::distortOrder
@@ -11107,7 +11108,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Physics.Interpolator
-struct  Interpolator_tDBA1A9848342C9CCE254B53FEEEB2A9FE5BD53D7  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
+struct Interpolator_tDBA1A9848342C9CCE254B53FEEEB2A9FE5BD53D7  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
 {
 public:
 	// System.Action Microsoft.MixedReality.Toolkit.Physics.Interpolator::InterpolationStarted
@@ -11327,7 +11328,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Rendering.DepthBufferRenderer
-struct  DepthBufferRenderer_t62C6F4CA827C2A1F9FCDC90CC3102B501A663F76  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
+struct DepthBufferRenderer_t62C6F4CA827C2A1F9FCDC90CC3102B501A663F76  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
 {
 public:
 	// UnityEngine.RenderTexture Microsoft.MixedReality.Toolkit.Rendering.DepthBufferRenderer::outputTexture
@@ -11346,7 +11347,7 @@ public:
 
 
 // UnityEngine.EventSystems.UIBehaviour
-struct  UIBehaviour_t3C3C339CD5677BA7FC27C352FED8B78052A3FE70  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
+struct UIBehaviour_t3C3C339CD5677BA7FC27C352FED8B78052A3FE70  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
 {
 public:
 
@@ -11355,7 +11356,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Physics.DistorterBulge
-struct  DistorterBulge_t8DF647364D6255FE8CDB1F529F01C27EA76FF398  : public Distorter_t0963F355FECBE88A59DF6FCB44F0F17B097E66F5
+struct DistorterBulge_t8DF647364D6255FE8CDB1F529F01C27EA76FF398  : public Distorter_t0963F355FECBE88A59DF6FCB44F0F17B097E66F5
 {
 public:
 	// UnityEngine.Vector3 Microsoft.MixedReality.Toolkit.Physics.DistorterBulge::bulgeLocalCenter
@@ -11414,7 +11415,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Physics.DistorterGravity
-struct  DistorterGravity_t20F235366A2E47D5D8A10812B68AF19DB932CA9C  : public Distorter_t0963F355FECBE88A59DF6FCB44F0F17B097E66F5
+struct DistorterGravity_t20F235366A2E47D5D8A10812B68AF19DB932CA9C  : public Distorter_t0963F355FECBE88A59DF6FCB44F0F17B097E66F5
 {
 public:
 	// UnityEngine.Vector3 Microsoft.MixedReality.Toolkit.Physics.DistorterGravity::localCenterOfGravity
@@ -11463,7 +11464,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Physics.DistorterSimplex
-struct  DistorterSimplex_tDBAAEBD16E6DF28B60A71B078E3E419BF0FE2507  : public Distorter_t0963F355FECBE88A59DF6FCB44F0F17B097E66F5
+struct DistorterSimplex_tDBAAEBD16E6DF28B60A71B078E3E419BF0FE2507  : public Distorter_t0963F355FECBE88A59DF6FCB44F0F17B097E66F5
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Utilities.FastSimplexNoise Microsoft.MixedReality.Toolkit.Physics.DistorterSimplex::noise
@@ -11552,7 +11553,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Physics.DistorterSphere
-struct  DistorterSphere_t219FCFDAF8CAB7C937341880F801E593FAF8D28D  : public Distorter_t0963F355FECBE88A59DF6FCB44F0F17B097E66F5
+struct DistorterSphere_t219FCFDAF8CAB7C937341880F801E593FAF8D28D  : public Distorter_t0963F355FECBE88A59DF6FCB44F0F17B097E66F5
 {
 public:
 	// UnityEngine.Vector3 Microsoft.MixedReality.Toolkit.Physics.DistorterSphere::sphereCenter
@@ -11580,7 +11581,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Physics.DistorterWiggly
-struct  DistorterWiggly_t3FCB972FC7EEE718240D67B0C8ACAB8060A49E09  : public Distorter_t0963F355FECBE88A59DF6FCB44F0F17B097E66F5
+struct DistorterWiggly_t3FCB972FC7EEE718240D67B0C8ACAB8060A49E09  : public Distorter_t0963F355FECBE88A59DF6FCB44F0F17B097E66F5
 {
 public:
 	// System.Single Microsoft.MixedReality.Toolkit.Physics.DistorterWiggly::scaleMultiplier
@@ -11648,7 +11649,7 @@ public:
 
 
 // UnityEngine.EventSystems.EventSystem
-struct  EventSystem_t06ACEF1C8D95D44D3A7F57ED4BAA577101B4EA77  : public UIBehaviour_t3C3C339CD5677BA7FC27C352FED8B78052A3FE70
+struct EventSystem_t06ACEF1C8D95D44D3A7F57ED4BAA577101B4EA77  : public UIBehaviour_t3C3C339CD5677BA7FC27C352FED8B78052A3FE70
 {
 public:
 	// System.Collections.Generic.List`1<UnityEngine.EventSystems.BaseInputModule> UnityEngine.EventSystems.EventSystem::m_SystemInputModules
@@ -26733,6 +26734,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR SystemType_t077FEEF09D6CB8C9C1D8B53BFE25FDF3A
 	Type_t * G_B4_0 = NULL;
 	{
 		// public SystemType BoundarySystemSystemType => (XRSettingsUtilities.XRSDKEnabled && xrsdkBoundarySystemType?.Type != null) ? xrsdkBoundarySystemType : boundarySystemType;
+		IL2CPP_RUNTIME_CLASS_INIT(XRSettingsUtilities_t29DE0C95570533A73074BA5BC9493FF9F9D3D307_il2cpp_TypeInfo_var);
 		bool L_0 = XRSettingsUtilities_get_XRSDKEnabled_m3AB267B762C0BC03D694A8633122935434401F16(/*hidden argument*/NULL);
 		if (!L_0)
 		{
@@ -31288,7 +31290,7 @@ IL_004a:
 			___extents1 = L_12;
 			// int halfRaysPerEdge = (int)((raysPerEdge - 1) * 0.5f);
 			int32_t L_13 = ___raysPerEdge6;
-			V_2 = (((int32_t)((int32_t)((float)il2cpp_codegen_multiply((float)(((float)((float)((int32_t)il2cpp_codegen_subtract((int32_t)L_13, (int32_t)1))))), (float)(0.5f))))));
+			V_2 = (il2cpp_codegen_cast_double_to_int<int32_t>(((float)il2cpp_codegen_multiply((float)(((float)((float)((int32_t)il2cpp_codegen_subtract((int32_t)L_13, (int32_t)1))))), (float)(0.5f)))));
 			// int numRays = raysPerEdge * raysPerEdge;
 			int32_t L_14 = ___raysPerEdge6;
 			int32_t L_15 = ___raysPerEdge6;

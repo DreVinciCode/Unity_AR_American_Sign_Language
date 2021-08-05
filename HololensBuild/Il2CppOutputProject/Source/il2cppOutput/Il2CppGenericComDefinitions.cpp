@@ -5275,7 +5275,7 @@ struct NOVTABLE IInputPaneVisibilityEventArgs_t5808002BBD73EB40213812EE59DB0022C
 };
 
 // System.Reflection.MemberInfo
-struct  MemberInfo_t  : public RuntimeObject
+struct MemberInfo_t  : public RuntimeObject
 {
 public:
 
@@ -5284,7 +5284,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
+struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
 {
 public:
 
@@ -5304,7 +5304,7 @@ struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF_marshaled_com
 
 
 // System.Boolean
-struct  Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
+struct Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -5350,7 +5350,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
+struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
 {
 public:
 
@@ -5384,7 +5384,7 @@ struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521_marshaled_com
 };
 
 // System.Guid
-struct  Guid_t 
+struct Guid_t 
 {
 public:
 	// System.Int32 System.Guid::_a
@@ -5551,7 +5551,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -5585,7 +5585,7 @@ public:
 
 
 // System.Numerics.Matrix4x4
-struct  Matrix4x4_t962F654FB75C9A7E336E7DB54DBFCEC2B7B8B4B0 
+struct Matrix4x4_t962F654FB75C9A7E336E7DB54DBFCEC2B7B8B4B0 
 {
 public:
 	// System.Single System.Numerics.Matrix4x4::M11
@@ -5769,7 +5769,7 @@ public:
 
 
 // System.Numerics.Quaternion
-struct  Quaternion_t67580554B28ABC8A5384F3B4FF4E679FC6D38D4A 
+struct Quaternion_t67580554B28ABC8A5384F3B4FF4E679FC6D38D4A 
 {
 public:
 	// System.Single System.Numerics.Quaternion::X
@@ -5817,7 +5817,7 @@ public:
 
 
 // System.Numerics.Vector3
-struct  Vector3_tA1B8517EED04F753987922C4361B51A4F3AE8C65 
+struct Vector3_tA1B8517EED04F753987922C4361B51A4F3AE8C65 
 {
 public:
 	// System.Single System.Numerics.Vector3::X
@@ -5855,7 +5855,7 @@ public:
 
 
 // System.Runtime.InteropServices.WindowsRuntime.EventRegistrationToken
-struct  EventRegistrationToken_tE1F3FD8339DB10082B4291DE47C45A352DCB08A7 
+struct EventRegistrationToken_tE1F3FD8339DB10082B4291DE47C45A352DCB08A7 
 {
 public:
 	// System.UInt64 System.Runtime.InteropServices.WindowsRuntime.EventRegistrationToken::m_value
@@ -5873,7 +5873,7 @@ public:
 
 
 // System.UInt32
-struct  UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
+struct UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
 {
 public:
 	// System.UInt32 System.UInt32::m_value
@@ -5891,7 +5891,7 @@ public:
 
 
 // System.Void
-struct  Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
+struct Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
 {
 public:
 	union
@@ -5907,7 +5907,7 @@ public:
 
 
 // Windows.Foundation.DateTime
-struct  DateTime_t9D0F9E236B6200FF6413DD837230D25E285E7795 
+struct DateTime_t9D0F9E236B6200FF6413DD837230D25E285E7795 
 {
 public:
 	// System.Int64 Windows.Foundation.DateTime::UniversalTime
@@ -5925,7 +5925,7 @@ public:
 
 
 // Windows.Foundation.EventRegistrationToken
-struct  EventRegistrationToken_tB7331C6A2CA7A6A9AD497264E9E787B3B71126D4 
+struct EventRegistrationToken_tB7331C6A2CA7A6A9AD497264E9E787B3B71126D4 
 {
 public:
 	// System.Int64 Windows.Foundation.EventRegistrationToken::Value
@@ -5943,7 +5943,7 @@ public:
 
 
 // Windows.Foundation.FoundationContract
-struct  FoundationContract_tA5129870FD2EAAE9518C2EA28B32757D4FD977E9 
+struct FoundationContract_tA5129870FD2EAAE9518C2EA28B32757D4FD977E9 
 {
 public:
 
@@ -5952,7 +5952,7 @@ public:
 
 
 // Windows.Foundation.HResult
-struct  HResult_tD2916D1ECD3A4E474B4A639B8D27E510FF8421DB 
+struct HResult_tD2916D1ECD3A4E474B4A639B8D27E510FF8421DB 
 {
 public:
 	// System.Int32 Windows.Foundation.HResult::Value
@@ -5970,7 +5970,7 @@ public:
 
 
 // Windows.Foundation.Numerics.Matrix4x4
-struct  Matrix4x4_tDA520C56DAF83F993AAC508EE28B33C1310721A9 
+struct Matrix4x4_tDA520C56DAF83F993AAC508EE28B33C1310721A9 
 {
 public:
 	// System.Single Windows.Foundation.Numerics.Matrix4x4::M11
@@ -6138,7 +6138,7 @@ public:
 
 
 // Windows.Foundation.Numerics.Quaternion
-struct  Quaternion_t7BAD18B1DD679715F8E0E79AD9FB22C0E313023C 
+struct Quaternion_t7BAD18B1DD679715F8E0E79AD9FB22C0E313023C 
 {
 public:
 	// System.Single Windows.Foundation.Numerics.Quaternion::X
@@ -6186,7 +6186,7 @@ public:
 
 
 // Windows.Foundation.Numerics.Vector3
-struct  Vector3_t7F46349C1A2C560D80B80153D1CED7B9453530BD 
+struct Vector3_t7F46349C1A2C560D80B80153D1CED7B9453530BD 
 {
 public:
 	// System.Single Windows.Foundation.Numerics.Vector3::X
@@ -6224,7 +6224,7 @@ public:
 
 
 // Windows.Foundation.Point
-struct  Point_tEC1815EC53B414E5281C817051DA4F985DB9C8C1 
+struct Point_tEC1815EC53B414E5281C817051DA4F985DB9C8C1 
 {
 public:
 	// System.Single Windows.Foundation.Point::X
@@ -6252,7 +6252,7 @@ public:
 
 
 // Windows.Foundation.Point
-struct  Point_t7C3010F37F6E9DB2B792BBDAFF58C3232A3356AC 
+struct Point_t7C3010F37F6E9DB2B792BBDAFF58C3232A3356AC 
 {
 public:
 	// System.Single Windows.Foundation.Point::_x
@@ -6280,7 +6280,7 @@ public:
 
 
 // Windows.Foundation.Rect
-struct  Rect_tD277A11EF3F3CC633796B8FF0BC4822826E72BB0 
+struct Rect_tD277A11EF3F3CC633796B8FF0BC4822826E72BB0 
 {
 public:
 	// System.Single Windows.Foundation.Rect::_x
@@ -6328,7 +6328,7 @@ public:
 
 
 // Windows.Foundation.Rect
-struct  Rect_tC430FB498F3B42BBCD93E88C03BA3CBB77B60ACA 
+struct Rect_tC430FB498F3B42BBCD93E88C03BA3CBB77B60ACA 
 {
 public:
 	// System.Single Windows.Foundation.Rect::X
@@ -6376,7 +6376,7 @@ public:
 
 
 // Windows.Foundation.Size
-struct  Size_tBE9F75FCA10276DC3998237A8906733B64FB75A2 
+struct Size_tBE9F75FCA10276DC3998237A8906733B64FB75A2 
 {
 public:
 	// System.Single Windows.Foundation.Size::_width
@@ -6404,7 +6404,7 @@ public:
 
 
 // Windows.Foundation.Size
-struct  Size_t4766FF009097CE547F699B69250246058DA664D9 
+struct Size_t4766FF009097CE547F699B69250246058DA664D9 
 {
 public:
 	// System.Single Windows.Foundation.Size::Width
@@ -6432,7 +6432,7 @@ public:
 
 
 // Windows.Foundation.TimeSpan
-struct  TimeSpan_tD18885B289077804D4E82931E68E84181C072755 
+struct TimeSpan_tD18885B289077804D4E82931E68E84181C072755 
 {
 public:
 	// System.Int64 Windows.Foundation.TimeSpan::Duration
@@ -6450,7 +6450,7 @@ public:
 
 
 // Windows.Foundation.UniversalApiContract
-struct  UniversalApiContract_t2909295C70CE09107C85CD360BE6888A4D1078D9 
+struct UniversalApiContract_t2909295C70CE09107C85CD360BE6888A4D1078D9 
 {
 public:
 
@@ -6459,7 +6459,7 @@ public:
 
 
 // Windows.Media.Capture.AppCapture
-struct  AppCapture_tB6434A902143A07D9DC259154565EC03C02D309F  : public Il2CppComObject
+struct AppCapture_tB6434A902143A07D9DC259154565EC03C02D309F  : public Il2CppComObject
 {
 public:
 
@@ -6531,7 +6531,7 @@ public:
 
 
 // Windows.UI.ViewManagement.InputPane
-struct  InputPane_t2435D491478DB8B73D71E12C925B94CFBFADEB7B  : public Il2CppComObject
+struct InputPane_t2435D491478DB8B73D71E12C925B94CFBFADEB7B  : public Il2CppComObject
 {
 public:
 
@@ -6603,7 +6603,7 @@ public:
 
 
 // Windows.UI.ViewManagement.InputPaneVisibilityEventArgs
-struct  InputPaneVisibilityEventArgs_t81F033A373C01E20052FF7CCDCE6574CE1896942  : public Il2CppComObject
+struct InputPaneVisibilityEventArgs_t81F033A373C01E20052FF7CCDCE6574CE1896942  : public Il2CppComObject
 {
 public:
 
@@ -6612,7 +6612,7 @@ public:
 
 
 // System.AttributeTargets
-struct  AttributeTargets_t7CC0DE6D2B11C951E525EE69AD02313792932741 
+struct AttributeTargets_t7CC0DE6D2B11C951E525EE69AD02313792932741 
 {
 public:
 	// System.Int32 System.AttributeTargets::value__
@@ -6630,7 +6630,7 @@ public:
 
 
 // System.Delegate
-struct  Delegate_t  : public RuntimeObject
+struct Delegate_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Delegate::method_ptr
@@ -6782,7 +6782,7 @@ struct Delegate_t_marshaled_com
 };
 
 // System.Reflection.BindingFlags
-struct  BindingFlags_tE35C91D046E63A1B92BB9AB909FCF9DA84379ED0 
+struct BindingFlags_tE35C91D046E63A1B92BB9AB909FCF9DA84379ED0 
 {
 public:
 	// System.Int32 System.Reflection.BindingFlags::value__
@@ -6800,7 +6800,7 @@ public:
 
 
 // System.RuntimeTypeHandle
-struct  RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D 
+struct RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D 
 {
 public:
 	// System.IntPtr System.RuntimeTypeHandle::value
@@ -6818,7 +6818,7 @@ public:
 
 
 // System.TimeSpan
-struct  TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 
+struct TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 
 {
 public:
 	// System.Int64 System.TimeSpan::_ticks
@@ -6892,7 +6892,7 @@ public:
 
 
 // Windows.Foundation.AsyncStatus
-struct  AsyncStatus_tBDA7F4CE333BAE130A8BB6DF88FBC68E6A54340E 
+struct AsyncStatus_tBDA7F4CE333BAE130A8BB6DF88FBC68E6A54340E 
 {
 public:
 	// System.Int32 Windows.Foundation.AsyncStatus::value__
@@ -7827,7 +7827,7 @@ struct NOVTABLE IReference_1_tC752D5284F00B4397E95E715F07700B7C452DA32 : Il2CppI
 };
 
 // Windows.Foundation.Metadata.MarshalingType
-struct  MarshalingType_t62213E81B261451C72A0B7669A24499DDCF22E06 
+struct MarshalingType_t62213E81B261451C72A0B7669A24499DDCF22E06 
 {
 public:
 	// System.Int32 Windows.Foundation.Metadata.MarshalingType::value__
@@ -7845,7 +7845,7 @@ public:
 
 
 // Windows.Foundation.Metadata.ThreadingModel
-struct  ThreadingModel_t3A0A62EE2003BD4A2E53BE7370BC1E159A3A8434 
+struct ThreadingModel_t3A0A62EE2003BD4A2E53BE7370BC1E159A3A8434 
 {
 public:
 	// System.Int32 Windows.Foundation.Metadata.ThreadingModel::value__
@@ -7863,7 +7863,7 @@ public:
 
 
 // Windows.Foundation.PropertyType
-struct  PropertyType_tBEECA3F046BD9A1A358890A42B7DA9A031FFC1BD 
+struct PropertyType_tBEECA3F046BD9A1A358890A42B7DA9A031FFC1BD 
 {
 public:
 	// System.Int32 Windows.Foundation.PropertyType::value__
@@ -7881,7 +7881,7 @@ public:
 
 
 // Windows.Graphics.Holographic.HolographicStereoTransform
-struct  HolographicStereoTransform_t473ED88570152901E23CF1519A0836AEEC89DD48 
+struct HolographicStereoTransform_t473ED88570152901E23CF1519A0836AEEC89DD48 
 {
 public:
 	// System.Numerics.Matrix4x4 Windows.Graphics.Holographic.HolographicStereoTransform::Left
@@ -7909,7 +7909,7 @@ public:
 
 
 // Windows.Graphics.Holographic.HolographicViewConfigurationKind
-struct  HolographicViewConfigurationKind_t5A173BC5CD4FD620674AE736BB7D9784A19EBAEC 
+struct HolographicViewConfigurationKind_t5A173BC5CD4FD620674AE736BB7D9784A19EBAEC 
 {
 public:
 	// System.Int32 Windows.Graphics.Holographic.HolographicViewConfigurationKind::value__
@@ -7936,7 +7936,7 @@ struct NOVTABLE IAppCapture_t6045FB26D6AD35D26E5B9E5B22C37F4B029CC0EC : Il2CppII
 };
 
 // Windows.Perception.People.HandJointKind
-struct  HandJointKind_t459313DB8FB9919DA3565D3A693449187E5CF7CA 
+struct HandJointKind_t459313DB8FB9919DA3565D3A693449187E5CF7CA 
 {
 public:
 	// System.Int32 Windows.Perception.People.HandJointKind::value__
@@ -7954,7 +7954,7 @@ public:
 
 
 // Windows.Perception.People.HandMeshVertex
-struct  HandMeshVertex_t97CBC783B105CAF080C98A2E7D750023040B41C3 
+struct HandMeshVertex_t97CBC783B105CAF080C98A2E7D750023040B41C3 
 {
 public:
 	// System.Numerics.Vector3 Windows.Perception.People.HandMeshVertex::Position
@@ -7982,7 +7982,7 @@ public:
 
 
 // Windows.Perception.People.JointPoseAccuracy
-struct  JointPoseAccuracy_tAE24E9827E028CD4CD542843A442BBEF384E3D9C 
+struct JointPoseAccuracy_tAE24E9827E028CD4CD542843A442BBEF384E3D9C 
 {
 public:
 	// System.Int32 Windows.Perception.People.JointPoseAccuracy::value__
@@ -8000,7 +8000,7 @@ public:
 
 
 // Windows.Perception.Spatial.SpatialRay
-struct  SpatialRay_t3D16C2F3DEA64DE3AD8ECA0587068A965A552C2B 
+struct SpatialRay_t3D16C2F3DEA64DE3AD8ECA0587068A965A552C2B 
 {
 public:
 	// System.Numerics.Vector3 Windows.Perception.Spatial.SpatialRay::Origin
@@ -8028,7 +8028,7 @@ public:
 
 
 // Windows.Storage.CreationCollisionOption
-struct  CreationCollisionOption_t446166DBF156CCE4C7C7E16D78B3E9A2877E5538 
+struct CreationCollisionOption_t446166DBF156CCE4C7C7E16D78B3E9A2877E5538 
 {
 public:
 	// System.Int32 Windows.Storage.CreationCollisionOption::value__
@@ -8046,7 +8046,7 @@ public:
 
 
 // Windows.Storage.Streams.InputStreamOptions
-struct  InputStreamOptions_t84A663CC3616A0D05994D54C1DA6B2E877F7FF82 
+struct InputStreamOptions_t84A663CC3616A0D05994D54C1DA6B2E877F7FF82 
 {
 public:
 	// System.UInt32 Windows.Storage.Streams.InputStreamOptions::value__
@@ -8064,7 +8064,7 @@ public:
 
 
 // Windows.UI.Input.GazeInputAccessStatus
-struct  GazeInputAccessStatus_tE56B1134F343E06D19FF224683D91598329BA7A0 
+struct GazeInputAccessStatus_tE56B1134F343E06D19FF224683D91598329BA7A0 
 {
 public:
 	// System.Int32 Windows.UI.Input.GazeInputAccessStatus::value__
@@ -8082,7 +8082,7 @@ public:
 
 
 // Windows.UI.Input.Spatial.SpatialInteractionSourceHandedness
-struct  SpatialInteractionSourceHandedness_t930A9F027DB348D4E843479A1F836F425A45FB25 
+struct SpatialInteractionSourceHandedness_t930A9F027DB348D4E843479A1F836F425A45FB25 
 {
 public:
 	// System.Int32 Windows.UI.Input.Spatial.SpatialInteractionSourceHandedness::value__
@@ -8100,7 +8100,7 @@ public:
 
 
 // Windows.UI.Input.Spatial.SpatialInteractionSourceKind
-struct  SpatialInteractionSourceKind_t121787D88938AD2A5EB266A9C10FAD348762817B 
+struct SpatialInteractionSourceKind_t121787D88938AD2A5EB266A9C10FAD348762817B 
 {
 public:
 	// System.Int32 Windows.UI.Input.Spatial.SpatialInteractionSourceKind::value__
@@ -8128,7 +8128,7 @@ struct NOVTABLE IInputPane_t523C480EC29F85B1ABD6FB73C30B736447E8E1A4 : Il2CppIIn
 };
 
 // Windows.UI.Xaml.Interop.TypeKind
-struct  TypeKind_tFC0FD272ED78E70CA1173A99B89D31193D93239C 
+struct TypeKind_tFC0FD272ED78E70CA1173A99B89D31193D93239C 
 {
 public:
 	// System.Int32 Windows.UI.Xaml.Interop.TypeKind::value__
@@ -8146,7 +8146,7 @@ public:
 
 
 // System.MulticastDelegate
-struct  MulticastDelegate_t  : public Delegate_t
+struct MulticastDelegate_t  : public Delegate_t
 {
 public:
 	// System.Delegate[] System.MulticastDelegate::delegates
@@ -8175,7 +8175,7 @@ struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
 };
 
 // System.Type
-struct  Type_t  : public MemberInfo_t
+struct Type_t  : public MemberInfo_t
 {
 public:
 	// System.RuntimeTypeHandle System.Type::_impl
@@ -9021,7 +9021,7 @@ struct NOVTABLE IReference_1_tC5997DB9C48F0D04F8FD9B6E0E05E0D1AD700882 : Il2CppI
 };
 
 // Windows.Foundation.Metadata.AttributeTargets
-struct  AttributeTargets_tA7256AD263010BF992D3949CE57A314716980FA7 
+struct AttributeTargets_tA7256AD263010BF992D3949CE57A314716980FA7 
 {
 public:
 	// System.UInt32 Windows.Foundation.Metadata.AttributeTargets::value__
@@ -9039,7 +9039,7 @@ public:
 
 
 // Windows.Perception.People.JointPose
-struct  JointPose_tFD55E748576AC22B47EB160A821FCEAD75C509CE 
+struct JointPose_tFD55E748576AC22B47EB160A821FCEAD75C509CE 
 {
 public:
 	// System.Numerics.Quaternion Windows.Perception.People.JointPose::Orientation
@@ -9087,7 +9087,7 @@ public:
 
 
 // Windows.UI.Xaml.Interop.TypeName
-struct  TypeName_t17AF60463A5503D900B87745B0BF9C96F0F82EEC 
+struct TypeName_t17AF60463A5503D900B87745B0BF9C96F0F82EEC 
 {
 public:
 	// System.String Windows.UI.Xaml.Interop.TypeName::Name
@@ -9134,7 +9134,7 @@ struct TypeName_t17AF60463A5503D900B87745B0BF9C96F0F82EEC_marshaled_windows_runt
 };
 
 // System.EventHandler`1<System.Object>
-struct  EventHandler_1_t10245A26B14DDE8DDFD5B263BDE0641F17DCFDC3  : public MulticastDelegate_t
+struct EventHandler_1_t10245A26B14DDE8DDFD5B263BDE0641F17DCFDC3  : public MulticastDelegate_t
 {
 public:
 
@@ -9150,7 +9150,7 @@ struct IEventHandler_1_t10245A26B14DDE8DDFD5B263BDE0641F17DCFDC3_ComCallableWrap
 
 
 // Windows.Foundation.AsyncOperationCompletedHandler`1<System.Boolean>
-struct  AsyncOperationCompletedHandler_1_t60A0D16C078315F375831514827E7956934AFB66  : public MulticastDelegate_t
+struct AsyncOperationCompletedHandler_1_t60A0D16C078315F375831514827E7956934AFB66  : public MulticastDelegate_t
 {
 public:
 
@@ -9166,7 +9166,7 @@ struct IAsyncOperationCompletedHandler_1_t60A0D16C078315F375831514827E7956934AFB
 
 
 // Windows.Foundation.AsyncOperationCompletedHandler`1<System.Object>
-struct  AsyncOperationCompletedHandler_1_t985408C8A36FF9AA22CBADA53D6222BB9EA346B0  : public MulticastDelegate_t
+struct AsyncOperationCompletedHandler_1_t985408C8A36FF9AA22CBADA53D6222BB9EA346B0  : public MulticastDelegate_t
 {
 public:
 
@@ -9182,7 +9182,7 @@ struct IAsyncOperationCompletedHandler_1_t985408C8A36FF9AA22CBADA53D6222BB9EA346
 
 
 // Windows.Foundation.AsyncOperationCompletedHandler`1<System.UInt32>
-struct  AsyncOperationCompletedHandler_1_t148BB02BB746BDCA7A3B7598E8D8EEAC8B8C9D98  : public MulticastDelegate_t
+struct AsyncOperationCompletedHandler_1_t148BB02BB746BDCA7A3B7598E8D8EEAC8B8C9D98  : public MulticastDelegate_t
 {
 public:
 
@@ -9198,7 +9198,7 @@ struct IAsyncOperationCompletedHandler_1_t148BB02BB746BDCA7A3B7598E8D8EEAC8B8C9D
 
 
 // Windows.Foundation.AsyncOperationCompletedHandler`1<Windows.Media.SpeechSynthesis.SpeechSynthesisStream>
-struct  AsyncOperationCompletedHandler_1_t938E06620A102E763FF708F9F2955904FFED4023  : public MulticastDelegate_t
+struct AsyncOperationCompletedHandler_1_t938E06620A102E763FF708F9F2955904FFED4023  : public MulticastDelegate_t
 {
 public:
 
@@ -9214,7 +9214,7 @@ struct IAsyncOperationCompletedHandler_1_t938E06620A102E763FF708F9F2955904FFED40
 
 
 // Windows.Foundation.AsyncOperationCompletedHandler`1<Windows.Perception.People.HandMeshObserver>
-struct  AsyncOperationCompletedHandler_1_t79310BDAD6A307D7F6B6A24915AC8874A0C49B40  : public MulticastDelegate_t
+struct AsyncOperationCompletedHandler_1_t79310BDAD6A307D7F6B6A24915AC8874A0C49B40  : public MulticastDelegate_t
 {
 public:
 
@@ -9230,7 +9230,7 @@ struct IAsyncOperationCompletedHandler_1_t79310BDAD6A307D7F6B6A24915AC8874A0C49B
 
 
 // Windows.Foundation.AsyncOperationCompletedHandler`1<Windows.Storage.StorageFile>
-struct  AsyncOperationCompletedHandler_1_t37751734B3144FAB1C5C4BB800546C6835E77998  : public MulticastDelegate_t
+struct AsyncOperationCompletedHandler_1_t37751734B3144FAB1C5C4BB800546C6835E77998  : public MulticastDelegate_t
 {
 public:
 
@@ -9246,7 +9246,7 @@ struct IAsyncOperationCompletedHandler_1_t37751734B3144FAB1C5C4BB800546C6835E779
 
 
 // Windows.Foundation.AsyncOperationCompletedHandler`1<Windows.Storage.StorageFolder>
-struct  AsyncOperationCompletedHandler_1_t1322D303D2EA72E13A955617E0778C6012F24F1E  : public MulticastDelegate_t
+struct AsyncOperationCompletedHandler_1_t1322D303D2EA72E13A955617E0778C6012F24F1E  : public MulticastDelegate_t
 {
 public:
 
@@ -9262,7 +9262,7 @@ struct IAsyncOperationCompletedHandler_1_t1322D303D2EA72E13A955617E0778C6012F24F
 
 
 // Windows.Foundation.AsyncOperationCompletedHandler`1<Windows.Storage.Streams.IBuffer>
-struct  AsyncOperationCompletedHandler_1_tF281EB75CE881AF0EEA658A9C2F4667AF813E09A  : public MulticastDelegate_t
+struct AsyncOperationCompletedHandler_1_tF281EB75CE881AF0EEA658A9C2F4667AF813E09A  : public MulticastDelegate_t
 {
 public:
 
@@ -9278,7 +9278,7 @@ struct IAsyncOperationCompletedHandler_1_tF281EB75CE881AF0EEA658A9C2F4667AF813E0
 
 
 // Windows.Foundation.AsyncOperationCompletedHandler`1<Windows.Storage.Streams.IRandomAccessStreamWithContentType>
-struct  AsyncOperationCompletedHandler_1_tD7286EF27C58522F82A60A749ED6E6578956E3A5  : public MulticastDelegate_t
+struct AsyncOperationCompletedHandler_1_tD7286EF27C58522F82A60A749ED6E6578956E3A5  : public MulticastDelegate_t
 {
 public:
 
@@ -9294,7 +9294,7 @@ struct IAsyncOperationCompletedHandler_1_tD7286EF27C58522F82A60A749ED6E6578956E3
 
 
 // Windows.Foundation.AsyncOperationCompletedHandler`1<Windows.UI.Input.GazeInputAccessStatus>
-struct  AsyncOperationCompletedHandler_1_t1774D2800B3CC7511C0231ABE9733AE6B8E4FD71  : public MulticastDelegate_t
+struct AsyncOperationCompletedHandler_1_t1774D2800B3CC7511C0231ABE9733AE6B8E4FD71  : public MulticastDelegate_t
 {
 public:
 
@@ -9310,7 +9310,7 @@ struct IAsyncOperationCompletedHandler_1_t1774D2800B3CC7511C0231ABE9733AE6B8E4FD
 
 
 // Windows.Foundation.AsyncOperationProgressHandler`2<System.Object,System.Object>
-struct  AsyncOperationProgressHandler_2_t9553C2F879A9E39FC1043CB0A40CBF3BD3F431AD  : public MulticastDelegate_t
+struct AsyncOperationProgressHandler_2_t9553C2F879A9E39FC1043CB0A40CBF3BD3F431AD  : public MulticastDelegate_t
 {
 public:
 
@@ -9326,7 +9326,7 @@ struct IAsyncOperationProgressHandler_2_t9553C2F879A9E39FC1043CB0A40CBF3BD3F431A
 
 
 // Windows.Foundation.AsyncOperationProgressHandler`2<System.Object,System.UInt32>
-struct  AsyncOperationProgressHandler_2_tBE4195D29D5A4324DCD90062EB29BEA3AE9B0BE8  : public MulticastDelegate_t
+struct AsyncOperationProgressHandler_2_tBE4195D29D5A4324DCD90062EB29BEA3AE9B0BE8  : public MulticastDelegate_t
 {
 public:
 
@@ -9342,7 +9342,7 @@ struct IAsyncOperationProgressHandler_2_tBE4195D29D5A4324DCD90062EB29BEA3AE9B0BE
 
 
 // Windows.Foundation.AsyncOperationProgressHandler`2<System.UInt32,System.UInt32>
-struct  AsyncOperationProgressHandler_2_tA19C158F451F784ADBF15553277617D2FDAE10DF  : public MulticastDelegate_t
+struct AsyncOperationProgressHandler_2_tA19C158F451F784ADBF15553277617D2FDAE10DF  : public MulticastDelegate_t
 {
 public:
 
@@ -9358,7 +9358,7 @@ struct IAsyncOperationProgressHandler_2_tA19C158F451F784ADBF15553277617D2FDAE10D
 
 
 // Windows.Foundation.AsyncOperationProgressHandler`2<Windows.Storage.Streams.IBuffer,System.UInt32>
-struct  AsyncOperationProgressHandler_2_t0C15F7C59AE2A97EF9E8B255E2197C930474FC24  : public MulticastDelegate_t
+struct AsyncOperationProgressHandler_2_t0C15F7C59AE2A97EF9E8B255E2197C930474FC24  : public MulticastDelegate_t
 {
 public:
 
@@ -9374,7 +9374,7 @@ struct IAsyncOperationProgressHandler_2_t0C15F7C59AE2A97EF9E8B255E2197C930474FC2
 
 
 // Windows.Foundation.AsyncOperationWithProgressCompletedHandler`2<System.Object,System.Object>
-struct  AsyncOperationWithProgressCompletedHandler_2_tA57BD53F38B97D88EEA02AEACE48D9175DFFAFEB  : public MulticastDelegate_t
+struct AsyncOperationWithProgressCompletedHandler_2_tA57BD53F38B97D88EEA02AEACE48D9175DFFAFEB  : public MulticastDelegate_t
 {
 public:
 
@@ -9390,7 +9390,7 @@ struct IAsyncOperationWithProgressCompletedHandler_2_tA57BD53F38B97D88EEA02AEACE
 
 
 // Windows.Foundation.AsyncOperationWithProgressCompletedHandler`2<System.Object,System.UInt32>
-struct  AsyncOperationWithProgressCompletedHandler_2_tD97B7CC6004FBEA3D052F954E4EC2123FCAECD85  : public MulticastDelegate_t
+struct AsyncOperationWithProgressCompletedHandler_2_tD97B7CC6004FBEA3D052F954E4EC2123FCAECD85  : public MulticastDelegate_t
 {
 public:
 
@@ -9406,7 +9406,7 @@ struct IAsyncOperationWithProgressCompletedHandler_2_tD97B7CC6004FBEA3D052F954E4
 
 
 // Windows.Foundation.AsyncOperationWithProgressCompletedHandler`2<System.UInt32,System.UInt32>
-struct  AsyncOperationWithProgressCompletedHandler_2_tF449555B6EE977A7635D662ED0C1D414CC60792B  : public MulticastDelegate_t
+struct AsyncOperationWithProgressCompletedHandler_2_tF449555B6EE977A7635D662ED0C1D414CC60792B  : public MulticastDelegate_t
 {
 public:
 
@@ -9422,7 +9422,7 @@ struct IAsyncOperationWithProgressCompletedHandler_2_tF449555B6EE977A7635D662ED0
 
 
 // Windows.Foundation.AsyncOperationWithProgressCompletedHandler`2<Windows.Storage.Streams.IBuffer,System.UInt32>
-struct  AsyncOperationWithProgressCompletedHandler_2_tF04CE0C0951B83CB6BD82DC4376B10B01A3B1CE6  : public MulticastDelegate_t
+struct AsyncOperationWithProgressCompletedHandler_2_tF04CE0C0951B83CB6BD82DC4376B10B01A3B1CE6  : public MulticastDelegate_t
 {
 public:
 
@@ -9613,7 +9613,7 @@ struct NOVTABLE IVector_1_t715505A51AFA09F2A6913A32659462EFE3A620FD : Il2CppIIns
 };
 
 // Windows.Foundation.EventHandler`1<System.Object>
-struct  EventHandler_1_t8EE04C3BDE6A36E7A9BE58F901620BA148F79A1A  : public MulticastDelegate_t
+struct EventHandler_1_t8EE04C3BDE6A36E7A9BE58F901620BA148F79A1A  : public MulticastDelegate_t
 {
 public:
 
@@ -9653,7 +9653,7 @@ struct NOVTABLE IReference_1_t05125DEBFACCF631533E1BB325E91CC8E587D7AD : Il2CppI
 };
 
 // Windows.Foundation.TypedEventHandler`2<System.Object,System.Object>
-struct  TypedEventHandler_2_t6C7A7811426A9D4F993A89876C162DF171CF14CA  : public MulticastDelegate_t
+struct TypedEventHandler_2_t6C7A7811426A9D4F993A89876C162DF171CF14CA  : public MulticastDelegate_t
 {
 public:
 
@@ -9669,7 +9669,7 @@ struct ITypedEventHandler_2_t6C7A7811426A9D4F993A89876C162DF171CF14CA_ComCallabl
 
 
 // Windows.Foundation.TypedEventHandler`2<Windows.Media.Capture.AppCapture,System.Object>
-struct  TypedEventHandler_2_tDE590E0D64B472A71853145AB77C1D1F238F867F  : public MulticastDelegate_t
+struct TypedEventHandler_2_tDE590E0D64B472A71853145AB77C1D1F238F867F  : public MulticastDelegate_t
 {
 public:
 
@@ -9685,7 +9685,7 @@ struct ITypedEventHandler_2_tDE590E0D64B472A71853145AB77C1D1F238F867F_ComCallabl
 
 
 // Windows.Foundation.TypedEventHandler`2<Windows.UI.ViewManagement.InputPane,Windows.UI.ViewManagement.InputPaneVisibilityEventArgs>
-struct  TypedEventHandler_2_t357D0B6C811811240A72AA46352760C1AE874E07  : public MulticastDelegate_t
+struct TypedEventHandler_2_t357D0B6C811811240A72AA46352760C1AE874E07  : public MulticastDelegate_t
 {
 public:
 

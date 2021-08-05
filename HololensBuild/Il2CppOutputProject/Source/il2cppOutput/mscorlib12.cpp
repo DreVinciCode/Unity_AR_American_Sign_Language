@@ -972,7 +972,7 @@ struct Il2CppArrayBounds;
 
 
 // System.BitConverter
-struct  BitConverter_tD5DF1CB5C5A5CB087D90BD881C8E75A332E546EE  : public RuntimeObject
+struct BitConverter_tD5DF1CB5C5A5CB087D90BD881C8E75A332E546EE  : public RuntimeObject
 {
 public:
 
@@ -997,7 +997,7 @@ public:
 
 
 // System.Collections.Concurrent.ConcurrentDictionary`2<System.String,System.Object>
-struct  ConcurrentDictionary_2_t8BC749B04F30FD2EE553C74F214C704F65E8E10A  : public RuntimeObject
+struct ConcurrentDictionary_2_t8BC749B04F30FD2EE553C74F214C704F65E8E10A  : public RuntimeObject
 {
 public:
 	// System.Collections.Concurrent.ConcurrentDictionary`2/Tables<TKey,TValue> modreq(System.Runtime.CompilerServices.IsVolatile) System.Collections.Concurrent.ConcurrentDictionary`2::_tables
@@ -1063,7 +1063,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<System.Type,System.Runtime.Serialization.Formatters.Binary.TypeInformation>
-struct  Dictionary_2_tDF0B764EEAE1242A344103EC40130E5D891C6934  : public RuntimeObject
+struct Dictionary_2_tDF0B764EEAE1242A344103EC40130E5D891C6934  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -1177,7 +1177,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.Object>
-struct  List_1_t05CC3C859AB5E6024394EF9A42E3E696628CA02D  : public RuntimeObject
+struct List_1_t05CC3C859AB5E6024394EF9A42E3E696628CA02D  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -1244,7 +1244,7 @@ public:
 
 
 // System.Collections.Generic.List`1<System.Type>
-struct  List_1_tE9D3AD6B1DEE5D980D8D2F6C31987453E6E1C1E0  : public RuntimeObject
+struct List_1_tE9D3AD6B1DEE5D980D8D2F6C31987453E6E1C1E0  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -1311,7 +1311,7 @@ public:
 
 
 // System.Collections.Queue
-struct  Queue_tEC6DE7527799C2E4224B469ECD0CDD2B25E8E4F3  : public RuntimeObject
+struct Queue_tEC6DE7527799C2E4224B469ECD0CDD2B25E8E4F3  : public RuntimeObject
 {
 public:
 	// System.Object[] System.Collections.Queue::_array
@@ -1391,7 +1391,7 @@ public:
 
 
 // System.Globalization.CultureInfo
-struct  CultureInfo_t345AC6924134F039ED9A11F3E03F8E91B6A3225F  : public RuntimeObject
+struct CultureInfo_t345AC6924134F039ED9A11F3E03F8E91B6A3225F  : public RuntimeObject
 {
 public:
 	// System.Boolean System.Globalization.CultureInfo::m_isReadOnly
@@ -1840,7 +1840,7 @@ struct CultureInfo_t345AC6924134F039ED9A11F3E03F8E91B6A3225F_marshaled_com
 };
 
 // System.IO.BinaryReader
-struct  BinaryReader_t7467E057B24C42E81B1C3E5C60288BB4B1718969  : public RuntimeObject
+struct BinaryReader_t7467E057B24C42E81B1C3E5C60288BB4B1718969  : public RuntimeObject
 {
 public:
 	// System.IO.Stream System.IO.BinaryReader::m_stream
@@ -1954,7 +1954,7 @@ public:
 
 
 // System.IO.BinaryWriter
-struct  BinaryWriter_t1B8E78B6CACFBFB57BF140FB4DECE19AFD249CC3  : public RuntimeObject
+struct BinaryWriter_t1B8E78B6CACFBFB57BF140FB4DECE19AFD249CC3  : public RuntimeObject
 {
 public:
 	// System.IO.Stream System.IO.BinaryWriter::OutStream
@@ -2054,7 +2054,7 @@ public:
 
 
 // System.MarshalByRefObject
-struct  MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF  : public RuntimeObject
+struct MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF  : public RuntimeObject
 {
 public:
 	// System.Object System.MarshalByRefObject::_identity
@@ -2083,7 +2083,7 @@ struct MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF_marshaled_co
 };
 
 // System.Reflection.MemberInfo
-struct  MemberInfo_t  : public RuntimeObject
+struct MemberInfo_t  : public RuntimeObject
 {
 public:
 
@@ -2092,7 +2092,7 @@ public:
 
 
 // System.Runtime.Remoting.Messaging.Header
-struct  Header_tBB05146C08BE55AC72B8813E862DA50FDFB2417C  : public RuntimeObject
+struct Header_tBB05146C08BE55AC72B8813E862DA50FDFB2417C  : public RuntimeObject
 {
 public:
 	// System.String System.Runtime.Remoting.Messaging.Header::HeaderNamespace
@@ -2143,7 +2143,7 @@ public:
 
 
 // System.Runtime.Serialization.FormatterConverter
-struct  FormatterConverter_t16A7C06C3E01FFCC5F35D5FB98AF3E9AF61ADA85  : public RuntimeObject
+struct FormatterConverter_t16A7C06C3E01FFCC5F35D5FB98AF3E9AF61ADA85  : public RuntimeObject
 {
 public:
 
@@ -2152,7 +2152,7 @@ public:
 
 
 // System.Runtime.Serialization.FormatterServices/<>c__DisplayClass9_0
-struct  U3CU3Ec__DisplayClass9_0_t3FE72D0C843700DFC0A476D14EFD24D16BCE762D  : public RuntimeObject
+struct U3CU3Ec__DisplayClass9_0_t3FE72D0C843700DFC0A476D14EFD24D16BCE762D  : public RuntimeObject
 {
 public:
 	// System.Type System.Runtime.Serialization.FormatterServices/<>c__DisplayClass9_0::type
@@ -2171,7 +2171,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.BinaryAssembly
-struct  BinaryAssembly_t9612D61FDC16A48964BB61FDB3D968437BBADFFE  : public RuntimeObject
+struct BinaryAssembly_t9612D61FDC16A48964BB61FDB3D968437BBADFFE  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.BinaryAssembly::assemId
@@ -2200,7 +2200,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.BinaryAssemblyInfo
-struct  BinaryAssemblyInfo_t2AF6CFB4477355A8C934708A0660C8A76EAB111B  : public RuntimeObject
+struct BinaryAssemblyInfo_t2AF6CFB4477355A8C934708A0660C8A76EAB111B  : public RuntimeObject
 {
 public:
 	// System.String System.Runtime.Serialization.Formatters.Binary.BinaryAssemblyInfo::assemblyString
@@ -2230,7 +2230,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.BinaryConverter
-struct  BinaryConverter_tBEB0EC4D45084107C4D7F7902916AA7306E76730  : public RuntimeObject
+struct BinaryConverter_tBEB0EC4D45084107C4D7F7902916AA7306E76730  : public RuntimeObject
 {
 public:
 
@@ -2239,7 +2239,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.BinaryCrossAppDomainAssembly
-struct  BinaryCrossAppDomainAssembly_t1DEA469A2AF1234F9C34B41E3D2CA8420DBF3DF9  : public RuntimeObject
+struct BinaryCrossAppDomainAssembly_t1DEA469A2AF1234F9C34B41E3D2CA8420DBF3DF9  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.BinaryCrossAppDomainAssembly::assemId
@@ -2267,7 +2267,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.BinaryCrossAppDomainMap
-struct  BinaryCrossAppDomainMap_t3AB231FF89B4C0D41B19C63BB6B1D60DC92FB65E  : public RuntimeObject
+struct BinaryCrossAppDomainMap_t3AB231FF89B4C0D41B19C63BB6B1D60DC92FB65E  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.BinaryCrossAppDomainMap::crossAppDomainArrayIndex
@@ -2285,7 +2285,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.BinaryCrossAppDomainString
-struct  BinaryCrossAppDomainString_t6A81CCBE9B8F613AD1B3D89FA7FF6CD5A002EDAB  : public RuntimeObject
+struct BinaryCrossAppDomainString_t6A81CCBE9B8F613AD1B3D89FA7FF6CD5A002EDAB  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.BinaryCrossAppDomainString::objectId
@@ -2313,7 +2313,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.BinaryObject
-struct  BinaryObject_t673C2375D2FCF3D7E5631FF937DE0FD35E87950F  : public RuntimeObject
+struct BinaryObject_t673C2375D2FCF3D7E5631FF937DE0FD35E87950F  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.BinaryObject::objectId
@@ -2341,7 +2341,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.BinaryObjectString
-struct  BinaryObjectString_t6062746844A056F90F1F64E5368D8A1E1FA0D8B7  : public RuntimeObject
+struct BinaryObjectString_t6062746844A056F90F1F64E5368D8A1E1FA0D8B7  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.BinaryObjectString::objectId
@@ -2370,7 +2370,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.Converter
-struct  Converter_t487E627532CCF8E32700AE055E7EFBDAC280C794  : public RuntimeObject
+struct Converter_t487E627532CCF8E32700AE055E7EFBDAC280C794  : public RuntimeObject
 {
 public:
 
@@ -2901,7 +2901,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.IOUtil
-struct  IOUtil_t0D27E53B04596A7A21D96C0959E5CA56E7F2DFEE  : public RuntimeObject
+struct IOUtil_t0D27E53B04596A7A21D96C0959E5CA56E7F2DFEE  : public RuntimeObject
 {
 public:
 
@@ -2910,7 +2910,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.IntSizedArray
-struct  IntSizedArray_t2C7398EFD83B8888EF90EA9E8D5268C8771BAF01  : public RuntimeObject
+struct IntSizedArray_t2C7398EFD83B8888EF90EA9E8D5268C8771BAF01  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Runtime.Serialization.Formatters.Binary.IntSizedArray::objects
@@ -2940,7 +2940,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.MemberReference
-struct  MemberReference_t12860538665657DB61F1F5CD53253E2DBB073E66  : public RuntimeObject
+struct MemberReference_t12860538665657DB61F1F5CD53253E2DBB073E66  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.MemberReference::idRef
@@ -2958,7 +2958,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.MessageEnd
-struct  MessageEnd_tFE21C6E76D9EE7CAB10486486D43D97B5EF258DF  : public RuntimeObject
+struct MessageEnd_tFE21C6E76D9EE7CAB10486486D43D97B5EF258DF  : public RuntimeObject
 {
 public:
 
@@ -2967,7 +2967,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.NameCache
-struct  NameCache_t8E2C6F16791BF70942F3599CC096E43EE51FEC7F  : public RuntimeObject
+struct NameCache_t8E2C6F16791BF70942F3599CC096E43EE51FEC7F  : public RuntimeObject
 {
 public:
 	// System.String System.Runtime.Serialization.Formatters.Binary.NameCache::name
@@ -3003,7 +3003,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.ObjectMap
-struct  ObjectMap_t4A3376E393D41E3EA28A67569CF7663D01B5B92D  : public RuntimeObject
+struct ObjectMap_t4A3376E393D41E3EA28A67569CF7663D01B5B92D  : public RuntimeObject
 {
 public:
 	// System.String System.Runtime.Serialization.Formatters.Binary.ObjectMap::objectName
@@ -3130,7 +3130,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.ObjectMapInfo
-struct  ObjectMapInfo_t84FE00AB11C96611DDE801C57CB9415F77B0ABF8  : public RuntimeObject
+struct ObjectMapInfo_t84FE00AB11C96611DDE801C57CB9415F77B0ABF8  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.ObjectMapInfo::objectId
@@ -3180,7 +3180,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.ObjectNull
-struct  ObjectNull_t5DB725C9D746ACE48959A43CE5ABAC465865EA05  : public RuntimeObject
+struct ObjectNull_t5DB725C9D746ACE48959A43CE5ABAC465865EA05  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.ObjectNull::nullCount
@@ -3198,7 +3198,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.ObjectReader/TopLevelAssemblyTypeResolver
-struct  TopLevelAssemblyTypeResolver_t04636F94B55405B0EE48DD9BCA570DAA810DA4C8  : public RuntimeObject
+struct TopLevelAssemblyTypeResolver_t04636F94B55405B0EE48DD9BCA570DAA810DA4C8  : public RuntimeObject
 {
 public:
 	// System.Reflection.Assembly System.Runtime.Serialization.Formatters.Binary.ObjectReader/TopLevelAssemblyTypeResolver::m_topLevelAssembly
@@ -3217,7 +3217,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.ObjectReader/TypeNAssembly
-struct  TypeNAssembly_tC7486A43B108786A3E5305EBA7DF4F5EBF9F6933  : public RuntimeObject
+struct TypeNAssembly_tC7486A43B108786A3E5305EBA7DF4F5EBF9F6933  : public RuntimeObject
 {
 public:
 	// System.Type System.Runtime.Serialization.Formatters.Binary.ObjectReader/TypeNAssembly::type
@@ -3247,7 +3247,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.SerObjectInfoCache
-struct  SerObjectInfoCache_t32BC33838021C390DC94B45E12F87B2E6BC38B62  : public RuntimeObject
+struct SerObjectInfoCache_t32BC33838021C390DC94B45E12F87B2E6BC38B62  : public RuntimeObject
 {
 public:
 	// System.String System.Runtime.Serialization.Formatters.Binary.SerObjectInfoCache::fullTypeName
@@ -3320,7 +3320,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit
-struct  SerObjectInfoInit_tD7277DACBD8DA9334482500C1ECE6574FA6CFCF2  : public RuntimeObject
+struct SerObjectInfoInit_tD7277DACBD8DA9334482500C1ECE6574FA6CFCF2  : public RuntimeObject
 {
 public:
 	// System.Collections.Hashtable System.Runtime.Serialization.Formatters.Binary.SerObjectInfoInit::seenBeforeTable
@@ -3360,7 +3360,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.SerStack
-struct  SerStack_t40715BC3B3EA919738845FBD98EB61B391CCB5CF  : public RuntimeObject
+struct SerStack_t40715BC3B3EA919738845FBD98EB61B391CCB5CF  : public RuntimeObject
 {
 public:
 	// System.Object[] System.Runtime.Serialization.Formatters.Binary.SerStack::objects
@@ -3400,7 +3400,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.SizedArray
-struct  SizedArray_tABB50A21577F46DA31A90E0ACE49F994AE1D9B4C  : public RuntimeObject
+struct SizedArray_tABB50A21577F46DA31A90E0ACE49F994AE1D9B4C  : public RuntimeObject
 {
 public:
 	// System.Object[] System.Runtime.Serialization.Formatters.Binary.SizedArray::objects
@@ -3430,7 +3430,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.TypeInformation
-struct  TypeInformation_t0D3CF8347F5EA65A6D5B8D6C0D0F97A96E351F17  : public RuntimeObject
+struct TypeInformation_t0D3CF8347F5EA65A6D5B8D6C0D0F97A96E351F17  : public RuntimeObject
 {
 public:
 	// System.String System.Runtime.Serialization.Formatters.Binary.TypeInformation::fullTypeName
@@ -3470,7 +3470,7 @@ public:
 
 
 // System.Runtime.Serialization.ObjectIDGenerator
-struct  ObjectIDGenerator_tD65209D0A1CDA08C9C709A4D1997D8091A93C1A1  : public RuntimeObject
+struct ObjectIDGenerator_tD65209D0A1CDA08C9C709A4D1997D8091A93C1A1  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Runtime.Serialization.ObjectIDGenerator::m_currentCount
@@ -3537,7 +3537,7 @@ public:
 
 
 // System.Runtime.Serialization.SerializationBinder
-struct  SerializationBinder_tB5EBAF328371FB7CF23E37F5984D8412762CFFA4  : public RuntimeObject
+struct SerializationBinder_tB5EBAF328371FB7CF23E37F5984D8412762CFFA4  : public RuntimeObject
 {
 public:
 
@@ -3546,7 +3546,7 @@ public:
 
 
 // System.Runtime.Serialization.SerializationInfo
-struct  SerializationInfo_t1BB80E9C9DEA52DBF464487234B045E2930ADA26  : public RuntimeObject
+struct SerializationInfo_t1BB80E9C9DEA52DBF464487234B045E2930ADA26  : public RuntimeObject
 {
 public:
 	// System.String[] System.Runtime.Serialization.SerializationInfo::m_members
@@ -3682,7 +3682,7 @@ public:
 
 
 // System.Runtime.Serialization.SerializationInfoEnumerator
-struct  SerializationInfoEnumerator_tB72162C419D705A40F34DDFEB18E6ACA347C54E5  : public RuntimeObject
+struct SerializationInfoEnumerator_tB72162C419D705A40F34DDFEB18E6ACA347C54E5  : public RuntimeObject
 {
 public:
 	// System.String[] System.Runtime.Serialization.SerializationInfoEnumerator::m_members
@@ -3753,7 +3753,7 @@ public:
 
 
 // System.Runtime.Serialization.TypeLoadExceptionHolder
-struct  TypeLoadExceptionHolder_t25D9A474F1B8929534D57CDD46252B59C9378653  : public RuntimeObject
+struct TypeLoadExceptionHolder_t25D9A474F1B8929534D57CDD46252B59C9378653  : public RuntimeObject
 {
 public:
 	// System.String System.Runtime.Serialization.TypeLoadExceptionHolder::m_typeName
@@ -3772,7 +3772,7 @@ public:
 
 
 // System.Security.Policy.Evidence
-struct  Evidence_t58C8D73D9B4FC7DD3BDDEE37E3C283678BFDC307  : public RuntimeObject
+struct Evidence_t58C8D73D9B4FC7DD3BDDEE37E3C283678BFDC307  : public RuntimeObject
 {
 public:
 	// System.Boolean System.Security.Policy.Evidence::_locked
@@ -3812,7 +3812,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -3857,7 +3857,7 @@ public:
 
 
 // System.Text.Encoding
-struct  Encoding_t7837A3C0F55EAE0E3959A53C6D6E88B113ED78A4  : public RuntimeObject
+struct Encoding_t7837A3C0F55EAE0E3959A53C6D6E88B113ED78A4  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Text.Encoding::m_codePage
@@ -4044,7 +4044,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
+struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
 {
 public:
 
@@ -4061,7 +4061,7 @@ struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF_marshaled_com
 };
 
 // System.Boolean
-struct  Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
+struct Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -4107,7 +4107,7 @@ public:
 
 
 // System.Byte
-struct  Byte_tF87C579059BD4633E6840EBBBEEF899C6E33EF07 
+struct Byte_tF87C579059BD4633E6840EBBBEEF899C6E33EF07 
 {
 public:
 	// System.Byte System.Byte::m_value
@@ -4125,7 +4125,7 @@ public:
 
 
 // System.Char
-struct  Char_tBF22D9FC341BE970735250BB6FF1A4A92BBA58B9 
+struct Char_tBF22D9FC341BE970735250BB6FF1A4A92BBA58B9 
 {
 public:
 	// System.Char System.Char::m_value
@@ -4160,7 +4160,7 @@ public:
 
 
 // System.DateTime
-struct  DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 
+struct DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 
 {
 public:
 	// System.UInt64 System.DateTime::dateData
@@ -4226,7 +4226,7 @@ public:
 
 
 // System.Decimal
-struct  Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 
+struct Decimal_t44EE9DA309A1BF848308DE4DDFC070CAE6D95EE8 
 {
 public:
 	// System.Int32 System.Decimal::flags
@@ -4361,7 +4361,7 @@ public:
 
 
 // System.Double
-struct  Double_t358B8F23BDC52A5DD700E727E204F9F7CDE12409 
+struct Double_t358B8F23BDC52A5DD700E727E204F9F7CDE12409 
 {
 public:
 	// System.Double System.Double::m_value
@@ -4395,7 +4395,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
+struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
 {
 public:
 
@@ -4429,7 +4429,7 @@ struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521_marshaled_com
 };
 
 // System.IO.Stream
-struct  Stream_tFC50657DD5AAB87770987F9179D934A51D99D5E7  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
+struct Stream_tFC50657DD5AAB87770987F9179D934A51D99D5E7  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
 {
 public:
 	// System.IO.Stream/ReadWriteTask System.IO.Stream::_activeReadWriteTask
@@ -4476,7 +4476,7 @@ public:
 
 
 // System.Int16
-struct  Int16_t823A20635DAF5A3D93A1E01CFBF3CBA27CF00B4D 
+struct Int16_t823A20635DAF5A3D93A1E01CFBF3CBA27CF00B4D 
 {
 public:
 	// System.Int16 System.Int16::m_value
@@ -4494,7 +4494,7 @@ public:
 
 
 // System.Int32
-struct  Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
+struct Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -4512,7 +4512,7 @@ public:
 
 
 // System.Int64
-struct  Int64_t7A386C2FF7B0280A0F516992401DDFCF0FF7B436 
+struct Int64_t7A386C2FF7B0280A0F516992401DDFCF0FF7B436 
 {
 public:
 	// System.Int64 System.Int64::m_value
@@ -4530,7 +4530,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -4564,7 +4564,7 @@ public:
 
 
 // System.Reflection.FieldInfo
-struct  FieldInfo_t  : public MemberInfo_t
+struct FieldInfo_t  : public MemberInfo_t
 {
 public:
 
@@ -4573,7 +4573,7 @@ public:
 
 
 // System.Reflection.PropertyInfo
-struct  PropertyInfo_t  : public MemberInfo_t
+struct PropertyInfo_t  : public MemberInfo_t
 {
 public:
 
@@ -4582,7 +4582,7 @@ public:
 
 
 // System.SByte
-struct  SByte_t9070AEA2966184235653CB9B4D33B149CDA831DF 
+struct SByte_t9070AEA2966184235653CB9B4D33B149CDA831DF 
 {
 public:
 	// System.SByte System.SByte::m_value
@@ -4600,7 +4600,7 @@ public:
 
 
 // System.Single
-struct  Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
+struct Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
 {
 public:
 	// System.Single System.Single::m_value
@@ -4618,7 +4618,7 @@ public:
 
 
 // System.Text.UTF8Encoding
-struct  UTF8Encoding_t77ED103B749A387EF072C3429F48C91D12CA08DE  : public Encoding_t7837A3C0F55EAE0E3959A53C6D6E88B113ED78A4
+struct UTF8Encoding_t77ED103B749A387EF072C3429F48C91D12CA08DE  : public Encoding_t7837A3C0F55EAE0E3959A53C6D6E88B113ED78A4
 {
 public:
 	// System.Boolean System.Text.UTF8Encoding::emitUTF8Identifier
@@ -4646,7 +4646,7 @@ public:
 
 
 // System.UInt16
-struct  UInt16_tAE45CEF73BF720100519F6867F32145D075F928E 
+struct UInt16_tAE45CEF73BF720100519F6867F32145D075F928E 
 {
 public:
 	// System.UInt16 System.UInt16::m_value
@@ -4664,7 +4664,7 @@ public:
 
 
 // System.UInt32
-struct  UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
+struct UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
 {
 public:
 	// System.UInt32 System.UInt32::m_value
@@ -4682,7 +4682,7 @@ public:
 
 
 // System.UInt64
-struct  UInt64_tA02DF3B59C8FC4A849BD207DA11038CC64E4CB4E 
+struct UInt64_tA02DF3B59C8FC4A849BD207DA11038CC64E4CB4E 
 {
 public:
 	// System.UInt64 System.UInt64::m_value
@@ -4700,7 +4700,7 @@ public:
 
 
 // System.Void
-struct  Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
+struct Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
 {
 public:
 	union
@@ -4716,7 +4716,7 @@ public:
 
 
 // System.Collections.Hashtable
-struct  Hashtable_t978F65B8006C8F5504B286526AEC6608FF983FC9  : public RuntimeObject
+struct Hashtable_t978F65B8006C8F5504B286526AEC6608FF983FC9  : public RuntimeObject
 {
 public:
 	// System.Collections.Hashtable/bucket[] System.Collections.Hashtable::buckets
@@ -4839,7 +4839,7 @@ public:
 
 
 // System.Configuration.Assemblies.AssemblyHashAlgorithm
-struct  AssemblyHashAlgorithm_t31E4F1BC642CF668706C9D0FBD9DFDF5EE01CEB9 
+struct AssemblyHashAlgorithm_t31E4F1BC642CF668706C9D0FBD9DFDF5EE01CEB9 
 {
 public:
 	// System.Int32 System.Configuration.Assemblies.AssemblyHashAlgorithm::value__
@@ -4857,7 +4857,7 @@ public:
 
 
 // System.Configuration.Assemblies.AssemblyVersionCompatibility
-struct  AssemblyVersionCompatibility_tEA062AB37A9A750B33F6CA2898EEF03A4EEA496C 
+struct AssemblyVersionCompatibility_tEA062AB37A9A750B33F6CA2898EEF03A4EEA496C 
 {
 public:
 	// System.Int32 System.Configuration.Assemblies.AssemblyVersionCompatibility::value__
@@ -4875,7 +4875,7 @@ public:
 
 
 // System.Delegate
-struct  Delegate_t  : public RuntimeObject
+struct Delegate_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Delegate::method_ptr
@@ -5027,7 +5027,7 @@ struct Delegate_t_marshaled_com
 };
 
 // System.Exception
-struct  Exception_t  : public RuntimeObject
+struct Exception_t  : public RuntimeObject
 {
 public:
 	// System.String System.Exception::_className
@@ -5253,7 +5253,7 @@ struct Exception_t_marshaled_com
 };
 
 // System.Reflection.Assembly
-struct  Assembly_t  : public RuntimeObject
+struct Assembly_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Reflection.Assembly::_mono_assembly
@@ -5397,7 +5397,7 @@ struct Assembly_t_marshaled_com
 };
 
 // System.Reflection.AssemblyContentType
-struct  AssemblyContentType_t9869DE40B7B1976B389F3B6A5A5D18B09E623401 
+struct AssemblyContentType_t9869DE40B7B1976B389F3B6A5A5D18B09E623401 
 {
 public:
 	// System.Int32 System.Reflection.AssemblyContentType::value__
@@ -5415,7 +5415,7 @@ public:
 
 
 // System.Reflection.AssemblyNameFlags
-struct  AssemblyNameFlags_t7834EDF078E7ECA985AA434A1EA0D95C2A44F256 
+struct AssemblyNameFlags_t7834EDF078E7ECA985AA434A1EA0D95C2A44F256 
 {
 public:
 	// System.Int32 System.Reflection.AssemblyNameFlags::value__
@@ -5433,7 +5433,7 @@ public:
 
 
 // System.Reflection.BindingFlags
-struct  BindingFlags_tE35C91D046E63A1B92BB9AB909FCF9DA84379ED0 
+struct BindingFlags_tE35C91D046E63A1B92BB9AB909FCF9DA84379ED0 
 {
 public:
 	// System.Int32 System.Reflection.BindingFlags::value__
@@ -5451,7 +5451,7 @@ public:
 
 
 // System.Reflection.ProcessorArchitecture
-struct  ProcessorArchitecture_t0CFB73A83469D6AC222B9FE46E81EAC73C2627C7 
+struct ProcessorArchitecture_t0CFB73A83469D6AC222B9FE46E81EAC73C2627C7 
 {
 public:
 	// System.Int32 System.Reflection.ProcessorArchitecture::value__
@@ -5469,7 +5469,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.BinaryArrayTypeEnum
-struct  BinaryArrayTypeEnum_t524B2624D887D491698CB4BECFFC9FCF33871C86 
+struct BinaryArrayTypeEnum_t524B2624D887D491698CB4BECFFC9FCF33871C86 
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.BinaryArrayTypeEnum::value__
@@ -5487,7 +5487,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.BinaryHeaderEnum
-struct  BinaryHeaderEnum_t4A53665402402F3F3D908CB38FBD5D7AA52DE997 
+struct BinaryHeaderEnum_t4A53665402402F3F3D908CB38FBD5D7AA52DE997 
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.BinaryHeaderEnum::value__
@@ -5505,7 +5505,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.BinaryTypeEnum
-struct  BinaryTypeEnum_t7800D9B0337C0B4E50C9A8C53702A9F7DDEE1DF8 
+struct BinaryTypeEnum_t7800D9B0337C0B4E50C9A8C53702A9F7DDEE1DF8 
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.BinaryTypeEnum::value__
@@ -5523,7 +5523,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.InternalArrayTypeE
-struct  InternalArrayTypeE_tE439549A59FB04C796CE5C21C98DFD6E3CD69CF1 
+struct InternalArrayTypeE_tE439549A59FB04C796CE5C21C98DFD6E3CD69CF1 
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.InternalArrayTypeE::value__
@@ -5541,7 +5541,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.InternalMemberTypeE
-struct  InternalMemberTypeE_tC5A73146DC88A656CACCB395E8B37965669421AA 
+struct InternalMemberTypeE_tC5A73146DC88A656CACCB395E8B37965669421AA 
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.InternalMemberTypeE::value__
@@ -5559,7 +5559,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.InternalMemberValueE
-struct  InternalMemberValueE_t6327193ACC406320C090528074357450CB401976 
+struct InternalMemberValueE_t6327193ACC406320C090528074357450CB401976 
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.InternalMemberValueE::value__
@@ -5577,7 +5577,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.InternalObjectPositionE
-struct  InternalObjectPositionE_t7BE528034F2233920EE953641467E9456D5B59AA 
+struct InternalObjectPositionE_t7BE528034F2233920EE953641467E9456D5B59AA 
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.InternalObjectPositionE::value__
@@ -5595,7 +5595,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.InternalObjectTypeE
-struct  InternalObjectTypeE_t13A697BF79035A10D4644AA1F95D35508F006D30 
+struct InternalObjectTypeE_t13A697BF79035A10D4644AA1F95D35508F006D30 
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.InternalObjectTypeE::value__
@@ -5613,7 +5613,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.InternalParseTypeE
-struct  InternalParseTypeE_t53859E04B4CCCAC15695C4008ED656AAAE5D6A3A 
+struct InternalParseTypeE_t53859E04B4CCCAC15695C4008ED656AAAE5D6A3A 
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.InternalParseTypeE::value__
@@ -5631,7 +5631,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.InternalPrimitiveTypeE
-struct  InternalPrimitiveTypeE_t631DE4C166E141164C150F9C6C93365AB882E801 
+struct InternalPrimitiveTypeE_t631DE4C166E141164C150F9C6C93365AB882E801 
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.InternalPrimitiveTypeE::value__
@@ -5649,7 +5649,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.InternalSerializerTypeE
-struct  InternalSerializerTypeE_t778A33398F5FE02B1A08B4B61107DF911199CFC3 
+struct InternalSerializerTypeE_t778A33398F5FE02B1A08B4B61107DF911199CFC3 
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.InternalSerializerTypeE::value__
@@ -5667,7 +5667,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.MessageEnum
-struct  MessageEnum_t208D4B77109F699595976C1E2418DC98AA3430C8 
+struct MessageEnum_t208D4B77109F699595976C1E2418DC98AA3430C8 
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.MessageEnum::value__
@@ -5685,7 +5685,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.ValueFixupEnum
-struct  ValueFixupEnum_t1F5E8E7BA39DBF9CE9CD2DEEA57E12768F655900 
+struct ValueFixupEnum_t1F5E8E7BA39DBF9CE9CD2DEEA57E12768F655900 
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.ValueFixupEnum::value__
@@ -5703,7 +5703,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.FormatterAssemblyStyle
-struct  FormatterAssemblyStyle_tA1E8A300026362A0AE091830C5DBDEFCBCD5213A 
+struct FormatterAssemblyStyle_tA1E8A300026362A0AE091830C5DBDEFCBCD5213A 
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.FormatterAssemblyStyle::value__
@@ -5721,7 +5721,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.FormatterTypeStyle
-struct  FormatterTypeStyle_tFEF4ABC0D7DE012B1C0976F196E45600568D67AF 
+struct FormatterTypeStyle_tFEF4ABC0D7DE012B1C0976F196E45600568D67AF 
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.FormatterTypeStyle::value__
@@ -5739,7 +5739,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.TypeFilterLevel
-struct  TypeFilterLevel_t8FC0F5849147B01F3EB6E3B876E06B3022E0C59A 
+struct TypeFilterLevel_t8FC0F5849147B01F3EB6E3B876E06B3022E0C59A 
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.TypeFilterLevel::value__
@@ -5757,7 +5757,7 @@ public:
 
 
 // System.Runtime.Serialization.StreamingContextStates
-struct  StreamingContextStates_t6D16CD7BC584A66A29B702F5FD59DF62BB1BDD3F 
+struct StreamingContextStates_t6D16CD7BC584A66A29B702F5FD59DF62BB1BDD3F 
 {
 public:
 	// System.Int32 System.Runtime.Serialization.StreamingContextStates::value__
@@ -5775,7 +5775,7 @@ public:
 
 
 // System.RuntimeTypeHandle
-struct  RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D 
+struct RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D 
 {
 public:
 	// System.IntPtr System.RuntimeTypeHandle::value
@@ -5793,7 +5793,7 @@ public:
 
 
 // System.Threading.StackCrawlMark
-struct  StackCrawlMark_t857D8DE506F124E737FD26BB7ADAAAAD13E4F943 
+struct StackCrawlMark_t857D8DE506F124E737FD26BB7ADAAAAD13E4F943 
 {
 public:
 	// System.Int32 System.Threading.StackCrawlMark::value__
@@ -5811,7 +5811,7 @@ public:
 
 
 // System.TimeSpan
-struct  TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 
+struct TimeSpan_tA8069278ACE8A74D6DF7D514A9CD4432433F64C4 
 {
 public:
 	// System.Int64 System.TimeSpan::_ticks
@@ -5885,7 +5885,7 @@ public:
 
 
 // System.TypeCode
-struct  TypeCode_t03ED52F888000DAF40C550C434F29F39A23D61C6 
+struct TypeCode_t03ED52F888000DAF40C550C434F29F39A23D61C6 
 {
 public:
 	// System.Int32 System.TypeCode::value__
@@ -5903,7 +5903,7 @@ public:
 
 
 // System.MulticastDelegate
-struct  MulticastDelegate_t  : public Delegate_t
+struct MulticastDelegate_t  : public Delegate_t
 {
 public:
 	// System.Delegate[] System.MulticastDelegate::delegates
@@ -5932,7 +5932,7 @@ struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
 };
 
 // System.Reflection.AssemblyName
-struct  AssemblyName_t6F3EC58113268060348EE894DCB46F6EF6BBBB82  : public RuntimeObject
+struct AssemblyName_t6F3EC58113268060348EE894DCB46F6EF6BBBB82  : public RuntimeObject
 {
 public:
 	// System.String System.Reflection.AssemblyName::name
@@ -6147,7 +6147,7 @@ struct AssemblyName_t6F3EC58113268060348EE894DCB46F6EF6BBBB82_marshaled_com
 };
 
 // System.Reflection.RuntimeAssembly
-struct  RuntimeAssembly_t5EE9CD749D82345AE5635B9665665C31A3308EB1  : public Assembly_t
+struct RuntimeAssembly_t5EE9CD749D82345AE5635B9665665C31A3308EB1  : public Assembly_t
 {
 public:
 
@@ -6156,7 +6156,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.BinaryArray
-struct  BinaryArray_t73579D38A0B2CBC8CC6D498807CE3F07D2ED3D94  : public RuntimeObject
+struct BinaryArray_t73579D38A0B2CBC8CC6D498807CE3F07D2ED3D94  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.BinaryArray::objectId
@@ -6257,7 +6257,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.BinaryMethodCall
-struct  BinaryMethodCall_tC674288A0347077F15A85A680F2BF73B4FE92323  : public RuntimeObject
+struct BinaryMethodCall_tC674288A0347077F15A85A680F2BF73B4FE92323  : public RuntimeObject
 {
 public:
 	// System.String System.Runtime.Serialization.Formatters.Binary.BinaryMethodCall::methodName
@@ -6340,7 +6340,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.BinaryMethodReturn
-struct  BinaryMethodReturn_tB9D6A5DA8EFB97E6C45C135F03D6E89DC2EDA530  : public RuntimeObject
+struct BinaryMethodReturn_tB9D6A5DA8EFB97E6C45C135F03D6E89DC2EDA530  : public RuntimeObject
 {
 public:
 	// System.Object System.Runtime.Serialization.Formatters.Binary.BinaryMethodReturn::returnValue
@@ -6440,7 +6440,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.BinaryObjectWithMap
-struct  BinaryObjectWithMap_tBE57F544D537F6E23893687CB582BFB1575FC107  : public RuntimeObject
+struct BinaryObjectWithMap_tBE57F544D537F6E23893687CB582BFB1575FC107  : public RuntimeObject
 {
 public:
 	// System.Runtime.Serialization.Formatters.Binary.BinaryHeaderEnum System.Runtime.Serialization.Formatters.Binary.BinaryObjectWithMap::binaryHeaderEnum
@@ -6510,7 +6510,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.BinaryObjectWithMapTyped
-struct  BinaryObjectWithMapTyped_tFB9A8B8A9EE3336A39E82BD6F1D9F76ECB01F645  : public RuntimeObject
+struct BinaryObjectWithMapTyped_tFB9A8B8A9EE3336A39E82BD6F1D9F76ECB01F645  : public RuntimeObject
 {
 public:
 	// System.Runtime.Serialization.Formatters.Binary.BinaryHeaderEnum System.Runtime.Serialization.Formatters.Binary.BinaryObjectWithMapTyped::binaryHeaderEnum
@@ -6613,7 +6613,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.InternalFE
-struct  InternalFE_tB3647119B7B43049DD9BDE109EB74BC7A05931D1  : public RuntimeObject
+struct InternalFE_tB3647119B7B43049DD9BDE109EB74BC7A05931D1  : public RuntimeObject
 {
 public:
 	// System.Runtime.Serialization.Formatters.FormatterTypeStyle System.Runtime.Serialization.Formatters.Binary.InternalFE::FEtypeFormat
@@ -6661,7 +6661,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.MemberPrimitiveTyped
-struct  MemberPrimitiveTyped_t0FB5084B941EF1AD0E7237F89AD892A3CF9C135F  : public RuntimeObject
+struct MemberPrimitiveTyped_t0FB5084B941EF1AD0E7237F89AD892A3CF9C135F  : public RuntimeObject
 {
 public:
 	// System.Runtime.Serialization.Formatters.Binary.InternalPrimitiveTypeE System.Runtime.Serialization.Formatters.Binary.MemberPrimitiveTyped::primitiveTypeEnum
@@ -6690,7 +6690,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.MemberPrimitiveUnTyped
-struct  MemberPrimitiveUnTyped_tDA60C25752F92B89A315A67E4E447DDA4E2BD423  : public RuntimeObject
+struct MemberPrimitiveUnTyped_tDA60C25752F92B89A315A67E4E447DDA4E2BD423  : public RuntimeObject
 {
 public:
 	// System.Runtime.Serialization.Formatters.Binary.InternalPrimitiveTypeE System.Runtime.Serialization.Formatters.Binary.MemberPrimitiveUnTyped::typeInformation
@@ -6719,7 +6719,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.NameInfo
-struct  NameInfo_t57D1A79A08FB3AD2F94CC065E024AA9C02760D77  : public RuntimeObject
+struct NameInfo_t57D1A79A08FB3AD2F94CC065E024AA9C02760D77  : public RuntimeObject
 {
 public:
 	// System.String System.Runtime.Serialization.Formatters.Binary.NameInfo::NIFullName
@@ -6859,7 +6859,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.ObjectProgress
-struct  ObjectProgress_t1708E3C5BD8A5818B6A8AA3076BB266C17275B56  : public RuntimeObject
+struct ObjectProgress_t1708E3C5BD8A5818B6A8AA3076BB266C17275B56  : public RuntimeObject
 {
 public:
 	// System.Boolean System.Runtime.Serialization.Formatters.Binary.ObjectProgress::isInitial
@@ -7082,7 +7082,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.ParseRecord
-struct  ParseRecord_t2B6857A7854DAA20699FB21EB6AB30A06E8938C6  : public RuntimeObject
+struct ParseRecord_t2B6857A7854DAA20699FB21EB6AB30A06E8938C6  : public RuntimeObject
 {
 public:
 	// System.Runtime.Serialization.Formatters.Binary.InternalParseTypeE System.Runtime.Serialization.Formatters.Binary.ParseRecord::PRparseTypeEnum
@@ -7525,7 +7525,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.PrimitiveArray
-struct  PrimitiveArray_tE20DCA935C848882BB2335163271DCDA1E7C05A4  : public RuntimeObject
+struct PrimitiveArray_tE20DCA935C848882BB2335163271DCDA1E7C05A4  : public RuntimeObject
 {
 public:
 	// System.Runtime.Serialization.Formatters.Binary.InternalPrimitiveTypeE System.Runtime.Serialization.Formatters.Binary.PrimitiveArray::code
@@ -7664,7 +7664,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.SerializationHeaderRecord
-struct  SerializationHeaderRecord_t20BDA953494C891B8DBAEB338D6694F7C56BEF05  : public RuntimeObject
+struct SerializationHeaderRecord_t20BDA953494C891B8DBAEB338D6694F7C56BEF05  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.SerializationHeaderRecord::binaryFormatterMajorVersion
@@ -7742,7 +7742,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.ValueFixup
-struct  ValueFixup_t663CB792F748647C6959DC5F57F382987ABC1ABA  : public RuntimeObject
+struct ValueFixup_t663CB792F748647C6959DC5F57F382987ABC1ABA  : public RuntimeObject
 {
 public:
 	// System.Runtime.Serialization.Formatters.Binary.ValueFixupEnum System.Runtime.Serialization.Formatters.Binary.ValueFixup::valueFixupEnum
@@ -7843,7 +7843,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.__BinaryParser
-struct  __BinaryParser_tB4B73F854B1BC62D524AA32A8DFB6B71171DF576  : public RuntimeObject
+struct __BinaryParser_tB4B73F854B1BC62D524AA32A8DFB6B71171DF576  : public RuntimeObject
 {
 public:
 	// System.Runtime.Serialization.Formatters.Binary.ObjectReader System.Runtime.Serialization.Formatters.Binary.__BinaryParser::objectReader
@@ -8129,7 +8129,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.__BinaryWriter
-struct  __BinaryWriter_t0895EBF9E16AB435338A634C273212D7479DD727  : public RuntimeObject
+struct __BinaryWriter_t0895EBF9E16AB435338A634C273212D7479DD727  : public RuntimeObject
 {
 public:
 	// System.IO.Stream System.Runtime.Serialization.Formatters.Binary.__BinaryWriter::sout
@@ -8364,7 +8364,7 @@ public:
 
 
 // System.Runtime.Serialization.StreamingContext
-struct  StreamingContext_t2CCDC54E0E8D078AF4A50E3A8B921B828A900034 
+struct StreamingContext_t2CCDC54E0E8D078AF4A50E3A8B921B828A900034 
 {
 public:
 	// System.Object System.Runtime.Serialization.StreamingContext::m_additionalContext
@@ -8405,7 +8405,7 @@ struct StreamingContext_t2CCDC54E0E8D078AF4A50E3A8B921B828A900034_marshaled_com
 };
 
 // System.SystemException
-struct  SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
+struct SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
 {
 public:
 
@@ -8414,7 +8414,7 @@ public:
 
 
 // System.Type
-struct  Type_t  : public MemberInfo_t
+struct Type_t  : public MemberInfo_t
 {
 public:
 	// System.RuntimeTypeHandle System.Type::_impl
@@ -8514,7 +8514,7 @@ public:
 
 
 // System.ArgumentException
-struct  ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 	// System.String System.ArgumentException::m_paramName
@@ -8533,7 +8533,7 @@ public:
 
 
 // System.BadImageFormatException
-struct  BadImageFormatException_t0994B7CA8CE7F391EF179F30094DA4DCB366F4B9  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct BadImageFormatException_t0994B7CA8CE7F391EF179F30094DA4DCB366F4B9  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 	// System.String System.BadImageFormatException::_fileName
@@ -8563,7 +8563,7 @@ public:
 
 
 // System.Func`2<System.Reflection.AssemblyName,System.Reflection.Assembly>
-struct  Func_2_t13827C9725E0D12567E029E178981FB7D0E13430  : public MulticastDelegate_t
+struct Func_2_t13827C9725E0D12567E029E178981FB7D0E13430  : public MulticastDelegate_t
 {
 public:
 
@@ -8572,7 +8572,7 @@ public:
 
 
 // System.Func`4<System.Reflection.Assembly,System.String,System.Boolean,System.Type>
-struct  Func_4_t3D7857A2A0F731D1E992FC5B09E983A8621FABFF  : public MulticastDelegate_t
+struct Func_4_t3D7857A2A0F731D1E992FC5B09E983A8621FABFF  : public MulticastDelegate_t
 {
 public:
 
@@ -8581,7 +8581,7 @@ public:
 
 
 // System.IO.IOException
-struct  IOException_t60E052020EDE4D3075F57A1DCC224FF8864354BA  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct IOException_t60E052020EDE4D3075F57A1DCC224FF8864354BA  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 	// System.String System.IO.IOException::_maybeFullPath
@@ -8600,7 +8600,7 @@ public:
 
 
 // System.Reflection.TypeInfo
-struct  TypeInfo_t9D6F65801A41B97F36138B15FD270A1550DBB3FC  : public Type_t
+struct TypeInfo_t9D6F65801A41B97F36138B15FD270A1550DBB3FC  : public Type_t
 {
 public:
 
@@ -8609,7 +8609,7 @@ public:
 
 
 // System.Runtime.Remoting.Messaging.HeaderHandler
-struct  HeaderHandler_t1242348575203397A2448B743F85E89A6EF8576F  : public MulticastDelegate_t
+struct HeaderHandler_t1242348575203397A2448B743F85E89A6EF8576F  : public MulticastDelegate_t
 {
 public:
 
@@ -8618,7 +8618,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-struct  BinaryFormatter_t116398AB9D7E425E4CFF83C37824A46443A2E6D0  : public RuntimeObject
+struct BinaryFormatter_t116398AB9D7E425E4CFF83C37824A46443A2E6D0  : public RuntimeObject
 {
 public:
 	// System.Runtime.Serialization.ISurrogateSelector System.Runtime.Serialization.Formatters.Binary.BinaryFormatter::m_surrogates
@@ -8717,7 +8717,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.ObjectReader
-struct  ObjectReader_tD738F15949E2F04F375D718ADD2B3FF1D0268667  : public RuntimeObject
+struct ObjectReader_tD738F15949E2F04F375D718ADD2B3FF1D0268667  : public RuntimeObject
 {
 public:
 	// System.IO.Stream System.Runtime.Serialization.Formatters.Binary.ObjectReader::m_stream
@@ -8985,7 +8985,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.ObjectWriter
-struct  ObjectWriter_tF3E4F02676AFF4D29C9409566B837A1CB2CE1C16  : public RuntimeObject
+struct ObjectWriter_tF3E4F02676AFF4D29C9409566B837A1CB2CE1C16  : public RuntimeObject
 {
 public:
 	// System.Collections.Queue System.Runtime.Serialization.Formatters.Binary.ObjectWriter::m_objectQueue
@@ -9220,7 +9220,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.ReadObjectInfo
-struct  ReadObjectInfo_t5D6AE190035FB81EC5AF28F0AFD67136BBE6CA60  : public RuntimeObject
+struct ReadObjectInfo_t5D6AE190035FB81EC5AF28F0AFD67136BBE6CA60  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.ReadObjectInfo::objectInfoId
@@ -9424,7 +9424,7 @@ public:
 
 
 // System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo
-struct  WriteObjectInfo_t5E240CBDF05476ED57BE42BD31E19334836CCA00  : public RuntimeObject
+struct WriteObjectInfo_t5E240CBDF05476ED57BE42BD31E19334836CCA00  : public RuntimeObject
 {
 public:
 	// System.Int32 System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo::objectInfoId
@@ -9612,7 +9612,7 @@ public:
 
 
 // System.Runtime.Serialization.MemberHolder
-struct  MemberHolder_t8520AE2362D964B6070B27EDA1575DFCF1638334  : public RuntimeObject
+struct MemberHolder_t8520AE2362D964B6070B27EDA1575DFCF1638334  : public RuntimeObject
 {
 public:
 	// System.Type System.Runtime.Serialization.MemberHolder::memberType
@@ -9642,7 +9642,7 @@ public:
 
 
 // System.Runtime.Serialization.ObjectManager
-struct  ObjectManager_t507FFA4AF40CBF19B13E1AD2057420E865817281  : public RuntimeObject
+struct ObjectManager_t507FFA4AF40CBF19B13E1AD2057420E865817281  : public RuntimeObject
 {
 public:
 	// System.Runtime.Serialization.DeserializationEventHandler System.Runtime.Serialization.ObjectManager::m_onDeserializationHandler
@@ -9737,7 +9737,7 @@ public:
 
 
 // System.Runtime.Serialization.SerializationException
-struct  SerializationException_tA1FDFF6779406E688C2192E71C38DBFD7A4A2210  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct SerializationException_tA1FDFF6779406E688C2192E71C38DBFD7A4A2210  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -9763,7 +9763,7 @@ public:
 
 
 // System.Runtime.Serialization.SerializationObjectManager
-struct  SerializationObjectManager_t1B34C26A17A346BDD48720E0D35BCA659827CBFA  : public RuntimeObject
+struct SerializationObjectManager_t1B34C26A17A346BDD48720E0D35BCA659827CBFA  : public RuntimeObject
 {
 public:
 	// System.Collections.Hashtable System.Runtime.Serialization.SerializationObjectManager::m_objectSeenTable
@@ -9804,7 +9804,7 @@ public:
 
 
 // System.Security.SecurityException
-struct  SecurityException_tBB116BA16A419AB19A4F7DEEF43A3FC2A638E8D5  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct SecurityException_tBB116BA16A419AB19A4F7DEEF43A3FC2A638E8D5  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 	// System.String System.Security.SecurityException::permissionState
@@ -9823,7 +9823,7 @@ public:
 
 
 // System.TypeLoadException
-struct  TypeLoadException_t510963B29CB27C6EA3ACDF5FB76E72E1BC372CD1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct TypeLoadException_t510963B29CB27C6EA3ACDF5FB76E72E1BC372CD1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 	// System.String System.TypeLoadException::ClassName
@@ -9874,7 +9874,7 @@ public:
 
 
 // System.ArgumentNullException
-struct  ArgumentNullException_t581DF992B1F3E0EC6EFB30CC5DC43519A79B27AD  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
+struct ArgumentNullException_t581DF992B1F3E0EC6EFB30CC5DC43519A79B27AD  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
 {
 public:
 
@@ -9883,7 +9883,7 @@ public:
 
 
 // System.IO.EndOfStreamException
-struct  EndOfStreamException_t1B47BA867EC337F83056C2833A59293754AAC01F  : public IOException_t60E052020EDE4D3075F57A1DCC224FF8864354BA
+struct EndOfStreamException_t1B47BA867EC337F83056C2833A59293754AAC01F  : public IOException_t60E052020EDE4D3075F57A1DCC224FF8864354BA
 {
 public:
 
@@ -9892,7 +9892,7 @@ public:
 
 
 // System.IO.FileLoadException
-struct  FileLoadException_t4F277277156CA76B0610D4AE6EDFBF64561BF3FB  : public IOException_t60E052020EDE4D3075F57A1DCC224FF8864354BA
+struct FileLoadException_t4F277277156CA76B0610D4AE6EDFBF64561BF3FB  : public IOException_t60E052020EDE4D3075F57A1DCC224FF8864354BA
 {
 public:
 	// System.String System.IO.FileLoadException::_fileName
@@ -9922,7 +9922,7 @@ public:
 
 
 // System.IO.FileNotFoundException
-struct  FileNotFoundException_t0B3F0AE5C94A781A7E2ABBD786F91C229B703431  : public IOException_t60E052020EDE4D3075F57A1DCC224FF8864354BA
+struct FileNotFoundException_t0B3F0AE5C94A781A7E2ABBD786F91C229B703431  : public IOException_t60E052020EDE4D3075F57A1DCC224FF8864354BA
 {
 public:
 	// System.String System.IO.FileNotFoundException::_fileName
@@ -9952,7 +9952,7 @@ public:
 
 
 // System.RuntimeType
-struct  RuntimeType_t40F13BCEAD97478C72C4B40BFDC2A220161CDB8F  : public TypeInfo_t9D6F65801A41B97F36138B15FD270A1550DBB3FC
+struct RuntimeType_t40F13BCEAD97478C72C4B40BFDC2A220161CDB8F  : public TypeInfo_t9D6F65801A41B97F36138B15FD270A1550DBB3FC
 {
 public:
 	// System.MonoTypeInfo System.RuntimeType::type_info

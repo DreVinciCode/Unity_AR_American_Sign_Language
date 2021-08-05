@@ -180,6 +180,8 @@ struct Dictionary_2_t32F25F093828AA9F93CB11C2A2B4648FD62A09BA;
 struct Dictionary_2_t931BF283048C4E74FC063C3036E5F3FE328861FC;
 // System.Collections.Generic.Dictionary`2<System.Type,System.Collections.Generic.List`1<System.Type>>
 struct Dictionary_2_t8FDC44A5FA757C675FF1095A362764433C84E8B8;
+// System.Collections.Generic.HashSet`1<UnityEngine.XR.Management.XRLoader>
+struct HashSet_1_t66EAE6B508AEB87674F6ABBD26290A35CCB0237C;
 // System.Collections.Generic.ICollection`1<UnityEngine.Vector2>
 struct ICollection_1_tBE38D771BBEEE08CCB9BE1C203DB88D3D8C617F2;
 // System.Collections.Generic.ICollection`1<UnityEngine.Vector3>
@@ -208,10 +210,12 @@ struct List_1_tE8032E48C661C350FF9550E9063D595C0AB25CD3;
 struct List_1_tE9D3AD6B1DEE5D980D8D2F6C31987453E6E1C1E0;
 // System.Collections.Generic.List`1<System.UInt64>
 struct List_1_t48CD17D5BA5410E17340B1CF898DAF8467E082E8;
+// System.Collections.Generic.List`1<UnityEngine.XR.Management.XRLoader>
+struct List_1_t8F98BAC5E5C976105490EE2595E39378A604BAE1;
 // System.Collections.Generic.List`1<UnityEngine.XR.XRDisplaySubsystem>
 struct List_1_tB5C8A3CEC3C1455A9EA85FEAA32A8100E1C07907;
 // System.Collections.Generic.List`1<UnityEngine.XR.XRInputSubsystem>
-struct List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E;
+struct List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F;
 // System.Collections.Generic.List`1<UnityEngine.XR.XRMeshSubsystem>
 struct List_1_t5FF75968FE44A90C449329578EDB2E460E7B0117;
 // System.Collections.IDictionary
@@ -410,6 +414,8 @@ struct UnityWebRequest_t9120F5A2C7D43B936B49C0B7E4CA54C822689129;
 struct UnityWebRequestAsyncOperation_t726E134F16701A2671D40BEBE22110DC57156353;
 // UnityEngine.Networking.UploadHandler
 struct UploadHandler_t24F4097D30A1E7C689D8881A27F251B4741601E4;
+// UnityEngine.Object
+struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0;
 // UnityEngine.PropertyAttribute
 struct PropertyAttribute_t25BFFC093C9C96E3CCF4EAB36F5DC6F937B1FA54;
 // UnityEngine.Vector2[]
@@ -420,6 +426,14 @@ struct Vector3U5BU5D_tB9EC3346CC4A0EA5447D968E84A9AC1F6F372C28;
 struct WWWForm_t8D5ED7CAC180C102E377B21A70CC6A9AD5EAAD24;
 // UnityEngine.WaitForSeconds
 struct WaitForSeconds_t3E9E78D3BB53F03F96C7F28BA9B9086CD1A5F4E8;
+// UnityEngine.XR.Management.XRGeneralSettings
+struct XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9;
+// UnityEngine.XR.Management.XRLoader
+struct XRLoader_t2574091AF57F902BF504098AB113416E8D15186A;
+// UnityEngine.XR.Management.XRLoader[]
+struct XRLoaderU5BU5D_tA069961D43A00C3C035CA8D03967A517550CFB2D;
+// UnityEngine.XR.Management.XRManagerSettings
+struct XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5;
 // UnityEngine.XR.XRDisplaySubsystem
 struct XRDisplaySubsystem_t2E090C1B6925B11C9296DBBAF57F9364AADA13E0;
 // UnityEngine.XR.XRDisplaySubsystem[]
@@ -473,12 +487,13 @@ IL2CPP_EXTERN_C RuntimeClass* IEnumerator_t8789118187258CC88B77AFAC6315B5AF87D3E
 IL2CPP_EXTERN_C RuntimeClass* Int32_t585191389E07734F19F3156FF88FB3EF4800D102_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* Int64_t7A386C2FF7B0280A0F516992401DDFCF0FF7B436_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* List_1_t5FF75968FE44A90C449329578EDB2E460E7B0117_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* List_1_tB5C8A3CEC3C1455A9EA85FEAA32A8100E1C07907_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* List_1_tE4F160480A2597930BB145640813B4D0A960D600_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* Math_tFB388E53C7FDC6FCCF9A19ABF5A4E521FBD52E19_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* Mathf_tFBDE6467D269BFE410605C7D806FD9991D4A89CB_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* ObjectU5BU5D_t3C9242B5C88A48B2A5BD9FDA6CD0024E792AF08A_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* Path_t0B99A4B924A6FDF08814FFA8DD4CD121ED1A0752_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* Quaternion_t319F3319A7D43FFA5D819AD6C0A98851F0095357_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* SimpleCoroutineAwaiter_1_tD7313FDEAAF4B00B389D972303AF9F23C8CE0343_il2cpp_TypeInfo_var;
@@ -499,6 +514,8 @@ IL2CPP_EXTERN_C RuntimeClass* Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720_
 IL2CPP_EXTERN_C RuntimeClass* WWWForm_t8D5ED7CAC180C102E377B21A70CC6A9AD5EAAD24_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* WaitForSeconds_t3E9E78D3BB53F03F96C7F28BA9B9086CD1A5F4E8_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* WindowsApiChecker_t1D760E010F997296ECC78F09F99C2C5E0940E9E3_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* XRSettingsUtilities_t29DE0C95570533A73074BA5BC9493FF9F9D3D307_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* XRSubsystemHelpers_t857011D990CF0C6A6075AB22F47503E6D3BBCA1A_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C String_t* _stringLiteral068E8C0BCFF0C649D652B5DEC98A6E6F55EAC92A;
 IL2CPP_EXTERN_C String_t* _stringLiteral08381049FDB1C3C10EA931A6C1EF84F3E89576E7;
@@ -770,9 +787,13 @@ IL2CPP_EXTERN_C const RuntimeMethod* List_1__ctor_m4A9DD5D985F366853D6226D116444
 IL2CPP_EXTERN_C const RuntimeMethod* List_1__ctor_m9E65305FCF8F586CBF6B85C242AFDE06DF2C8F56_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* List_1__ctor_mB69C97FB0DF3C5631852347D1E56BF96C66D6FE1_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* List_1__ctor_mBE5E0B12AEF225779CF661D52943C9982BDBEBD8_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* List_1_get_Count_m8382CC05AF50CAD470010D2D54B02ABCBC4C057C_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Nullable_1_GetValueOrDefault_mE89BB8F302DF31EE202251F4746859285860B6B6_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Nullable_1__ctor_m11F9C228CFDF836DDFCD7880C09CB4098AB9D7F2_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Nullable_1__ctor_mD3154885E88D449C69AD9DEA6F9A3EF66A3FE996_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Nullable_1_get_HasValue_m275A31438FCDAEEE039E95D887684E04FD6ECE2B_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Nullable_1_get_HasValue_mB664E2C41CADA8413EF8842E6601B8C696A7CE15_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Nullable_1_get_Value_m7C9CFCE6186F3CD55B4D63BB50E6D3D48A78583A_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* SimpleCoroutineAwaiter_1_GetResult_m585B60979FACC9E706C099A0D82BB57427B2AB9B_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* SimpleCoroutineAwaiter_1_get_IsCompleted_m58E1D5321616F98B34C2D00D37BD42F9211C2AAF_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* SubsystemManager_GetInstances_TisXRDisplaySubsystem_t2E090C1B6925B11C9296DBBAF57F9364AADA13E0_mF6CAC97479F9849D66E65AFA5EC5CEE343DE8F61_RuntimeMethod_var;
@@ -961,6 +982,8 @@ IL2CPP_EXTERN_C const uint32_t WindowsApiChecker_set_UniversalApiContractV7_IsAv
 IL2CPP_EXTERN_C const uint32_t WindowsApiChecker_set_UniversalApiContractV7_IsAvailable_m8ED258378885D7782A678787916675ACB689A211_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t WindowsApiChecker_set_UniversalApiContractV8_IsAvailable_m42CEA8497810B59DFFC83E6A4BD8BD1ABCFC2CEFMicrosoft_MixedReality_Toolkit5_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t WindowsApiChecker_set_UniversalApiContractV8_IsAvailable_m42CEA8497810B59DFFC83E6A4BD8BD1ABCFC2CEF_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t XRGeneralSettings_get_Instance_m0D915EB6CD760E30475C5F67090DD8442196FE47Microsoft_MixedReality_Toolkit5_MetadataUsageId;
+IL2CPP_EXTERN_C const uint32_t XRSettingsUtilities_get_XRSDKEnabled_m3AB267B762C0BC03D694A8633122935434401F16_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t XRSubsystemHelpers__cctor_m8B327EC8CBBE6729B54ADF788235E3CFF9AC62BE_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t XRSubsystemHelpers_get_DisplaySubsystem_mF3E8254EE5ADE98CDF2CDD9C5A7F01CF5A950BCC_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t XRSubsystemHelpers_get_InputSubsystem_mBA5032AFE778724749E223D81BDA9E7EA983C2AE_MetadataUsageId;
@@ -999,7 +1022,7 @@ IL2CPP_EXTERN_C_END
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.AwaiterExtensions/SimpleCoroutineAwaiter
-struct  SimpleCoroutineAwaiter_tD618779644EDFB055367936A2241B08420F800F0  : public RuntimeObject
+struct SimpleCoroutineAwaiter_tD618779644EDFB055367936A2241B08420F800F0  : public RuntimeObject
 {
 public:
 	// System.Exception Microsoft.MixedReality.Toolkit.Utilities.AwaiterExtensions/SimpleCoroutineAwaiter::exception
@@ -1039,7 +1062,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.AwaiterExtensions/SimpleCoroutineAwaiter`1<System.Object>
-struct  SimpleCoroutineAwaiter_1_tC20B158B2C71F3E54A475AF0ED1E357B5E27F860  : public RuntimeObject
+struct SimpleCoroutineAwaiter_1_tC20B158B2C71F3E54A475AF0ED1E357B5E27F860  : public RuntimeObject
 {
 public:
 	// System.Exception Microsoft.MixedReality.Toolkit.Utilities.AwaiterExtensions/SimpleCoroutineAwaiter`1::exception
@@ -1090,7 +1113,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.AwaiterExtensions/SimpleCoroutineAwaiter`1<UnityEngine.AsyncOperation>
-struct  SimpleCoroutineAwaiter_1_tD7313FDEAAF4B00B389D972303AF9F23C8CE0343  : public RuntimeObject
+struct SimpleCoroutineAwaiter_1_tD7313FDEAAF4B00B389D972303AF9F23C8CE0343  : public RuntimeObject
 {
 public:
 	// System.Exception Microsoft.MixedReality.Toolkit.Utilities.AwaiterExtensions/SimpleCoroutineAwaiter`1::exception
@@ -1141,7 +1164,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.SystemType
-struct  SystemType_t077FEEF09D6CB8C9C1D8B53BFE25FDF3A28C4462  : public RuntimeObject
+struct SystemType_t077FEEF09D6CB8C9C1D8B53BFE25FDF3A28C4462  : public RuntimeObject
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.Utilities.SystemType::reference
@@ -1188,7 +1211,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.TypeCacheUtility
-struct  TypeCacheUtility_tAAD927170141189241DC2F4FF70F982ECF48EFDE  : public RuntimeObject
+struct TypeCacheUtility_tAAD927170141189241DC2F4FF70F982ECF48EFDE  : public RuntimeObject
 {
 public:
 
@@ -1213,17 +1236,8 @@ public:
 };
 
 
-// Microsoft.MixedReality.Toolkit.Utilities.XRSettingsUtilities
-struct  XRSettingsUtilities_t29DE0C95570533A73074BA5BC9493FF9F9D3D307  : public RuntimeObject
-{
-public:
-
-public:
-};
-
-
 // Microsoft.MixedReality.Toolkit.Utilities.XRSubsystemHelpers
-struct  XRSubsystemHelpers_t857011D990CF0C6A6075AB22F47503E6D3BBCA1A  : public RuntimeObject
+struct XRSubsystemHelpers_t857011D990CF0C6A6075AB22F47503E6D3BBCA1A  : public RuntimeObject
 {
 public:
 
@@ -1236,7 +1250,7 @@ public:
 	// UnityEngine.XR.XRInputSubsystem Microsoft.MixedReality.Toolkit.Utilities.XRSubsystemHelpers::inputSubsystem
 	XRInputSubsystem_t9B5A5AD5B134D55762D1FA5E425126EF7F86B2B7 * ___inputSubsystem_0;
 	// System.Collections.Generic.List`1<UnityEngine.XR.XRInputSubsystem> Microsoft.MixedReality.Toolkit.Utilities.XRSubsystemHelpers::XRInputSubsystems
-	List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E * ___XRInputSubsystems_1;
+	List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F * ___XRInputSubsystems_1;
 	// UnityEngine.XR.XRMeshSubsystem Microsoft.MixedReality.Toolkit.Utilities.XRSubsystemHelpers::meshSubsystem
 	XRMeshSubsystem_t6FB1A94A4B7956BCE5A99B6C826D46A21C69A8B9 * ___meshSubsystem_2;
 	// System.Collections.Generic.List`1<UnityEngine.XR.XRMeshSubsystem> Microsoft.MixedReality.Toolkit.Utilities.XRSubsystemHelpers::XRMeshSubsystems
@@ -1257,9 +1271,9 @@ public:
 	}
 
 	inline static int32_t get_offset_of_XRInputSubsystems_1() { return static_cast<int32_t>(offsetof(XRSubsystemHelpers_t857011D990CF0C6A6075AB22F47503E6D3BBCA1A_StaticFields, ___XRInputSubsystems_1)); }
-	inline List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E * get_XRInputSubsystems_1() const { return ___XRInputSubsystems_1; }
-	inline List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E ** get_address_of_XRInputSubsystems_1() { return &___XRInputSubsystems_1; }
-	inline void set_XRInputSubsystems_1(List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E * value)
+	inline List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F * get_XRInputSubsystems_1() const { return ___XRInputSubsystems_1; }
+	inline List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F ** get_address_of_XRInputSubsystems_1() { return &___XRInputSubsystems_1; }
+	inline void set_XRInputSubsystems_1(List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F * value)
 	{
 		___XRInputSubsystems_1 = value;
 		Il2CppCodeGenWriteBarrier((void**)(&___XRInputSubsystems_1), (void*)value);
@@ -1304,7 +1318,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.VectorExtensions
-struct  VectorExtensions_tA4C1894F50766AC31E180C440FAA9B3D49CE1C9F  : public RuntimeObject
+struct VectorExtensions_tA4C1894F50766AC31E180C440FAA9B3D49CE1C9F  : public RuntimeObject
 {
 public:
 
@@ -1313,7 +1327,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.VectorExtensions/<>c
-struct  U3CU3Ec_t395FBE9682E9669DF0527A5AC535A6AB936D0746  : public RuntimeObject
+struct U3CU3Ec_t395FBE9682E9669DF0527A5AC535A6AB936D0746  : public RuntimeObject
 {
 public:
 
@@ -1383,7 +1397,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Windows.Utilities.WindowsApiChecker
-struct  WindowsApiChecker_t1D760E010F997296ECC78F09F99C2C5E0940E9E3  : public RuntimeObject
+struct WindowsApiChecker_t1D760E010F997296ECC78F09F99C2C5E0940E9E3  : public RuntimeObject
 {
 public:
 
@@ -1458,7 +1472,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.ActivePowerSchemeInfo
-struct  ActivePowerSchemeInfo_t31B8522B34C004084FF3A4A7253D6244136BF419  : public RuntimeObject
+struct ActivePowerSchemeInfo_t31B8522B34C004084FF3A4A7253D6244136BF419  : public RuntimeObject
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.WindowsDevicePortal.ActivePowerSchemeInfo::ActivePowerScheme
@@ -1477,7 +1491,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.AdapterInfo
-struct  AdapterInfo_t7632B00E3199036C3FF452A51762C6E8FAE36379  : public RuntimeObject
+struct AdapterInfo_t7632B00E3199036C3FF452A51762C6E8FAE36379  : public RuntimeObject
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.WindowsDevicePortal.AdapterInfo::Description
@@ -1572,7 +1586,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.ApplicationInfo
-struct  ApplicationInfo_t5E6B2C7A113E97995D7B0D4A0041C25A00F6365F  : public RuntimeObject
+struct ApplicationInfo_t5E6B2C7A113E97995D7B0D4A0041C25A00F6365F  : public RuntimeObject
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.WindowsDevicePortal.ApplicationInfo::Name
@@ -1645,7 +1659,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.AvailableWiFiNetworks
-struct  AvailableWiFiNetworks_tB7BC9C0D4C556F10C1CC79EF4FE733CA9FEDFF65  : public RuntimeObject
+struct AvailableWiFiNetworks_tB7BC9C0D4C556F10C1CC79EF4FE733CA9FEDFF65  : public RuntimeObject
 {
 public:
 	// Microsoft.MixedReality.Toolkit.WindowsDevicePortal.WirelessNetworkInfo[] Microsoft.MixedReality.Toolkit.WindowsDevicePortal.AvailableWiFiNetworks::AvailableNetworks
@@ -1664,7 +1678,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.BatteryInfo
-struct  BatteryInfo_t1DD633EA71E33EC2E9183DEAE89CA7AC43BE7E10  : public RuntimeObject
+struct BatteryInfo_t1DD633EA71E33EC2E9183DEAE89CA7AC43BE7E10  : public RuntimeObject
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.BatteryInfo::AcOnline
@@ -1762,7 +1776,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DHCPInfo
-struct  DHCPInfo_t402BF3D6C57C14B126C0B5A4EA9760160A708EBA  : public RuntimeObject
+struct DHCPInfo_t402BF3D6C57C14B126C0B5A4EA9760160A708EBA  : public RuntimeObject
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DHCPInfo::LeaseExpires
@@ -1801,7 +1815,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DeviceInfo
-struct  DeviceInfo_t514C6D03CA04FF6501C5DAD2C622431B24209D16  : public RuntimeObject
+struct DeviceInfo_t514C6D03CA04FF6501C5DAD2C622431B24209D16  : public RuntimeObject
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DeviceInfo::IP
@@ -1897,7 +1911,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DeviceOsInfo
-struct  DeviceOsInfo_tE596A326A108409675455A0934FB810BA28607E5  : public RuntimeObject
+struct DeviceOsInfo_tE596A326A108409675455A0934FB810BA28607E5  : public RuntimeObject
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DeviceOsInfo::ComputerName
@@ -1959,7 +1973,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal
-struct  DevicePortal_tC3721622866EA2A705906BC8F2CC5677B8822FFE  : public RuntimeObject
+struct DevicePortal_tC3721622866EA2A705906BC8F2CC5677B8822FFE  : public RuntimeObject
 {
 public:
 
@@ -2005,7 +2019,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<>c
-struct  U3CU3Ec_t501272685ABAD206201AA75FB588E2371CEB4D5D  : public RuntimeObject
+struct U3CU3Ec_t501272685ABAD206201AA75FB588E2371CEB4D5D  : public RuntimeObject
 {
 public:
 
@@ -2042,7 +2056,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<>c__DisplayClass51_0
-struct  U3CU3Ec__DisplayClass51_0_tAD22F66C7A54D6B3F396395368A124FF3ADF84A7  : public RuntimeObject
+struct U3CU3Ec__DisplayClass51_0_tAD22F66C7A54D6B3F396395368A124FF3ADF84A7  : public RuntimeObject
 {
 public:
 	// UnityEngine.Networking.UnityWebRequest Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<>c__DisplayClass51_0::webRequest
@@ -2061,7 +2075,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortalConnections
-struct  DevicePortalConnections_t10EDA855CD014AD5F803E7AC226366C7E29D38D9  : public RuntimeObject
+struct DevicePortalConnections_t10EDA855CD014AD5F803E7AC226366C7E29D38D9  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.List`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DeviceInfo> Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortalConnections::Connections
@@ -2090,7 +2104,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.FileList
-struct  FileList_tF61E135CD1004D9B22C159191A70B8D716BCFBB1  : public RuntimeObject
+struct FileList_tF61E135CD1004D9B22C159191A70B8D716BCFBB1  : public RuntimeObject
 {
 public:
 	// Microsoft.MixedReality.Toolkit.WindowsDevicePortal.FileInfo[] Microsoft.MixedReality.Toolkit.WindowsDevicePortal.FileList::Items
@@ -2109,7 +2123,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.InstallStatus
-struct  InstallStatus_tEE85F65E98A1123CE94B51B3A261D7A9DE1DF2A7  : public RuntimeObject
+struct InstallStatus_tEE85F65E98A1123CE94B51B3A261D7A9DE1DF2A7  : public RuntimeObject
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.InstallStatus::Code
@@ -2159,7 +2173,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.InstalledApps
-struct  InstalledApps_t49ACF4C6AAB6B440EEE15B3161AB4DCAD97F1AB2  : public RuntimeObject
+struct InstalledApps_t49ACF4C6AAB6B440EEE15B3161AB4DCAD97F1AB2  : public RuntimeObject
 {
 public:
 	// Microsoft.MixedReality.Toolkit.WindowsDevicePortal.ApplicationInfo[] Microsoft.MixedReality.Toolkit.WindowsDevicePortal.InstalledApps::InstalledPackages
@@ -2178,7 +2192,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.InterfaceInfo
-struct  InterfaceInfo_tAAD76A0BC7874FFDFBE69A1815A09A3C6F8F2EB4  : public RuntimeObject
+struct InterfaceInfo_tAAD76A0BC7874FFDFBE69A1815A09A3C6F8F2EB4  : public RuntimeObject
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.WindowsDevicePortal.InterfaceInfo::Description
@@ -2229,7 +2243,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.IpAddressInfo
-struct  IpAddressInfo_t4BC40D01EEC9B14584053BA6A0BB06A338FA014F  : public RuntimeObject
+struct IpAddressInfo_t4BC40D01EEC9B14584053BA6A0BB06A338FA014F  : public RuntimeObject
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.WindowsDevicePortal.IpAddressInfo::IpAddress
@@ -2259,7 +2273,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.IpConfigInfo
-struct  IpConfigInfo_t9FDBB4584BA206884CB9A4C774194949566347A3  : public RuntimeObject
+struct IpConfigInfo_t9FDBB4584BA206884CB9A4C774194949566347A3  : public RuntimeObject
 {
 public:
 	// Microsoft.MixedReality.Toolkit.WindowsDevicePortal.AdapterInfo[] Microsoft.MixedReality.Toolkit.WindowsDevicePortal.IpConfigInfo::Adapters
@@ -2278,7 +2292,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.MachineName
-struct  MachineName_t1FB446D37CD301FF026CD81936AA97295C7851D6  : public RuntimeObject
+struct MachineName_t1FB446D37CD301FF026CD81936AA97295C7851D6  : public RuntimeObject
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.WindowsDevicePortal.MachineName::ComputerName
@@ -2297,7 +2311,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.NetworkInterfaces
-struct  NetworkInterfaces_t9FFEFF9D8591D1B115B490A9D305886B72FB1265  : public RuntimeObject
+struct NetworkInterfaces_t9FFEFF9D8591D1B115B490A9D305886B72FB1265  : public RuntimeObject
 {
 public:
 	// Microsoft.MixedReality.Toolkit.WindowsDevicePortal.InterfaceInfo[] Microsoft.MixedReality.Toolkit.WindowsDevicePortal.NetworkInterfaces::Interfaces
@@ -2316,7 +2330,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.NetworkProfileInfo
-struct  NetworkProfileInfo_tB04CD377F1C0C61EDDC3346D329A008963F2258B  : public RuntimeObject
+struct NetworkProfileInfo_tB04CD377F1C0C61EDDC3346D329A008963F2258B  : public RuntimeObject
 {
 public:
 	// System.Boolean Microsoft.MixedReality.Toolkit.WindowsDevicePortal.NetworkProfileInfo::GroupPolicyProfile
@@ -2355,7 +2369,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.PowerStateInfo
-struct  PowerStateInfo_t9D6A0959D33FF7F7C90D8FBFC8AD066703D7F412  : public RuntimeObject
+struct PowerStateInfo_t9D6A0959D33FF7F7C90D8FBFC8AD066703D7F412  : public RuntimeObject
 {
 public:
 	// System.Boolean Microsoft.MixedReality.Toolkit.WindowsDevicePortal.PowerStateInfo::LowPowerState
@@ -2383,7 +2397,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.ProcessInfo
-struct  ProcessInfo_t75F9A2C39E5CD965A6EA7AF1873CFA0F6888E38A  : public RuntimeObject
+struct ProcessInfo_t75F9A2C39E5CD965A6EA7AF1873CFA0F6888E38A  : public RuntimeObject
 {
 public:
 	// System.Single Microsoft.MixedReality.Toolkit.WindowsDevicePortal.ProcessInfo::CPUUsage
@@ -2483,7 +2497,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.ProcessList
-struct  ProcessList_tB9C9EFE7C778F3DA6AEE7BFA5E03C290117583F5  : public RuntimeObject
+struct ProcessList_tB9C9EFE7C778F3DA6AEE7BFA5E03C290117583F5  : public RuntimeObject
 {
 public:
 	// Microsoft.MixedReality.Toolkit.WindowsDevicePortal.ProcessInfo[] Microsoft.MixedReality.Toolkit.WindowsDevicePortal.ProcessList::Processes
@@ -2502,7 +2516,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.WirelessNetworkInfo
-struct  WirelessNetworkInfo_tC31FABF9BE44E8E01612EA080F465F8B90724CE7  : public RuntimeObject
+struct WirelessNetworkInfo_tC31FABF9BE44E8E01612EA080F465F8B90724CE7  : public RuntimeObject
 {
 public:
 	// System.Boolean Microsoft.MixedReality.Toolkit.WindowsDevicePortal.WirelessNetworkInfo::AlreadyConnected
@@ -2651,7 +2665,7 @@ struct Il2CppArrayBounds;
 
 
 // System.Attribute
-struct  Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74  : public RuntimeObject
+struct Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74  : public RuntimeObject
 {
 public:
 
@@ -2660,7 +2674,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<System.String,System.String>
-struct  Dictionary_2_t931BF283048C4E74FC063C3036E5F3FE328861FC  : public RuntimeObject
+struct Dictionary_2_t931BF283048C4E74FC063C3036E5F3FE328861FC  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -2774,7 +2788,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<System.Type,System.Collections.Generic.List`1<System.Type>>
-struct  Dictionary_2_t8FDC44A5FA757C675FF1095A362764433C84E8B8  : public RuntimeObject
+struct Dictionary_2_t8FDC44A5FA757C675FF1095A362764433C84E8B8  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -2888,7 +2902,7 @@ public:
 
 
 // System.Collections.Generic.List`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DeviceInfo>
-struct  List_1_tE4F160480A2597930BB145640813B4D0A960D600  : public RuntimeObject
+struct List_1_tE4F160480A2597930BB145640813B4D0A960D600  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -2954,8 +2968,75 @@ public:
 };
 
 
+// System.Collections.Generic.List`1<System.Object>
+struct List_1_t05CC3C859AB5E6024394EF9A42E3E696628CA02D  : public RuntimeObject
+{
+public:
+	// T[] System.Collections.Generic.List`1::_items
+	ObjectU5BU5D_t3C9242B5C88A48B2A5BD9FDA6CD0024E792AF08A* ____items_1;
+	// System.Int32 System.Collections.Generic.List`1::_size
+	int32_t ____size_2;
+	// System.Int32 System.Collections.Generic.List`1::_version
+	int32_t ____version_3;
+	// System.Object System.Collections.Generic.List`1::_syncRoot
+	RuntimeObject * ____syncRoot_4;
+
+public:
+	inline static int32_t get_offset_of__items_1() { return static_cast<int32_t>(offsetof(List_1_t05CC3C859AB5E6024394EF9A42E3E696628CA02D, ____items_1)); }
+	inline ObjectU5BU5D_t3C9242B5C88A48B2A5BD9FDA6CD0024E792AF08A* get__items_1() const { return ____items_1; }
+	inline ObjectU5BU5D_t3C9242B5C88A48B2A5BD9FDA6CD0024E792AF08A** get_address_of__items_1() { return &____items_1; }
+	inline void set__items_1(ObjectU5BU5D_t3C9242B5C88A48B2A5BD9FDA6CD0024E792AF08A* value)
+	{
+		____items_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&____items_1), (void*)value);
+	}
+
+	inline static int32_t get_offset_of__size_2() { return static_cast<int32_t>(offsetof(List_1_t05CC3C859AB5E6024394EF9A42E3E696628CA02D, ____size_2)); }
+	inline int32_t get__size_2() const { return ____size_2; }
+	inline int32_t* get_address_of__size_2() { return &____size_2; }
+	inline void set__size_2(int32_t value)
+	{
+		____size_2 = value;
+	}
+
+	inline static int32_t get_offset_of__version_3() { return static_cast<int32_t>(offsetof(List_1_t05CC3C859AB5E6024394EF9A42E3E696628CA02D, ____version_3)); }
+	inline int32_t get__version_3() const { return ____version_3; }
+	inline int32_t* get_address_of__version_3() { return &____version_3; }
+	inline void set__version_3(int32_t value)
+	{
+		____version_3 = value;
+	}
+
+	inline static int32_t get_offset_of__syncRoot_4() { return static_cast<int32_t>(offsetof(List_1_t05CC3C859AB5E6024394EF9A42E3E696628CA02D, ____syncRoot_4)); }
+	inline RuntimeObject * get__syncRoot_4() const { return ____syncRoot_4; }
+	inline RuntimeObject ** get_address_of__syncRoot_4() { return &____syncRoot_4; }
+	inline void set__syncRoot_4(RuntimeObject * value)
+	{
+		____syncRoot_4 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&____syncRoot_4), (void*)value);
+	}
+};
+
+struct List_1_t05CC3C859AB5E6024394EF9A42E3E696628CA02D_StaticFields
+{
+public:
+	// T[] System.Collections.Generic.List`1::_emptyArray
+	ObjectU5BU5D_t3C9242B5C88A48B2A5BD9FDA6CD0024E792AF08A* ____emptyArray_5;
+
+public:
+	inline static int32_t get_offset_of__emptyArray_5() { return static_cast<int32_t>(offsetof(List_1_t05CC3C859AB5E6024394EF9A42E3E696628CA02D_StaticFields, ____emptyArray_5)); }
+	inline ObjectU5BU5D_t3C9242B5C88A48B2A5BD9FDA6CD0024E792AF08A* get__emptyArray_5() const { return ____emptyArray_5; }
+	inline ObjectU5BU5D_t3C9242B5C88A48B2A5BD9FDA6CD0024E792AF08A** get_address_of__emptyArray_5() { return &____emptyArray_5; }
+	inline void set__emptyArray_5(ObjectU5BU5D_t3C9242B5C88A48B2A5BD9FDA6CD0024E792AF08A* value)
+	{
+		____emptyArray_5 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&____emptyArray_5), (void*)value);
+	}
+};
+
+
 // System.Collections.Generic.List`1<System.Type>
-struct  List_1_tE9D3AD6B1DEE5D980D8D2F6C31987453E6E1C1E0  : public RuntimeObject
+struct List_1_tE9D3AD6B1DEE5D980D8D2F6C31987453E6E1C1E0  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -3021,8 +3102,75 @@ public:
 };
 
 
+// System.Collections.Generic.List`1<UnityEngine.XR.Management.XRLoader>
+struct List_1_t8F98BAC5E5C976105490EE2595E39378A604BAE1  : public RuntimeObject
+{
+public:
+	// T[] System.Collections.Generic.List`1::_items
+	XRLoaderU5BU5D_tA069961D43A00C3C035CA8D03967A517550CFB2D* ____items_1;
+	// System.Int32 System.Collections.Generic.List`1::_size
+	int32_t ____size_2;
+	// System.Int32 System.Collections.Generic.List`1::_version
+	int32_t ____version_3;
+	// System.Object System.Collections.Generic.List`1::_syncRoot
+	RuntimeObject * ____syncRoot_4;
+
+public:
+	inline static int32_t get_offset_of__items_1() { return static_cast<int32_t>(offsetof(List_1_t8F98BAC5E5C976105490EE2595E39378A604BAE1, ____items_1)); }
+	inline XRLoaderU5BU5D_tA069961D43A00C3C035CA8D03967A517550CFB2D* get__items_1() const { return ____items_1; }
+	inline XRLoaderU5BU5D_tA069961D43A00C3C035CA8D03967A517550CFB2D** get_address_of__items_1() { return &____items_1; }
+	inline void set__items_1(XRLoaderU5BU5D_tA069961D43A00C3C035CA8D03967A517550CFB2D* value)
+	{
+		____items_1 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&____items_1), (void*)value);
+	}
+
+	inline static int32_t get_offset_of__size_2() { return static_cast<int32_t>(offsetof(List_1_t8F98BAC5E5C976105490EE2595E39378A604BAE1, ____size_2)); }
+	inline int32_t get__size_2() const { return ____size_2; }
+	inline int32_t* get_address_of__size_2() { return &____size_2; }
+	inline void set__size_2(int32_t value)
+	{
+		____size_2 = value;
+	}
+
+	inline static int32_t get_offset_of__version_3() { return static_cast<int32_t>(offsetof(List_1_t8F98BAC5E5C976105490EE2595E39378A604BAE1, ____version_3)); }
+	inline int32_t get__version_3() const { return ____version_3; }
+	inline int32_t* get_address_of__version_3() { return &____version_3; }
+	inline void set__version_3(int32_t value)
+	{
+		____version_3 = value;
+	}
+
+	inline static int32_t get_offset_of__syncRoot_4() { return static_cast<int32_t>(offsetof(List_1_t8F98BAC5E5C976105490EE2595E39378A604BAE1, ____syncRoot_4)); }
+	inline RuntimeObject * get__syncRoot_4() const { return ____syncRoot_4; }
+	inline RuntimeObject ** get_address_of__syncRoot_4() { return &____syncRoot_4; }
+	inline void set__syncRoot_4(RuntimeObject * value)
+	{
+		____syncRoot_4 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&____syncRoot_4), (void*)value);
+	}
+};
+
+struct List_1_t8F98BAC5E5C976105490EE2595E39378A604BAE1_StaticFields
+{
+public:
+	// T[] System.Collections.Generic.List`1::_emptyArray
+	XRLoaderU5BU5D_tA069961D43A00C3C035CA8D03967A517550CFB2D* ____emptyArray_5;
+
+public:
+	inline static int32_t get_offset_of__emptyArray_5() { return static_cast<int32_t>(offsetof(List_1_t8F98BAC5E5C976105490EE2595E39378A604BAE1_StaticFields, ____emptyArray_5)); }
+	inline XRLoaderU5BU5D_tA069961D43A00C3C035CA8D03967A517550CFB2D* get__emptyArray_5() const { return ____emptyArray_5; }
+	inline XRLoaderU5BU5D_tA069961D43A00C3C035CA8D03967A517550CFB2D** get_address_of__emptyArray_5() { return &____emptyArray_5; }
+	inline void set__emptyArray_5(XRLoaderU5BU5D_tA069961D43A00C3C035CA8D03967A517550CFB2D* value)
+	{
+		____emptyArray_5 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&____emptyArray_5), (void*)value);
+	}
+};
+
+
 // System.Collections.Generic.List`1<UnityEngine.XR.XRDisplaySubsystem>
-struct  List_1_tB5C8A3CEC3C1455A9EA85FEAA32A8100E1C07907  : public RuntimeObject
+struct List_1_tB5C8A3CEC3C1455A9EA85FEAA32A8100E1C07907  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -3089,7 +3237,7 @@ public:
 
 
 // System.Collections.Generic.List`1<UnityEngine.XR.XRInputSubsystem>
-struct  List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E  : public RuntimeObject
+struct List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -3102,7 +3250,7 @@ public:
 	RuntimeObject * ____syncRoot_4;
 
 public:
-	inline static int32_t get_offset_of__items_1() { return static_cast<int32_t>(offsetof(List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E, ____items_1)); }
+	inline static int32_t get_offset_of__items_1() { return static_cast<int32_t>(offsetof(List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F, ____items_1)); }
 	inline XRInputSubsystemU5BU5D_t82F200506A7C1032DE5CADFD4E7B0770EF2A15F5* get__items_1() const { return ____items_1; }
 	inline XRInputSubsystemU5BU5D_t82F200506A7C1032DE5CADFD4E7B0770EF2A15F5** get_address_of__items_1() { return &____items_1; }
 	inline void set__items_1(XRInputSubsystemU5BU5D_t82F200506A7C1032DE5CADFD4E7B0770EF2A15F5* value)
@@ -3111,7 +3259,7 @@ public:
 		Il2CppCodeGenWriteBarrier((void**)(&____items_1), (void*)value);
 	}
 
-	inline static int32_t get_offset_of__size_2() { return static_cast<int32_t>(offsetof(List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E, ____size_2)); }
+	inline static int32_t get_offset_of__size_2() { return static_cast<int32_t>(offsetof(List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F, ____size_2)); }
 	inline int32_t get__size_2() const { return ____size_2; }
 	inline int32_t* get_address_of__size_2() { return &____size_2; }
 	inline void set__size_2(int32_t value)
@@ -3119,7 +3267,7 @@ public:
 		____size_2 = value;
 	}
 
-	inline static int32_t get_offset_of__version_3() { return static_cast<int32_t>(offsetof(List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E, ____version_3)); }
+	inline static int32_t get_offset_of__version_3() { return static_cast<int32_t>(offsetof(List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F, ____version_3)); }
 	inline int32_t get__version_3() const { return ____version_3; }
 	inline int32_t* get_address_of__version_3() { return &____version_3; }
 	inline void set__version_3(int32_t value)
@@ -3127,7 +3275,7 @@ public:
 		____version_3 = value;
 	}
 
-	inline static int32_t get_offset_of__syncRoot_4() { return static_cast<int32_t>(offsetof(List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E, ____syncRoot_4)); }
+	inline static int32_t get_offset_of__syncRoot_4() { return static_cast<int32_t>(offsetof(List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F, ____syncRoot_4)); }
 	inline RuntimeObject * get__syncRoot_4() const { return ____syncRoot_4; }
 	inline RuntimeObject ** get_address_of__syncRoot_4() { return &____syncRoot_4; }
 	inline void set__syncRoot_4(RuntimeObject * value)
@@ -3137,14 +3285,14 @@ public:
 	}
 };
 
-struct List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E_StaticFields
+struct List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F_StaticFields
 {
 public:
 	// T[] System.Collections.Generic.List`1::_emptyArray
 	XRInputSubsystemU5BU5D_t82F200506A7C1032DE5CADFD4E7B0770EF2A15F5* ____emptyArray_5;
 
 public:
-	inline static int32_t get_offset_of__emptyArray_5() { return static_cast<int32_t>(offsetof(List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E_StaticFields, ____emptyArray_5)); }
+	inline static int32_t get_offset_of__emptyArray_5() { return static_cast<int32_t>(offsetof(List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F_StaticFields, ____emptyArray_5)); }
 	inline XRInputSubsystemU5BU5D_t82F200506A7C1032DE5CADFD4E7B0770EF2A15F5* get__emptyArray_5() const { return ____emptyArray_5; }
 	inline XRInputSubsystemU5BU5D_t82F200506A7C1032DE5CADFD4E7B0770EF2A15F5** get_address_of__emptyArray_5() { return &____emptyArray_5; }
 	inline void set__emptyArray_5(XRInputSubsystemU5BU5D_t82F200506A7C1032DE5CADFD4E7B0770EF2A15F5* value)
@@ -3156,7 +3304,7 @@ public:
 
 
 // System.Collections.Generic.List`1<UnityEngine.XR.XRMeshSubsystem>
-struct  List_1_t5FF75968FE44A90C449329578EDB2E460E7B0117  : public RuntimeObject
+struct List_1_t5FF75968FE44A90C449329578EDB2E460E7B0117  : public RuntimeObject
 {
 public:
 	// T[] System.Collections.Generic.List`1::_items
@@ -3223,7 +3371,7 @@ public:
 
 
 // System.IO.BinaryReader
-struct  BinaryReader_t7467E057B24C42E81B1C3E5C60288BB4B1718969  : public RuntimeObject
+struct BinaryReader_t7467E057B24C42E81B1C3E5C60288BB4B1718969  : public RuntimeObject
 {
 public:
 	// System.IO.Stream System.IO.BinaryReader::m_stream
@@ -3337,7 +3485,7 @@ public:
 
 
 // System.MarshalByRefObject
-struct  MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF  : public RuntimeObject
+struct MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF  : public RuntimeObject
 {
 public:
 	// System.Object System.MarshalByRefObject::_identity
@@ -3366,7 +3514,7 @@ struct MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF_marshaled_co
 };
 
 // System.Reflection.MemberInfo
-struct  MemberInfo_t  : public RuntimeObject
+struct MemberInfo_t  : public RuntimeObject
 {
 public:
 
@@ -3375,7 +3523,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -3420,7 +3568,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
+struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
 {
 public:
 
@@ -3437,7 +3585,7 @@ struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF_marshaled_com
 };
 
 // UnityEngine.WWWForm
-struct  WWWForm_t8D5ED7CAC180C102E377B21A70CC6A9AD5EAAD24  : public RuntimeObject
+struct WWWForm_t8D5ED7CAC180C102E377B21A70CC6A9AD5EAAD24  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.List`1<System.Byte[]> UnityEngine.WWWForm::formData
@@ -3510,7 +3658,7 @@ public:
 
 
 // UnityEngine.YieldInstruction
-struct  YieldInstruction_t836035AC7BD07A3C7909F7AD2A5B42DE99D91C44  : public RuntimeObject
+struct YieldInstruction_t836035AC7BD07A3C7909F7AD2A5B42DE99D91C44  : public RuntimeObject
 {
 public:
 
@@ -3527,7 +3675,7 @@ struct YieldInstruction_t836035AC7BD07A3C7909F7AD2A5B42DE99D91C44_marshaled_com
 };
 
 // Microsoft.MixedReality.Toolkit.Utilities.Response
-struct  Response_t06D134C2EC025073346CC5129FA0D771E3D6651C 
+struct Response_t06D134C2EC025073346CC5129FA0D771E3D6651C 
 {
 public:
 	// System.Boolean Microsoft.MixedReality.Toolkit.Utilities.Response::<Successful>k__BackingField
@@ -3619,7 +3767,7 @@ struct Response_t06D134C2EC025073346CC5129FA0D771E3D6651C_marshaled_com
 };
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.FileInfo
-struct  FileInfo_t3382A17C4F9581A2BBB3CC63CC453D0BCCE94FCA 
+struct FileInfo_t3382A17C4F9581A2BBB3CC63CC453D0BCCE94FCA 
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.WindowsDevicePortal.FileInfo::CurrentDir
@@ -3723,7 +3871,7 @@ struct FileInfo_t3382A17C4F9581A2BBB3CC63CC453D0BCCE94FCA_marshaled_com
 };
 
 // System.Boolean
-struct  Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
+struct Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -3769,7 +3917,7 @@ public:
 
 
 // System.Byte
-struct  Byte_tF87C579059BD4633E6840EBBBEEF899C6E33EF07 
+struct Byte_tF87C579059BD4633E6840EBBBEEF899C6E33EF07 
 {
 public:
 	// System.Byte System.Byte::m_value
@@ -3787,7 +3935,7 @@ public:
 
 
 // System.Char
-struct  Char_tBF22D9FC341BE970735250BB6FF1A4A92BBA58B9 
+struct Char_tBF22D9FC341BE970735250BB6FF1A4A92BBA58B9 
 {
 public:
 	// System.Char System.Char::m_value
@@ -3822,7 +3970,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>
-struct  KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE 
+struct KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -3852,7 +4000,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.String,System.String>
-struct  KeyValuePair_2_t1A58906CCD7ED79792916B56DB716477495C85D8 
+struct KeyValuePair_2_t1A58906CCD7ED79792916B56DB716477495C85D8 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -3882,7 +4030,7 @@ public:
 
 
 // System.Collections.Generic.List`1/Enumerator<System.Object>
-struct  Enumerator_tE0C99528D3DCE5863566CE37BD94162A4C0431CD 
+struct Enumerator_tE0C99528D3DCE5863566CE37BD94162A4C0431CD 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::list
@@ -3932,7 +4080,7 @@ public:
 
 
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.XR.XRDisplaySubsystem>
-struct  Enumerator_tB907916596D7281DD61CE7576F03AA6EDC78198C 
+struct Enumerator_tB907916596D7281DD61CE7576F03AA6EDC78198C 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::list
@@ -3982,11 +4130,11 @@ public:
 
 
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.XR.XRInputSubsystem>
-struct  Enumerator_t11E7257AB0E5F70A2B82727A7C0B21D210F12A04 
+struct Enumerator_t11E7257AB0E5F70A2B82727A7C0B21D210F12A04 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::list
-	List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E * ___list_0;
+	List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F * ___list_0;
 	// System.Int32 System.Collections.Generic.List`1/Enumerator::index
 	int32_t ___index_1;
 	// System.Int32 System.Collections.Generic.List`1/Enumerator::version
@@ -3996,9 +4144,9 @@ public:
 
 public:
 	inline static int32_t get_offset_of_list_0() { return static_cast<int32_t>(offsetof(Enumerator_t11E7257AB0E5F70A2B82727A7C0B21D210F12A04, ___list_0)); }
-	inline List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E * get_list_0() const { return ___list_0; }
-	inline List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E ** get_address_of_list_0() { return &___list_0; }
-	inline void set_list_0(List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E * value)
+	inline List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F * get_list_0() const { return ___list_0; }
+	inline List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F ** get_address_of_list_0() { return &___list_0; }
+	inline void set_list_0(List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F * value)
 	{
 		___list_0 = value;
 		Il2CppCodeGenWriteBarrier((void**)(&___list_0), (void*)value);
@@ -4032,7 +4180,7 @@ public:
 
 
 // System.Collections.Generic.List`1/Enumerator<UnityEngine.XR.XRMeshSubsystem>
-struct  Enumerator_t40448FD95B86ED2E0CA1C12AD61C818E25D90A48 
+struct Enumerator_t40448FD95B86ED2E0CA1C12AD61C818E25D90A48 
 {
 public:
 	// System.Collections.Generic.List`1<T> System.Collections.Generic.List`1/Enumerator::list
@@ -4082,7 +4230,7 @@ public:
 
 
 // System.DateTime
-struct  DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 
+struct DateTime_t349B7449FBAAFF4192636E2B7A07694DA9236132 
 {
 public:
 	// System.UInt64 System.DateTime::dateData
@@ -4148,7 +4296,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
+struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
 {
 public:
 
@@ -4182,7 +4330,7 @@ struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521_marshaled_com
 };
 
 // System.IO.Stream
-struct  Stream_tFC50657DD5AAB87770987F9179D934A51D99D5E7  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
+struct Stream_tFC50657DD5AAB87770987F9179D934A51D99D5E7  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
 {
 public:
 	// System.IO.Stream/ReadWriteTask System.IO.Stream::_activeReadWriteTask
@@ -4229,7 +4377,7 @@ public:
 
 
 // System.Int32
-struct  Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
+struct Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -4247,7 +4395,7 @@ public:
 
 
 // System.Int64
-struct  Int64_t7A386C2FF7B0280A0F516992401DDFCF0FF7B436 
+struct Int64_t7A386C2FF7B0280A0F516992401DDFCF0FF7B436 
 {
 public:
 	// System.Int64 System.Int64::m_value
@@ -4265,7 +4413,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -4298,8 +4446,36 @@ public:
 };
 
 
+// System.Nullable`1<System.Boolean>
+struct Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793 
+{
+public:
+	// T System.Nullable`1::value
+	bool ___value_0;
+	// System.Boolean System.Nullable`1::has_value
+	bool ___has_value_1;
+
+public:
+	inline static int32_t get_offset_of_value_0() { return static_cast<int32_t>(offsetof(Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793, ___value_0)); }
+	inline bool get_value_0() const { return ___value_0; }
+	inline bool* get_address_of_value_0() { return &___value_0; }
+	inline void set_value_0(bool value)
+	{
+		___value_0 = value;
+	}
+
+	inline static int32_t get_offset_of_has_value_1() { return static_cast<int32_t>(offsetof(Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793, ___has_value_1)); }
+	inline bool get_has_value_1() const { return ___has_value_1; }
+	inline bool* get_address_of_has_value_1() { return &___has_value_1; }
+	inline void set_has_value_1(bool value)
+	{
+		___has_value_1 = value;
+	}
+};
+
+
 // System.Nullable`1<System.Int32>
-struct  Nullable_1_t0D03270832B3FFDDC0E7C2D89D4A0EA25376A1EB 
+struct Nullable_1_t0D03270832B3FFDDC0E7C2D89D4A0EA25376A1EB 
 {
 public:
 	// T System.Nullable`1::value
@@ -4327,7 +4503,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncMethodBuilderCore
-struct  AsyncMethodBuilderCore_t4CE6C1E4B0621A6EC45CF6E0E8F1F633FFF9FF01 
+struct AsyncMethodBuilderCore_t4CE6C1E4B0621A6EC45CF6E0E8F1F633FFF9FF01 
 {
 public:
 	// System.Runtime.CompilerServices.IAsyncStateMachine System.Runtime.CompilerServices.AsyncMethodBuilderCore::m_stateMachine
@@ -4369,7 +4545,7 @@ struct AsyncMethodBuilderCore_t4CE6C1E4B0621A6EC45CF6E0E8F1F633FFF9FF01_marshale
 };
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<Microsoft.MixedReality.Toolkit.Utilities.Response>
-struct  TaskAwaiter_1_t893807AFAD2E4A77BB8E12337ACB130641E63B87 
+struct TaskAwaiter_1_t893807AFAD2E4A77BB8E12337ACB130641E63B87 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -4388,7 +4564,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.ApplicationInfo>
-struct  TaskAwaiter_1_t74AA1F7065790355F2A3A65B6272C2357AC333E6 
+struct TaskAwaiter_1_t74AA1F7065790355F2A3A65B6272C2357AC333E6 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -4407,7 +4583,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.AvailableWiFiNetworks>
-struct  TaskAwaiter_1_t53F40C0E07675B6375BF716167171DB95758B8EB 
+struct TaskAwaiter_1_t53F40C0E07675B6375BF716167171DB95758B8EB 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -4426,7 +4602,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.BatteryInfo>
-struct  TaskAwaiter_1_tA06EC6099D1194BF98711203942A425330342B6F 
+struct TaskAwaiter_1_tA06EC6099D1194BF98711203942A425330342B6F 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -4445,7 +4621,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DeviceOsInfo>
-struct  TaskAwaiter_1_tB0A7DF7E5E99AE470EAD68F572AA0DCEA3B39793 
+struct TaskAwaiter_1_tB0A7DF7E5E99AE470EAD68F572AA0DCEA3B39793 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -4464,7 +4640,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/AppInstallStatus>
-struct  TaskAwaiter_1_t8FD78E6B9197CCDE3D9BB4F91012871BF7537D65 
+struct TaskAwaiter_1_t8FD78E6B9197CCDE3D9BB4F91012871BF7537D65 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -4483,7 +4659,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.InstalledApps>
-struct  TaskAwaiter_1_tF00936ED83991A959AF27B2BE3317690A0367F28 
+struct TaskAwaiter_1_tF00936ED83991A959AF27B2BE3317690A0367F28 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -4502,7 +4678,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.IpConfigInfo>
-struct  TaskAwaiter_1_t62812DD831856F29B062D9015371D01DA9551BB4 
+struct TaskAwaiter_1_t62812DD831856F29B062D9015371D01DA9551BB4 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -4521,7 +4697,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.MachineName>
-struct  TaskAwaiter_1_t1325CBB5B8B238E4754DEEA5D12C9BD5E5D0B03F 
+struct TaskAwaiter_1_t1325CBB5B8B238E4754DEEA5D12C9BD5E5D0B03F 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -4540,7 +4716,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.NetworkInterfaces>
-struct  TaskAwaiter_1_tA8265EE5ABE7E6A739257D9B2DED1CC422C6FB0B 
+struct TaskAwaiter_1_tA8265EE5ABE7E6A739257D9B2DED1CC422C6FB0B 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -4559,7 +4735,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.PowerStateInfo>
-struct  TaskAwaiter_1_t974C0A36953B2725186684E1D48894077029E91A 
+struct TaskAwaiter_1_t974C0A36953B2725186684E1D48894077029E91A 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -4578,7 +4754,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<System.Boolean>
-struct  TaskAwaiter_1_tFD52D9BC245E2C60016F2E6F4CC4A15361418090 
+struct TaskAwaiter_1_tFD52D9BC245E2C60016F2E6F4CC4A15361418090 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -4597,7 +4773,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<System.Int32Enum>
-struct  TaskAwaiter_1_tAA20340F12B7E4ADF8A21537BC827B19D549808A 
+struct TaskAwaiter_1_tAA20340F12B7E4ADF8A21537BC827B19D549808A 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -4616,7 +4792,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<System.Object>
-struct  TaskAwaiter_1_t8CDB78D2A4D48E80C35A8FF6FC04A82B9FC35977 
+struct TaskAwaiter_1_t8CDB78D2A4D48E80C35A8FF6FC04A82B9FC35977 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -4635,7 +4811,7 @@ public:
 
 
 // System.Runtime.CompilerServices.TaskAwaiter`1<System.String>
-struct  TaskAwaiter_1_t0139085A70D09D28A04F5187195DC0184E53D214 
+struct TaskAwaiter_1_t0139085A70D09D28A04F5187195DC0184E53D214 
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
@@ -4654,7 +4830,7 @@ public:
 
 
 // System.Single
-struct  Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
+struct Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
 {
 public:
 	// System.Single System.Single::m_value
@@ -4672,7 +4848,7 @@ public:
 
 
 // System.UInt16
-struct  UInt16_tAE45CEF73BF720100519F6867F32145D075F928E 
+struct UInt16_tAE45CEF73BF720100519F6867F32145D075F928E 
 {
 public:
 	// System.UInt16 System.UInt16::m_value
@@ -4690,7 +4866,7 @@ public:
 
 
 // System.Void
-struct  Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
+struct Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
 {
 public:
 	union
@@ -4706,7 +4882,7 @@ public:
 
 
 // UnityEngine.Mathf
-struct  Mathf_tFBDE6467D269BFE410605C7D806FD9991D4A89CB 
+struct Mathf_tFBDE6467D269BFE410605C7D806FD9991D4A89CB 
 {
 public:
 	union
@@ -4738,7 +4914,7 @@ public:
 
 
 // UnityEngine.PropertyAttribute
-struct  PropertyAttribute_t25BFFC093C9C96E3CCF4EAB36F5DC6F937B1FA54  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
+struct PropertyAttribute_t25BFFC093C9C96E3CCF4EAB36F5DC6F937B1FA54  : public Attribute_tF048C13FB3C8CFCC53F82290E4A3F621089F9A74
 {
 public:
 
@@ -4747,7 +4923,7 @@ public:
 
 
 // UnityEngine.Quaternion
-struct  Quaternion_t319F3319A7D43FFA5D819AD6C0A98851F0095357 
+struct Quaternion_t319F3319A7D43FFA5D819AD6C0A98851F0095357 
 {
 public:
 	// System.Single UnityEngine.Quaternion::x
@@ -4811,7 +4987,7 @@ public:
 
 
 // UnityEngine.Vector2
-struct  Vector2_tA85D2DD88578276CA8A8796756458277E72D073D 
+struct Vector2_tA85D2DD88578276CA8A8796756458277E72D073D 
 {
 public:
 	// System.Single UnityEngine.Vector2::x
@@ -4925,7 +5101,7 @@ public:
 
 
 // UnityEngine.Vector3
-struct  Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720 
+struct Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720 
 {
 public:
 	// System.Single UnityEngine.Vector3::x
@@ -5069,7 +5245,7 @@ public:
 
 
 // UnityEngine.WaitForSeconds
-struct  WaitForSeconds_t3E9E78D3BB53F03F96C7F28BA9B9086CD1A5F4E8  : public YieldInstruction_t836035AC7BD07A3C7909F7AD2A5B42DE99D91C44
+struct WaitForSeconds_t3E9E78D3BB53F03F96C7F28BA9B9086CD1A5F4E8  : public YieldInstruction_t836035AC7BD07A3C7909F7AD2A5B42DE99D91C44
 {
 public:
 	// System.Single UnityEngine.WaitForSeconds::m_Seconds
@@ -5097,7 +5273,7 @@ struct WaitForSeconds_t3E9E78D3BB53F03F96C7F28BA9B9086CD1A5F4E8_marshaled_com : 
 };
 
 // Microsoft.MixedReality.Toolkit.Utilities.SupportedApplicationModes
-struct  SupportedApplicationModes_t44B8208F214D5A831C06028AEB7F8BFD833024C1 
+struct SupportedApplicationModes_t44B8208F214D5A831C06028AEB7F8BFD833024C1 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.SupportedApplicationModes::value__
@@ -5115,7 +5291,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.SupportedPlatforms
-struct  SupportedPlatforms_tC1BF6F31F4AEC766F18A07396C343E4F841886F2 
+struct SupportedPlatforms_tC1BF6F31F4AEC766F18A07396C343E4F841886F2 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.SupportedPlatforms::value__
@@ -5133,7 +5309,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.SupportedUnityXRPipelines
-struct  SupportedUnityXRPipelines_tEBCEAD68FAB5B4DC61DD111F86FC7A48DEB8138D 
+struct SupportedUnityXRPipelines_tEBCEAD68FAB5B4DC61DD111F86FC7A48DEB8138D 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.SupportedUnityXRPipelines::value__
@@ -5151,7 +5327,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.TrackedHandJoint
-struct  TrackedHandJoint_tC369FA2A7A327BDD9AB9D899A8D82F1976C15FDB 
+struct TrackedHandJoint_tC369FA2A7A327BDD9AB9D899A8D82F1976C15FDB 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.TrackedHandJoint::value__
@@ -5169,7 +5345,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.TrackedObjectType
-struct  TrackedObjectType_t70FE763981CBEA7824AE848FF40078784B3BF208 
+struct TrackedObjectType_t70FE763981CBEA7824AE848FF40078784B3BF208 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.TrackedObjectType::value__
@@ -5187,7 +5363,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.TransformFlags
-struct  TransformFlags_t082F3613E37817B96A4D798D1FD7FD8AF4339421 
+struct TransformFlags_t082F3613E37817B96A4D798D1FD7FD8AF4339421 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.TransformFlags::value__
@@ -5205,7 +5381,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.TypeGrouping
-struct  TypeGrouping_tA79F69C410FF64D25A74CD9B8261ACD3EEE16895 
+struct TypeGrouping_tA79F69C410FF64D25A74CD9B8261ACD3EEE16895 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.TypeGrouping::value__
@@ -5223,7 +5399,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.Vector3Smoothed
-struct  Vector3Smoothed_t21D6BC9A19EC4F2C3CE044BD5151D53B244B6A6F 
+struct Vector3Smoothed_t21D6BC9A19EC4F2C3CE044BD5151D53B244B6A6F 
 {
 public:
 	// UnityEngine.Vector3 Microsoft.MixedReality.Toolkit.Utilities.Vector3Smoothed::<Current>k__BackingField
@@ -5261,7 +5437,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.VolumeType
-struct  VolumeType_t446934342D31DE20F94978C38B983014379AE4D5 
+struct VolumeType_t446934342D31DE20F94978C38B983014379AE4D5 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.VolumeType::value__
@@ -5278,8 +5454,33 @@ public:
 };
 
 
+// Microsoft.MixedReality.Toolkit.Utilities.XRSettingsUtilities
+struct XRSettingsUtilities_t29DE0C95570533A73074BA5BC9493FF9F9D3D307  : public RuntimeObject
+{
+public:
+
+public:
+};
+
+struct XRSettingsUtilities_t29DE0C95570533A73074BA5BC9493FF9F9D3D307_StaticFields
+{
+public:
+	// System.Nullable`1<System.Boolean> Microsoft.MixedReality.Toolkit.Utilities.XRSettingsUtilities::isXRSDKEnabled
+	Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793  ___isXRSDKEnabled_0;
+
+public:
+	inline static int32_t get_offset_of_isXRSDKEnabled_0() { return static_cast<int32_t>(offsetof(XRSettingsUtilities_t29DE0C95570533A73074BA5BC9493FF9F9D3D307_StaticFields, ___isXRSDKEnabled_0)); }
+	inline Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793  get_isXRSDKEnabled_0() const { return ___isXRSDKEnabled_0; }
+	inline Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793 * get_address_of_isXRSDKEnabled_0() { return &___isXRSDKEnabled_0; }
+	inline void set_isXRSDKEnabled_0(Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793  value)
+	{
+		___isXRSDKEnabled_0 = value;
+	}
+};
+
+
 // Microsoft.MixedReality.Toolkit.Vector3RangeAttribute
-struct  Vector3RangeAttribute_tEFDEA086D18DB774528E37A036956F8F6F76FC29  : public PropertyAttribute_t25BFFC093C9C96E3CCF4EAB36F5DC6F937B1FA54
+struct Vector3RangeAttribute_tEFDEA086D18DB774528E37A036956F8F6F76FC29  : public PropertyAttribute_t25BFFC093C9C96E3CCF4EAB36F5DC6F937B1FA54
 {
 public:
 	// System.Single Microsoft.MixedReality.Toolkit.Vector3RangeAttribute::Min
@@ -5307,7 +5508,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Windows.Input.WindowsGestureSettings
-struct  WindowsGestureSettings_tACA335EB13C5766CA1D3B6A54BAE22D1A12A8FC8 
+struct WindowsGestureSettings_tACA335EB13C5766CA1D3B6A54BAE22D1A12A8FC8 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Windows.Input.WindowsGestureSettings::value__
@@ -5325,7 +5526,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/AppInstallStatus
-struct  AppInstallStatus_t1D37BE2CA3B4D560E0DD1968A75C06865795C952 
+struct AppInstallStatus_t1D37BE2CA3B4D560E0DD1968A75C06865795C952 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/AppInstallStatus::value__
@@ -5343,7 +5544,7 @@ public:
 
 
 // System.Delegate
-struct  Delegate_t  : public RuntimeObject
+struct Delegate_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Delegate::method_ptr
@@ -5495,7 +5696,7 @@ struct Delegate_t_marshaled_com
 };
 
 // System.Exception
-struct  Exception_t  : public RuntimeObject
+struct Exception_t  : public RuntimeObject
 {
 public:
 	// System.String System.Exception::_className
@@ -5721,7 +5922,7 @@ struct Exception_t_marshaled_com
 };
 
 // System.IO.FileAccess
-struct  FileAccess_t31950F3A853EAE886AC8F13EA7FC03A3EB46E3F6 
+struct FileAccess_t31950F3A853EAE886AC8F13EA7FC03A3EB46E3F6 
 {
 public:
 	// System.Int32 System.IO.FileAccess::value__
@@ -5739,7 +5940,7 @@ public:
 
 
 // System.IO.FileAttributes
-struct  FileAttributes_t224B42F6F82954C94B51791913857C005C559876 
+struct FileAttributes_t224B42F6F82954C94B51791913857C005C559876 
 {
 public:
 	// System.Int32 System.IO.FileAttributes::value__
@@ -5757,7 +5958,7 @@ public:
 
 
 // System.IO.FileMode
-struct  FileMode_tD19D05B1E6CAF201F88401B04FDB25227664C419 
+struct FileMode_tD19D05B1E6CAF201F88401B04FDB25227664C419 
 {
 public:
 	// System.Int32 System.IO.FileMode::value__
@@ -5775,7 +5976,7 @@ public:
 
 
 // System.IO.FileShare
-struct  FileShare_t9AA8473BBE5DD8532CEAF3F48F26DA5A25A93684 
+struct FileShare_t9AA8473BBE5DD8532CEAF3F48F26DA5A25A93684 
 {
 public:
 	// System.Int32 System.IO.FileShare::value__
@@ -5793,7 +5994,7 @@ public:
 
 
 // System.Int32Enum
-struct  Int32Enum_t6312CE4586C17FE2E2E513D2E7655B574F10FDCD 
+struct Int32Enum_t6312CE4586C17FE2E2E513D2E7655B574F10FDCD 
 {
 public:
 	// System.Int32 System.Int32Enum::value__
@@ -5811,7 +6012,7 @@ public:
 
 
 // System.Reflection.Assembly
-struct  Assembly_t  : public RuntimeObject
+struct Assembly_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Reflection.Assembly::_mono_assembly
@@ -5955,7 +6156,7 @@ struct Assembly_t_marshaled_com
 };
 
 // System.Reflection.BindingFlags
-struct  BindingFlags_tE35C91D046E63A1B92BB9AB909FCF9DA84379ED0 
+struct BindingFlags_tE35C91D046E63A1B92BB9AB909FCF9DA84379ED0 
 {
 public:
 	// System.Int32 System.Reflection.BindingFlags::value__
@@ -5973,7 +6174,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<Microsoft.MixedReality.Toolkit.Utilities.Response>
-struct  AsyncTaskMethodBuilder_1_tA9B8739FE11A322D38F6E1DBD8C8F6C17F543797 
+struct AsyncTaskMethodBuilder_1_tA9B8739FE11A322D38F6E1DBD8C8F6C17F543797 
 {
 public:
 	// System.Runtime.CompilerServices.AsyncMethodBuilderCore System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::m_coreState
@@ -6023,7 +6224,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.ApplicationInfo>
-struct  AsyncTaskMethodBuilder_1_tE90DB9D48D2F0A7FF9338E1BD7B3C962F31A8C3A 
+struct AsyncTaskMethodBuilder_1_tE90DB9D48D2F0A7FF9338E1BD7B3C962F31A8C3A 
 {
 public:
 	// System.Runtime.CompilerServices.AsyncMethodBuilderCore System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::m_coreState
@@ -6073,7 +6274,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.AvailableWiFiNetworks>
-struct  AsyncTaskMethodBuilder_1_t125423F4CB910DB1F98E0E7DAEBE1D98743EFD17 
+struct AsyncTaskMethodBuilder_1_t125423F4CB910DB1F98E0E7DAEBE1D98743EFD17 
 {
 public:
 	// System.Runtime.CompilerServices.AsyncMethodBuilderCore System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::m_coreState
@@ -6123,7 +6324,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.BatteryInfo>
-struct  AsyncTaskMethodBuilder_1_t88D7C91C378B36853E42F91AC9C1B6A3E53CA3B7 
+struct AsyncTaskMethodBuilder_1_t88D7C91C378B36853E42F91AC9C1B6A3E53CA3B7 
 {
 public:
 	// System.Runtime.CompilerServices.AsyncMethodBuilderCore System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::m_coreState
@@ -6173,7 +6374,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DeviceOsInfo>
-struct  AsyncTaskMethodBuilder_1_tEEE5B2B5B3C23731A97C1FB9EBADDE4EE054B7C6 
+struct AsyncTaskMethodBuilder_1_tEEE5B2B5B3C23731A97C1FB9EBADDE4EE054B7C6 
 {
 public:
 	// System.Runtime.CompilerServices.AsyncMethodBuilderCore System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::m_coreState
@@ -6223,7 +6424,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/AppInstallStatus>
-struct  AsyncTaskMethodBuilder_1_tC52FC94229B33F09F2C863B51DE7575033AA6DE6 
+struct AsyncTaskMethodBuilder_1_tC52FC94229B33F09F2C863B51DE7575033AA6DE6 
 {
 public:
 	// System.Runtime.CompilerServices.AsyncMethodBuilderCore System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::m_coreState
@@ -6273,7 +6474,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.InstalledApps>
-struct  AsyncTaskMethodBuilder_1_t2DA2A9757AE6C8B8CD20CD3F7E56E40806CF8B86 
+struct AsyncTaskMethodBuilder_1_t2DA2A9757AE6C8B8CD20CD3F7E56E40806CF8B86 
 {
 public:
 	// System.Runtime.CompilerServices.AsyncMethodBuilderCore System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::m_coreState
@@ -6323,7 +6524,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.IpConfigInfo>
-struct  AsyncTaskMethodBuilder_1_t736555AFFD6C8A7B60AFFE86664066C70A3D1C20 
+struct AsyncTaskMethodBuilder_1_t736555AFFD6C8A7B60AFFE86664066C70A3D1C20 
 {
 public:
 	// System.Runtime.CompilerServices.AsyncMethodBuilderCore System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::m_coreState
@@ -6373,7 +6574,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.MachineName>
-struct  AsyncTaskMethodBuilder_1_t40A0126098FCE01E290B3FA7662A3BA67BC0A955 
+struct AsyncTaskMethodBuilder_1_t40A0126098FCE01E290B3FA7662A3BA67BC0A955 
 {
 public:
 	// System.Runtime.CompilerServices.AsyncMethodBuilderCore System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::m_coreState
@@ -6423,7 +6624,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.NetworkInterfaces>
-struct  AsyncTaskMethodBuilder_1_t284B16575559DCD36CB8AC436A41863EABA80801 
+struct AsyncTaskMethodBuilder_1_t284B16575559DCD36CB8AC436A41863EABA80801 
 {
 public:
 	// System.Runtime.CompilerServices.AsyncMethodBuilderCore System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::m_coreState
@@ -6473,7 +6674,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.PowerStateInfo>
-struct  AsyncTaskMethodBuilder_1_t69D6C58FAF7E86188C49DF0FC7EA373A8F561EED 
+struct AsyncTaskMethodBuilder_1_t69D6C58FAF7E86188C49DF0FC7EA373A8F561EED 
 {
 public:
 	// System.Runtime.CompilerServices.AsyncMethodBuilderCore System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::m_coreState
@@ -6523,7 +6724,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Boolean>
-struct  AsyncTaskMethodBuilder_1_t37B8301A93B487253B9622D00C44195BE042E4BE 
+struct AsyncTaskMethodBuilder_1_t37B8301A93B487253B9622D00C44195BE042E4BE 
 {
 public:
 	// System.Runtime.CompilerServices.AsyncMethodBuilderCore System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::m_coreState
@@ -6573,7 +6774,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Int32Enum>
-struct  AsyncTaskMethodBuilder_1_t3EA63C0CF420FBBEFBBCFA788DA3D25C2F127BFE 
+struct AsyncTaskMethodBuilder_1_t3EA63C0CF420FBBEFBBCFA788DA3D25C2F127BFE 
 {
 public:
 	// System.Runtime.CompilerServices.AsyncMethodBuilderCore System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::m_coreState
@@ -6623,7 +6824,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.Object>
-struct  AsyncTaskMethodBuilder_1_t2A9513A084F4B19851B91EF1F22BB57776D35663 
+struct AsyncTaskMethodBuilder_1_t2A9513A084F4B19851B91EF1F22BB57776D35663 
 {
 public:
 	// System.Runtime.CompilerServices.AsyncMethodBuilderCore System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::m_coreState
@@ -6673,7 +6874,7 @@ public:
 
 
 // System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1<System.String>
-struct  AsyncTaskMethodBuilder_1_tC7B1E45031A96D1F2363C0491EC79BBE740BC10C 
+struct AsyncTaskMethodBuilder_1_tC7B1E45031A96D1F2363C0491EC79BBE740BC10C 
 {
 public:
 	// System.Runtime.CompilerServices.AsyncMethodBuilderCore System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1::m_coreState
@@ -6723,7 +6924,7 @@ public:
 
 
 // System.RuntimeTypeHandle
-struct  RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D 
+struct RuntimeTypeHandle_t7B542280A22F0EC4EAC2061C29178845847A8B2D 
 {
 public:
 	// System.IntPtr System.RuntimeTypeHandle::value
@@ -6741,7 +6942,7 @@ public:
 
 
 // System.StringComparison
-struct  StringComparison_t02BAA95468CE9E91115C604577611FDF58FEDCF0 
+struct StringComparison_t02BAA95468CE9E91115C604577611FDF58FEDCF0 
 {
 public:
 	// System.Int32 System.StringComparison::value__
@@ -6759,7 +6960,7 @@ public:
 
 
 // System.Threading.Tasks.Task
-struct  Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2  : public RuntimeObject
+struct Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2  : public RuntimeObject
 {
 public:
 	// System.Int32 modreq(System.Runtime.CompilerServices.IsVolatile) System.Threading.Tasks.Task::m_taskId
@@ -7017,7 +7218,7 @@ public:
 
 
 // UnityEngine.AsyncOperation
-struct  AsyncOperation_t304C51ABED8AE734CC8DDDFE13013D8D5A44641D  : public YieldInstruction_t836035AC7BD07A3C7909F7AD2A5B42DE99D91C44
+struct AsyncOperation_t304C51ABED8AE734CC8DDDFE13013D8D5A44641D  : public YieldInstruction_t836035AC7BD07A3C7909F7AD2A5B42DE99D91C44
 {
 public:
 	// System.IntPtr UnityEngine.AsyncOperation::m_Ptr
@@ -7058,7 +7259,7 @@ struct AsyncOperation_t304C51ABED8AE734CC8DDDFE13013D8D5A44641D_marshaled_com : 
 };
 
 // UnityEngine.IntegratedSubsystem
-struct  IntegratedSubsystem_tEFE71989A825ABA8955C1B1505C8F2405FA61026  : public RuntimeObject
+struct IntegratedSubsystem_tEFE71989A825ABA8955C1B1505C8F2405FA61026  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.IntegratedSubsystem::m_Ptr
@@ -7099,7 +7300,7 @@ struct IntegratedSubsystem_tEFE71989A825ABA8955C1B1505C8F2405FA61026_marshaled_c
 };
 
 // UnityEngine.Networking.CertificateHandler
-struct  CertificateHandler_tBD070BF4150A44AB482FD36EA3882C363117E8C0  : public RuntimeObject
+struct CertificateHandler_tBD070BF4150A44AB482FD36EA3882C363117E8C0  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Networking.CertificateHandler::m_Ptr
@@ -7127,7 +7328,7 @@ struct CertificateHandler_tBD070BF4150A44AB482FD36EA3882C363117E8C0_marshaled_co
 };
 
 // UnityEngine.Networking.DownloadHandler
-struct  DownloadHandler_t4A7802ADC97024B469C87FA454B6973951980EE9  : public RuntimeObject
+struct DownloadHandler_t4A7802ADC97024B469C87FA454B6973951980EE9  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Networking.DownloadHandler::m_Ptr
@@ -7155,7 +7356,7 @@ struct DownloadHandler_t4A7802ADC97024B469C87FA454B6973951980EE9_marshaled_com
 };
 
 // UnityEngine.Networking.UploadHandler
-struct  UploadHandler_t24F4097D30A1E7C689D8881A27F251B4741601E4  : public RuntimeObject
+struct UploadHandler_t24F4097D30A1E7C689D8881A27F251B4741601E4  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Networking.UploadHandler::m_Ptr
@@ -7182,8 +7383,52 @@ struct UploadHandler_t24F4097D30A1E7C689D8881A27F251B4741601E4_marshaled_com
 	intptr_t ___m_Ptr_0;
 };
 
+// UnityEngine.Object
+struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0  : public RuntimeObject
+{
+public:
+	// System.IntPtr UnityEngine.Object::m_CachedPtr
+	intptr_t ___m_CachedPtr_0;
+
+public:
+	inline static int32_t get_offset_of_m_CachedPtr_0() { return static_cast<int32_t>(offsetof(Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0, ___m_CachedPtr_0)); }
+	inline intptr_t get_m_CachedPtr_0() const { return ___m_CachedPtr_0; }
+	inline intptr_t* get_address_of_m_CachedPtr_0() { return &___m_CachedPtr_0; }
+	inline void set_m_CachedPtr_0(intptr_t value)
+	{
+		___m_CachedPtr_0 = value;
+	}
+};
+
+struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0_StaticFields
+{
+public:
+	// System.Int32 UnityEngine.Object::OffsetOfInstanceIDInCPlusPlusObject
+	int32_t ___OffsetOfInstanceIDInCPlusPlusObject_1;
+
+public:
+	inline static int32_t get_offset_of_OffsetOfInstanceIDInCPlusPlusObject_1() { return static_cast<int32_t>(offsetof(Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0_StaticFields, ___OffsetOfInstanceIDInCPlusPlusObject_1)); }
+	inline int32_t get_OffsetOfInstanceIDInCPlusPlusObject_1() const { return ___OffsetOfInstanceIDInCPlusPlusObject_1; }
+	inline int32_t* get_address_of_OffsetOfInstanceIDInCPlusPlusObject_1() { return &___OffsetOfInstanceIDInCPlusPlusObject_1; }
+	inline void set_OffsetOfInstanceIDInCPlusPlusObject_1(int32_t value)
+	{
+		___OffsetOfInstanceIDInCPlusPlusObject_1 = value;
+	}
+};
+
+// Native definition for P/Invoke marshalling of UnityEngine.Object
+struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0_marshaled_pinvoke
+{
+	intptr_t ___m_CachedPtr_0;
+};
+// Native definition for COM marshalling of UnityEngine.Object
+struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0_marshaled_com
+{
+	intptr_t ___m_CachedPtr_0;
+};
+
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<ConnectToWiFiNetworkAsync>d__46
-struct  U3CConnectToWiFiNetworkAsyncU3Ed__46_t336DC7D7CE2489EB7C311AAD1CFD737C83DE5DAD 
+struct U3CConnectToWiFiNetworkAsyncU3Ed__46_t336DC7D7CE2489EB7C311AAD1CFD737C83DE5DAD 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<ConnectToWiFiNetworkAsync>d__46::<>1__state
@@ -7284,7 +7529,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<DevicePortalAuthorizationAsync>d__51
-struct  U3CDevicePortalAuthorizationAsyncU3Ed__51_tE8F898ABD70B57AEAE25B444AA0FC323A11D61AA 
+struct U3CDevicePortalAuthorizationAsyncU3Ed__51_tE8F898ABD70B57AEAE25B444AA0FC323A11D61AA 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<DevicePortalAuthorizationAsync>d__51::<>1__state
@@ -7352,7 +7597,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<DownloadLogFileAsync>d__43
-struct  U3CDownloadLogFileAsyncU3Ed__43_tBC549F26109C0E67F9E39BFEC6952D7C5DC5ACCE 
+struct U3CDownloadLogFileAsyncU3Ed__43_tBC549F26109C0E67F9E39BFEC6952D7C5DC5ACCE 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<DownloadLogFileAsync>d__43::<>1__state
@@ -7495,7 +7740,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<EnsureAuthenticationAsync>d__50
-struct  U3CEnsureAuthenticationAsyncU3Ed__50_t674CBDCEE51CDAC056437AA25D24997BD0755764 
+struct U3CEnsureAuthenticationAsyncU3Ed__50_t674CBDCEE51CDAC056437AA25D24997BD0755764 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<EnsureAuthenticationAsync>d__50::<>1__state
@@ -7552,7 +7797,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<GetAllInstalledAppsAsync>d__37
-struct  U3CGetAllInstalledAppsAsyncU3Ed__37_t666D008A6A9FD2A5606DEDF2EDCAA52C34B86106 
+struct U3CGetAllInstalledAppsAsyncU3Ed__37_t666D008A6A9FD2A5606DEDF2EDCAA52C34B86106 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<GetAllInstalledAppsAsync>d__37::<>1__state
@@ -7651,7 +7896,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<GetApplicationInfoAsync>d__36
-struct  U3CGetApplicationInfoAsyncU3Ed__36_t34E2106C273F647905314100360DFBACEB8406CB 
+struct U3CGetApplicationInfoAsyncU3Ed__36_t34E2106C273F647905314100360DFBACEB8406CB 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<GetApplicationInfoAsync>d__36::<>1__state
@@ -7719,7 +7964,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<GetAvailableWiFiNetworksAsync>d__45
-struct  U3CGetAvailableWiFiNetworksAsyncU3Ed__45_tF4007275624F5581F5CD8FBA35C9D7E79933264A 
+struct U3CGetAvailableWiFiNetworksAsyncU3Ed__45_tF4007275624F5581F5CD8FBA35C9D7E79933264A 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<GetAvailableWiFiNetworksAsync>d__45::<>1__state
@@ -7829,7 +8074,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<GetBatteryStateAsync>d__30
-struct  U3CGetBatteryStateAsyncU3Ed__30_t05F83EBED1FB56615211363AB38F41D0FEB4CD84 
+struct U3CGetBatteryStateAsyncU3Ed__30_t05F83EBED1FB56615211363AB38F41D0FEB4CD84 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<GetBatteryStateAsync>d__30::<>1__state
@@ -7928,7 +8173,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<GetDeviceOsInfoAsync>d__28
-struct  U3CGetDeviceOsInfoAsyncU3Ed__28_tEC195E42B831AA047CCD4E7B4FDBC649A44C19A3 
+struct U3CGetDeviceOsInfoAsyncU3Ed__28_tEC195E42B831AA047CCD4E7B4FDBC649A44C19A3 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<GetDeviceOsInfoAsync>d__28::<>1__state
@@ -8027,7 +8272,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<GetInstallStatusAsync>d__39
-struct  U3CGetInstallStatusAsyncU3Ed__39_t1C507295B786D9C1D5175BBE45F2D834B1E231A9 
+struct U3CGetInstallStatusAsyncU3Ed__39_t1C507295B786D9C1D5175BBE45F2D834B1E231A9 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<GetInstallStatusAsync>d__39::<>1__state
@@ -8084,7 +8329,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<GetIpConfigInfoAsync>d__44
-struct  U3CGetIpConfigInfoAsyncU3Ed__44_t35C35AE9BF968370DE741486E680DF9E747CB0B2 
+struct U3CGetIpConfigInfoAsyncU3Ed__44_t35C35AE9BF968370DE741486E680DF9E747CB0B2 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<GetIpConfigInfoAsync>d__44::<>1__state
@@ -8183,7 +8428,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<GetMachineNameAsync>d__29
-struct  U3CGetMachineNameAsyncU3Ed__29_t6A151D61FAB6E66784CF7215A323D69C6DCD867E 
+struct U3CGetMachineNameAsyncU3Ed__29_t6A151D61FAB6E66784CF7215A323D69C6DCD867E 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<GetMachineNameAsync>d__29::<>1__state
@@ -8282,7 +8527,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<GetPowerStateAsync>d__31
-struct  U3CGetPowerStateAsyncU3Ed__31_tC3C05F8527E9B9F27800EB91126572A0C7161BCE 
+struct U3CGetPowerStateAsyncU3Ed__31_tC3C05F8527E9B9F27800EB91126572A0C7161BCE 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<GetPowerStateAsync>d__31::<>1__state
@@ -8361,7 +8606,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<GetWiFiNetworkInterfacesAsync>d__47
-struct  U3CGetWiFiNetworkInterfacesAsyncU3Ed__47_t86511DD0F2805F4A224D57A43974BF0D4273B7C5 
+struct U3CGetWiFiNetworkInterfacesAsyncU3Ed__47_t86511DD0F2805F4A224D57A43974BF0D4273B7C5 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<GetWiFiNetworkInterfacesAsync>d__47::<>1__state
@@ -8460,7 +8705,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<InstallAppAsync>d__38
-struct  U3CInstallAppAsyncU3Ed__38_t0CA405AC7F7E19B3B9F0487A48EC325294D0DDBC 
+struct U3CInstallAppAsyncU3Ed__38_t0CA405AC7F7E19B3B9F0487A48EC325294D0DDBC 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<InstallAppAsync>d__38::<>1__state
@@ -8571,7 +8816,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<IsAppInstalledAsync>d__34
-struct  U3CIsAppInstalledAsyncU3Ed__34_tDC84E8F8F0D56E323BC0D7A899309412E5E006C1 
+struct U3CIsAppInstalledAsyncU3Ed__34_tDC84E8F8F0D56E323BC0D7A899309412E5E006C1 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<IsAppInstalledAsync>d__34::<>1__state
@@ -8639,7 +8884,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<IsAppRunningAsync>d__35
-struct  U3CIsAppRunningAsyncU3Ed__35_t69C64FB516CFCBC65A92823831982E4ADBC1E886 
+struct U3CIsAppRunningAsyncU3Ed__35_t69C64FB516CFCBC65A92823831982E4ADBC1E886 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<IsAppRunningAsync>d__35::<>1__state
@@ -8760,7 +9005,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<LaunchAppAsync>d__41
-struct  U3CLaunchAppAsyncU3Ed__41_tE9B95850F5D8096E72106CBDB48028CD73FC33A9 
+struct U3CLaunchAppAsyncU3Ed__41_tE9B95850F5D8096E72106CBDB48028CD73FC33A9 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<LaunchAppAsync>d__41::<>1__state
@@ -8892,7 +9137,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<RefreshCsrfTokenAsync>d__49
-struct  U3CRefreshCsrfTokenAsyncU3Ed__49_t8E9D737834DD47865C0D2134F2F2447AF1726BCC 
+struct U3CRefreshCsrfTokenAsyncU3Ed__49_t8E9D737834DD47865C0D2134F2F2447AF1726BCC 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<RefreshCsrfTokenAsync>d__49::<>1__state
@@ -8949,7 +9194,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<RestartAsync>d__32
-struct  U3CRestartAsyncU3Ed__32_t14F062194BCE6758323081177D0E16052FEDBAD0 
+struct U3CRestartAsyncU3Ed__32_t14F062194BCE6758323081177D0E16052FEDBAD0 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<RestartAsync>d__32::<>1__state
@@ -9058,7 +9303,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<ShutdownAsync>d__33
-struct  U3CShutdownAsyncU3Ed__33_t0B728E18D6A5779D638FF4EC7DA84DB0176BA77E 
+struct U3CShutdownAsyncU3Ed__33_t0B728E18D6A5779D638FF4EC7DA84DB0176BA77E 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<ShutdownAsync>d__33::<>1__state
@@ -9146,7 +9391,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<StopAppAsync>d__42
-struct  U3CStopAppAsyncU3Ed__42_t4FF755FF284DDE643C9DDC47C38601E5F07B0695 
+struct U3CStopAppAsyncU3Ed__42_t4FF755FF284DDE643C9DDC47C38601E5F07B0695 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<StopAppAsync>d__42::<>1__state
@@ -9278,7 +9523,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<UninstallAppAsync>d__40
-struct  U3CUninstallAppAsyncU3Ed__40_t3821E506B5220976D4330B47E0294AEF8205DA9B 
+struct U3CUninstallAppAsyncU3Ed__40_t3821E506B5220976D4330B47E0294AEF8205DA9B 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/<UninstallAppAsync>d__40::<>1__state
@@ -9399,7 +9644,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/BlankCertificateHandler
-struct  BlankCertificateHandler_t5272EFF4029872CD2B82674C881248EF55A575A6  : public CertificateHandler_tBD070BF4150A44AB482FD36EA3882C363117E8C0
+struct BlankCertificateHandler_t5272EFF4029872CD2B82674C881248EF55A575A6  : public CertificateHandler_tBD070BF4150A44AB482FD36EA3882C363117E8C0
 {
 public:
 
@@ -9408,7 +9653,7 @@ public:
 
 
 // System.IO.FileStream
-struct  FileStream_tA770BF9AF0906644D43C81B962C7DBC3BC79A418  : public Stream_tFC50657DD5AAB87770987F9179D934A51D99D5E7
+struct FileStream_tA770BF9AF0906644D43C81B962C7DBC3BC79A418  : public Stream_tFC50657DD5AAB87770987F9179D934A51D99D5E7
 {
 public:
 	// System.Byte[] System.IO.FileStream::buf
@@ -9597,7 +9842,7 @@ public:
 
 
 // System.IO.MonoIOStat
-struct  MonoIOStat_t819C03DA1902AA493BDBF4B55E76DCE6FB16A124 
+struct MonoIOStat_t819C03DA1902AA493BDBF4B55E76DCE6FB16A124 
 {
 public:
 	// System.IO.FileAttributes System.IO.MonoIOStat::fileAttributes
@@ -9655,7 +9900,7 @@ public:
 
 
 // System.MulticastDelegate
-struct  MulticastDelegate_t  : public Delegate_t
+struct MulticastDelegate_t  : public Delegate_t
 {
 public:
 	// System.Delegate[] System.MulticastDelegate::delegates
@@ -9684,7 +9929,7 @@ struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
 };
 
 // System.Threading.Tasks.Task`1<Microsoft.MixedReality.Toolkit.Utilities.Response>
-struct  Task_1_tC8C4C467CF6CEF7D987AD87BB3A856848F49721B  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
+struct Task_1_tC8C4C467CF6CEF7D987AD87BB3A856848F49721B  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
 {
 public:
 	// TResult System.Threading.Tasks.Task`1::m_result
@@ -9740,7 +9985,7 @@ public:
 
 
 // System.Threading.Tasks.Task`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.ApplicationInfo>
-struct  Task_1_t5BBE773FE8349BC43B372E1C70A6F600D9925B38  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
+struct Task_1_t5BBE773FE8349BC43B372E1C70A6F600D9925B38  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
 {
 public:
 	// TResult System.Threading.Tasks.Task`1::m_result
@@ -9787,7 +10032,7 @@ public:
 
 
 // System.Threading.Tasks.Task`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.AvailableWiFiNetworks>
-struct  Task_1_t0E1BC3E3C1C5BE320D8082809430290B73C0CB99  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
+struct Task_1_t0E1BC3E3C1C5BE320D8082809430290B73C0CB99  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
 {
 public:
 	// TResult System.Threading.Tasks.Task`1::m_result
@@ -9834,7 +10079,7 @@ public:
 
 
 // System.Threading.Tasks.Task`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.BatteryInfo>
-struct  Task_1_t48E684FBDE1DF6071CD262D5D7F5C985BADFCB17  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
+struct Task_1_t48E684FBDE1DF6071CD262D5D7F5C985BADFCB17  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
 {
 public:
 	// TResult System.Threading.Tasks.Task`1::m_result
@@ -9881,7 +10126,7 @@ public:
 
 
 // System.Threading.Tasks.Task`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DeviceOsInfo>
-struct  Task_1_tB3A7044D8FB885EABF413B22BCA1A9122CBE7863  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
+struct Task_1_tB3A7044D8FB885EABF413B22BCA1A9122CBE7863  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
 {
 public:
 	// TResult System.Threading.Tasks.Task`1::m_result
@@ -9928,7 +10173,7 @@ public:
 
 
 // System.Threading.Tasks.Task`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.DevicePortal/AppInstallStatus>
-struct  Task_1_t39BD314477DC8FFB3342C37024FD46D09DAC758B  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
+struct Task_1_t39BD314477DC8FFB3342C37024FD46D09DAC758B  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
 {
 public:
 	// TResult System.Threading.Tasks.Task`1::m_result
@@ -9974,7 +10219,7 @@ public:
 
 
 // System.Threading.Tasks.Task`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.InstalledApps>
-struct  Task_1_t627B5F0B8DA34D49780877EF9508DB345D6F3B6A  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
+struct Task_1_t627B5F0B8DA34D49780877EF9508DB345D6F3B6A  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
 {
 public:
 	// TResult System.Threading.Tasks.Task`1::m_result
@@ -10021,7 +10266,7 @@ public:
 
 
 // System.Threading.Tasks.Task`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.IpConfigInfo>
-struct  Task_1_tB67B1E3E70A483BF931455CA871955AAB7065238  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
+struct Task_1_tB67B1E3E70A483BF931455CA871955AAB7065238  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
 {
 public:
 	// TResult System.Threading.Tasks.Task`1::m_result
@@ -10068,7 +10313,7 @@ public:
 
 
 // System.Threading.Tasks.Task`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.MachineName>
-struct  Task_1_tDC0F6DA22A63DF36563BD939D4CC7B58CBF5DBE6  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
+struct Task_1_tDC0F6DA22A63DF36563BD939D4CC7B58CBF5DBE6  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
 {
 public:
 	// TResult System.Threading.Tasks.Task`1::m_result
@@ -10115,7 +10360,7 @@ public:
 
 
 // System.Threading.Tasks.Task`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.NetworkInterfaces>
-struct  Task_1_t8561E0922DAA1CA79F04C9627914E0CEDE8387BB  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
+struct Task_1_t8561E0922DAA1CA79F04C9627914E0CEDE8387BB  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
 {
 public:
 	// TResult System.Threading.Tasks.Task`1::m_result
@@ -10162,7 +10407,7 @@ public:
 
 
 // System.Threading.Tasks.Task`1<Microsoft.MixedReality.Toolkit.WindowsDevicePortal.PowerStateInfo>
-struct  Task_1_t21BFF10DA20713A240FAEB50194B056B4DB9BC39  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
+struct Task_1_t21BFF10DA20713A240FAEB50194B056B4DB9BC39  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
 {
 public:
 	// TResult System.Threading.Tasks.Task`1::m_result
@@ -10209,7 +10454,7 @@ public:
 
 
 // System.Threading.Tasks.Task`1<System.Boolean>
-struct  Task_1_tD6131FE3A3A2F1D58DB886B6CF31A2672B75B439  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
+struct Task_1_tD6131FE3A3A2F1D58DB886B6CF31A2672B75B439  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
 {
 public:
 	// TResult System.Threading.Tasks.Task`1::m_result
@@ -10255,7 +10500,7 @@ public:
 
 
 // System.Threading.Tasks.Task`1<System.String>
-struct  Task_1_t4A75FEC8F36C5D4F8793BB8C94E4DAA7457D0286  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
+struct Task_1_t4A75FEC8F36C5D4F8793BB8C94E4DAA7457D0286  : public Task_t1F48C203E163126EBC69ACCA679D1A462DEE9EB2
 {
 public:
 	// TResult System.Threading.Tasks.Task`1::m_result
@@ -10302,7 +10547,7 @@ public:
 
 
 // System.Type
-struct  Type_t  : public MemberInfo_t
+struct Type_t  : public MemberInfo_t
 {
 public:
 	// System.RuntimeTypeHandle System.Type::_impl
@@ -10402,7 +10647,7 @@ public:
 
 
 // UnityEngine.IntegratedSubsystem`1<UnityEngine.XR.XRDisplaySubsystemDescriptor>
-struct  IntegratedSubsystem_1_tA1D5F6FF883C281DC92140F8547E38FBA9A4F7E1  : public IntegratedSubsystem_tEFE71989A825ABA8955C1B1505C8F2405FA61026
+struct IntegratedSubsystem_1_tA1D5F6FF883C281DC92140F8547E38FBA9A4F7E1  : public IntegratedSubsystem_tEFE71989A825ABA8955C1B1505C8F2405FA61026
 {
 public:
 
@@ -10411,7 +10656,7 @@ public:
 
 
 // UnityEngine.IntegratedSubsystem`1<UnityEngine.XR.XRInputSubsystemDescriptor>
-struct  IntegratedSubsystem_1_t648AE5E2D40F3159DD68D2AFD4B5ECA29920149D  : public IntegratedSubsystem_tEFE71989A825ABA8955C1B1505C8F2405FA61026
+struct IntegratedSubsystem_1_t648AE5E2D40F3159DD68D2AFD4B5ECA29920149D  : public IntegratedSubsystem_tEFE71989A825ABA8955C1B1505C8F2405FA61026
 {
 public:
 
@@ -10420,7 +10665,7 @@ public:
 
 
 // UnityEngine.IntegratedSubsystem`1<UnityEngine.XR.XRMeshSubsystemDescriptor>
-struct  IntegratedSubsystem_1_t808F7E2ADCA546A132C411EB61297ADCB67BDFC5  : public IntegratedSubsystem_tEFE71989A825ABA8955C1B1505C8F2405FA61026
+struct IntegratedSubsystem_1_t808F7E2ADCA546A132C411EB61297ADCB67BDFC5  : public IntegratedSubsystem_tEFE71989A825ABA8955C1B1505C8F2405FA61026
 {
 public:
 
@@ -10429,7 +10674,7 @@ public:
 
 
 // UnityEngine.Networking.UnityWebRequest
-struct  UnityWebRequest_t9120F5A2C7D43B936B49C0B7E4CA54C822689129  : public RuntimeObject
+struct UnityWebRequest_t9120F5A2C7D43B936B49C0B7E4CA54C822689129  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Networking.UnityWebRequest::m_Ptr
@@ -10545,7 +10790,7 @@ struct UnityWebRequest_t9120F5A2C7D43B936B49C0B7E4CA54C822689129_marshaled_com
 };
 
 // UnityEngine.Networking.UnityWebRequestAsyncOperation
-struct  UnityWebRequestAsyncOperation_t726E134F16701A2671D40BEBE22110DC57156353  : public AsyncOperation_t304C51ABED8AE734CC8DDDFE13013D8D5A44641D
+struct UnityWebRequestAsyncOperation_t726E134F16701A2671D40BEBE22110DC57156353  : public AsyncOperation_t304C51ABED8AE734CC8DDDFE13013D8D5A44641D
 {
 public:
 	// UnityEngine.Networking.UnityWebRequest UnityEngine.Networking.UnityWebRequestAsyncOperation::<webRequest>k__BackingField
@@ -10573,8 +10818,25 @@ struct UnityWebRequestAsyncOperation_t726E134F16701A2671D40BEBE22110DC57156353_m
 	UnityWebRequest_t9120F5A2C7D43B936B49C0B7E4CA54C822689129_marshaled_com* ___U3CwebRequestU3Ek__BackingField_2;
 };
 
+// UnityEngine.ScriptableObject
+struct ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+{
+public:
+
+public:
+};
+
+// Native definition for P/Invoke marshalling of UnityEngine.ScriptableObject
+struct ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734_marshaled_pinvoke : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0_marshaled_pinvoke
+{
+};
+// Native definition for COM marshalling of UnityEngine.ScriptableObject
+struct ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734_marshaled_com : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0_marshaled_com
+{
+};
+
 // System.Func`1<System.Byte[]>
-struct  Func_1_tE534EEF90F61CAA508281D61C72E8817BFDEEBCE  : public MulticastDelegate_t
+struct Func_1_tE534EEF90F61CAA508281D61C72E8817BFDEEBCE  : public MulticastDelegate_t
 {
 public:
 
@@ -10583,7 +10845,7 @@ public:
 
 
 // System.Func`1<System.String>
-struct  Func_1_tF4F5EBD1C6BE5A4AB6AEAAACB0DBF7B800CCD600  : public MulticastDelegate_t
+struct Func_1_tF4F5EBD1C6BE5A4AB6AEAAACB0DBF7B800CCD600  : public MulticastDelegate_t
 {
 public:
 
@@ -10592,7 +10854,7 @@ public:
 
 
 // System.Func`2<UnityEngine.Vector2,System.Single>
-struct  Func_2_t4138FE51FA4C075B35CF7FB3B21FED1ABD99DA61  : public MulticastDelegate_t
+struct Func_2_t4138FE51FA4C075B35CF7FB3B21FED1ABD99DA61  : public MulticastDelegate_t
 {
 public:
 
@@ -10601,7 +10863,7 @@ public:
 
 
 // System.Func`2<UnityEngine.Vector3,System.Single>
-struct  Func_2_tBE7C3EC90C2480C6F570CD1278994530FB95704E  : public MulticastDelegate_t
+struct Func_2_tBE7C3EC90C2480C6F570CD1278994530FB95704E  : public MulticastDelegate_t
 {
 public:
 
@@ -10610,7 +10872,7 @@ public:
 
 
 // System.Func`3<System.String,System.Collections.Generic.KeyValuePair`2<System.String,System.String>,System.String>
-struct  Func_3_t3FE0998C46FE606ECE34B159D4CB01E697FDBCDF  : public MulticastDelegate_t
+struct Func_3_t3FE0998C46FE606ECE34B159D4CB01E697FDBCDF  : public MulticastDelegate_t
 {
 public:
 
@@ -10619,7 +10881,7 @@ public:
 
 
 // System.IO.FileSystemInfo
-struct  FileSystemInfo_t6831B76FBA37F7181E4A5AEB28194730EB356A3D  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
+struct FileSystemInfo_t6831B76FBA37F7181E4A5AEB28194730EB356A3D  : public MarshalByRefObject_tC4577953D0A44D0AB8597CFA868E01C858B1C9AF
 {
 public:
 	// System.IO.MonoIOStat System.IO.FileSystemInfo::_data
@@ -10679,8 +10941,177 @@ public:
 };
 
 
+// UnityEngine.XR.Management.XRGeneralSettings
+struct XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9  : public ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734
+{
+public:
+	// UnityEngine.XR.Management.XRManagerSettings UnityEngine.XR.Management.XRGeneralSettings::m_LoaderManagerInstance
+	XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5 * ___m_LoaderManagerInstance_6;
+	// System.Boolean UnityEngine.XR.Management.XRGeneralSettings::m_InitManagerOnStart
+	bool ___m_InitManagerOnStart_7;
+	// UnityEngine.XR.Management.XRManagerSettings UnityEngine.XR.Management.XRGeneralSettings::m_XRManager
+	XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5 * ___m_XRManager_8;
+	// System.Boolean UnityEngine.XR.Management.XRGeneralSettings::m_ProviderIntialized
+	bool ___m_ProviderIntialized_9;
+	// System.Boolean UnityEngine.XR.Management.XRGeneralSettings::m_ProviderStarted
+	bool ___m_ProviderStarted_10;
+
+public:
+	inline static int32_t get_offset_of_m_LoaderManagerInstance_6() { return static_cast<int32_t>(offsetof(XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9, ___m_LoaderManagerInstance_6)); }
+	inline XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5 * get_m_LoaderManagerInstance_6() const { return ___m_LoaderManagerInstance_6; }
+	inline XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5 ** get_address_of_m_LoaderManagerInstance_6() { return &___m_LoaderManagerInstance_6; }
+	inline void set_m_LoaderManagerInstance_6(XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5 * value)
+	{
+		___m_LoaderManagerInstance_6 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___m_LoaderManagerInstance_6), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_m_InitManagerOnStart_7() { return static_cast<int32_t>(offsetof(XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9, ___m_InitManagerOnStart_7)); }
+	inline bool get_m_InitManagerOnStart_7() const { return ___m_InitManagerOnStart_7; }
+	inline bool* get_address_of_m_InitManagerOnStart_7() { return &___m_InitManagerOnStart_7; }
+	inline void set_m_InitManagerOnStart_7(bool value)
+	{
+		___m_InitManagerOnStart_7 = value;
+	}
+
+	inline static int32_t get_offset_of_m_XRManager_8() { return static_cast<int32_t>(offsetof(XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9, ___m_XRManager_8)); }
+	inline XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5 * get_m_XRManager_8() const { return ___m_XRManager_8; }
+	inline XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5 ** get_address_of_m_XRManager_8() { return &___m_XRManager_8; }
+	inline void set_m_XRManager_8(XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5 * value)
+	{
+		___m_XRManager_8 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___m_XRManager_8), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_m_ProviderIntialized_9() { return static_cast<int32_t>(offsetof(XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9, ___m_ProviderIntialized_9)); }
+	inline bool get_m_ProviderIntialized_9() const { return ___m_ProviderIntialized_9; }
+	inline bool* get_address_of_m_ProviderIntialized_9() { return &___m_ProviderIntialized_9; }
+	inline void set_m_ProviderIntialized_9(bool value)
+	{
+		___m_ProviderIntialized_9 = value;
+	}
+
+	inline static int32_t get_offset_of_m_ProviderStarted_10() { return static_cast<int32_t>(offsetof(XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9, ___m_ProviderStarted_10)); }
+	inline bool get_m_ProviderStarted_10() const { return ___m_ProviderStarted_10; }
+	inline bool* get_address_of_m_ProviderStarted_10() { return &___m_ProviderStarted_10; }
+	inline void set_m_ProviderStarted_10(bool value)
+	{
+		___m_ProviderStarted_10 = value;
+	}
+};
+
+struct XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9_StaticFields
+{
+public:
+	// System.String UnityEngine.XR.Management.XRGeneralSettings::k_SettingsKey
+	String_t* ___k_SettingsKey_4;
+	// UnityEngine.XR.Management.XRGeneralSettings UnityEngine.XR.Management.XRGeneralSettings::s_RuntimeSettingsInstance
+	XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9 * ___s_RuntimeSettingsInstance_5;
+
+public:
+	inline static int32_t get_offset_of_k_SettingsKey_4() { return static_cast<int32_t>(offsetof(XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9_StaticFields, ___k_SettingsKey_4)); }
+	inline String_t* get_k_SettingsKey_4() const { return ___k_SettingsKey_4; }
+	inline String_t** get_address_of_k_SettingsKey_4() { return &___k_SettingsKey_4; }
+	inline void set_k_SettingsKey_4(String_t* value)
+	{
+		___k_SettingsKey_4 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___k_SettingsKey_4), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_s_RuntimeSettingsInstance_5() { return static_cast<int32_t>(offsetof(XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9_StaticFields, ___s_RuntimeSettingsInstance_5)); }
+	inline XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9 * get_s_RuntimeSettingsInstance_5() const { return ___s_RuntimeSettingsInstance_5; }
+	inline XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9 ** get_address_of_s_RuntimeSettingsInstance_5() { return &___s_RuntimeSettingsInstance_5; }
+	inline void set_s_RuntimeSettingsInstance_5(XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9 * value)
+	{
+		___s_RuntimeSettingsInstance_5 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___s_RuntimeSettingsInstance_5), (void*)value);
+	}
+};
+
+
+// UnityEngine.XR.Management.XRManagerSettings
+struct XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5  : public ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734
+{
+public:
+	// System.Boolean UnityEngine.XR.Management.XRManagerSettings::m_InitializationComplete
+	bool ___m_InitializationComplete_4;
+	// System.Boolean UnityEngine.XR.Management.XRManagerSettings::m_RequiresSettingsUpdate
+	bool ___m_RequiresSettingsUpdate_5;
+	// System.Boolean UnityEngine.XR.Management.XRManagerSettings::m_AutomaticLoading
+	bool ___m_AutomaticLoading_6;
+	// System.Boolean UnityEngine.XR.Management.XRManagerSettings::m_AutomaticRunning
+	bool ___m_AutomaticRunning_7;
+	// System.Collections.Generic.List`1<UnityEngine.XR.Management.XRLoader> UnityEngine.XR.Management.XRManagerSettings::m_Loaders
+	List_1_t8F98BAC5E5C976105490EE2595E39378A604BAE1 * ___m_Loaders_8;
+	// System.Collections.Generic.HashSet`1<UnityEngine.XR.Management.XRLoader> UnityEngine.XR.Management.XRManagerSettings::m_RegisteredLoaders
+	HashSet_1_t66EAE6B508AEB87674F6ABBD26290A35CCB0237C * ___m_RegisteredLoaders_9;
+	// UnityEngine.XR.Management.XRLoader UnityEngine.XR.Management.XRManagerSettings::<activeLoader>k__BackingField
+	XRLoader_t2574091AF57F902BF504098AB113416E8D15186A * ___U3CactiveLoaderU3Ek__BackingField_10;
+
+public:
+	inline static int32_t get_offset_of_m_InitializationComplete_4() { return static_cast<int32_t>(offsetof(XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5, ___m_InitializationComplete_4)); }
+	inline bool get_m_InitializationComplete_4() const { return ___m_InitializationComplete_4; }
+	inline bool* get_address_of_m_InitializationComplete_4() { return &___m_InitializationComplete_4; }
+	inline void set_m_InitializationComplete_4(bool value)
+	{
+		___m_InitializationComplete_4 = value;
+	}
+
+	inline static int32_t get_offset_of_m_RequiresSettingsUpdate_5() { return static_cast<int32_t>(offsetof(XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5, ___m_RequiresSettingsUpdate_5)); }
+	inline bool get_m_RequiresSettingsUpdate_5() const { return ___m_RequiresSettingsUpdate_5; }
+	inline bool* get_address_of_m_RequiresSettingsUpdate_5() { return &___m_RequiresSettingsUpdate_5; }
+	inline void set_m_RequiresSettingsUpdate_5(bool value)
+	{
+		___m_RequiresSettingsUpdate_5 = value;
+	}
+
+	inline static int32_t get_offset_of_m_AutomaticLoading_6() { return static_cast<int32_t>(offsetof(XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5, ___m_AutomaticLoading_6)); }
+	inline bool get_m_AutomaticLoading_6() const { return ___m_AutomaticLoading_6; }
+	inline bool* get_address_of_m_AutomaticLoading_6() { return &___m_AutomaticLoading_6; }
+	inline void set_m_AutomaticLoading_6(bool value)
+	{
+		___m_AutomaticLoading_6 = value;
+	}
+
+	inline static int32_t get_offset_of_m_AutomaticRunning_7() { return static_cast<int32_t>(offsetof(XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5, ___m_AutomaticRunning_7)); }
+	inline bool get_m_AutomaticRunning_7() const { return ___m_AutomaticRunning_7; }
+	inline bool* get_address_of_m_AutomaticRunning_7() { return &___m_AutomaticRunning_7; }
+	inline void set_m_AutomaticRunning_7(bool value)
+	{
+		___m_AutomaticRunning_7 = value;
+	}
+
+	inline static int32_t get_offset_of_m_Loaders_8() { return static_cast<int32_t>(offsetof(XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5, ___m_Loaders_8)); }
+	inline List_1_t8F98BAC5E5C976105490EE2595E39378A604BAE1 * get_m_Loaders_8() const { return ___m_Loaders_8; }
+	inline List_1_t8F98BAC5E5C976105490EE2595E39378A604BAE1 ** get_address_of_m_Loaders_8() { return &___m_Loaders_8; }
+	inline void set_m_Loaders_8(List_1_t8F98BAC5E5C976105490EE2595E39378A604BAE1 * value)
+	{
+		___m_Loaders_8 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___m_Loaders_8), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_m_RegisteredLoaders_9() { return static_cast<int32_t>(offsetof(XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5, ___m_RegisteredLoaders_9)); }
+	inline HashSet_1_t66EAE6B508AEB87674F6ABBD26290A35CCB0237C * get_m_RegisteredLoaders_9() const { return ___m_RegisteredLoaders_9; }
+	inline HashSet_1_t66EAE6B508AEB87674F6ABBD26290A35CCB0237C ** get_address_of_m_RegisteredLoaders_9() { return &___m_RegisteredLoaders_9; }
+	inline void set_m_RegisteredLoaders_9(HashSet_1_t66EAE6B508AEB87674F6ABBD26290A35CCB0237C * value)
+	{
+		___m_RegisteredLoaders_9 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___m_RegisteredLoaders_9), (void*)value);
+	}
+
+	inline static int32_t get_offset_of_U3CactiveLoaderU3Ek__BackingField_10() { return static_cast<int32_t>(offsetof(XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5, ___U3CactiveLoaderU3Ek__BackingField_10)); }
+	inline XRLoader_t2574091AF57F902BF504098AB113416E8D15186A * get_U3CactiveLoaderU3Ek__BackingField_10() const { return ___U3CactiveLoaderU3Ek__BackingField_10; }
+	inline XRLoader_t2574091AF57F902BF504098AB113416E8D15186A ** get_address_of_U3CactiveLoaderU3Ek__BackingField_10() { return &___U3CactiveLoaderU3Ek__BackingField_10; }
+	inline void set_U3CactiveLoaderU3Ek__BackingField_10(XRLoader_t2574091AF57F902BF504098AB113416E8D15186A * value)
+	{
+		___U3CactiveLoaderU3Ek__BackingField_10 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___U3CactiveLoaderU3Ek__BackingField_10), (void*)value);
+	}
+};
+
+
 // UnityEngine.XR.XRDisplaySubsystem
-struct  XRDisplaySubsystem_t2E090C1B6925B11C9296DBBAF57F9364AADA13E0  : public IntegratedSubsystem_1_tA1D5F6FF883C281DC92140F8547E38FBA9A4F7E1
+struct XRDisplaySubsystem_t2E090C1B6925B11C9296DBBAF57F9364AADA13E0  : public IntegratedSubsystem_1_tA1D5F6FF883C281DC92140F8547E38FBA9A4F7E1
 {
 public:
 
@@ -10706,7 +11137,7 @@ public:
 
 
 // UnityEngine.XR.XRInputSubsystem
-struct  XRInputSubsystem_t9B5A5AD5B134D55762D1FA5E425126EF7F86B2B7  : public IntegratedSubsystem_1_t648AE5E2D40F3159DD68D2AFD4B5ECA29920149D
+struct XRInputSubsystem_t9B5A5AD5B134D55762D1FA5E425126EF7F86B2B7  : public IntegratedSubsystem_1_t648AE5E2D40F3159DD68D2AFD4B5ECA29920149D
 {
 public:
 	// System.Action`1<UnityEngine.XR.XRInputSubsystem> UnityEngine.XR.XRInputSubsystem::trackingOriginUpdated
@@ -10747,7 +11178,7 @@ public:
 
 
 // UnityEngine.XR.XRMeshSubsystem
-struct  XRMeshSubsystem_t6FB1A94A4B7956BCE5A99B6C826D46A21C69A8B9  : public IntegratedSubsystem_1_t808F7E2ADCA546A132C411EB61297ADCB67BDFC5
+struct XRMeshSubsystem_t6FB1A94A4B7956BCE5A99B6C826D46A21C69A8B9  : public IntegratedSubsystem_1_t808F7E2ADCA546A132C411EB61297ADCB67BDFC5
 {
 public:
 
@@ -10756,7 +11187,7 @@ public:
 
 
 // System.IO.DirectoryInfo
-struct  DirectoryInfo_t432CD06DF148701E930708371CB985BC0E8EF87F  : public FileSystemInfo_t6831B76FBA37F7181E4A5AEB28194730EB356A3D
+struct DirectoryInfo_t432CD06DF148701E930708371CB985BC0E8EF87F  : public FileSystemInfo_t6831B76FBA37F7181E4A5AEB28194730EB356A3D
 {
 public:
 	// System.String System.IO.DirectoryInfo::current
@@ -10786,7 +11217,7 @@ public:
 
 
 // System.IO.FileInfo
-struct  FileInfo_tF8C1D41E1ABDAC19BF4F76A491DD28DD8DBEE35C  : public FileSystemInfo_t6831B76FBA37F7181E4A5AEB28194730EB356A3D
+struct FileInfo_tF8C1D41E1ABDAC19BF4F76A491DD28DD8DBEE35C  : public FileSystemInfo_t6831B76FBA37F7181E4A5AEB28194730EB356A3D
 {
 public:
 	// System.String System.IO.FileInfo::_name
@@ -11180,6 +11611,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2__ctor_m2C7E51568033239B506E
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2_Add_mC741BBB0A647C814227953DB9B23CB1BDF571C5B_gshared (Dictionary_2_t32F25F093828AA9F93CB11C2A2B4648FD62A09BA * __this, RuntimeObject * ___key0, RuntimeObject * ___value1, const RuntimeMethod* method);
 // System.Void System.Collections.Generic.Dictionary`2<System.Object,System.Object>::set_Item(!0,!1)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Dictionary_2_set_Item_m466D001F105E25DEB5C9BCB17837EE92A27FDE93_gshared (Dictionary_2_t32F25F093828AA9F93CB11C2A2B4648FD62A09BA * __this, RuntimeObject * ___key0, RuntimeObject * ___value1, const RuntimeMethod* method);
+// System.Boolean System.Nullable`1<System.Boolean>::get_HasValue()
+IL2CPP_EXTERN_C inline IL2CPP_METHOD_ATTR bool Nullable_1_get_HasValue_m275A31438FCDAEEE039E95D887684E04FD6ECE2B_gshared_inline (Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793 * __this, const RuntimeMethod* method);
+// System.Int32 System.Collections.Generic.List`1<System.Object>::get_Count()
+IL2CPP_EXTERN_C inline IL2CPP_METHOD_ATTR int32_t List_1_get_Count_m507C9149FF7F83AAC72C29091E745D557DA47D22_gshared_inline (List_1_t05CC3C859AB5E6024394EF9A42E3E696628CA02D * __this, const RuntimeMethod* method);
+// System.Void System.Nullable`1<System.Boolean>::.ctor(!0)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Nullable_1__ctor_mD3154885E88D449C69AD9DEA6F9A3EF66A3FE996_gshared (Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793 * __this, bool ___value0, const RuntimeMethod* method);
+// !0 System.Nullable`1<System.Boolean>::get_Value()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Nullable_1_get_Value_m7C9CFCE6186F3CD55B4D63BB50E6D3D48A78583A_gshared (Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793 * __this, const RuntimeMethod* method);
 // System.Void UnityEngine.SubsystemManager::GetInstances<System.Object>(System.Collections.Generic.List`1<!!0>)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void SubsystemManager_GetInstances_TisRuntimeObject_m52FF5763B7D6743B1C0F6F7767E1FDF43D536AF9_gshared (List_1_t05CC3C859AB5E6024394EF9A42E3E696628CA02D * ___instances0, const RuntimeMethod* method);
 // System.Collections.Generic.List`1/Enumerator<!0> System.Collections.Generic.List`1<System.Object>::GetEnumerator()
@@ -11555,17 +11994,45 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Vector3Smoothed_Update_m10EAD2C237B6DF0B95E277264A99FC67122CB6AB (Vector3Smoothed_t21D6BC9A19EC4F2C3CE044BD5151D53B244B6A6F * __this, float ___deltaTime0, const RuntimeMethod* method);
 // System.Void Microsoft.MixedReality.Toolkit.Utilities.Vector3Smoothed::SetGoal(UnityEngine.Vector3)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Vector3Smoothed_SetGoal_m36B36946D112F642CBCF0849B34870BAED54A9C0 (Vector3Smoothed_t21D6BC9A19EC4F2C3CE044BD5151D53B244B6A6F * __this, Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720  ___newGoal0, const RuntimeMethod* method);
+// System.Boolean System.Nullable`1<System.Boolean>::get_HasValue()
+inline bool Nullable_1_get_HasValue_m275A31438FCDAEEE039E95D887684E04FD6ECE2B_inline (Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793 * __this, const RuntimeMethod* method)
+{
+	return ((  bool (*) (Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793 *, const RuntimeMethod*))Nullable_1_get_HasValue_m275A31438FCDAEEE039E95D887684E04FD6ECE2B_gshared_inline)(__this, method);
+}
+// UnityEngine.XR.Management.XRGeneralSettings UnityEngine.XR.Management.XRGeneralSettings::get_Instance()
+IL2CPP_EXTERN_C inline  IL2CPP_METHOD_ATTR XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9 * XRGeneralSettings_get_Instance_m0D915EB6CD760E30475C5F67090DD8442196FE47_inline (const RuntimeMethod* method);
+// System.Boolean UnityEngine.Object::op_Inequality(UnityEngine.Object,UnityEngine.Object)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Object_op_Inequality_m31EF58E217E8F4BDD3E409DEF79E1AEE95874FC1 (Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0 * ___x0, Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0 * ___y1, const RuntimeMethod* method);
+// UnityEngine.XR.Management.XRManagerSettings UnityEngine.XR.Management.XRGeneralSettings::get_AssignedSettings()
+IL2CPP_EXTERN_C inline  IL2CPP_METHOD_ATTR XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5 * XRGeneralSettings_get_AssignedSettings_m78AFF6E40149AE2FE4F89E55D1FABCFF3A768AF6_inline (XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9 * __this, const RuntimeMethod* method);
+// System.Collections.Generic.List`1<UnityEngine.XR.Management.XRLoader> UnityEngine.XR.Management.XRManagerSettings::get_loaders()
+IL2CPP_EXTERN_C inline  IL2CPP_METHOD_ATTR List_1_t8F98BAC5E5C976105490EE2595E39378A604BAE1 * XRManagerSettings_get_loaders_m414EEFFE5E9B618B30AF9508CB821AF437927D50_inline (XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5 * __this, const RuntimeMethod* method);
+// System.Int32 System.Collections.Generic.List`1<UnityEngine.XR.Management.XRLoader>::get_Count()
+inline int32_t List_1_get_Count_m8382CC05AF50CAD470010D2D54B02ABCBC4C057C_inline (List_1_t8F98BAC5E5C976105490EE2595E39378A604BAE1 * __this, const RuntimeMethod* method)
+{
+	return ((  int32_t (*) (List_1_t8F98BAC5E5C976105490EE2595E39378A604BAE1 *, const RuntimeMethod*))List_1_get_Count_m507C9149FF7F83AAC72C29091E745D557DA47D22_gshared_inline)(__this, method);
+}
+// System.Void System.Nullable`1<System.Boolean>::.ctor(!0)
+inline void Nullable_1__ctor_mD3154885E88D449C69AD9DEA6F9A3EF66A3FE996 (Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793 * __this, bool ___value0, const RuntimeMethod* method)
+{
+	((  void (*) (Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793 *, bool, const RuntimeMethod*))Nullable_1__ctor_mD3154885E88D449C69AD9DEA6F9A3EF66A3FE996_gshared)(__this, ___value0, method);
+}
+// !0 System.Nullable`1<System.Boolean>::get_Value()
+inline bool Nullable_1_get_Value_m7C9CFCE6186F3CD55B4D63BB50E6D3D48A78583A (Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793 * __this, const RuntimeMethod* method)
+{
+	return ((  bool (*) (Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793 *, const RuntimeMethod*))Nullable_1_get_Value_m7C9CFCE6186F3CD55B4D63BB50E6D3D48A78583A_gshared)(__this, method);
+}
 // System.Boolean UnityEngine.IntegratedSubsystem::get_running()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool IntegratedSubsystem_get_running_m39FED0A48B27096E2957169B19712DFA11877624 (IntegratedSubsystem_tEFE71989A825ABA8955C1B1505C8F2405FA61026 * __this, const RuntimeMethod* method);
 // System.Void UnityEngine.SubsystemManager::GetInstances<UnityEngine.XR.XRInputSubsystem>(System.Collections.Generic.List`1<!!0>)
-inline void SubsystemManager_GetInstances_TisXRInputSubsystem_t9B5A5AD5B134D55762D1FA5E425126EF7F86B2B7_mBD5993F0F22B9626089CEF8B1E3C790AE92A8918 (List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E * ___instances0, const RuntimeMethod* method)
+inline void SubsystemManager_GetInstances_TisXRInputSubsystem_t9B5A5AD5B134D55762D1FA5E425126EF7F86B2B7_mBD5993F0F22B9626089CEF8B1E3C790AE92A8918 (List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F * ___instances0, const RuntimeMethod* method)
 {
-	((  void (*) (List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E *, const RuntimeMethod*))SubsystemManager_GetInstances_TisRuntimeObject_m52FF5763B7D6743B1C0F6F7767E1FDF43D536AF9_gshared)(___instances0, method);
+	((  void (*) (List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F *, const RuntimeMethod*))SubsystemManager_GetInstances_TisRuntimeObject_m52FF5763B7D6743B1C0F6F7767E1FDF43D536AF9_gshared)(___instances0, method);
 }
 // System.Collections.Generic.List`1/Enumerator<!0> System.Collections.Generic.List`1<UnityEngine.XR.XRInputSubsystem>::GetEnumerator()
-inline Enumerator_t11E7257AB0E5F70A2B82727A7C0B21D210F12A04  List_1_GetEnumerator_mB483D9544236BD6A8A5680A6F6B6622DA8776AED (List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E * __this, const RuntimeMethod* method)
+inline Enumerator_t11E7257AB0E5F70A2B82727A7C0B21D210F12A04  List_1_GetEnumerator_mB483D9544236BD6A8A5680A6F6B6622DA8776AED (List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F * __this, const RuntimeMethod* method)
 {
-	return ((  Enumerator_t11E7257AB0E5F70A2B82727A7C0B21D210F12A04  (*) (List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E *, const RuntimeMethod*))List_1_GetEnumerator_m52CC760E475D226A2B75048D70C4E22692F9F68D_gshared)(__this, method);
+	return ((  Enumerator_t11E7257AB0E5F70A2B82727A7C0B21D210F12A04  (*) (List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F *, const RuntimeMethod*))List_1_GetEnumerator_m52CC760E475D226A2B75048D70C4E22692F9F68D_gshared)(__this, method);
 }
 // !0 System.Collections.Generic.List`1/Enumerator<UnityEngine.XR.XRInputSubsystem>::get_Current()
 inline XRInputSubsystem_t9B5A5AD5B134D55762D1FA5E425126EF7F86B2B7 * Enumerator_get_Current_m1BF0D3645120EFF7E9C18A4352D744D045C1C919_inline (Enumerator_t11E7257AB0E5F70A2B82727A7C0B21D210F12A04 * __this, const RuntimeMethod* method)
@@ -11633,9 +12100,9 @@ inline void Enumerator_Dispose_mD12E19406ADA2061CFE2D76D8D5545ACDD335048 (Enumer
 	((  void (*) (Enumerator_tB907916596D7281DD61CE7576F03AA6EDC78198C *, const RuntimeMethod*))Enumerator_Dispose_m94D0DAE031619503CDA6E53C5C3CC78AF3139472_gshared)(__this, method);
 }
 // System.Void System.Collections.Generic.List`1<UnityEngine.XR.XRInputSubsystem>::.ctor()
-inline void List_1__ctor_mBE5E0B12AEF225779CF661D52943C9982BDBEBD8 (List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E * __this, const RuntimeMethod* method)
+inline void List_1__ctor_mBE5E0B12AEF225779CF661D52943C9982BDBEBD8 (List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F * __this, const RuntimeMethod* method)
 {
-	((  void (*) (List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E *, const RuntimeMethod*))List_1__ctor_mC832F1AC0F814BAEB19175F5D7972A7507508BC3_gshared)(__this, method);
+	((  void (*) (List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F *, const RuntimeMethod*))List_1__ctor_mC832F1AC0F814BAEB19175F5D7972A7507508BC3_gshared)(__this, method);
 }
 // System.Void System.Collections.Generic.List`1<UnityEngine.XR.XRMeshSubsystem>::.ctor()
 inline void List_1__ctor_mB69C97FB0DF3C5631852347D1E56BF96C66D6FE1 (List_1_t5FF75968FE44A90C449329578EDB2E460E7B0117 * __this, const RuntimeMethod* method)
@@ -13935,9 +14402,88 @@ IL2CPP_EXTERN_C  void Vector3Smoothed_SetGoal_m36B36946D112F642CBCF0849B34870BAE
 // System.Boolean Microsoft.MixedReality.Toolkit.Utilities.XRSettingsUtilities::get_XRSDKEnabled()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool XRSettingsUtilities_get_XRSDKEnabled_m3AB267B762C0BC03D694A8633122935434401F16 (const RuntimeMethod* method)
 {
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
 	{
-		// return false;
-		return (bool)0;
+		il2cpp_codegen_initialize_method (XRSettingsUtilities_get_XRSDKEnabled_m3AB267B762C0BC03D694A8633122935434401F16_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9 * V_0 = NULL;
+	{
+		// if (!isXRSDKEnabled.HasValue)
+		IL2CPP_RUNTIME_CLASS_INIT(XRSettingsUtilities_t29DE0C95570533A73074BA5BC9493FF9F9D3D307_il2cpp_TypeInfo_var);
+		bool L_0 = Nullable_1_get_HasValue_m275A31438FCDAEEE039E95D887684E04FD6ECE2B_inline((Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793 *)(((XRSettingsUtilities_t29DE0C95570533A73074BA5BC9493FF9F9D3D307_StaticFields*)il2cpp_codegen_static_fields_for(XRSettingsUtilities_t29DE0C95570533A73074BA5BC9493FF9F9D3D307_il2cpp_TypeInfo_var))->get_address_of_isXRSDKEnabled_0()), /*hidden argument*/Nullable_1_get_HasValue_m275A31438FCDAEEE039E95D887684E04FD6ECE2B_RuntimeMethod_var);
+		if (L_0)
+		{
+			goto IL_0053;
+		}
+	}
+	{
+		// XRGeneralSettings currentSettings = XRGeneralSettings.Instance;
+		IL2CPP_RUNTIME_CLASS_INIT(XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9_il2cpp_TypeInfo_var);
+		XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9 * L_1 = XRGeneralSettings_get_Instance_m0D915EB6CD760E30475C5F67090DD8442196FE47_inline(/*hidden argument*/NULL);
+		V_0 = L_1;
+		// if (currentSettings != null && currentSettings.AssignedSettings != null)
+		XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9 * L_2 = V_0;
+		IL2CPP_RUNTIME_CLASS_INIT(Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0_il2cpp_TypeInfo_var);
+		bool L_3 = Object_op_Inequality_m31EF58E217E8F4BDD3E409DEF79E1AEE95874FC1(L_2, (Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0 *)NULL, /*hidden argument*/NULL);
+		if (!L_3)
+		{
+			goto IL_0048;
+		}
+	}
+	{
+		XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9 * L_4 = V_0;
+		NullCheck(L_4);
+		XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5 * L_5 = XRGeneralSettings_get_AssignedSettings_m78AFF6E40149AE2FE4F89E55D1FABCFF3A768AF6_inline(L_4, /*hidden argument*/NULL);
+		IL2CPP_RUNTIME_CLASS_INIT(Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0_il2cpp_TypeInfo_var);
+		bool L_6 = Object_op_Inequality_m31EF58E217E8F4BDD3E409DEF79E1AEE95874FC1(L_5, (Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0 *)NULL, /*hidden argument*/NULL);
+		if (!L_6)
+		{
+			goto IL_0048;
+		}
+	}
+	{
+		// isXRSDKEnabled = currentSettings.AssignedSettings.loaders.Count > 0;
+		XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9 * L_7 = V_0;
+		NullCheck(L_7);
+		XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5 * L_8 = XRGeneralSettings_get_AssignedSettings_m78AFF6E40149AE2FE4F89E55D1FABCFF3A768AF6_inline(L_7, /*hidden argument*/NULL);
+		NullCheck(L_8);
+		List_1_t8F98BAC5E5C976105490EE2595E39378A604BAE1 * L_9 = XRManagerSettings_get_loaders_m414EEFFE5E9B618B30AF9508CB821AF437927D50_inline(L_8, /*hidden argument*/NULL);
+		NullCheck(L_9);
+		int32_t L_10 = List_1_get_Count_m8382CC05AF50CAD470010D2D54B02ABCBC4C057C_inline(L_9, /*hidden argument*/List_1_get_Count_m8382CC05AF50CAD470010D2D54B02ABCBC4C057C_RuntimeMethod_var);
+		Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793  L_11;
+		memset((&L_11), 0, sizeof(L_11));
+		Nullable_1__ctor_mD3154885E88D449C69AD9DEA6F9A3EF66A3FE996((&L_11), (bool)((((int32_t)L_10) > ((int32_t)0))? 1 : 0), /*hidden argument*/Nullable_1__ctor_mD3154885E88D449C69AD9DEA6F9A3EF66A3FE996_RuntimeMethod_var);
+		IL2CPP_RUNTIME_CLASS_INIT(XRSettingsUtilities_t29DE0C95570533A73074BA5BC9493FF9F9D3D307_il2cpp_TypeInfo_var);
+		((XRSettingsUtilities_t29DE0C95570533A73074BA5BC9493FF9F9D3D307_StaticFields*)il2cpp_codegen_static_fields_for(XRSettingsUtilities_t29DE0C95570533A73074BA5BC9493FF9F9D3D307_il2cpp_TypeInfo_var))->set_isXRSDKEnabled_0(L_11);
+		// }
+		goto IL_0053;
+	}
+
+IL_0048:
+	{
+		// isXRSDKEnabled = false;
+		Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793  L_12;
+		memset((&L_12), 0, sizeof(L_12));
+		Nullable_1__ctor_mD3154885E88D449C69AD9DEA6F9A3EF66A3FE996((&L_12), (bool)0, /*hidden argument*/Nullable_1__ctor_mD3154885E88D449C69AD9DEA6F9A3EF66A3FE996_RuntimeMethod_var);
+		IL2CPP_RUNTIME_CLASS_INIT(XRSettingsUtilities_t29DE0C95570533A73074BA5BC9493FF9F9D3D307_il2cpp_TypeInfo_var);
+		((XRSettingsUtilities_t29DE0C95570533A73074BA5BC9493FF9F9D3D307_StaticFields*)il2cpp_codegen_static_fields_for(XRSettingsUtilities_t29DE0C95570533A73074BA5BC9493FF9F9D3D307_il2cpp_TypeInfo_var))->set_isXRSDKEnabled_0(L_12);
+	}
+
+IL_0053:
+	{
+		// return isXRSDKEnabled.Value;
+		IL2CPP_RUNTIME_CLASS_INIT(XRSettingsUtilities_t29DE0C95570533A73074BA5BC9493FF9F9D3D307_il2cpp_TypeInfo_var);
+		bool L_13 = Nullable_1_get_Value_m7C9CFCE6186F3CD55B4D63BB50E6D3D48A78583A((Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793 *)(((XRSettingsUtilities_t29DE0C95570533A73074BA5BC9493FF9F9D3D307_StaticFields*)il2cpp_codegen_static_fields_for(XRSettingsUtilities_t29DE0C95570533A73074BA5BC9493FF9F9D3D307_il2cpp_TypeInfo_var))->get_address_of_isXRSDKEnabled_0()), /*hidden argument*/Nullable_1_get_Value_m7C9CFCE6186F3CD55B4D63BB50E6D3D48A78583A_RuntimeMethod_var);
+		return L_13;
+	}
+}
+// System.Void Microsoft.MixedReality.Toolkit.Utilities.XRSettingsUtilities::.cctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void XRSettingsUtilities__cctor_mC4F507E853A489F0869C9A1AF467F168C4753492 (const RuntimeMethod* method)
+{
+	{
+		return;
 	}
 }
 #ifdef __clang__
@@ -13993,11 +14539,11 @@ IL_0013:
 		IL2CPP_RUNTIME_CLASS_INIT(XRSubsystemHelpers_t857011D990CF0C6A6075AB22F47503E6D3BBCA1A_il2cpp_TypeInfo_var);
 		((XRSubsystemHelpers_t857011D990CF0C6A6075AB22F47503E6D3BBCA1A_StaticFields*)il2cpp_codegen_static_fields_for(XRSubsystemHelpers_t857011D990CF0C6A6075AB22F47503E6D3BBCA1A_il2cpp_TypeInfo_var))->set_inputSubsystem_0((XRInputSubsystem_t9B5A5AD5B134D55762D1FA5E425126EF7F86B2B7 *)NULL);
 		// SubsystemManager.GetInstances(XRInputSubsystems);
-		List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E * L_3 = ((XRSubsystemHelpers_t857011D990CF0C6A6075AB22F47503E6D3BBCA1A_StaticFields*)il2cpp_codegen_static_fields_for(XRSubsystemHelpers_t857011D990CF0C6A6075AB22F47503E6D3BBCA1A_il2cpp_TypeInfo_var))->get_XRInputSubsystems_1();
+		List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F * L_3 = ((XRSubsystemHelpers_t857011D990CF0C6A6075AB22F47503E6D3BBCA1A_StaticFields*)il2cpp_codegen_static_fields_for(XRSubsystemHelpers_t857011D990CF0C6A6075AB22F47503E6D3BBCA1A_il2cpp_TypeInfo_var))->get_XRInputSubsystems_1();
 		IL2CPP_RUNTIME_CLASS_INIT(SubsystemManager_tFEDEC70DC4119830C96B42915123C27FEDDB0F58_il2cpp_TypeInfo_var);
 		SubsystemManager_GetInstances_TisXRInputSubsystem_t9B5A5AD5B134D55762D1FA5E425126EF7F86B2B7_mBD5993F0F22B9626089CEF8B1E3C790AE92A8918(L_3, /*hidden argument*/SubsystemManager_GetInstances_TisXRInputSubsystem_t9B5A5AD5B134D55762D1FA5E425126EF7F86B2B7_mBD5993F0F22B9626089CEF8B1E3C790AE92A8918_RuntimeMethod_var);
 		// foreach (XRInputSubsystem xrInputSubsystem in XRInputSubsystems)
-		List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E * L_4 = ((XRSubsystemHelpers_t857011D990CF0C6A6075AB22F47503E6D3BBCA1A_StaticFields*)il2cpp_codegen_static_fields_for(XRSubsystemHelpers_t857011D990CF0C6A6075AB22F47503E6D3BBCA1A_il2cpp_TypeInfo_var))->get_XRInputSubsystems_1();
+		List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F * L_4 = ((XRSubsystemHelpers_t857011D990CF0C6A6075AB22F47503E6D3BBCA1A_StaticFields*)il2cpp_codegen_static_fields_for(XRSubsystemHelpers_t857011D990CF0C6A6075AB22F47503E6D3BBCA1A_il2cpp_TypeInfo_var))->get_XRInputSubsystems_1();
 		NullCheck(L_4);
 		Enumerator_t11E7257AB0E5F70A2B82727A7C0B21D210F12A04  L_5 = List_1_GetEnumerator_mB483D9544236BD6A8A5680A6F6B6622DA8776AED(L_4, /*hidden argument*/List_1_GetEnumerator_mB483D9544236BD6A8A5680A6F6B6622DA8776AED_RuntimeMethod_var);
 		V_0 = L_5;
@@ -14342,7 +14888,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void XRSubsystemHelpers__cctor_m8B327EC8CBBE6
 		// private static XRInputSubsystem inputSubsystem = null;
 		((XRSubsystemHelpers_t857011D990CF0C6A6075AB22F47503E6D3BBCA1A_StaticFields*)il2cpp_codegen_static_fields_for(XRSubsystemHelpers_t857011D990CF0C6A6075AB22F47503E6D3BBCA1A_il2cpp_TypeInfo_var))->set_inputSubsystem_0((XRInputSubsystem_t9B5A5AD5B134D55762D1FA5E425126EF7F86B2B7 *)NULL);
 		// private static readonly List<XRInputSubsystem> XRInputSubsystems = new List<XRInputSubsystem>();
-		List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E * L_0 = (List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E *)il2cpp_codegen_object_new(List_1_tD2D189C1AE66A3F23CBDC7E1EF06253AF2C3F92E_il2cpp_TypeInfo_var);
+		List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F * L_0 = (List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F *)il2cpp_codegen_object_new(List_1_t9A2D85884C1D1EAF9562803964328AB7322B532F_il2cpp_TypeInfo_var);
 		List_1__ctor_mBE5E0B12AEF225779CF661D52943C9982BDBEBD8(L_0, /*hidden argument*/List_1__ctor_mBE5E0B12AEF225779CF661D52943C9982BDBEBD8_RuntimeMethod_var);
 		((XRSubsystemHelpers_t857011D990CF0C6A6075AB22F47503E6D3BBCA1A_StaticFields*)il2cpp_codegen_static_fields_for(XRSubsystemHelpers_t857011D990CF0C6A6075AB22F47503E6D3BBCA1A_il2cpp_TypeInfo_var))->set_XRInputSubsystems_1(L_0);
 		// private static XRMeshSubsystem meshSubsystem = null;
@@ -27377,6 +27923,37 @@ IL2CPP_EXTERN_C inline  IL2CPP_METHOD_ATTR void Vector3Smoothed_set_SmoothTime_m
 		return;
 	}
 }
+IL2CPP_EXTERN_C inline  IL2CPP_METHOD_ATTR XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9 * XRGeneralSettings_get_Instance_m0D915EB6CD760E30475C5F67090DD8442196FE47_inline (const RuntimeMethod* method)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_method (XRGeneralSettings_get_Instance_m0D915EB6CD760E30475C5F67090DD8442196FE47Microsoft_MixedReality_Toolkit5_MetadataUsageId);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		// return s_RuntimeSettingsInstance;
+		IL2CPP_RUNTIME_CLASS_INIT(XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9_il2cpp_TypeInfo_var);
+		XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9 * L_0 = ((XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9_StaticFields*)il2cpp_codegen_static_fields_for(XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9_il2cpp_TypeInfo_var))->get_s_RuntimeSettingsInstance_5();
+		return L_0;
+	}
+}
+IL2CPP_EXTERN_C inline  IL2CPP_METHOD_ATTR XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5 * XRGeneralSettings_get_AssignedSettings_m78AFF6E40149AE2FE4F89E55D1FABCFF3A768AF6_inline (XRGeneralSettings_t646538A20758F1B20812C05C39988EE5E7E0ABC9 * __this, const RuntimeMethod* method)
+{
+	{
+		// return m_LoaderManagerInstance;
+		XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5 * L_0 = __this->get_m_LoaderManagerInstance_6();
+		return L_0;
+	}
+}
+IL2CPP_EXTERN_C inline  IL2CPP_METHOD_ATTR List_1_t8F98BAC5E5C976105490EE2595E39378A604BAE1 * XRManagerSettings_get_loaders_m414EEFFE5E9B618B30AF9508CB821AF437927D50_inline (XRManagerSettings_tD2A1CF858A60A10772C3000CA28388DA7F7510B5 * __this, const RuntimeMethod* method)
+{
+	{
+		// get { return m_Loaders; }
+		List_1_t8F98BAC5E5C976105490EE2595E39378A604BAE1 * L_0 = __this->get_m_Loaders_8();
+		return L_0;
+	}
+}
 IL2CPP_EXTERN_C inline  IL2CPP_METHOD_ATTR void WindowsApiChecker_set_UniversalApiContractV8_IsAvailable_m42CEA8497810B59DFFC83E6A4BD8BD1ABCFC2CEF_inline (bool ___value0, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
@@ -27527,6 +28104,20 @@ IL2CPP_EXTERN_C inline  IL2CPP_METHOD_ATTR bool SimpleCoroutineAwaiter_get_IsCom
 		// public bool IsCompleted { get; private set; }
 		bool L_0 = __this->get_U3CIsCompletedU3Ek__BackingField_2();
 		return L_0;
+	}
+}
+IL2CPP_EXTERN_C inline IL2CPP_METHOD_ATTR bool Nullable_1_get_HasValue_m275A31438FCDAEEE039E95D887684E04FD6ECE2B_gshared_inline (Nullable_1_t9E6A67BECE376F0623B5C857F5674A0311C41793 * __this, const RuntimeMethod* method)
+{
+	{
+		bool L_0 = (bool)__this->get_has_value_1();
+		return (bool)L_0;
+	}
+}
+IL2CPP_EXTERN_C inline IL2CPP_METHOD_ATTR int32_t List_1_get_Count_m507C9149FF7F83AAC72C29091E745D557DA47D22_gshared_inline (List_1_t05CC3C859AB5E6024394EF9A42E3E696628CA02D * __this, const RuntimeMethod* method)
+{
+	{
+		int32_t L_0 = (int32_t)__this->get__size_2();
+		return (int32_t)L_0;
 	}
 }
 IL2CPP_EXTERN_C inline IL2CPP_METHOD_ATTR RuntimeObject * Enumerator_get_Current_mD7829C7E8CFBEDD463B15A951CDE9B90A12CC55C_gshared_inline (Enumerator_tE0C99528D3DCE5863566CE37BD94162A4C0431CD * __this, const RuntimeMethod* method)

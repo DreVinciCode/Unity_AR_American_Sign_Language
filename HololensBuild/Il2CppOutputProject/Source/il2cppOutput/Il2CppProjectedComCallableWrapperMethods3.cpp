@@ -1418,7 +1418,7 @@ struct NOVTABLE IVoiceInformation_tECBCF655EE6D58667038DC0446591C6A666C7FCA : Il
 };
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Devices.Haptics.ISimpleHapticsControllerFeedback>
-struct  ReadOnlyCollection_1_tD6F36338762C8BA11806119244DEE72BF2A7E769  : public RuntimeObject
+struct ReadOnlyCollection_1_tD6F36338762C8BA11806119244DEE72BF2A7E769  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1448,7 +1448,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Devices.Haptics.SimpleHapticsControllerFeedback>
-struct  ReadOnlyCollection_1_t9D705C045F246B4F08829BEAFAEDB2D6AB51F34A  : public RuntimeObject
+struct ReadOnlyCollection_1_t9D705C045F246B4F08829BEAFAEDB2D6AB51F34A  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1478,7 +1478,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Foundation.IWwwFormUrlDecoderEntry>
-struct  ReadOnlyCollection_1_t65438F184AEB420EECFE07B72FBC7CB32675F301  : public RuntimeObject
+struct ReadOnlyCollection_1_t65438F184AEB420EECFE07B72FBC7CB32675F301  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1508,7 +1508,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Foundation.Numerics.Matrix4x4>
-struct  ReadOnlyCollection_1_t8ED6DA3049EE1550CDC4768493CB42F235D8446A  : public RuntimeObject
+struct ReadOnlyCollection_1_t8ED6DA3049EE1550CDC4768493CB42F235D8446A  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1538,7 +1538,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Foundation.Numerics.Quaternion>
-struct  ReadOnlyCollection_1_t04DA5A98153FF1C0B282AD3E4AD6D486149C42B5  : public RuntimeObject
+struct ReadOnlyCollection_1_t04DA5A98153FF1C0B282AD3E4AD6D486149C42B5  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1568,7 +1568,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Foundation.Numerics.Vector3>
-struct  ReadOnlyCollection_1_tA2AACA45C89B185806FCE83705EC80FDF0455F48  : public RuntimeObject
+struct ReadOnlyCollection_1_tA2AACA45C89B185806FCE83705EC80FDF0455F48  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1598,7 +1598,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Foundation.TimeSpan>
-struct  ReadOnlyCollection_1_t8E2B5EEF239C0E39BE1D253E7E16CF536CBCF115  : public RuntimeObject
+struct ReadOnlyCollection_1_t8E2B5EEF239C0E39BE1D253E7E16CF536CBCF115  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1628,7 +1628,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Foundation.UniversalApiContract>
-struct  ReadOnlyCollection_1_t0E0F837CA90A87C8DFA67E59DDCAE8CB707E3524  : public RuntimeObject
+struct ReadOnlyCollection_1_t0E0F837CA90A87C8DFA67E59DDCAE8CB707E3524  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1658,7 +1658,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Graphics.Holographic.HolographicCameraPose>
-struct  ReadOnlyCollection_1_t4DF3C7B1D3C5C9F91C4EBE605BA246BD2C24D319  : public RuntimeObject
+struct ReadOnlyCollection_1_t4DF3C7B1D3C5C9F91C4EBE605BA246BD2C24D319  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1688,7 +1688,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Graphics.Holographic.HolographicStereoTransform>
-struct  ReadOnlyCollection_1_t5270C9882B5FFC3269280BDF0CA3FF8EB6870A91  : public RuntimeObject
+struct ReadOnlyCollection_1_t5270C9882B5FFC3269280BDF0CA3FF8EB6870A91  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1718,7 +1718,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Graphics.Holographic.HolographicViewConfigurationKind>
-struct  ReadOnlyCollection_1_t5ADE28EF0964C9F7860BCF3A22C31D3C57C410FC  : public RuntimeObject
+struct ReadOnlyCollection_1_t5ADE28EF0964C9F7860BCF3A22C31D3C57C410FC  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1748,7 +1748,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Graphics.Holographic.IHolographicCameraPose2>
-struct  ReadOnlyCollection_1_t1A5717F1911D830DA5C586D62B12D7C05FE91C4B  : public RuntimeObject
+struct ReadOnlyCollection_1_t1A5717F1911D830DA5C586D62B12D7C05FE91C4B  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1778,7 +1778,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Graphics.Holographic.IHolographicCameraPose>
-struct  ReadOnlyCollection_1_tEEEF2A5873B92808F0B08A5A631EDABB1246D976  : public RuntimeObject
+struct ReadOnlyCollection_1_tEEEF2A5873B92808F0B08A5A631EDABB1246D976  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1808,7 +1808,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Media.SpeechSynthesis.IVoiceInformation>
-struct  ReadOnlyCollection_1_t0E1FE5BCD002302936FF51685730ACE2828CE17B  : public RuntimeObject
+struct ReadOnlyCollection_1_t0E1FE5BCD002302936FF51685730ACE2828CE17B  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1838,7 +1838,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Media.SpeechSynthesis.VoiceInformation>
-struct  ReadOnlyCollection_1_t36CC95649E65FC4259FE8D71E9EBBDDE020AE1BF  : public RuntimeObject
+struct ReadOnlyCollection_1_t36CC95649E65FC4259FE8D71E9EBBDDE020AE1BF  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1868,7 +1868,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Perception.People.HandJointKind>
-struct  ReadOnlyCollection_1_t423150E15DDC08DE397D6136F5068410417038A8  : public RuntimeObject
+struct ReadOnlyCollection_1_t423150E15DDC08DE397D6136F5068410417038A8  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1898,7 +1898,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Perception.People.HandMeshVertex>
-struct  ReadOnlyCollection_1_t3F83DAC33ADC3B7A684FDD00CB4FDE19F4F6A4ED  : public RuntimeObject
+struct ReadOnlyCollection_1_t3F83DAC33ADC3B7A684FDD00CB4FDE19F4F6A4ED  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1928,7 +1928,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Perception.People.JointPose>
-struct  ReadOnlyCollection_1_tEA5033FBE6F6F4D5BA874835364BDEC112267AEC  : public RuntimeObject
+struct ReadOnlyCollection_1_tEA5033FBE6F6F4D5BA874835364BDEC112267AEC  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1958,7 +1958,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Perception.People.JointPoseAccuracy>
-struct  ReadOnlyCollection_1_tAA7CBF41FC248B4E75F4A1C938E4F93455AEB19C  : public RuntimeObject
+struct ReadOnlyCollection_1_tAA7CBF41FC248B4E75F4A1C938E4F93455AEB19C  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1988,7 +1988,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Perception.Spatial.SpatialRay>
-struct  ReadOnlyCollection_1_t1F9573EC8846D1E56C5EA83ECE797B5FBA3DD0E9  : public RuntimeObject
+struct ReadOnlyCollection_1_t1F9573EC8846D1E56C5EA83ECE797B5FBA3DD0E9  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2018,7 +2018,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Storage.CreationCollisionOption>
-struct  ReadOnlyCollection_1_t57498C31326AEBEE90C6D25ED35411BB910991A6  : public RuntimeObject
+struct ReadOnlyCollection_1_t57498C31326AEBEE90C6D25ED35411BB910991A6  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2048,7 +2048,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<Windows.Storage.Streams.InputStreamOptions>
-struct  ReadOnlyCollection_1_t62731560E1E540124575CA1601F870289F57ADF4  : public RuntimeObject
+struct ReadOnlyCollection_1_t62731560E1E540124575CA1601F870289F57ADF4  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2078,7 +2078,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -2123,7 +2123,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
+struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
 {
 public:
 
@@ -2143,7 +2143,7 @@ struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF_marshaled_com
 
 
 // System.Enum
-struct  Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
+struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
 {
 public:
 
@@ -2177,7 +2177,7 @@ struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521_marshaled_com
 };
 
 // System.Int32
-struct  Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
+struct Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -2195,7 +2195,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -2229,7 +2229,7 @@ public:
 
 
 // System.Numerics.Matrix4x4
-struct  Matrix4x4_t962F654FB75C9A7E336E7DB54DBFCEC2B7B8B4B0 
+struct Matrix4x4_t962F654FB75C9A7E336E7DB54DBFCEC2B7B8B4B0 
 {
 public:
 	// System.Single System.Numerics.Matrix4x4::M11
@@ -2413,7 +2413,7 @@ public:
 
 
 // System.Numerics.Quaternion
-struct  Quaternion_t67580554B28ABC8A5384F3B4FF4E679FC6D38D4A 
+struct Quaternion_t67580554B28ABC8A5384F3B4FF4E679FC6D38D4A 
 {
 public:
 	// System.Single System.Numerics.Quaternion::X
@@ -2461,7 +2461,7 @@ public:
 
 
 // System.Numerics.Vector3
-struct  Vector3_tA1B8517EED04F753987922C4361B51A4F3AE8C65 
+struct Vector3_tA1B8517EED04F753987922C4361B51A4F3AE8C65 
 {
 public:
 	// System.Single System.Numerics.Vector3::X
@@ -2499,7 +2499,7 @@ public:
 
 
 // System.UInt32
-struct  UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
+struct UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
 {
 public:
 	// System.UInt32 System.UInt32::m_value
@@ -2517,7 +2517,7 @@ public:
 
 
 // System.Void
-struct  Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
+struct Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
 {
 public:
 	union
@@ -2533,7 +2533,7 @@ public:
 
 
 // Windows.Devices.Haptics.SimpleHapticsControllerFeedback
-struct  SimpleHapticsControllerFeedback_t8C87458F01E6FBDC5F68ABB6E653528C796A777F  : public Il2CppComObject
+struct SimpleHapticsControllerFeedback_t8C87458F01E6FBDC5F68ABB6E653528C796A777F  : public Il2CppComObject
 {
 public:
 
@@ -2542,7 +2542,7 @@ public:
 
 
 // Windows.Foundation.Numerics.Matrix4x4
-struct  Matrix4x4_tDA520C56DAF83F993AAC508EE28B33C1310721A9 
+struct Matrix4x4_tDA520C56DAF83F993AAC508EE28B33C1310721A9 
 {
 public:
 	// System.Single Windows.Foundation.Numerics.Matrix4x4::M11
@@ -2710,7 +2710,7 @@ public:
 
 
 // Windows.Foundation.Numerics.Quaternion
-struct  Quaternion_t7BAD18B1DD679715F8E0E79AD9FB22C0E313023C 
+struct Quaternion_t7BAD18B1DD679715F8E0E79AD9FB22C0E313023C 
 {
 public:
 	// System.Single Windows.Foundation.Numerics.Quaternion::X
@@ -2758,7 +2758,7 @@ public:
 
 
 // Windows.Foundation.Numerics.Vector3
-struct  Vector3_t7F46349C1A2C560D80B80153D1CED7B9453530BD 
+struct Vector3_t7F46349C1A2C560D80B80153D1CED7B9453530BD 
 {
 public:
 	// System.Single Windows.Foundation.Numerics.Vector3::X
@@ -2796,7 +2796,7 @@ public:
 
 
 // Windows.Foundation.Size
-struct  Size_t4766FF009097CE547F699B69250246058DA664D9 
+struct Size_t4766FF009097CE547F699B69250246058DA664D9 
 {
 public:
 	// System.Single Windows.Foundation.Size::Width
@@ -2824,7 +2824,7 @@ public:
 
 
 // Windows.Foundation.TimeSpan
-struct  TimeSpan_tD18885B289077804D4E82931E68E84181C072755 
+struct TimeSpan_tD18885B289077804D4E82931E68E84181C072755 
 {
 public:
 	// System.Int64 Windows.Foundation.TimeSpan::Duration
@@ -2842,7 +2842,7 @@ public:
 
 
 // Windows.Foundation.UniversalApiContract
-struct  UniversalApiContract_t2909295C70CE09107C85CD360BE6888A4D1078D9 
+struct UniversalApiContract_t2909295C70CE09107C85CD360BE6888A4D1078D9 
 {
 public:
 
@@ -2851,7 +2851,7 @@ public:
 
 
 // Windows.Graphics.Holographic.HolographicCameraPose
-struct  HolographicCameraPose_t74B355FAB0C9D5E15A8787310D0D31147EE0F177  : public Il2CppComObject
+struct HolographicCameraPose_t74B355FAB0C9D5E15A8787310D0D31147EE0F177  : public Il2CppComObject
 {
 public:
 
@@ -2860,7 +2860,7 @@ public:
 
 
 // Windows.Media.SpeechSynthesis.VoiceInformation
-struct  VoiceInformation_tEBFA2EC439557BCCE3A803829AAE2CA57C2AEDD7  : public Il2CppComObject
+struct VoiceInformation_tEBFA2EC439557BCCE3A803829AAE2CA57C2AEDD7  : public Il2CppComObject
 {
 public:
 
@@ -2869,7 +2869,7 @@ public:
 
 
 // System.Exception
-struct  Exception_t  : public RuntimeObject
+struct Exception_t  : public RuntimeObject
 {
 public:
 	// System.String System.Exception::_className
@@ -3288,7 +3288,7 @@ struct NOVTABLE IVector_1_t440563BE6D60401C61117B09B60FEBD3E1E258BB : Il2CppIIns
 };
 
 // Windows.Graphics.Holographic.HolographicStereoTransform
-struct  HolographicStereoTransform_t473ED88570152901E23CF1519A0836AEEC89DD48 
+struct HolographicStereoTransform_t473ED88570152901E23CF1519A0836AEEC89DD48 
 {
 public:
 	// System.Numerics.Matrix4x4 Windows.Graphics.Holographic.HolographicStereoTransform::Left
@@ -3316,7 +3316,7 @@ public:
 
 
 // Windows.Graphics.Holographic.HolographicViewConfigurationKind
-struct  HolographicViewConfigurationKind_t5A173BC5CD4FD620674AE736BB7D9784A19EBAEC 
+struct HolographicViewConfigurationKind_t5A173BC5CD4FD620674AE736BB7D9784A19EBAEC 
 {
 public:
 	// System.Int32 Windows.Graphics.Holographic.HolographicViewConfigurationKind::value__
@@ -3334,7 +3334,7 @@ public:
 
 
 // Windows.Perception.People.HandJointKind
-struct  HandJointKind_t459313DB8FB9919DA3565D3A693449187E5CF7CA 
+struct HandJointKind_t459313DB8FB9919DA3565D3A693449187E5CF7CA 
 {
 public:
 	// System.Int32 Windows.Perception.People.HandJointKind::value__
@@ -3352,7 +3352,7 @@ public:
 
 
 // Windows.Perception.People.HandMeshVertex
-struct  HandMeshVertex_t97CBC783B105CAF080C98A2E7D750023040B41C3 
+struct HandMeshVertex_t97CBC783B105CAF080C98A2E7D750023040B41C3 
 {
 public:
 	// System.Numerics.Vector3 Windows.Perception.People.HandMeshVertex::Position
@@ -3380,7 +3380,7 @@ public:
 
 
 // Windows.Perception.People.JointPoseAccuracy
-struct  JointPoseAccuracy_tAE24E9827E028CD4CD542843A442BBEF384E3D9C 
+struct JointPoseAccuracy_tAE24E9827E028CD4CD542843A442BBEF384E3D9C 
 {
 public:
 	// System.Int32 Windows.Perception.People.JointPoseAccuracy::value__
@@ -3398,7 +3398,7 @@ public:
 
 
 // Windows.Perception.Spatial.SpatialRay
-struct  SpatialRay_t3D16C2F3DEA64DE3AD8ECA0587068A965A552C2B 
+struct SpatialRay_t3D16C2F3DEA64DE3AD8ECA0587068A965A552C2B 
 {
 public:
 	// System.Numerics.Vector3 Windows.Perception.Spatial.SpatialRay::Origin
@@ -3426,7 +3426,7 @@ public:
 
 
 // Windows.Storage.CreationCollisionOption
-struct  CreationCollisionOption_t446166DBF156CCE4C7C7E16D78B3E9A2877E5538 
+struct CreationCollisionOption_t446166DBF156CCE4C7C7E16D78B3E9A2877E5538 
 {
 public:
 	// System.Int32 Windows.Storage.CreationCollisionOption::value__
@@ -3444,7 +3444,7 @@ public:
 
 
 // Windows.Storage.Streams.InputStreamOptions
-struct  InputStreamOptions_t84A663CC3616A0D05994D54C1DA6B2E877F7FF82 
+struct InputStreamOptions_t84A663CC3616A0D05994D54C1DA6B2E877F7FF82 
 {
 public:
 	// System.UInt32 Windows.Storage.Streams.InputStreamOptions::value__
@@ -3462,7 +3462,7 @@ public:
 
 
 // System.SystemException
-struct  SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
+struct SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
 {
 public:
 
@@ -3772,7 +3772,7 @@ struct NOVTABLE IHolographicCameraPose2_t74FFCE0D43D77CACFE95740F5CCAC08B6710ACB
 };
 
 // Windows.Perception.People.JointPose
-struct  JointPose_tFD55E748576AC22B47EB160A821FCEAD75C509CE 
+struct JointPose_tFD55E748576AC22B47EB160A821FCEAD75C509CE 
 {
 public:
 	// System.Numerics.Quaternion Windows.Perception.People.JointPose::Orientation
@@ -3820,7 +3820,7 @@ public:
 
 
 // System.ArgumentException
-struct  ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 	// System.String System.ArgumentException::m_paramName
@@ -3839,7 +3839,7 @@ public:
 
 
 // System.InvalidOperationException
-struct  InvalidOperationException_t0530E734D823F78310CAFAFA424CA5164D93A1F1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct InvalidOperationException_t0530E734D823F78310CAFAFA424CA5164D93A1F1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -3883,7 +3883,7 @@ struct NOVTABLE IVector_1_t915456A5F87CF49373658F681D06C03288135D17 : Il2CppIIns
 };
 
 // System.ArgumentOutOfRangeException
-struct  ArgumentOutOfRangeException_t94D19DF918A54511AEDF4784C9A08741BAD1DEDA  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
+struct ArgumentOutOfRangeException_t94D19DF918A54511AEDF4784C9A08741BAD1DEDA  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
 {
 public:
 	// System.Object System.ArgumentOutOfRangeException::m_actualValue

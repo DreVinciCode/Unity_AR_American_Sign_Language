@@ -399,7 +399,7 @@ IL2CPP_EXTERN_C_END
 #endif
 
 // <Module>
-struct  U3CModuleU3E_tF1895192DB0786D7B32E637E7538ADA625D10FB5 
+struct U3CModuleU3E_tF1895192DB0786D7B32E637E7538ADA625D10FB5 
 {
 public:
 
@@ -415,7 +415,7 @@ struct Il2CppArrayBounds;
 
 
 // System.Collections.Generic.Dictionary`2/KeyCollection<UnityEngine.Experimental.TerrainAPI.TerrainUtility/TerrainMap/TileCoord,UnityEngine.Terrain>
-struct  KeyCollection_tE38E8CA5A5DAD8EDFE46CBE8440DE1FB77D92EAB  : public RuntimeObject
+struct KeyCollection_tE38E8CA5A5DAD8EDFE46CBE8440DE1FB77D92EAB  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/KeyCollection::dictionary
@@ -434,7 +434,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<System.Int32,UnityEngine.Experimental.TerrainAPI.TerrainUtility/TerrainMap>
-struct  Dictionary_2_t651CE851D569289A981D44DC5543BEA956206753  : public RuntimeObject
+struct Dictionary_2_t651CE851D569289A981D44DC5543BEA956206753  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -548,7 +548,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2<UnityEngine.Experimental.TerrainAPI.TerrainUtility/TerrainMap/TileCoord,UnityEngine.Terrain>
-struct  Dictionary_2_tEB34CAE1B4D0E725777A5B9D419AF51BE918C30C  : public RuntimeObject
+struct Dictionary_2_tEB34CAE1B4D0E725777A5B9D419AF51BE918C30C  : public RuntimeObject
 {
 public:
 	// System.Int32[] System.Collections.Generic.Dictionary`2::buckets
@@ -662,7 +662,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -707,7 +707,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
+struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
 {
 public:
 
@@ -724,7 +724,7 @@ struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF_marshaled_com
 };
 
 // UnityEngine.Experimental.TerrainAPI.TerrainCallbacks
-struct  TerrainCallbacks_t5D6C605DD5B2D840575AD8A477DCEDF764BC9AB5  : public RuntimeObject
+struct TerrainCallbacks_t5D6C605DD5B2D840575AD8A477DCEDF764BC9AB5  : public RuntimeObject
 {
 public:
 
@@ -761,7 +761,7 @@ public:
 
 
 // UnityEngine.Experimental.TerrainAPI.TerrainUtility
-struct  TerrainUtility_t82C295A06EAAEA3D755971EBE55084B993C7FC7B  : public RuntimeObject
+struct TerrainUtility_t82C295A06EAAEA3D755971EBE55084B993C7FC7B  : public RuntimeObject
 {
 public:
 
@@ -770,7 +770,7 @@ public:
 
 
 // UnityEngine.Experimental.TerrainAPI.TerrainUtility/<>c__DisplayClass4_0
-struct  U3CU3Ec__DisplayClass4_0_t79B6EBFB785C0608F276376E6D35800FA6574B4A  : public RuntimeObject
+struct U3CU3Ec__DisplayClass4_0_t79B6EBFB785C0608F276376E6D35800FA6574B4A  : public RuntimeObject
 {
 public:
 	// System.Boolean UnityEngine.Experimental.TerrainAPI.TerrainUtility/<>c__DisplayClass4_0::onlyAutoConnectedTerrains
@@ -788,7 +788,7 @@ public:
 
 
 // UnityEngine.Experimental.TerrainAPI.TerrainUtility/<>c__DisplayClass4_1
-struct  U3CU3Ec__DisplayClass4_1_tC63A89C846069E68CAA87EA14D0149555C357407  : public RuntimeObject
+struct U3CU3Ec__DisplayClass4_1_tC63A89C846069E68CAA87EA14D0149555C357407  : public RuntimeObject
 {
 public:
 	// UnityEngine.Terrain UnityEngine.Experimental.TerrainAPI.TerrainUtility/<>c__DisplayClass4_1::t
@@ -818,7 +818,7 @@ public:
 
 
 // UnityEngine.Experimental.TerrainAPI.TerrainUtility/TerrainMap/<>c__DisplayClass4_0
-struct  U3CU3Ec__DisplayClass4_0_t0F8BF12DC466A9414D9AF02F686C301DBAFED002  : public RuntimeObject
+struct U3CU3Ec__DisplayClass4_0_t0F8BF12DC466A9414D9AF02F686C301DBAFED002  : public RuntimeObject
 {
 public:
 	// System.Int32 UnityEngine.Experimental.TerrainAPI.TerrainUtility/TerrainMap/<>c__DisplayClass4_0::groupID
@@ -836,7 +836,7 @@ public:
 
 
 // System.Boolean
-struct  Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
+struct Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -882,7 +882,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Int32,System.Object>
-struct  KeyValuePair_2_t86464C52F9602337EAC68825E6BE06951D7530CE 
+struct KeyValuePair_2_t86464C52F9602337EAC68825E6BE06951D7530CE 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -911,7 +911,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Int32,UnityEngine.Experimental.TerrainAPI.TerrainUtility/TerrainMap>
-struct  KeyValuePair_2_t66F6496942DCFC8D590F8DA04910990C5DA39574 
+struct KeyValuePair_2_t66F6496942DCFC8D590F8DA04910990C5DA39574 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -940,7 +940,7 @@ public:
 
 
 // System.Enum
-struct  Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
+struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521  : public ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF
 {
 public:
 
@@ -974,7 +974,7 @@ struct Enum_t2AF27C02B8653AE29442467390005ABC74D8F521_marshaled_com
 };
 
 // System.Int32
-struct  Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
+struct Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -992,7 +992,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -1026,7 +1026,7 @@ public:
 
 
 // System.Single
-struct  Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
+struct Single_tDDDA9169C4E4E308AC6D7A824F9B28DC82204AE1 
 {
 public:
 	// System.Single System.Single::m_value
@@ -1044,7 +1044,7 @@ public:
 
 
 // System.Void
-struct  Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
+struct Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
 {
 public:
 	union
@@ -1060,7 +1060,7 @@ public:
 
 
 // UnityEngine.Experimental.TerrainAPI.TerrainUtility/TerrainGroups
-struct  TerrainGroups_t88B87E7C8DA6A97E904D74167C43D631796ECBC5  : public Dictionary_2_t651CE851D569289A981D44DC5543BEA956206753
+struct TerrainGroups_t88B87E7C8DA6A97E904D74167C43D631796ECBC5  : public Dictionary_2_t651CE851D569289A981D44DC5543BEA956206753
 {
 public:
 
@@ -1069,7 +1069,7 @@ public:
 
 
 // UnityEngine.Experimental.TerrainAPI.TerrainUtility/TerrainMap/TileCoord
-struct  TileCoord_t51EDF1EA1A3A7F9C1D85C186E7A7954535C225BA 
+struct TileCoord_t51EDF1EA1A3A7F9C1D85C186E7A7954535C225BA 
 {
 public:
 	// System.Int32 UnityEngine.Experimental.TerrainAPI.TerrainUtility/TerrainMap/TileCoord::tileX
@@ -1097,7 +1097,7 @@ public:
 
 
 // UnityEngine.RectInt
-struct  RectInt_t595A63F7EE2BC91A4D2DE5403C5FE94D3C3A6F7A 
+struct RectInt_t595A63F7EE2BC91A4D2DE5403C5FE94D3C3A6F7A 
 {
 public:
 	// System.Int32 UnityEngine.RectInt::m_XMin
@@ -1145,7 +1145,7 @@ public:
 
 
 // UnityEngine.Vector2
-struct  Vector2_tA85D2DD88578276CA8A8796756458277E72D073D 
+struct Vector2_tA85D2DD88578276CA8A8796756458277E72D073D 
 {
 public:
 	// System.Single UnityEngine.Vector2::x
@@ -1259,7 +1259,7 @@ public:
 
 
 // UnityEngine.Vector3
-struct  Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720 
+struct Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720 
 {
 public:
 	// System.Single UnityEngine.Vector3::x
@@ -1403,7 +1403,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/Enumerator<System.Int32,System.Object>
-struct  Enumerator_t9A2E00C583A23B1B5B7D051DF98EBA95FA7174AF 
+struct Enumerator_t9A2E00C583A23B1B5B7D051DF98EBA95FA7174AF 
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/Enumerator::dictionary
@@ -1463,7 +1463,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/Enumerator<System.Int32,UnityEngine.Experimental.TerrainAPI.TerrainUtility/TerrainMap>
-struct  Enumerator_t5CAB4B85782B849B0F05E35FFAED39CF4A78598B 
+struct Enumerator_t5CAB4B85782B849B0F05E35FFAED39CF4A78598B 
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/Enumerator::dictionary
@@ -1523,7 +1523,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/KeyCollection/Enumerator<UnityEngine.Experimental.TerrainAPI.TerrainUtility/TerrainMap/TileCoord,System.Object>
-struct  Enumerator_tEC4F5C6184F5E671D53C872D88266C1500841E16 
+struct Enumerator_tEC4F5C6184F5E671D53C872D88266C1500841E16 
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/KeyCollection/Enumerator::dictionary
@@ -1572,7 +1572,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/KeyCollection/Enumerator<UnityEngine.Experimental.TerrainAPI.TerrainUtility/TerrainMap/TileCoord,UnityEngine.Terrain>
-struct  Enumerator_tC227AD4879B6DF12FD67520BE6891D0106F2A639 
+struct Enumerator_tC227AD4879B6DF12FD67520BE6891D0106F2A639 
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/KeyCollection/Enumerator::dictionary
@@ -1621,7 +1621,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<UnityEngine.Experimental.TerrainAPI.TerrainUtility/TerrainMap/TileCoord,System.Object>
-struct  KeyValuePair_2_t198F3EF99C5CB706B8E678896CA900035FACF342 
+struct KeyValuePair_2_t198F3EF99C5CB706B8E678896CA900035FACF342 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -1650,7 +1650,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<UnityEngine.Experimental.TerrainAPI.TerrainUtility/TerrainMap/TileCoord,UnityEngine.Terrain>
-struct  KeyValuePair_2_t1042B27C0272463F95B4736D997596598DFACDF2 
+struct KeyValuePair_2_t1042B27C0272463F95B4736D997596598DFACDF2 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -1679,7 +1679,7 @@ public:
 
 
 // System.Delegate
-struct  Delegate_t  : public RuntimeObject
+struct Delegate_t  : public RuntimeObject
 {
 public:
 	// System.IntPtr System.Delegate::method_ptr
@@ -1831,7 +1831,7 @@ struct Delegate_t_marshaled_com
 };
 
 // UnityEngine.Experimental.TerrainAPI.TerrainUtility/TerrainMap/ErrorCode
-struct  ErrorCode_tCC2BF2B1CF6C6645A76C1DEE65D4AA4A527FEC7A 
+struct ErrorCode_tCC2BF2B1CF6C6645A76C1DEE65D4AA4A527FEC7A 
 {
 public:
 	// System.Int32 UnityEngine.Experimental.TerrainAPI.TerrainUtility/TerrainMap/ErrorCode::value__
@@ -1849,7 +1849,7 @@ public:
 
 
 // UnityEngine.Object
-struct  Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0  : public RuntimeObject
+struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Object::m_CachedPtr
@@ -1893,7 +1893,7 @@ struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0_marshaled_com
 };
 
 // UnityEngine.TerrainData/BoundaryValueType
-struct  BoundaryValueType_tAD21AC67F7D3AC4FF445A0D6002E7914F07000EA 
+struct BoundaryValueType_tAD21AC67F7D3AC4FF445A0D6002E7914F07000EA 
 {
 public:
 	// System.Int32 UnityEngine.TerrainData/BoundaryValueType::value__
@@ -1911,7 +1911,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/Enumerator<UnityEngine.Experimental.TerrainAPI.TerrainUtility/TerrainMap/TileCoord,System.Object>
-struct  Enumerator_t71B93BE98D0EF45AF866DB4944B21CC1D0957B69 
+struct Enumerator_t71B93BE98D0EF45AF866DB4944B21CC1D0957B69 
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/Enumerator::dictionary
@@ -1971,7 +1971,7 @@ public:
 
 
 // System.Collections.Generic.Dictionary`2/Enumerator<UnityEngine.Experimental.TerrainAPI.TerrainUtility/TerrainMap/TileCoord,UnityEngine.Terrain>
-struct  Enumerator_t29B808F8AC6D4B77DE3720AC4C08C0A71E500BB8 
+struct Enumerator_t29B808F8AC6D4B77DE3720AC4C08C0A71E500BB8 
 {
 public:
 	// System.Collections.Generic.Dictionary`2<TKey,TValue> System.Collections.Generic.Dictionary`2/Enumerator::dictionary
@@ -2031,7 +2031,7 @@ public:
 
 
 // System.MulticastDelegate
-struct  MulticastDelegate_t  : public Delegate_t
+struct MulticastDelegate_t  : public Delegate_t
 {
 public:
 	// System.Delegate[] System.MulticastDelegate::delegates
@@ -2060,7 +2060,7 @@ struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
 };
 
 // UnityEngine.Component
-struct  Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -2069,7 +2069,7 @@ public:
 
 
 // UnityEngine.Experimental.TerrainAPI.TerrainUtility/TerrainMap
-struct  TerrainMap_t8D09DC412F632DAB9EA8FB7A11A34EB7464D547C  : public RuntimeObject
+struct TerrainMap_t8D09DC412F632DAB9EA8FB7A11A34EB7464D547C  : public RuntimeObject
 {
 public:
 	// UnityEngine.Vector3 UnityEngine.Experimental.TerrainAPI.TerrainUtility/TerrainMap::m_patchSize
@@ -2108,7 +2108,7 @@ public:
 
 
 // UnityEngine.TerrainData
-struct  TerrainData_t9D44396901570930AFE428DAC19ABE0C1477CFE2  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct TerrainData_t9D44396901570930AFE428DAC19ABE0C1477CFE2  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -2213,7 +2213,7 @@ public:
 
 
 // System.AsyncCallback
-struct  AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4  : public MulticastDelegate_t
+struct AsyncCallback_t3F3DA3BEDAEE81DD1D24125DF8EB30E85EE14DA4  : public MulticastDelegate_t
 {
 public:
 
@@ -2222,7 +2222,7 @@ public:
 
 
 // UnityEngine.Behaviour
-struct  Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
+struct Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
 {
 public:
 
@@ -2231,7 +2231,7 @@ public:
 
 
 // UnityEngine.Experimental.TerrainAPI.TerrainCallbacks/HeightmapChangedCallback
-struct  HeightmapChangedCallback_t632AB8CCEEA7F63E16056E63E998974C878D1F5D  : public MulticastDelegate_t
+struct HeightmapChangedCallback_t632AB8CCEEA7F63E16056E63E998974C878D1F5D  : public MulticastDelegate_t
 {
 public:
 
@@ -2240,7 +2240,7 @@ public:
 
 
 // UnityEngine.Experimental.TerrainAPI.TerrainCallbacks/TextureChangedCallback
-struct  TextureChangedCallback_tC699198D2EACFE62AE42E8D2F4A7FD8B533A602E  : public MulticastDelegate_t
+struct TextureChangedCallback_tC699198D2EACFE62AE42E8D2F4A7FD8B533A602E  : public MulticastDelegate_t
 {
 public:
 
@@ -2249,7 +2249,7 @@ public:
 
 
 // UnityEngine.Experimental.TerrainAPI.TerrainUtility/TerrainMap/TerrainFilter
-struct  TerrainFilter_t02BF9FBD8E61763D1D8484B34936B36B1046C66B  : public MulticastDelegate_t
+struct TerrainFilter_t02BF9FBD8E61763D1D8484B34936B36B1046C66B  : public MulticastDelegate_t
 {
 public:
 
@@ -2258,7 +2258,7 @@ public:
 
 
 // UnityEngine.Transform
-struct  Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
+struct Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
 {
 public:
 
@@ -2267,7 +2267,7 @@ public:
 
 
 // UnityEngine.Terrain
-struct  Terrain_t0BF7371FA90643325F50A87C7894D7BEBBE08943  : public Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8
+struct Terrain_t0BF7371FA90643325F50A87C7894D7BEBBE08943  : public Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8
 {
 public:
 

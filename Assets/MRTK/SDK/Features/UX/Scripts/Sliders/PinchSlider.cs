@@ -14,6 +14,8 @@ namespace Microsoft.MixedReality.Toolkit.UI
     [AddComponentMenu("Scripts/MRTK/SDK/PinchSlider")]
     public class PinchSlider : MonoBehaviour, IMixedRealityPointerHandler, IMixedRealityFocusHandler
     {
+        
+
         #region Serialized Fields and Public Properties
         [Tooltip("The gameObject that contains the slider thumb.")]
         [SerializeField]
@@ -31,7 +33,7 @@ namespace Microsoft.MixedReality.Toolkit.UI
             }
         }
 
-        [Range(0, 1)]
+        [Range(0.0f, 1.0f)]
         [SerializeField]
         private float sliderValue = 0.5f;
         public float SliderValue
@@ -41,6 +43,7 @@ namespace Microsoft.MixedReality.Toolkit.UI
             {
                 var oldSliderValue = sliderValue;
                 sliderValue = value;
+
                 UpdateUI();
                 OnValueUpdated.Invoke(new SliderEventData(oldSliderValue, value, ActivePointer, this));
             }

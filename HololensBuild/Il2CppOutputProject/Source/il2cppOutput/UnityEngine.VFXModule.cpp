@@ -74,7 +74,7 @@ IL2CPP_EXTERN_C_END
 #endif
 
 // <Module>
-struct  U3CModuleU3E_tAF0352AF459FC6ADDA335387111E96B1480224D6 
+struct U3CModuleU3E_tAF0352AF459FC6ADDA335387111E96B1480224D6 
 {
 public:
 
@@ -90,7 +90,7 @@ struct Il2CppArrayBounds;
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -135,7 +135,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
+struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
 {
 public:
 
@@ -152,7 +152,7 @@ struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF_marshaled_com
 };
 
 // UnityEngine.VFX.VFXExpressionMesh
-struct  VFXExpressionMesh_t17FABA186DCEEA7505F574275DA0AF467A6F8752  : public RuntimeObject
+struct VFXExpressionMesh_t17FABA186DCEEA7505F574275DA0AF467A6F8752  : public RuntimeObject
 {
 public:
 
@@ -161,7 +161,7 @@ public:
 
 
 // UnityEngine.VFX.VFXExpressionNoise
-struct  VFXExpressionNoise_t01EC9A40FF530C771969EA6F5358ADB631645DA0  : public RuntimeObject
+struct VFXExpressionNoise_t01EC9A40FF530C771969EA6F5358ADB631645DA0  : public RuntimeObject
 {
 public:
 
@@ -170,7 +170,7 @@ public:
 
 
 // UnityEngine.VFX.VFXManager
-struct  VFXManager_t22C54B4AD42EBFACB95BB2FB335EE3CD52BF66CB  : public RuntimeObject
+struct VFXManager_t22C54B4AD42EBFACB95BB2FB335EE3CD52BF66CB  : public RuntimeObject
 {
 public:
 
@@ -179,7 +179,7 @@ public:
 
 
 // System.Boolean
-struct  Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
+struct Boolean_tB53F6830F670160873277339AA58F15CAED4399C 
 {
 public:
 	// System.Boolean System.Boolean::m_value
@@ -225,7 +225,7 @@ public:
 
 
 // System.Int32
-struct  Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
+struct Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -243,7 +243,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -277,7 +277,7 @@ public:
 
 
 // System.Void
-struct  Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
+struct Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
 {
 public:
 	union
@@ -293,7 +293,7 @@ public:
 
 
 // System.Exception
-struct  Exception_t  : public RuntimeObject
+struct Exception_t  : public RuntimeObject
 {
 public:
 	// System.String System.Exception::_className
@@ -519,7 +519,7 @@ struct Exception_t_marshaled_com
 };
 
 // UnityEngine.Object
-struct  Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0  : public RuntimeObject
+struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.Object::m_CachedPtr
@@ -563,7 +563,7 @@ struct Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0_marshaled_com
 };
 
 // UnityEngine.VFX.VFXEventAttribute
-struct  VFXEventAttribute_t4117D991C450BE1123D8B0CAAB16D82A26D4248C  : public RuntimeObject
+struct VFXEventAttribute_t4117D991C450BE1123D8B0CAAB16D82A26D4248C  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.VFX.VFXEventAttribute::m_Ptr
@@ -616,7 +616,7 @@ struct VFXEventAttribute_t4117D991C450BE1123D8B0CAAB16D82A26D4248C_marshaled_com
 };
 
 // UnityEngine.VFX.VFXExpressionValues
-struct  VFXExpressionValues_t7854A335E4F80432A68C04735531E62674C75E5D  : public RuntimeObject
+struct VFXExpressionValues_t7854A335E4F80432A68C04735531E62674C75E5D  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.VFX.VFXExpressionValues::m_Ptr
@@ -644,7 +644,7 @@ struct VFXExpressionValues_t7854A335E4F80432A68C04735531E62674C75E5D_marshaled_c
 };
 
 // UnityEngine.VFX.VFXSpawnerState
-struct  VFXSpawnerState_t8C5A3DE67F38AF6EC5A63494321BBFF177CC8523  : public RuntimeObject
+struct VFXSpawnerState_t8C5A3DE67F38AF6EC5A63494321BBFF177CC8523  : public RuntimeObject
 {
 public:
 	// System.IntPtr UnityEngine.VFX.VFXSpawnerState::m_Ptr
@@ -684,7 +684,7 @@ struct VFXSpawnerState_t8C5A3DE67F38AF6EC5A63494321BBFF177CC8523_marshaled_com
 };
 
 // UnityEngine.Component
-struct  Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -693,7 +693,7 @@ public:
 
 
 // UnityEngine.ScriptableObject
-struct  ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -710,7 +710,7 @@ struct ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734_marshaled_com 
 };
 
 // UnityEngine.VFX.VisualEffectObject
-struct  VisualEffectObject_t36CE2FEEF0380228894803F3367489C6481C4E12  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
+struct VisualEffectObject_t36CE2FEEF0380228894803F3367489C6481C4E12  : public Object_tAE11E5E46CD5C37C9F3E8950C00CD8B45666A2D0
 {
 public:
 
@@ -719,7 +719,7 @@ public:
 
 
 // UnityEngine.Behaviour
-struct  Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
+struct Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8  : public Component_t05064EF382ABCAF4B8C94F8A350EA85184C26621
 {
 public:
 
@@ -728,7 +728,7 @@ public:
 
 
 // UnityEngine.VFX.VFXSpawnerCallbacks
-struct  VFXSpawnerCallbacks_t695FBEFCBBDCDF128592B0356CA3380990A3E71F  : public ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734
+struct VFXSpawnerCallbacks_t695FBEFCBBDCDF128592B0356CA3380990A3E71F  : public ScriptableObject_tAB015486CEAB714DA0D5C1BA389B84FB90427734
 {
 public:
 
@@ -737,7 +737,7 @@ public:
 
 
 // UnityEngine.VFX.VisualEffectAsset
-struct  VisualEffectAsset_t5AFD0DCFBEC1A30C6D83E8C8D6D1AB92A88236D3  : public VisualEffectObject_t36CE2FEEF0380228894803F3367489C6481C4E12
+struct VisualEffectAsset_t5AFD0DCFBEC1A30C6D83E8C8D6D1AB92A88236D3  : public VisualEffectObject_t36CE2FEEF0380228894803F3367489C6481C4E12
 {
 public:
 
@@ -772,7 +772,7 @@ public:
 
 
 // UnityEngine.VFX.VisualEffect
-struct  VisualEffect_tAFAFB4FCDB9E7334D208213F870FD523973B3CF0  : public Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8
+struct VisualEffect_tAFAFB4FCDB9E7334D208213F870FD523973B3CF0  : public Behaviour_tBDC7E9C3C898AD8348891B82D3E345801D920CA8
 {
 public:
 

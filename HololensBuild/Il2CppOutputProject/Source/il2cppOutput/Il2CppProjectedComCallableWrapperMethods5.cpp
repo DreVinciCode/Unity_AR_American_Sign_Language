@@ -1881,7 +1881,7 @@ struct NOVTABLE IVector_1_t67C572CB7AE45D25368EE1BD2FDC4FBD336F2E6E : Il2CppIIns
 };
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IDictionary`2<System.Object,System.Object>>
-struct  ReadOnlyCollection_1_t334178FA78B93CEE5E758FF723C591338AE58ABA  : public RuntimeObject
+struct ReadOnlyCollection_1_t334178FA78B93CEE5E758FF723C591338AE58ABA  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1911,7 +1911,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IEnumerable`1<System.Collections.Generic.IEnumerable`1<System.Char>>>
-struct  ReadOnlyCollection_1_t6ABA177E4FFE0A187B23C4304A00F905F976B811  : public RuntimeObject
+struct ReadOnlyCollection_1_t6ABA177E4FFE0A187B23C4304A00F905F976B811  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1941,7 +1941,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IEnumerable`1<System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>>>
-struct  ReadOnlyCollection_1_tEA3465F130804DBEF6E1ACDC175818BAE01EAC0B  : public RuntimeObject
+struct ReadOnlyCollection_1_tEA3465F130804DBEF6E1ACDC175818BAE01EAC0B  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -1971,7 +1971,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IEnumerable`1<System.Collections.IEnumerable>>
-struct  ReadOnlyCollection_1_t36F8A6C983E3CF40ECF5E67A7BBEB696FF375B19  : public RuntimeObject
+struct ReadOnlyCollection_1_t36F8A6C983E3CF40ECF5E67A7BBEB696FF375B19  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2001,7 +2001,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IEnumerable`1<System.String>>
-struct  ReadOnlyCollection_1_t2D58CF26DD7608EF11F9E7F3C6DCEA7A9EB33650  : public RuntimeObject
+struct ReadOnlyCollection_1_t2D58CF26DD7608EF11F9E7F3C6DCEA7A9EB33650  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2031,7 +2031,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IList`1<System.Collections.IEnumerable>>
-struct  ReadOnlyCollection_1_t0F203E0732A6FA555D7B587FD08B39C500C5D171  : public RuntimeObject
+struct ReadOnlyCollection_1_t0F203E0732A6FA555D7B587FD08B39C500C5D171  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2061,7 +2061,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IList`1<System.String>>
-struct  ReadOnlyCollection_1_t6C9546D4C6A38AAC59A6DD314F907E6F543CB43B  : public RuntimeObject
+struct ReadOnlyCollection_1_t6C9546D4C6A38AAC59A6DD314F907E6F543CB43B  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2091,7 +2091,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IReadOnlyDictionary`2<System.Object,System.Object>>
-struct  ReadOnlyCollection_1_t9897AE3A1E5115F747A5CAADA2AB62CFD6F14CA0  : public RuntimeObject
+struct ReadOnlyCollection_1_t9897AE3A1E5115F747A5CAADA2AB62CFD6F14CA0  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2121,7 +2121,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IReadOnlyList`1<System.Collections.Generic.IEnumerable`1<System.Char>>>
-struct  ReadOnlyCollection_1_t050D3A2D7852ABDCFB400C05B5F3FDEBC653D20D  : public RuntimeObject
+struct ReadOnlyCollection_1_t050D3A2D7852ABDCFB400C05B5F3FDEBC653D20D  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2151,7 +2151,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IReadOnlyList`1<System.Collections.IEnumerable>>
-struct  ReadOnlyCollection_1_t1C6B27A4B9548D3832EDE8ED45E28AF6962F1DE7  : public RuntimeObject
+struct ReadOnlyCollection_1_t1C6B27A4B9548D3832EDE8ED45E28AF6962F1DE7  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2181,7 +2181,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.IReadOnlyList`1<System.String>>
-struct  ReadOnlyCollection_1_t0A43E6E769EE490DCBCF16AB2BDF5B7FB01EF450  : public RuntimeObject
+struct ReadOnlyCollection_1_t0A43E6E769EE490DCBCF16AB2BDF5B7FB01EF450  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2211,7 +2211,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.KeyValuePair`2<System.Int32,System.Boolean>>
-struct  ReadOnlyCollection_1_t90C665B25D79C817CC929AE1762C3C78753733B6  : public RuntimeObject
+struct ReadOnlyCollection_1_t90C665B25D79C817CC929AE1762C3C78753733B6  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2241,7 +2241,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.KeyValuePair`2<System.Int32,System.Char>>
-struct  ReadOnlyCollection_1_t1EE08DCFD368487ABE0D56AF35308343066C9298  : public RuntimeObject
+struct ReadOnlyCollection_1_t1EE08DCFD368487ABE0D56AF35308343066C9298  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2271,7 +2271,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.KeyValuePair`2<System.Int32,System.Int64>>
-struct  ReadOnlyCollection_1_tF2649E4419E981CF9B8DF3F7861CE08EA10A992C  : public RuntimeObject
+struct ReadOnlyCollection_1_tF2649E4419E981CF9B8DF3F7861CE08EA10A992C  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2301,7 +2301,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.KeyValuePair`2<System.Int32,System.UInt32>>
-struct  ReadOnlyCollection_1_t68414240D847308E2CD968D5A1984B999649CCFC  : public RuntimeObject
+struct ReadOnlyCollection_1_t68414240D847308E2CD968D5A1984B999649CCFC  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2331,7 +2331,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.KeyValuePair`2<System.String,System.UInt32>>
-struct  ReadOnlyCollection_1_t44A96B4081B25DAED770A9738239DA9CF6111C80  : public RuntimeObject
+struct ReadOnlyCollection_1_t44A96B4081B25DAED770A9738239DA9CF6111C80  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2361,7 +2361,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.KeyValuePair`2<System.UInt32,System.Boolean>>
-struct  ReadOnlyCollection_1_t487F3ACB324E0B58E56087BE2672030721436EDA  : public RuntimeObject
+struct ReadOnlyCollection_1_t487F3ACB324E0B58E56087BE2672030721436EDA  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2391,7 +2391,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyCollection`1<System.Collections.Generic.KeyValuePair`2<System.UInt32,System.Int32>>
-struct  ReadOnlyCollection_1_t08D81A3BDCBF50FEA1286EE73916187C126E0A26  : public RuntimeObject
+struct ReadOnlyCollection_1_t08D81A3BDCBF50FEA1286EE73916187C126E0A26  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IList`1<T> System.Collections.ObjectModel.ReadOnlyCollection`1::list
@@ -2421,7 +2421,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyDictionary`2<System.Object,System.Object>
-struct  ReadOnlyDictionary_2_t9AB03C58D299BE81D151A5B23097049F7106820C  : public RuntimeObject
+struct ReadOnlyDictionary_2_t9AB03C58D299BE81D151A5B23097049F7106820C  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IDictionary`2<TKey,TValue> System.Collections.ObjectModel.ReadOnlyDictionary`2::m_dictionary
@@ -2473,7 +2473,7 @@ public:
 
 
 // System.Collections.ObjectModel.ReadOnlyDictionary`2<System.String,System.String>
-struct  ReadOnlyDictionary_2_t29543C8C3288540849751E93624E1C8FD5AF5DDE  : public RuntimeObject
+struct ReadOnlyDictionary_2_t29543C8C3288540849751E93624E1C8FD5AF5DDE  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.IDictionary`2<TKey,TValue> System.Collections.ObjectModel.ReadOnlyDictionary`2::m_dictionary
@@ -2525,7 +2525,7 @@ public:
 
 
 // System.Runtime.InteropServices.WindowsRuntime.ConstantSplittableMap`2<System.Object,System.Object>
-struct  ConstantSplittableMap_2_tE7E5F2F8397EB337E88FAA6E83401819DD282B8B  : public RuntimeObject
+struct ConstantSplittableMap_2_tE7E5F2F8397EB337E88FAA6E83401819DD282B8B  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.KeyValuePair`2<TKey,TValue>[] System.Runtime.InteropServices.WindowsRuntime.ConstantSplittableMap`2::items
@@ -2581,7 +2581,7 @@ public:
 
 
 // System.Runtime.InteropServices.WindowsRuntime.ConstantSplittableMap`2<System.String,System.String>
-struct  ConstantSplittableMap_2_t313F3CA92D8209C78622C634234C3D64B1C151E8  : public RuntimeObject
+struct ConstantSplittableMap_2_t313F3CA92D8209C78622C634234C3D64B1C151E8  : public RuntimeObject
 {
 public:
 	// System.Collections.Generic.KeyValuePair`2<TKey,TValue>[] System.Runtime.InteropServices.WindowsRuntime.ConstantSplittableMap`2::items
@@ -2637,7 +2637,7 @@ public:
 
 
 // System.String
-struct  String_t  : public RuntimeObject
+struct String_t  : public RuntimeObject
 {
 public:
 	// System.Int32 System.String::m_stringLength
@@ -2682,7 +2682,7 @@ public:
 
 
 // System.ValueType
-struct  ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
+struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF  : public RuntimeObject
 {
 public:
 
@@ -2699,7 +2699,7 @@ struct ValueType_t4D0C27076F7C36E76190FB3328E232BCB1CD1FFF_marshaled_com
 };
 
 // System.Collections.Generic.KeyValuePair`2<System.Int32,System.Boolean>
-struct  KeyValuePair_2_t411E4248A20D0FDB15190B13EA12EBCB69500C82 
+struct KeyValuePair_2_t411E4248A20D0FDB15190B13EA12EBCB69500C82 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -2727,7 +2727,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Int32,System.Char>
-struct  KeyValuePair_2_t13BE4DA362E151A60E59C414DB8A5C61F4A1B30F 
+struct KeyValuePair_2_t13BE4DA362E151A60E59C414DB8A5C61F4A1B30F 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -2755,7 +2755,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Int32,System.Int32>
-struct  KeyValuePair_2_tA9AFBC865B07606ED8F020A8E3AF8E27491AF809 
+struct KeyValuePair_2_tA9AFBC865B07606ED8F020A8E3AF8E27491AF809 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -2783,7 +2783,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Int32,System.Int64>
-struct  KeyValuePair_2_t7C4859F20ECDF8EEA530886FE8ADEE363F117FB5 
+struct KeyValuePair_2_t7C4859F20ECDF8EEA530886FE8ADEE363F117FB5 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -2811,7 +2811,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Int32,System.UInt32>
-struct  KeyValuePair_2_tEE8C58367BC77CCC649F893DF7CB813C6B5C1AB4 
+struct KeyValuePair_2_tEE8C58367BC77CCC649F893DF7CB813C6B5C1AB4 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -2839,7 +2839,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.Object,System.Object>
-struct  KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE 
+struct KeyValuePair_2_t23481547E419E16E3B96A303578C1EB685C99EEE 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -2869,7 +2869,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.String,System.UInt32>
-struct  KeyValuePair_2_tAC577F2B0C883BC99D07632DC85220790DA0DCF1 
+struct KeyValuePair_2_tAC577F2B0C883BC99D07632DC85220790DA0DCF1 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -2898,7 +2898,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.UInt32,System.Boolean>
-struct  KeyValuePair_2_t4924C8EC65AAF8D242A28DB259AE14F25055A7EE 
+struct KeyValuePair_2_t4924C8EC65AAF8D242A28DB259AE14F25055A7EE 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -2926,7 +2926,7 @@ public:
 
 
 // System.Collections.Generic.KeyValuePair`2<System.UInt32,System.Int32>
-struct  KeyValuePair_2_tE6C1358EE7D1267190A395EAC9AEA64A81377D2C 
+struct KeyValuePair_2_tE6C1358EE7D1267190A395EAC9AEA64A81377D2C 
 {
 public:
 	// TKey System.Collections.Generic.KeyValuePair`2::key
@@ -2954,7 +2954,7 @@ public:
 
 
 // System.Int32
-struct  Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
+struct Int32_t585191389E07734F19F3156FF88FB3EF4800D102 
 {
 public:
 	// System.Int32 System.Int32::m_value
@@ -2972,7 +2972,7 @@ public:
 
 
 // System.IntPtr
-struct  IntPtr_t 
+struct IntPtr_t 
 {
 public:
 	// System.Void* System.IntPtr::m_value
@@ -3006,7 +3006,7 @@ public:
 
 
 // System.UInt32
-struct  UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
+struct UInt32_t4980FA09003AFAAB5A6E361BA2748EA9A005709B 
 {
 public:
 	// System.UInt32 System.UInt32::m_value
@@ -3024,7 +3024,7 @@ public:
 
 
 // System.Void
-struct  Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
+struct Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017 
 {
 public:
 	union
@@ -3040,7 +3040,7 @@ public:
 
 
 // System.Exception
-struct  Exception_t  : public RuntimeObject
+struct Exception_t  : public RuntimeObject
 {
 public:
 	// System.String System.Exception::_className
@@ -3266,7 +3266,7 @@ struct Exception_t_marshaled_com
 };
 
 // System.SystemException
-struct  SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
+struct SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782  : public Exception_t
 {
 public:
 
@@ -3275,7 +3275,7 @@ public:
 
 
 // System.ArgumentException
-struct  ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 	// System.String System.ArgumentException::m_paramName
@@ -3294,7 +3294,7 @@ public:
 
 
 // System.Collections.Generic.KeyNotFoundException
-struct  KeyNotFoundException_tC28F8B9E114291001A5D135723673C6F292438E2  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct KeyNotFoundException_tC28F8B9E114291001A5D135723673C6F292438E2  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -3303,7 +3303,7 @@ public:
 
 
 // System.InvalidOperationException
-struct  InvalidOperationException_t0530E734D823F78310CAFAFA424CA5164D93A1F1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
+struct InvalidOperationException_t0530E734D823F78310CAFAFA424CA5164D93A1F1  : public SystemException_t5380468142AA850BE4A341D7AF3EAB9C78746782
 {
 public:
 
@@ -3312,7 +3312,7 @@ public:
 
 
 // System.ArgumentOutOfRangeException
-struct  ArgumentOutOfRangeException_t94D19DF918A54511AEDF4784C9A08741BAD1DEDA  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
+struct ArgumentOutOfRangeException_t94D19DF918A54511AEDF4784C9A08741BAD1DEDA  : public ArgumentException_tEDCD16F20A09ECE461C3DA766C16EDA8864057D1
 {
 public:
 	// System.Object System.ArgumentOutOfRangeException::m_actualValue
