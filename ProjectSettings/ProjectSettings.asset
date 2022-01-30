@@ -125,9 +125,7 @@ PlayerSettings:
     16:9: 1
     Others: 1
   bundleVersion: 0.1
-  preloadedAssets:
-  - {fileID: -405097041161425529, guid: 49fa509c26466e54e8254a90523c5933, type: 2}
-  - {fileID: 2490323255992583554, guid: f072458ac74077440b99e4b028ecd238, type: 2}
+  preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -331,7 +329,8 @@ PlayerSettings:
   m_BuildTargetVRSettings:
   - m_BuildTarget: Standalone
     m_Enabled: 0
-    m_Devices: []
+    m_Devices:
+    - None
   - m_BuildTarget: Windows Store Apps
     m_Enabled: 0
     m_Devices: []

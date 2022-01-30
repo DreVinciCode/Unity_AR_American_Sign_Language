@@ -66,7 +66,11 @@ EditorBuildSettings:
     path: Assets/MRTK/Examples/Demos/Solvers/Scenes/SurfaceMagnetismSpatialAwarenessExample.unity
     guid: 8feae87497f549c4e8dc08a6e4b7b15c
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: b80d506ee04ec9043986b81e9e5c9a03,
+      type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 49fa509c26466e54e8254a90523c5933,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f072458ac74077440b99e4b028ecd238,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: a832bbc562d92c3498578c6aaa34006c,
       type: 2}

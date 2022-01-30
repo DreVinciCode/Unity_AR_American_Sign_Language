@@ -7,8 +7,8 @@
     ],
     "m_SettingValues": [
         "True",
-        "False",
         "True",
-        "WSA"
+        "True",
+        "Standalone,WSA"
     ]
 }
