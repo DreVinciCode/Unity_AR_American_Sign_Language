@@ -310,7 +310,7 @@ static const Il2CppTokenRangePair s_rgctxIndices[2] =
 };
 static const Il2CppRGCTXDefinition s_rgctxValues[2] = 
 {
-	{ (Il2CppRGCTXDataType)2, 54106 },
+	{ (Il2CppRGCTXDataType)2, 54107 },
 	{ (Il2CppRGCTXDataType)3, 53553 },
 };
 extern const Il2CppCodeGenModule g_Microsoft_MixedReality_Toolkit_Providers_XRSDKCodeGenModule;
